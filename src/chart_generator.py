@@ -86,17 +86,19 @@ class ChartGenerator:
         mc = mpf.make_marketcolors(up='red', down='green', edge='inherit', wick='inherit', volume='in', inherit=True)
         s = mpf.make_mpf_style(base_mpf_style='charles', marketcolors=mc, gridstyle='--', y_on_right=False)
         
-        # Prepare figure
+        # Prepare figure with explicit font family
         fig, axes = mpf.plot(df, type='candle', style=s, 
                            volume=True, returnfig=True, figsize=(12, 8), 
-                           datetime_format='%Y/%m', xrotation=0) 
+                           datetime_format='%Y/%m', xrotation=0,
+                           fontfamily='IPAexGothic') 
         
         ax1 = axes[0]
-        ax1.set_title(title, fontsize=28, fontweight='bold', pad=50)
+        # Explicitly set font on title and text as well
+        ax1.set_title(title, fontsize=28, fontweight='bold', pad=50, fontname='IPAexGothic')
         
         if subtitle:
             ax1.text(0, 1.08, f"開始時期: {subtitle}", transform=ax1.transAxes, 
-                    ha='left', fontsize=20, color='#D32F2F', fontweight='bold')
+                    ha='left', fontsize=20, color='#D32F2F', fontweight='bold', fontname='IPAexGothic')
 
         # Formatting
         ax1.tick_params(axis='both', which='major', labelsize=18)
