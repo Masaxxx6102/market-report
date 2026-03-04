@@ -152,14 +152,26 @@ def run_report():
         recipients = email_data.get("recipients", [])
         subject = email_data.get("subject_template", "Daily Market Report {date}").format(date=datetime.now().strftime("%Y-%m-%d"))
         
+        logger.info(f"Targeting {len(recipients)} recipients: {recipients}")
+        if not report_path:
+            logger.error("Report path is empty. Report generation might have failed internally.")
+        
         if report_path and recipients:
+            logger.info(f"Attempting to send email with attachment: {report_path}")
             email_sender = GmailSender()
-            email_sender.send_report(
+            success = email_sender.send_report(
                 to_emails=recipients,
                 subject=subject,
                 body="本日のマーケットレポートを添付いたします。",
                 attachment_path=report_path
             )
+            if success:
+                logger.info("Email delivery triggered successfully.")
+            else:
+                logger.error("Email delivery failed at the sender level.")
+        else:
+            logger.warning(f"Skipping email send. Path exists: {bool(report_path)}, Recipients count: {len(recipients)}")
+        
         logger.info("Process completed successfully.")
     except Exception as e:
         logger.exception(f"Error: {e}")
