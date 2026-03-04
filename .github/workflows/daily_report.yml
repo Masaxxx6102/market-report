@@ -3,7 +3,7 @@ name: Daily Market Report Automation
 on:
   schedule:
     # 16:42 JST is 07:42 UTC
-    - cron: '42 7 * * *'
+    - cron: '40 9 * * *'
   workflow_dispatch: # Allows manual trigger
 
 jobs:
