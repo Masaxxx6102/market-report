@@ -25,7 +25,14 @@ class GmailSender:
     def _authenticate(self):
         creds = None
         if os.path.exists(self.token_path):
-            creds = Credentials.from_authorized_user_file(self.token_path, SCOPES)
+            if os.path.getsize(self.token_path) == 0:
+                logger.error(f"Gmail token file {self.token_path} is empty. Please verify GMAIL_TOKEN_JSON secret in GitHub.")
+                return None
+            try:
+                creds = Credentials.from_authorized_user_file(self.token_path, SCOPES)
+            except Exception as e:
+                logger.error(f"Failed to load Gmail token from {self.token_path}: {e}. Check if the JSON is valid.")
+                return None
         
         if not creds or not creds.valid:
             if creds and creds.expired and creds.refresh_token:
