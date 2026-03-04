@@ -11,3 +11,4 @@ tenacity
 yfinance
 certifi
 google-generativeai
+japanize-matplotlib

@@ -5,6 +5,7 @@ import os
 import mplfinance as mpf
 from datetime import datetime
 from typing import List, Dict, Any
+import japanize_matplotlib
 from .fmp_provider import StockDataProvider
 from .logger_setup import logger
 
