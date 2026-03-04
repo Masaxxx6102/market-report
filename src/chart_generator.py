@@ -83,7 +83,8 @@ class ChartGenerator:
         # Explicitly set the font to the one provided by japanize-matplotlib
         plt.rcParams['font.family'] = 'IPAexGothic'
         
-        # Prepare style with explicit Japanese font family
+        # Prepare style with market colors and explicit Japanese font family
+        mc = mpf.make_marketcolors(up='red', down='green', edge='inherit', wick='inherit', volume='in', inherit=True)
         s = mpf.make_mpf_style(base_mpf_style='charles', marketcolors=mc, gridstyle='--', 
                              y_on_right=False, rc={'font.family': 'IPAexGothic'})
         
