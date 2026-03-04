@@ -9,10 +9,13 @@ class Config:
 
     def _load_config(self):
         if not os.path.exists(self.config_path):
-            raise FileNotFoundError(f"Config file not found at {self.config_path}")
+            # In GitHub Actions, we might not have a config.yaml
+            # We'll rely on environment variables instead.
+            return {}
         
         with open(self.config_path, "r", encoding="utf-8") as f:
-            return yaml.safe_load(f)
+            data = yaml.safe_load(f)
+            return data if data else {}
 
     @property
     def api_keys(self):
@@ -39,7 +42,17 @@ class Config:
 
     @property
     def indices(self):
-        return self.data.get("indices", [])
+        default_indices = [
+            {"symbol": "^N225", "name": "日経平均", "source": "yfinance"},
+            {"symbol": "TOPIX", "name": "TOPIX", "source": "yfinance", "skip_chart": True},
+            {"symbol": "^GSPC", "name": "S&P500", "source": "fmp"},
+            {"symbol": "^IXIC", "name": "NASDAQ", "source": "fmp"},
+            {"symbol": "^DJI", "name": "DOW", "source": "fmp"},
+            {"symbol": "^GDAXI", "name": "DAX", "source": "fmp"},
+            {"symbol": "^FTSE", "name": "FTSE100", "source": "fmp"},
+            {"symbol": "^STOXX", "name": "STOXX600", "source": "fmp"}
+        ]
+        return self.data.get("indices", default_indices)
 
     @property
     def organization(self):

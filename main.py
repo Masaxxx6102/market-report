@@ -2,17 +2,23 @@ import os
 import shutil
 import certifi
 
-# Workaround for Unicode paths in SSL certificates (curl_cffi issue)
-safe_cert_path = "C:/Users/Public/cacert.pem"
-try:
-    shutil.copy(certifi.where(), safe_cert_path)
-    os.environ['CURL_CA_BUNDLE'] = safe_cert_path
-    os.environ['SSL_CERT_FILE'] = safe_cert_path
-    os.environ['REQUESTS_CA_BUNDLE'] = safe_cert_path
-except Exception:
-    # Fallback if Public folder is not writable
-    os.environ['CURL_CA_BUNDLE'] = ""
-    os.environ['SSL_CERT_FILE'] = ""
+import platform
+
+# Workaround for Unicode paths in SSL certificates (Windows only)
+if platform.system() == "Windows":
+    safe_cert_path = "C:/Users/Public/cacert.pem"
+    try:
+        import shutil
+        import certifi
+        shutil.copy(certifi.where(), safe_cert_path)
+        os.environ['CURL_CA_BUNDLE'] = safe_cert_path
+        os.environ['SSL_CERT_FILE'] = safe_cert_path
+        os.environ['REQUESTS_CA_BUNDLE'] = safe_cert_path
+    except Exception:
+        pass
+else:
+    # Linux/GitHub Actions environment - certificates are usually standard
+    os.environ['PYTHONHTTPSVERIFY'] = '1' # Standard verification
 
 os.environ['PYTHONHTTPSVERIFY'] = '0'
 import sys
