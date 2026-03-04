@@ -15,6 +15,8 @@ class WatchlistManager:
 
     def __init__(self, provider: FMPProvider):
         self.provider = provider
+        # Ensure data directory exists
+        os.makedirs(os.path.dirname(self.WATCHLIST_PATH), exist_ok=True)
         self.data = self._load_cache()
 
     def _load_cache(self) -> Dict[str, Any]:

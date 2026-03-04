@@ -20,8 +20,8 @@ class ChartGenerator:
             os.makedirs(self.CHART_DIR)
         
         # Professional settings with robust Japanese font fallback to prevent mojibake
-        # Meiryo is extremely stable on modern Windows
-        self.jp_fonts = ['Meiryo', 'MS Gothic', 'Yu Gothic', 'Hiragino Sans', 'IPAexGothic', 'Noto Sans JP', 'sans-serif']
+        # List of Japanese fonts to try (Windows, Mac, Linux)
+        self.jp_fonts = ['Meiryo', 'MS Gothic', 'Hiragino Sans', 'AppleGothic', 'IPAGothic', 'IPAMincho', 'IPAexGothic', 'DejaVu Sans', 'Noto Sans JP', 'sans-serif']
         plt.rcParams['font.sans-serif'] = self.jp_fonts
         plt.rcParams['axes.unicode_minus'] = False
 
