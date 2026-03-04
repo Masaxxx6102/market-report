@@ -3,8 +3,8 @@ name: Daily Market Report Automation
 on:
   schedule:
     # 18:37 JST is 09:37 UTC
-    - cron: '10 10 * * *'
-  workflow_dispatch:
+    - cron: '37 9 * * *'
+  workflow_dispatch: # 手動で [Run workflow] を押して実行できるようにする設定
 
 jobs:
   build:
