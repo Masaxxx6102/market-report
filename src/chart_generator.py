@@ -19,9 +19,14 @@ class ChartGenerator:
         if not os.path.exists(self.CHART_DIR):
             os.makedirs(self.CHART_DIR)
         
-        # Professional settings with robust Japanese font fallback to prevent mojibake
-        # List of Japanese fonts to try (Windows, Mac, Linux)
-        self.jp_fonts = ['Meiryo', 'MS Gothic', 'Hiragino Sans', 'AppleGothic', 'IPAGothic', 'IPAMincho', 'IPAexGothic', 'DejaVu Sans', 'Noto Sans JP', 'sans-serif']
+        import platform
+        # Professional settings with robust Japanese font fallback
+        if platform.system() == "Windows":
+            self.jp_fonts = ['Meiryo', 'MS Gothic', 'Yu Gothic', 'Hiragino Sans', 'sans-serif']
+        else:
+            # Linux (GitHub Actions) prioritization
+            self.jp_fonts = ['IPAGothic', 'IPAMincho', 'IPAexGothic', 'Noto Sans JP', 'Meiryo', 'MS Gothic', 'sans-serif']
+            
         plt.rcParams['font.sans-serif'] = self.jp_fonts
         plt.rcParams['axes.unicode_minus'] = False
 
@@ -91,9 +96,6 @@ class ChartGenerator:
         """
         Internal method to plot candlestick charts using mplfinance.
         """
-        # Identify available font to use for explicit setting
-        active_font = self.jp_fonts[0] # Default to Meiryo
-
         # Customize style: professional dark/grid
         mc = mpf.make_marketcolors(up='red', down='green', edge='inherit', wick='inherit', volume='in', inherit=True)
         s = mpf.make_mpf_style(base_mpf_style='charles', marketcolors=mc, gridstyle='--', y_on_right=False)
@@ -105,13 +107,15 @@ class ChartGenerator:
         
         # Title and explicit start date label
         ax1 = axes[0]
-        # Explicitly setting fontname can sometimes bypass rcParams issues
-        ax1.set_title(title, fontsize=28, fontweight='bold', pad=50, fontname=active_font)
+        
+        # Use the first available font from our list for the title/text if possible,
+        # otherwise let matplotlib fallback.
+        ax1.set_title(title, fontsize=28, fontweight='bold', pad=50)
         
         if subtitle:
             # Use red/bold for the start date to make it super clear
             ax1.text(0, 1.08, f"開始時期: {subtitle}", transform=ax1.transAxes, 
-                    ha='left', fontsize=20, color='#D32F2F', fontweight='bold', fontname=active_font)
+                    ha='left', fontsize=20, color='#D32F2F', fontweight='bold')
 
         # Formatting: Significantly larger ticks for readability
         ax1.tick_params(axis='both', which='major', labelsize=18)
