@@ -11,7 +11,6 @@ email:
   sender: "mitamura@forcus.inc"
   recipients:
     - "mitamura@forcus.inc"
-    - "kubota@forcus.inc"
   subject_template: "日次マーケットレポート {date}"
 
 market_cap_filters:
