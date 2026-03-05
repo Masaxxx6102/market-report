@@ -71,7 +71,8 @@ function renderTicker(el, quotes) {
     const price = Number(q.price ?? 0);
     const cls = chgPct >= 0 ? 'up' : 'down';
     const sign = chgPct >= 0 ? '+' : '';
-    return `<span class="ticker-item"><strong>${q.symbol}</strong> ${price.toLocaleString()} (<span class="${cls}">${sign}${chgPct.toFixed(2)}%</span>)</span>`;
+    // Apply the color class to the entire ticker item content
+    return `<span class="ticker-item"><strong>${q.symbol}</strong> <span class="${cls}">${price.toLocaleString()}</span> (<span class="${cls}">${sign}${chgPct.toFixed(2)}%</span>)</span>`;
   }).join(' ');
   el.innerHTML = content + ' ' + content;
 }
@@ -164,7 +165,12 @@ function renderNewsWire(el, news) {
 
   el.innerHTML = currentNewsData.slice(0, 15).map((n, i) => `
         <div class="news-card animate-up" style="animation-delay: ${0.5 + (i * 0.05)}s" onclick="openNewsModal(${i})">
-            <h4><span style="color:var(--accent-blue); font-size: 0.65rem; margin-right: 6px;">${n.category || ''}</span>${n.headline}</h4>
+            <div style="flex: 1; min-width: 0;">
+              <div style="font-size: 0.6rem; color: var(--text-secondary); margin-bottom: 2px; font-weight: 700;">
+                <span style="color:var(--accent-blue);">${(n.category || 'GENERAL').toUpperCase()}</span> | ${n.source || 'Unknown Source'}
+              </div>
+              <h4 style="white-space: normal; line-height: 1.4;">${n.headline}</h4>
+            </div>
             <span style="color: var(--accent-blue); font-size: 0.7rem; flex-shrink:0; margin-left: 10px;">DETAIL ↗</span>
         </div>
     `).join('');
@@ -173,13 +179,13 @@ function renderNewsWire(el, news) {
 window.openNewsModal = function (index) {
   const n = currentNewsData[index];
   if (!n) return;
-  console.log('Opening News Modal for Index:', index, n);
 
   let url = n.url || '';
   if (url && !url.startsWith('http')) {
     url = 'https://' + url;
   }
 
+  document.getElementById('modal-source').textContent = (n.category || 'GENERAL') + ' | SOURCE: ' + (n.source || 'UNKNOWN');
   document.getElementById('modal-title').textContent = n.headline;
   document.getElementById('modal-body').textContent = n.summary || '詳細情報はありません。';
 

@@ -473,6 +473,14 @@
                 flex-direction: column;
             }
         }
+
+        .up {
+            color: var(--accent-up) !important;
+        }
+
+        .down {
+            color: var(--accent-down) !important;
+        }
     </style>
 </head>
 
@@ -492,6 +500,9 @@
     <div id="news-modal" class="modal-overlay">
         <div class="modal-content">
             <button class="modal-close" onclick="closeNewsModal()">&times;</button>
+            <div id="modal-source"
+                style="font-size: 0.7rem; color: var(--accent-blue); margin-bottom: 0.5rem; font-weight: 800; letter-spacing: 1px;">
+            </div>
             <h2 id="modal-title" class="modal-title"></h2>
             <div id="modal-body" class="modal-body"></div>
             <a id="modal-link" href="#" target="_blank" class="modal-link">本文（元記事）を読む ↗</a>
