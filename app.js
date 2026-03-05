@@ -111,34 +111,61 @@ function renderCompactPulse(el, filteredQuotes) {
 
 let currentNewsData = [];
 
+let currentAIData = { us: '', jp: '' };
+
 function renderAIAnalysis(el, overview) {
   if (!overview) return;
-  const usText = (overview.us_overview || overview.us || '').replace(/\n/g, '<br>');
-  const jpText = (overview.jp_overview || overview.jp || '').replace(/\n/g, '<br>');
+  const usFull = (overview.us_overview || overview.us || '');
+  const jpFull = (overview.jp_overview || overview.jp || '');
+  currentAIData = { us: usFull, jp: jpFull };
+
+  // Truncate to approx 200 chars
+  const usShort = usFull.length > 200 ? usFull.substring(0, 200) + '...' : usFull;
+  const jpShort = jpFull.length > 200 ? jpFull.substring(0, 200) + '...' : jpFull;
+
   el.innerHTML = `
         <div class="animate-up" style="animation-delay: 0.4s">
             <h3 style="color:var(--accent-blue); font-size: 0.8rem; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 8px;">
-                <span style="font-size: 1.1rem;">🇺🇸</span> U.S. STRATEGY SUMMARY
+                U.S. STRATEGY SUMMARY
             </h3>
-            <div class="overview-content" style="margin-bottom: 1.5rem;">
-                ${usText}
+            <div class="overview-content" style="margin-bottom: 0.5rem;">
+                ${usShort.replace(/\n/g, '<br>')}
+                ${usFull.length > 200 ? `<button class="read-more-btn" onclick="openAIModal('US')">READ FULL ANALYSIS ↘</button>` : ''}
             </div>
             <h3 style="color:var(--accent-blue); font-size: 0.8rem; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 8px;">
-                <span style="font-size: 1.1rem;">🇯🇵</span> JAPAN STRATEGY SUMMARY
+                JAPAN STRATEGY SUMMARY
             </h3>
             <div class="overview-content">
-                ${jpText}
+                ${jpShort.replace(/\n/g, '<br>')}
+                ${jpFull.length > 200 ? `<button class="read-more-btn" onclick="openAIModal('JP')">READ FULL ANALYSIS ↘</button>` : ''}
             </div>
         </div>
     `;
 }
 
+window.openAIModal = function (market) {
+  const title = market === 'US' ? 'U.S. Market Strategy (Full Detail)' : 'Japan Market Strategy (Full Detail)';
+  const body = market === 'US' ? currentAIData.us : currentAIData.jp;
+
+  document.getElementById('ai-modal-title').textContent = title;
+  document.getElementById('ai-modal-body').innerHTML = body.replace(/\n/g, '<br>');
+  document.getElementById('ai-modal').classList.add('active');
+};
+
+window.closeAIModal = function () {
+  document.getElementById('ai-modal').classList.remove('active');
+};
+
 function renderNewsWire(el, news) {
-  currentNewsData = news || [];
-  el.innerHTML = currentNewsData.slice(0, 10).map((n, i) => `
+  if (!news) return;
+  // Mix categories to avoid displaying only one type at the top
+  const shuffled = [...news].sort(() => Math.random() - 0.5);
+  currentNewsData = shuffled;
+
+  el.innerHTML = currentNewsData.slice(0, 15).map((n, i) => `
         <div class="news-card animate-up" style="animation-delay: ${0.5 + (i * 0.05)}s" onclick="openNewsModal(${i})">
-            <h4>${n.headline}</h4>
-            <span style="color: var(--accent-blue); font-size: 0.7rem;">DETAIL ↗</span>
+            <h4><span style="color:var(--accent-blue); font-size: 0.65rem; margin-right: 6px;">${n.category || ''}</span>${n.headline}</h4>
+            <span style="color: var(--accent-blue); font-size: 0.7rem; flex-shrink:0; margin-left: 10px;">DETAIL ↗</span>
         </div>
     `).join('');
 }

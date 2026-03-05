@@ -205,9 +205,29 @@
         }
 
         .overview-content {
-            font-size: 0.82rem;
-            line-height: 1.7;
+            font-size: 0.78rem;
+            line-height: 1.6;
             color: #ced4da;
+            position: relative;
+        }
+
+        .read-more-btn {
+            background: none;
+            border: none;
+            color: var(--accent-blue);
+            font-size: 0.7rem;
+            font-weight: 800;
+            cursor: pointer;
+            padding: 4px 0;
+            display: block;
+            margin-top: 5px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .read-more-btn:hover {
+            text-decoration: underline;
+            filter: brightness(1.2);
         }
 
         .charts-grid-stacked {
@@ -287,9 +307,8 @@
             font-size: 0.85rem;
             color: var(--text-primary);
             flex: 1;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
+            white-space: normal;
+            line-height: 1.4;
         }
 
         /* News Modal */
@@ -476,6 +495,15 @@
             <h2 id="modal-title" class="modal-title"></h2>
             <div id="modal-body" class="modal-body"></div>
             <a id="modal-link" href="#" target="_blank" class="modal-link">本文（元記事）を読む ↗</a>
+        </div>
+    </div>
+
+    <!-- AI Modal -->
+    <div id="ai-modal" class="modal-overlay">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeAIModal()">&times;</button>
+            <h2 id="ai-modal-title" class="modal-title"></h2>
+            <div id="ai-modal-body" class="modal-body" style="font-size: 0.95rem;"></div>
         </div>
     </div>
 
