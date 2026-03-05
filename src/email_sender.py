@@ -24,6 +24,7 @@ class GmailSender:
 
     def _authenticate(self):
         creds = None
+        logger.info(f"Checking for Gmail token at {self.token_path}...")
         if os.path.exists(self.token_path):
             if os.path.getsize(self.token_path) == 0:
                 logger.error(f"Gmail token file {self.token_path} is empty. Please verify GMAIL_TOKEN_JSON secret in GitHub.")
@@ -39,7 +40,7 @@ class GmailSender:
                 creds.refresh(Request())
             else:
                 if not os.path.exists(self.credentials_path):
-                    logger.error(f"Gmail credentials not found at {self.credentials_path}. Please provide this file.")
+                    logger.error(f"Gmail credentials not found at {self.credentials_path}. If running in GitHub Actions, you must also provide GMAIL_CREDENTIALS_JSON secret.")
                     return None
                 flow = InstalledAppFlow.from_client_secrets_file(self.credentials_path, SCOPES)
                 creds = flow.run_local_server(port=0)
