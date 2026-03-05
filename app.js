@@ -109,36 +109,52 @@ function renderCompactPulse(el, filteredQuotes) {
   }).join('');
 }
 
+let currentNewsData = [];
+
 function renderAIAnalysis(el, overview) {
   if (!overview) return;
   const usText = (overview.us_overview || overview.us || '').replace(/\n/g, '<br>');
   const jpText = (overview.jp_overview || overview.jp || '').replace(/\n/g, '<br>');
   el.innerHTML = `
         <div class="animate-up" style="animation-delay: 0.4s">
-            <h3 style="color:var(--accent-blue); font-size: 0.9rem; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 8px;">
-                <span style="font-size: 1.2rem;">🇺🇸</span> U.S. STRATEGY SUMMARY
+            <h3 style="color:var(--accent-blue); font-size: 0.8rem; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 8px;">
+                <span style="font-size: 1.1rem;">🇺🇸</span> U.S. STRATEGY SUMMARY
             </h3>
-            <p style="font-size: 0.95rem; line-height: 1.7; color: #ced4da; margin-bottom: 2rem;">
+            <div class="overview-content" style="margin-bottom: 1.5rem;">
                 ${usText}
-            </p>
-            <h3 style="color:var(--accent-blue); font-size: 0.9rem; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 8px;">
-                <span style="font-size: 1.2rem;">🇯🇵</span> JAPAN STRATEGY SUMMARY
+            </div>
+            <h3 style="color:var(--accent-blue); font-size: 0.8rem; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 8px;">
+                <span style="font-size: 1.1rem;">🇯🇵</span> JAPAN STRATEGY SUMMARY
             </h3>
-            <p style="font-size: 0.95rem; line-height: 1.7; color: #ced4da;">
+            <div class="overview-content">
                 ${jpText}
-            </p>
+            </div>
         </div>
     `;
 }
 
 function renderNewsWire(el, news) {
-  el.innerHTML = (news || []).slice(0, 8).map((n, i) => `
-        <a href="${n.url}" target="_blank" class="news-card animate-up" style="animation-delay: ${0.5 + (i * 0.05)}s">
+  currentNewsData = news || [];
+  el.innerHTML = currentNewsData.slice(0, 10).map((n, i) => `
+        <div class="news-card animate-up" style="animation-delay: ${0.5 + (i * 0.05)}s" onclick="openNewsModal(${i})">
             <h4>${n.headline}</h4>
-            <p>${n.summary || ''}</p>
-        </a>
+            <span style="color: var(--accent-blue); font-size: 0.7rem;">DETAIL ↗</span>
+        </div>
     `).join('');
 }
+
+window.openNewsModal = function (index) {
+  const n = currentNewsData[index];
+  if (!n) return;
+  document.getElementById('modal-title').textContent = n.headline;
+  document.getElementById('modal-body').textContent = n.summary || '詳細情報はありません。';
+  document.getElementById('modal-link').href = n.url;
+  document.getElementById('news-modal').classList.add('active');
+};
+
+window.closeNewsModal = function () {
+  document.getElementById('news-modal').classList.remove('active');
+};
 
 function renderVisuals(el, charts) {
   if (!el || !charts) return;
