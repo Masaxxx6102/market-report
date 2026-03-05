@@ -127,17 +127,34 @@ function renderNewsWire(el, news) {
 }
 
 function renderVisuals(el, charts) {
-  el.innerHTML = Object.entries(charts || {}).map(([name, paths], i) => {
-    const relPath = paths.short ? paths.short.split(/[\\/]/).slice(-2).join('/') : '';
-    const longPath = paths.long ? paths.long.split(/[\\/]/).slice(-2).join('/') : relPath;
-    if (!relPath) return '';
-    return `
-            <div class="chart-item animate-up" style="animation-delay: ${0.6 + (i * 0.1)}s">
-                <p style="font-size: 0.75rem; color: var(--text-secondary); margin-bottom: 0.8rem; font-weight: 700;">${name.toUpperCase()}</p>
-                <img src="${relPath}" class="chart-img" alt="${name}" onclick="window.open('${longPath}', '_blank')">
-            </div>
-        `;
-  }).join('');
+  if (!el || !charts) return;
+
+  let html = '';
+  Object.entries(charts).forEach(([name, paths], i) => {
+    const shortPath = paths.short ? paths.short.split(/[\\/]/).slice(-2).join('/') : '';
+    const longPath = paths.long ? paths.long.split(/[\\/]/).slice(-2).join('/') : '';
+
+    // Add Short Chart
+    if (shortPath) {
+      html += `
+        <div class="chart-item animate-up" style="animation-delay: ${0.6 + (i * 0.1)}s">
+            <p style="font-size: 0.7rem; color: var(--text-secondary); margin-bottom: 0.5rem; font-weight: 700;">${name.toUpperCase()} (1 YEAR / WEEKLY)</p>
+            <img src="${shortPath}" class="chart-img" alt="${name} short" onclick="window.open('${shortPath}', '_blank')">
+        </div>
+      `;
+    }
+
+    // Add Long Chart
+    if (longPath) {
+      html += `
+        <div class="chart-item animate-up" style="animation-delay: ${0.65 + (i * 0.1)}s">
+            <p style="font-size: 0.7rem; color: var(--text-secondary); margin-bottom: 0.5rem; font-weight: 700;">${name.toUpperCase()} (LONG TERM / MONTHLY)</p>
+            <img src="${longPath}" class="chart-img" alt="${name} long" onclick="window.open('${longPath}', '_blank')">
+        </div>
+      `;
+    }
+  });
+  el.innerHTML = html;
 }
 
 document.addEventListener('DOMContentLoaded', bootstrap);
