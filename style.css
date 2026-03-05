@@ -231,22 +231,28 @@ h1 {
 /* Charts Viewer Enhancements */
 .charts-grid {
     display: grid;
-    grid-template-columns: 1fr;
-    gap: 2rem;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+}
+
+@media (max-width: 1000px) {
+    .charts-grid {
+        grid-template-columns: 1fr;
+    }
 }
 
 .chart-item {
-    background: rgba(255, 255, 255, 0.02);
+    background: transparent;
     border-radius: 18px;
-    padding: 1rem;
-    border: 1px solid var(--border-color);
+    padding: 0;
+    border: none;
 }
 
 .chart-img {
     width: 100%;
     border-radius: 12px;
     transition: transform 0.4s ease;
-    filter: contrast(1.1) brightness(0.9);
+    filter: brightness(0.95);
 }
 
 .chart-img:hover {
