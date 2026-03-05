@@ -97,8 +97,9 @@ function renderMiniPulse(el, quotes) {
 }
 
 function renderAIAnalysis(el, overview) {
-  const usText = (overview.us || '').replace(/\n/g, '<br>');
-  const jpText = (overview.jp || '').replace(/\n/g, '<br>');
+  if (!overview) return;
+  const usText = (overview.us_overview || overview.us || '').replace(/\n/g, '<br>');
+  const jpText = (overview.jp_overview || overview.jp || '').replace(/\n/g, '<br>');
   el.innerHTML = `
         <div class="animate-up" style="animation-delay: 0.4s">
             <h3 style="color:var(--accent-blue); font-size: 0.9rem; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 8px;">
@@ -120,7 +121,7 @@ function renderAIAnalysis(el, overview) {
 function renderNewsWire(el, news) {
   el.innerHTML = (news || []).slice(0, 8).map((n, i) => `
         <a href="${n.url}" target="_blank" class="news-card animate-up" style="animation-delay: ${0.5 + (i * 0.05)}s">
-            <h4>${n.title}</h4>
+            <h4>${n.headline}</h4>
             <p>${n.summary || ''}</p>
         </a>
     `).join('');
@@ -129,6 +130,7 @@ function renderNewsWire(el, news) {
 function renderVisuals(el, charts) {
   if (!el || !charts) return;
 
+  const ts = new Date().getTime();
   let html = '';
   Object.entries(charts).forEach(([name, paths], i) => {
     const shortPath = paths.short ? paths.short.split(/[\\/]/).slice(-2).join('/') : '';
@@ -136,20 +138,22 @@ function renderVisuals(el, charts) {
 
     // Add Short Chart
     if (shortPath) {
+      const url = `${shortPath}?v=${ts}`;
       html += `
         <div class="chart-item animate-up" style="animation-delay: ${0.6 + (i * 0.1)}s">
             <p style="font-size: 0.7rem; color: var(--text-secondary); margin-bottom: 0.5rem; font-weight: 700;">${name.toUpperCase()} (1 YEAR / WEEKLY)</p>
-            <img src="${shortPath}" class="chart-img" alt="${name} short" onclick="window.open('${shortPath}', '_blank')">
+            <img src="${url}" class="chart-img" alt="${name} short" onclick="window.open('${url}', '_blank')">
         </div>
       `;
     }
 
     // Add Long Chart
     if (longPath) {
+      const url = `${longPath}?v=${ts}`;
       html += `
         <div class="chart-item animate-up" style="animation-delay: ${0.65 + (i * 0.1)}s">
             <p style="font-size: 0.7rem; color: var(--text-secondary); margin-bottom: 0.5rem; font-weight: 700;">${name.toUpperCase()} (LONG TERM / MONTHLY)</p>
-            <img src="${longPath}" class="chart-img" alt="${name} long" onclick="window.open('${longPath}', '_blank')">
+            <img src="${url}" class="chart-img" alt="${name} long" onclick="window.open('${url}', '_blank')">
         </div>
       `;
     }
