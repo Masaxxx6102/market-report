@@ -1,10 +1,10 @@
 # Daily Market Report Configuration
 
 api_keys:
-  fmp: "nsmT7sdaS6IU1pRKI3nKWxNpYkI85e0M"
+  fmp: "YOUR_FMP_API_KEY"
   quick_xignite: "YOUR_QUICK_API_KEY"
   quick_data_factory: "YOUR_QUICK_DF_API_KEY"
-  gemini: "AIzaSyCqqzT4rZGLnduOqmhqqMQv0wNvT-odO1I"
+  gemini: "YOUR_GEMINI_API_KEY"
   anthropic: "YOUR_CLAUDE_API_KEY" # Optional fallback
 
 email:
