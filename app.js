@@ -146,9 +146,25 @@ function renderNewsWire(el, news) {
 window.openNewsModal = function (index) {
   const n = currentNewsData[index];
   if (!n) return;
+  console.log('Opening News Modal for Index:', index, n);
+
+  let url = n.url || '';
+  if (url && !url.startsWith('http')) {
+    url = 'https://' + url;
+  }
+
   document.getElementById('modal-title').textContent = n.headline;
   document.getElementById('modal-body').textContent = n.summary || '詳細情報はありません。';
-  document.getElementById('modal-link').href = n.url;
+
+  const linkEl = document.getElementById('modal-link');
+  if (url) {
+    linkEl.href = url;
+    linkEl.style.display = 'inline-block';
+    console.log('Set link href to:', url);
+  } else {
+    linkEl.style.display = 'none';
+  }
+
   document.getElementById('news-modal').classList.add('active');
 };
 

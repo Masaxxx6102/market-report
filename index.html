@@ -389,7 +389,7 @@
         @keyframes slideUp {
             from {
                 opacity: 0;
-                transform: translateY(20px);
+                transform: translateY(15px);
             }
 
             to {
@@ -398,26 +398,39 @@
             }
         }
 
+        .animate-up {
+            animation: slideUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+            opacity: 0;
+        }
+
+        @media (max-width: 1400px) {
+            .main-grid {
+                grid-template-columns: 240px 1fr 0.8fr;
+            }
+        }
+
         @media (max-width: 1200px) {
             .main-grid {
                 grid-template-columns: 240px 1fr;
+                gap: 1.5rem;
             }
 
             .right-col {
                 grid-column: span 2;
-                margin-top: 1.5rem;
+                margin-top: 2rem;
             }
 
             .charts-grid-stacked {
                 display: grid;
                 grid-template-columns: 1fr 1fr;
-                gap: 1rem;
+                gap: 1.5rem;
             }
         }
 
-        @media (max-width: 800px) {
+        @media (max-width: 850px) {
             .main-grid {
                 grid-template-columns: 1fr;
+                gap: 1.5rem;
             }
 
             .right-col {
