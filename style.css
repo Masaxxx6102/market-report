@@ -48,7 +48,7 @@ body::after {
 
 .dashboard-container {
     width: 100%;
-    max-width: 1600px;
+    max-width: 1800px;
     margin: 0 auto;
     padding: 1rem;
 }
@@ -121,10 +121,10 @@ h1 {
     }
 }
 
-/* Final Multi-Column Layout */
+/* Final Multi-Column Layout - Force 3-columns */
 .main-grid {
     display: grid;
-    grid-template-columns: minmax(300px, 340px) 1.2fr 1fr;
+    grid-template-columns: minmax(320px, 360px) 1.2fr 1fr;
     gap: 1.2rem;
     align-items: start;
 }
@@ -145,14 +145,14 @@ h1 {
     letter-spacing: 1px;
 }
 
-/* Responsive Grid */
-@media (max-width: 1400px) {
+/* Responsive Grid - Keep 3-cols as long as possible */
+@media (max-width: 1600px) {
     .main-grid {
-        grid-template-columns: minmax(280px, 320px) 1.2fr 1fr;
+        grid-template-columns: minmax(300px, 320px) 1fr 1fr;
     }
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1200px) {
     .main-grid {
         grid-template-columns: 1fr;
     }
