@@ -65,6 +65,7 @@ class NewsFilterAI:
       "category": "【カテゴリ名】",
       "importance": 10,
       "source": "元のソース名",
+      "url": "元のURLをそのまま保持",
       "related_symbols": ["AAPL", "TSLA"]
     }}
   ]

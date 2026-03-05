@@ -84,14 +84,15 @@ class ChartGenerator:
         plt.rcParams['font.family'] = 'IPAexGothic'
         
         # Prepare style with market colors and explicit Japanese font family
-        mc = mpf.make_marketcolors(up='red', down='green', edge='inherit', wick='inherit', volume='in', inherit=True)
-        s = mpf.make_mpf_style(base_mpf_style='charles', marketcolors=mc, gridstyle='--', 
-                             y_on_right=False, rc={'font.family': 'IPAexGothic'})
+        mc = mpf.make_marketcolors(up='#ff4444', down='#00c853', edge='inherit', wick='inherit', volume='in', inherit=True)
+        s = mpf.make_mpf_style(base_mpf_style='night', marketcolors=mc, gridstyle='--', 
+                             y_on_right=False, rc={'font.family': 'IPAexGothic', 'axes.facecolor': '#000000', 'figure.facecolor': '#000000', 'text.color': 'white', 'axes.labelcolor': 'white', 'xtick.color': 'white', 'ytick.color': 'white', 'grid.color': '#1f1f1f'})
         
         # Prepare figure (Removed invalid 'fontfamily' kwarg)
         fig, axes = mpf.plot(df, type='candle', style=s, 
                            volume=True, returnfig=True, figsize=(12, 8), 
-                           datetime_format='%Y/%m', xrotation=0) 
+                           datetime_format='%Y/%m', xrotation=0,
+                           figcolor='#000000', facecolor='#000000') 
         
         ax1 = axes[0]
         # Explicitly set font on title and text as well
