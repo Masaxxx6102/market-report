@@ -49,4 +49,5 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git add data/latest_report.json charts/*.png
         git commit -m "Auto-update market data for Web Dashboard" || echo "No changes to commit"
-        git push
+        git pull --rebase origin main
+        git push origin main
