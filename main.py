@@ -38,7 +38,7 @@ from src.email_sender import GmailSender
 from src.base_provider import StockDataProvider
 
 import time
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 import argparse
 
 def main():
@@ -191,8 +191,12 @@ def generate_web_data(report_data):
     # (Assuming index.html is in the root and charts/ is in the root/data/charts or similar)
     # The current code puts charts in <root>/charts
     
+    # Use JST (Japan Standard Time) for the sync timestamp
+    jst = timezone(timedelta(hours=9))
+    now_jst = datetime.now(jst)
+    
     serializable_data = {
-        "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "last_updated": now_jst.strftime("%Y-%m-%d %H:%M:%S"),
         "quotes": report_data["quotes"],
         "news": report_data["news"],
         "charts": report_data["charts"],
