@@ -166,7 +166,7 @@ def run_report():
             success = email_sender.send_report(
                 to_emails=recipients,
                 subject=subject,
-                body="本日のマーケットレポートを添付いたします。",
+                body=f"本日のマーケットレポートを添付いたします。\n\nWeb版ダッシュボードはこちら：\nhttps://masaxxx6102.github.io/market-report/\n\n（※最新の市場データを確認するには、上記URLにアクセスしてください）",
                 attachment_path=report_path
             )
             if success:
