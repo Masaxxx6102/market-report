@@ -1,0 +1,51 @@
+# Daily Market Report Configuration
+
+api_keys:
+  fmp: "nsmT7sdaS6IU1pRKI3nKWxNpYkI85e0M"
+  quick_xignite: "YOUR_QUICK_API_KEY"
+  quick_data_factory: "YOUR_QUICK_DF_API_KEY"
+  gemini: "AIzaSyCqqzT4rZGLnduOqmhqqMQv0wNvT-odO1I"
+  anthropic: "YOUR_CLAUDE_API_KEY" # Optional fallback
+
+email:
+  sender: "mitamura@forcus.inc"
+  recipients:
+    - "mitamura@forcus.inc"
+    - "kubota@forcus.inc"
+  subject_template: "日次マーケットレポート {date}"
+
+market_cap_filters:
+  us_min_usd: 500000000000      # $500B
+  japan_min_jpy: 10000000000000  # ¥10T
+
+indices:
+  - symbol: "^N225"
+    name: "日経平均"
+    source: "yfinance"
+  - symbol: "^DJI"
+    name: "ダウ平均"
+    source: "yfinance"
+  - symbol: "^IXIC"
+    name: "ナスダック"
+    source: "yfinance"
+  - symbol: "^GSPC"
+    name: "S&P 500"
+    source: "yfinance"
+  - symbol: "^GDAXI"
+    name: "DAX"
+    source: "yfinance"
+  - symbol: "^STOXX"
+    name: "欧州STOXX"
+    source: "yfinance"
+  - symbol: "TOPX"
+    name: "TOPIX"
+    source: "fmp"
+  - symbol: "^FTSE"
+    name: "FTSE100"
+    source: "fmp"
+
+# Forcus specific settings
+organization: "Forcus株式会社"
+report_title: "Daily Market Report"
+timezone: "Asia/Tokyo"
+delivery_time: "16:42"
