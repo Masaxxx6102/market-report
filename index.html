@@ -33,19 +33,30 @@
     <div class="dashboard-container">
         <main class="main-grid">
 
-            <!-- Left: US Market Pulse -->
+            <!-- Left: Market Pulse (Dual Sidebar) -->
             <aside class="left-col">
                 <div class="card animate-up" style="animation-delay: 0.2s;">
                     <div class="section-head">
-                        <h2 class="section-title"><span>🇺🇸</span> US PULSE</h2>
+                        <h2 class="section-title"><span>📡</span> MARKET PULSE</h2>
                     </div>
-                    <div id="us-indices" class="indices-grid-compact">
-                        <!-- Injected via app.js -->
+                    <div class="pulse-dual-grid">
+                        <div class="pulse-sub-col">
+                            <h3 class="sub-col-label">US</h3>
+                            <div id="us-indices" class="indices-grid-compact">
+                                <!-- Injected via app.js -->
+                            </div>
+                        </div>
+                        <div class="pulse-sub-col">
+                            <h3 class="sub-col-label">JP</h3>
+                            <div id="jp-indices" class="indices-grid-compact">
+                                <!-- Injected via app.js -->
+                            </div>
+                        </div>
                     </div>
                 </div>
             </aside>
 
-            <!-- Center: Intelligence, Charts & News -->
+            <!-- Center: AI Analysis & News -->
             <section class="center-col">
                 <div class="card animate-up" style="animation-delay: 0.3s;">
                     <div class="section-head">
@@ -60,30 +71,21 @@
                     <hr style="border: none; border-top: 1px solid var(--border-color); margin: 2rem 0;">
 
                     <div class="section-head">
-                        <h2 class="section-title"><span>📊</span> Technical Visuals</h2>
-                    </div>
-                    <div id="charts-main" class="charts-grid">
-                        <!-- Injected via app.js -->
-                    </div>
-
-                    <hr style="border: none; border-top: 1px solid var(--border-color); margin: 2rem 0;">
-
-                    <div class="section-head">
                         <h2 class="section-title"><span>📽️</span> News Wire</h2>
                     </div>
-                    <div id="top-news-feed" class="news-feed-grid">
+                    <div id="top-news-feed" class="news-feed">
                         <!-- Injected via app.js -->
                     </div>
                 </div>
             </section>
 
-            <!-- Right: JP Market Pulse -->
+            <!-- Right: Technical Charts -->
             <aside class="right-col">
                 <div class="card animate-up" style="animation-delay: 0.4s;">
                     <div class="section-head">
-                        <h2 class="section-title"><span>🇯🇵</span> JP PULSE</h2>
+                        <h2 class="section-title"><span>📊</span> Technical Visuals</h2>
                     </div>
-                    <div id="jp-indices" class="indices-grid-compact">
+                    <div id="charts-main" class="charts-grid-stacked">
                         <!-- Injected via app.js -->
                     </div>
                 </div>

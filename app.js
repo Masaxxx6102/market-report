@@ -89,14 +89,16 @@ function renderJPPulse(el, quotes) {
 }
 
 function renderCompactPulse(el, filteredQuotes) {
+  if (!el) return;
   el.innerHTML = filteredQuotes.slice(0, 20).map(([symbol, q], i) => {
     const chgPct = parseFloat(q.changesPercentage || q.change_percent || 0);
     const upDownClass = chgPct >= 0 ? 'up' : 'down';
     const price = parseFloat(q.price || 0);
+    const displayName = q.name || symbol;
 
     return `
             <div class="mini-card ${upDownClass} animate-up" style="animation-delay: ${0.2 + (i * 0.02)}s">
-                <span class="mini-symbol">${symbol}</span>
+                <span class="mini-symbol" title="${symbol}">${displayName}</span>
                 <div class="mini-price-group">
                     <span class="mini-price">${price.toLocaleString(undefined, { minimumFractionDigits: 1, maximumFractionDigits: 1 })}</span>
                     <span class="mini-pct">${chgPct >= 0 ? '+' : ''}${chgPct.toFixed(2)}%</span>
