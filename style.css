@@ -121,19 +121,19 @@ h1 {
     }
 }
 
-/* Final Multi-Column Layout - Ultra Dense */
+/* Final Multi-Column Layout - Force 3-columns and Narrow Sidebar */
 .main-grid {
     display: grid;
-    grid-template-columns: minmax(260px, 300px) 1.2fr 1fr;
-    gap: 1rem;
+    grid-template-columns: 240px 1.2fr 1fr;
+    gap: 0.8rem;
     align-items: start;
 }
 
-/* Sidebar Pulse Sub-Grid */
+/* Sidebar Pulse Sub-Grid (US/JP side-by-side inside sidebar) */
 .pulse-dual-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 8px;
+    gap: 5px;
 }
 
 .sub-col-label {
@@ -145,14 +145,14 @@ h1 {
     letter-spacing: 1px;
 }
 
-/* Responsive Grid - Keep 3-cols as long as possible */
+/* Responsive Grid - Almost never collapse */
 @media (max-width: 1600px) {
     .main-grid {
-        grid-template-columns: minmax(300px, 320px) 1fr 1fr;
+        grid-template-columns: 220px 1fr 1fr;
     }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 800px) {
     .main-grid {
         grid-template-columns: 1fr;
     }
@@ -167,11 +167,13 @@ h1 {
 
 .mini-card {
     background: var(--card-bg);
-    padding: 4px 6px;
+    padding: 3px 5px;
     border-radius: 4px;
     border: 1px solid var(--border-color);
     display: flex;
     flex-direction: column;
+    min-height: 44px;
+    justify-content: center;
     transition: all 0.2s ease;
 }
 
@@ -189,31 +191,33 @@ h1 {
 }
 
 .mini-symbol {
-    font-size: 0.6rem;
+    font-size: 0.55rem;
     color: var(--text-primary);
     font-weight: 700;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    margin-bottom: 1px;
-    opacity: 0.9;
+    margin-bottom: 0;
+    opacity: 0.8;
 }
 
 .mini-price-group {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    flex-direction: column;
+    align-items: flex-start;
 }
 
 .mini-price {
-    font-size: 0.75rem;
+    font-size: 0.7rem;
     font-weight: 800;
     color: var(--text-primary);
+    line-height: 1.1;
 }
 
 .mini-pct {
-    font-size: 0.55rem;
+    font-size: 0.5rem;
     font-weight: 700;
+    line-height: 1;
 }
 
 /* Charts Viewer Stacked */
