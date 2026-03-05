@@ -97,20 +97,21 @@ function renderMiniPulse(el, quotes) {
 }
 
 function renderAIAnalysis(el, overview) {
-  if (!overview) return;
+  const usText = (overview.us || '').replace(/\n/g, '<br>');
+  const jpText = (overview.jp || '').replace(/\n/g, '<br>');
   el.innerHTML = `
         <div class="animate-up" style="animation-delay: 0.4s">
             <h3 style="color:var(--accent-blue); font-size: 0.9rem; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 8px;">
                 <span style="font-size: 1.2rem;">🇺🇸</span> U.S. STRATEGY SUMMARY
             </h3>
             <p style="font-size: 0.95rem; line-height: 1.7; color: #ced4da; margin-bottom: 2rem;">
-                ${overview.us.replace(/\n/g, '<br>')}
+                ${usText}
             </p>
             <h3 style="color:var(--accent-blue); font-size: 0.9rem; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 8px;">
                 <span style="font-size: 1.2rem;">🇯🇵</span> JAPAN STRATEGY SUMMARY
             </h3>
             <p style="font-size: 0.95rem; line-height: 1.7; color: #ced4da;">
-                ${overview.jp.replace(/\n/g, '<br>')}
+                ${jpText}
             </p>
         </div>
     `;

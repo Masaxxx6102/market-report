@@ -94,7 +94,7 @@ h1 {
 
 .ticker {
     display: inline-block;
-    animation: ticker 60s linear infinite;
+    animation: ticker 120s linear infinite;
     padding-left: 100%;
 }
 
@@ -148,15 +148,15 @@ h1 {
 /* Heatmap Style Index Layout */
 .indices-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 0.8rem;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 0.6rem;
     margin-bottom: 1.5rem;
 }
 
 .mini-card {
     background: var(--card-bg);
-    padding: 1rem;
-    border-radius: 12px;
+    padding: 0.7rem;
+    border-radius: 10px;
     border: 1px solid var(--border-color);
     display: flex;
     flex-direction: column;
@@ -169,30 +169,33 @@ h1 {
 }
 
 .mini-card.up {
-    border-left: 4px solid var(--accent-up);
+    border-left: 3px solid var(--accent-up);
     box-shadow: var(--glow-up);
 }
 
 .mini-card.down {
-    border-left: 4px solid var(--accent-down);
+    border-left: 3px solid var(--accent-down);
     box-shadow: var(--glow-down);
 }
 
 .mini-symbol {
-    font-size: 0.75rem;
+    font-size: 0.65rem;
     color: var(--text-secondary);
     font-weight: 600;
     text-transform: uppercase;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .mini-price {
-    font-size: 1.4rem;
+    font-size: 1.1rem;
     font-weight: 800;
-    margin: 0.2rem 0;
+    margin: 0.1rem 0;
 }
 
 .mini-pct {
-    font-size: 0.9rem;
+    font-size: 0.75rem;
     font-weight: 600;
 }
 
