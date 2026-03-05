@@ -8,67 +8,41 @@ async function bootstrap() {
 
   refreshBtn.addEventListener('click', () => {
     refreshBtn.textContent = 'RELOADING...';
-    // Forced reload to pick up the latest JSON from GitHub
     location.reload();
   });
 
   try {
-    // Add cache-buster to ensure the latest data is always fetched
     const dataPath = `./data/latest_report.json?v=${new Date().getTime()}`;
-    console.log(`Attempting to fetch data from: ${dataPath}`);
-
     const response = await fetch(dataPath);
-    if (!response.ok) {
-      console.error('Fetch failed:', response.status, response.statusText);
-      throw new Error(`Data file missing (HTTP ${response.status}). Please ensure Daily Market Report Automation has run successfully.`);
-    }
+    if (!response.ok) throw new Error(`Data file missing`);
     const data = await response.json();
 
     syncStatus.textContent = `LAST SYNC: ${data.last_updated}`;
 
-    // Auto-update countdown (simplified: next 15-min mark)
-    setInterval(() => {
+    // Header Countdown Logic
+    const updateCountdown = () => {
       const now = new Date();
       const mins = now.getMinutes();
       const nextMark = Math.ceil((mins + 1) / 15) * 15;
       const diff = nextMark - mins;
       const footer = document.getElementById('sync-footer');
       if (footer) {
-        footer.textContent = `Next Auto-Update in ~${diff} min`;
+        footer.textContent = `NEXT UPDATE: ~${diff} MIN`;
       }
-    }, 60000);
+    };
+    updateCountdown();
+    setInterval(updateCountdown, 60000);
 
-    // 1. Ticker Logic (Endless loop)
     renderTicker(tickerEl, data.quotes);
-
-    // 2. Mini Pulse (Left Heatmap)
     renderUSPulse(document.getElementById('us-indices'), data.quotes);
     renderJPPulse(document.getElementById('jp-indices'), data.quotes);
-
-    // 3. AI Intelligence (Center)
     renderAIAnalysis(document.getElementById('ai-overview'), data.overview);
-
-    // 4. News Wire (Right)
     renderNewsWire(document.getElementById('top-news-feed'), data.news);
-
-    // 5. Visuals (Center Bottom)
     renderVisuals(document.getElementById('charts-main'), data.charts);
 
   } catch (err) {
     console.error('Bootstrap error:', err);
     syncStatus.textContent = 'SYNC ERROR';
-    const aiEl = document.getElementById('ai-overview');
-    if (aiEl) {
-      aiEl.innerHTML = `
-        <div style="color: var(--accent-down); padding: 20px; border: 1px solid var(--accent-down); border-radius: 12px; background: rgba(255, 0, 85, 0.05);">
-          <h3 style="margin-bottom: 10px;">❌ 同期エラー</h3>
-          <p style="font-size: 0.9rem; margin-bottom: 5px;">データの取得に失敗しました。</p>
-          <div style="background: rgba(0,0,0,0.3); padding: 10px; border-radius: 8px; font-family: monospace; font-size: 0.8rem; overflow-x: auto;">
-            <strong>Error:</strong> ${err.message}
-          </div>
-        </div>
-      `;
-    }
   }
 }
 
@@ -126,22 +100,17 @@ function renderAIAnalysis(el, overview) {
   const usFull = (overview.us_overview || overview.us || '');
   const jpFull = (overview.jp_overview || overview.jp || '');
   currentAIData = { us: usFull, jp: jpFull };
-
   const usShort = usFull.length > 200 ? usFull.substring(0, 200) + '...' : usFull;
   const jpShort = jpFull.length > 200 ? jpFull.substring(0, 200) + '...' : jpFull;
 
   el.innerHTML = `
         <div class="animate-up" style="animation-delay: 0.4s">
-            <h3 style="color:var(--accent-blue); font-size: 0.8rem; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 8px;">
-                U.S. STRATEGY SUMMARY
-            </h3>
+            <h3 style="color:var(--accent-blue); font-size: 0.8rem; margin-bottom: 0.5rem;">U.S. STRATEGY SUMMARY</h3>
             <div class="overview-content" style="margin-bottom: 1.5rem;">
                 ${usShort.replace(/\n/g, '<br>')}
                 ${usFull.length > 200 ? `<button class="read-more-btn" onclick="openAIModal('US')">READ FULL ANALYSIS ↘</button>` : ''}
             </div>
-            <h3 style="color:var(--accent-blue); font-size: 0.8rem; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 8px;">
-                JAPAN STRATEGY SUMMARY
-            </h3>
+            <h3 style="color:var(--accent-blue); font-size: 0.8rem; margin-bottom: 0.5rem;">JAPAN STRATEGY SUMMARY</h3>
             <div class="overview-content">
                 ${jpShort.replace(/\n/g, '<br>')}
                 ${jpFull.length > 200 ? `<button class="read-more-btn" onclick="openAIModal('JP')">READ FULL ANALYSIS ↘</button>` : ''}
@@ -151,30 +120,26 @@ function renderAIAnalysis(el, overview) {
 }
 
 window.openAIModal = function (market) {
-  const title = market === 'US' ? 'U.S. Market Strategy (Full Detail)' : 'Japan Market Strategy (Full Detail)';
   const body = market === 'US' ? currentAIData.us : currentAIData.jp;
-  document.getElementById('ai-modal-title').textContent = title;
+  document.getElementById('ai-modal-title').textContent = market + ' Market Strategy';
   document.getElementById('ai-modal-body').innerHTML = body.replace(/\n/g, '<br>');
   document.getElementById('ai-modal').classList.add('active');
 };
 
-window.closeAIModal = function () {
-  document.getElementById('ai-modal').classList.remove('active');
-};
+window.closeAIModal = function () { document.getElementById('ai-modal').classList.remove('active'); };
 
 function renderNewsWire(el, news) {
   if (!news) return;
-  const shuffled = [...news].sort(() => Math.random() - 0.5);
-  currentNewsData = shuffled;
+  currentNewsData = [...news].sort(() => Math.random() - 0.5);
   el.innerHTML = currentNewsData.slice(0, 15).map((n, i) => `
         <div class="news-card animate-up" style="animation-delay: ${0.5 + (i * 0.05)}s" onclick="openNewsModal(${i})">
             <div style="flex: 1; min-width: 0;">
-              <div style="font-size: 0.6rem; color: var(--text-secondary); margin-bottom: 2px; font-weight: 700;">
-                <span style="color:var(--accent-blue);">${(n.category || 'GENERAL').toUpperCase()}</span> | ${n.source || 'Unknown Source'}
+              <div style="font-size: 0.6rem; color: var(--text-secondary); margin-bottom: 2px;">
+                <span style="color:var(--accent-blue);">${(n.category || 'GENERAL').toUpperCase()}</span> | ${n.source || 'Unknown'}
               </div>
               <h4 style="white-space: normal; line-height: 1.4;">${n.headline}</h4>
             </div>
-            <span style="color: var(--accent-blue); font-size: 0.7rem; flex-shrink:0; margin-left: 10px;">DETAIL ↗</span>
+            <span style="color: var(--accent-blue); font-size: 0.7rem; margin-left:10px;">DETAIL ↗</span>
         </div>
     `).join('');
 }
@@ -182,50 +147,25 @@ function renderNewsWire(el, news) {
 window.openNewsModal = function (index) {
   const n = currentNewsData[index];
   if (!n) return;
-  let url = n.url || '';
-  if (url && !url.startsWith('http')) url = 'https://' + url;
-  document.getElementById('modal-source').textContent = (n.category || 'GENERAL') + ' | SOURCE: ' + (n.source || 'UNKNOWN');
   document.getElementById('modal-title').textContent = n.headline;
-  document.getElementById('modal-body').textContent = n.summary || '詳細情報はありません。';
+  document.getElementById('modal-body').textContent = n.summary || 'No detail available.';
   const linkEl = document.getElementById('modal-link');
-  if (url) {
-    linkEl.href = url;
-    linkEl.style.display = 'inline-block';
-  } else {
-    linkEl.style.display = 'none';
-  }
+  linkEl.href = n.url || '#';
+  linkEl.style.display = n.url ? 'inline-block' : 'none';
   document.getElementById('news-modal').classList.add('active');
 };
 
-window.closeNewsModal = function () {
-  document.getElementById('news-modal').classList.remove('active');
-};
+window.closeNewsModal = function () { document.getElementById('news-modal').classList.remove('active'); };
 
 function renderVisuals(el, charts) {
   if (!el || !charts) return;
   const ts = new Date().getTime();
   let html = '';
   Object.entries(charts).forEach(([name, paths], i) => {
-    const shortPath = paths.short ? paths.short.split(/[\\/]/).slice(-2).join('/') : '';
-    const longPath = paths.long ? paths.long.split(/[\\/]/).slice(-2).join('/') : '';
-    if (shortPath) {
-      const url = `${shortPath}?v=${ts}`;
-      html += `
-        <div class="chart-item animate-up" style="animation-delay: ${0.6 + (i * 0.1)}s">
-            <p style="font-size: 0.7rem; color: var(--text-secondary); margin-bottom: 0.5rem; font-weight: 700;">${name.toUpperCase()} (1 YEAR / WEEKLY)</p>
-            <img src="${url}" class="chart-img" alt="${name} short" onclick="window.open('${url}', '_blank')">
-        </div>
-      `;
-    }
-    if (longPath) {
-      const url = `${longPath}?v=${ts}`;
-      html += `
-        <div class="chart-item animate-up" style="animation-delay: ${0.65 + (i * 0.1)}s">
-            <p style="font-size: 0.7rem; color: var(--text-secondary); margin-bottom: 0.5rem; font-weight: 700;">${name.toUpperCase()} (LONG TERM / MONTHLY)</p>
-            <img src="${url}" class="chart-img" alt="${name} long" onclick="window.open('${url}', '_blank')">
-        </div>
-      `;
-    }
+    const s = paths.short ? paths.short.split(/[\\/]/).slice(-2).join('/') : '';
+    const l = paths.long ? paths.long.split(/[\\/]/).slice(-2).join('/') : '';
+    if (s) html += `<div class="chart-item"><p style="font-size:0.7rem; color:var(--text-secondary); margin-bottom:0.5rem;">${name} (1Y)</p><img src="${s}?v=${ts}" class="chart-img" onclick="window.open('${s}?v=${ts}', '_blank')"></div>`;
+    if (l) html += `<div class="chart-item"><p style="font-size:0.7rem; color:var(--text-secondary); margin-bottom:0.5rem;">${name} (LT)</p><img src="${l}?v=${ts}" class="chart-img" onclick="window.open('${l}?v=${ts}', '_blank')"></div>`;
   });
   el.innerHTML = html;
 }
