@@ -3,10 +3,6 @@
  */
 async function bootstrap() {
   const tickerEl = document.getElementById('main-ticker');
-  const miniIndEl = document.getElementById('mini-indices');
-  const aiEl = document.getElementById('ai-overview');
-  const newsEl = document.getElementById('top-news-feed');
-  const chartsEl = document.getElementById('charts-main');
   const syncStatus = document.getElementById('sync-status');
   const refreshBtn = document.getElementById('refresh-btn');
 
@@ -32,20 +28,22 @@ async function bootstrap() {
     renderTicker(tickerEl, data.quotes);
 
     // 2. Mini Pulse (Left Heatmap)
-    renderMiniPulse(miniIndEl, data.quotes);
+    renderUSPulse(document.getElementById('us-indices'), data.quotes);
+    renderJPPulse(document.getElementById('jp-indices'), data.quotes);
 
     // 3. AI Intelligence (Center)
-    renderAIAnalysis(aiEl, data.overview);
+    renderAIAnalysis(document.getElementById('ai-overview'), data.overview);
 
     // 4. News Wire (Right)
-    renderNewsWire(newsEl, data.news);
+    renderNewsWire(document.getElementById('top-news-feed'), data.news);
 
     // 5. Visuals (Center Bottom)
-    renderVisuals(chartsEl, data.charts);
+    renderVisuals(document.getElementById('charts-main'), data.charts);
 
   } catch (err) {
     console.error('Bootstrap error:', err);
     syncStatus.textContent = 'SYNC ERROR';
+    const aiEl = document.getElementById('ai-overview'); // Re-get aiEl here if needed for error display
     if (aiEl) {
       aiEl.innerHTML = `
         <div style="color: var(--accent-down); padding: 20px; border: 1px solid var(--accent-down); border-radius: 12px; background: rgba(255, 0, 85, 0.05);">
@@ -78,19 +76,31 @@ function renderTicker(el, quotes) {
   el.innerHTML = content + ' ' + content;
 }
 
-function renderMiniPulse(el, quotes) {
+function renderUSPulse(el, quotes) {
   if (!el || !quotes) return;
-  const list = Object.values(quotes).filter(q => q && q.symbol).slice(0, 12);
-  el.innerHTML = list.map(q => {
-    const chgPct = Number(q.changesPercentage ?? q.change_percent ?? 0);
-    const price = Number(q.price ?? 0);
-    const cls = chgPct >= 0 ? 'up' : 'down';
-    const sign = chgPct >= 0 ? '+' : '';
+  const usQuotes = Object.entries(quotes).filter(([sym]) => sym.indexOf('.') === -1 && !sym.startsWith('^'));
+  renderCompactPulse(el, usQuotes);
+}
+
+function renderJPPulse(el, quotes) {
+  if (!el || !quotes) return;
+  const jpQuotes = Object.entries(quotes).filter(([sym]) => sym.endsWith('.T'));
+  renderCompactPulse(el, jpQuotes);
+}
+
+function renderCompactPulse(el, filteredQuotes) {
+  el.innerHTML = filteredQuotes.slice(0, 20).map(([symbol, q], i) => {
+    const chgPct = parseFloat(q.changesPercentage || q.change_percent || 0);
+    const upDownClass = chgPct >= 0 ? 'up' : 'down';
+    const price = parseFloat(q.price || 0);
+
     return `
-            <div class="mini-card ${cls}">
-                <span class="mini-symbol">${q.name || q.symbol}</span>
-                <span class="mini-price">${price.toLocaleString(undefined, { minimumFractionDigits: 1 })}</span>
-                <span class="mini-pct ${cls}">${sign}${chgPct.toFixed(2)}%</span>
+            <div class="mini-card ${upDownClass} animate-up" style="animation-delay: ${0.2 + (i * 0.02)}s">
+                <span class="mini-symbol">${symbol}</span>
+                <div class="mini-price-group">
+                    <span class="mini-price">${price.toLocaleString(undefined, { minimumFractionDigits: 1, maximumFractionDigits: 1 })}</span>
+                    <span class="mini-pct">${chgPct >= 0 ? '+' : ''}${chgPct.toFixed(2)}%</span>
+                </div>
             </div>
         `;
   }).join('');
