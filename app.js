@@ -44,8 +44,22 @@ async function bootstrap() {
     renderVisuals(chartsEl, data.charts);
 
   } catch (err) {
+    console.error('Bootstrap error:', err);
     syncStatus.textContent = 'SYNC ERROR';
-    aiEl.innerHTML = `<div style="color: var(--accent-down); padding: 20px;">FAILED TO DECODE MARKET DATA. PLEASE RUN SYSTEM CHECK.</div>`;
+    aiEl.innerHTML = `
+      <div style="color: var(--accent-down); padding: 20px; border: 1px solid var(--accent-down); border-radius: 12px; background: rgba(255, 0, 85, 0.05);">
+        <h3 style="margin-bottom: 10px;">❌ 同期エラー</h3>
+        <p style="font-size: 0.9rem; margin-bottom: 15px;">データの取得に失敗しました。以下の詳細情報を教えていただけますか？</p>
+        <div style="background: rgba(0,0,0,0.3); padding: 10px; border-radius: 8px; font-family: monospace; font-size: 0.8rem; overflow-x: auto;">
+          <strong>Error:</strong> ${err.message}<br>
+          <strong>URL:</strong> ${window.location.href}<br>
+          <strong>Data Path:</strong> ./data/latest_report.json
+        </div>
+        <p style="font-size: 0.8rem; margin-top: 15px; color: var(--text-secondary);">
+          ※GitHubの [Actions] > [Daily Market Report Automation] が一度も成功していない、またはファイルの保存に失敗している可能性があります。
+        </p>
+      </div>
+    `;
   }
 }
 
