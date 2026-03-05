@@ -94,7 +94,8 @@ function renderCompactPulse(el, filteredQuotes) {
     const chgPct = parseFloat(q.changesPercentage || q.change_percent || 0);
     const upDownClass = chgPct >= 0 ? 'up' : 'down';
     const price = parseFloat(q.price || 0);
-    const displayName = q.name || symbol;
+    let displayName = q.name || symbol;
+    if (displayName.length > 15) displayName = displayName.substring(0, 13) + '..';
 
     return `
             <div class="mini-card ${upDownClass} animate-up" style="animation-delay: ${0.2 + (i * 0.02)}s">
