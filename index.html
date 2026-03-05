@@ -119,12 +119,6 @@
             }
         }
 
-        .main-grid {
-            display: grid;
-            grid-template-columns: 260px 1.4fr 0.6fr;
-            gap: 1.5rem;
-            align-items: start;
-        }
 
         .pulse-dual-grid {
             display: grid;
@@ -270,22 +264,23 @@
         }
 
         .news-card {
-            padding: 8px 12px;
+            padding: 10px 14px;
             background: rgba(255, 255, 255, 0.02);
             border: 1px solid var(--border-color);
             border-radius: 8px;
             text-decoration: none;
             color: inherit;
-            transition: 0.2s;
+            transition: all 0.2s ease;
             cursor: pointer;
             display: flex;
             align-items: center;
+            justify-content: space-between;
         }
 
         .news-card:hover {
-            background: rgba(88, 166, 255, 0.1);
+            background: rgba(88, 166, 255, 0.08);
             border-color: var(--accent-blue);
-            transform: translateX(3px);
+            transform: translateY(-1px);
         }
 
         .news-card h4 {
@@ -404,38 +399,54 @@
             opacity: 0;
         }
 
-        @media (max-width: 1400px) {
-            .main-grid {
-                grid-template-columns: 240px 1fr 0.8fr;
-            }
+        .main-grid {
+            display: flex;
+            gap: 1.5rem;
+            align-items: flex-start;
+            width: 100%;
+        }
+
+        .left-col {
+            width: 260px;
+            flex-shrink: 0;
+        }
+
+        .center-col {
+            flex: 1.5;
+            min-width: 400px;
+        }
+
+        .right-col {
+            width: 320px;
+            flex-shrink: 0;
         }
 
         @media (max-width: 1200px) {
             .main-grid {
-                grid-template-columns: 240px 1fr;
-                gap: 1.5rem;
+                flex-wrap: wrap;
+            }
+
+            .center-col {
+                order: 2;
+                flex: 1 1 100%;
             }
 
             .right-col {
-                grid-column: span 2;
-                margin-top: 2rem;
+                order: 3;
+                flex: 1 1 100%;
+                width: 100%;
             }
 
             .charts-grid-stacked {
                 display: grid;
                 grid-template-columns: 1fr 1fr;
-                gap: 1.5rem;
+                gap: 1rem;
             }
         }
 
         @media (max-width: 850px) {
-            .main-grid {
-                grid-template-columns: 1fr;
-                gap: 1.5rem;
-            }
-
-            .right-col {
-                grid-column: span 1;
+            .left-col {
+                width: 100%;
             }
 
             .charts-grid-stacked {
