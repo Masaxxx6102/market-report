@@ -16,8 +16,6 @@
             --accent-up: #00ffcc;
             --accent-down: #ff0055;
             --accent-blue: #58a6ff;
-            --glow-up: 0 0 15px rgba(0, 255, 204, 0.2);
-            --glow-down: 0 0 15px rgba(255, 0, 85, 0.2);
             --font-main: 'Inter', system-ui, -apple-system, sans-serif;
             --header-height: 70px;
         }
@@ -33,7 +31,6 @@
             background-color: var(--bg-color);
             color: var(--text-primary);
             font-family: var(--font-main);
-            line-height: 1.4;
             overflow-x: hidden;
             min-height: 100vh;
         }
@@ -119,310 +116,10 @@
             }
         }
 
-
-        .pulse-dual-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 8px;
-        }
-
-        .sub-col-label {
-            font-size: 0.72rem;
-            color: var(--accent-blue);
-            text-align: center;
-            margin-bottom: 8px;
-            font-weight: 800;
-            letter-spacing: 1px;
-            text-transform: uppercase;
-        }
-
-        .indices-grid-compact {
-            display: flex;
-            flex-direction: column;
-            gap: 3px;
-        }
-
-        .mini-card {
-            background: var(--card-bg);
-            padding: 4px 6px;
-            border-radius: 4px;
-            border: 1px solid var(--border-color);
-            display: flex;
-            flex-direction: column;
-            min-height: 44px;
-            justify-content: center;
-            transition: all 0.2s ease;
-        }
-
-        .mini-card:hover {
-            background: rgba(255, 255, 255, 0.05);
-            transform: translateX(2px);
-        }
-
-        .mini-card.up {
-            border-left: 2px solid var(--accent-up);
-        }
-
-        .mini-card.down {
-            border-left: 2px solid var(--accent-down);
-        }
-
-        .mini-symbol {
-            font-size: 0.55rem;
-            color: var(--text-primary);
-            font-weight: 700;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            margin-bottom: 0px;
-            opacity: 0.8;
-        }
-
-        .mini-price-group {
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-        }
-
-        .mini-price {
-            font-size: 0.75rem;
-            font-weight: 800;
-            color: var(--text-primary);
-            line-height: 1;
-        }
-
-        .mini-pct {
-            font-size: 0.5rem;
-            font-weight: 700;
-            line-height: 1;
-        }
-
-        .center-col,
-        .right-col {
-            display: flex;
-            flex-direction: column;
-            gap: 1rem;
-        }
-
-        .overview-content {
-            font-size: 0.78rem;
-            line-height: 1.6;
-            color: #ced4da;
-            position: relative;
-        }
-
-        .read-more-btn {
-            background: none;
-            border: none;
-            color: var(--accent-blue);
-            font-size: 0.7rem;
-            font-weight: 800;
-            cursor: pointer;
-            padding: 4px 0;
-            display: block;
-            margin-top: 5px;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-
-        .read-more-btn:hover {
-            text-decoration: underline;
-            filter: brightness(1.2);
-        }
-
-        .charts-grid-stacked {
-            display: flex;
-            flex-direction: column;
-            gap: 1rem;
-        }
-
-        .chart-item {
-            background: var(--card-bg);
-            border-radius: 12px;
-            padding: 10px;
-            border: 1px solid var(--border-color);
-        }
-
-        .chart-img {
-            width: 100%;
-            max-width: 100%;
-            height: auto;
-            border-radius: 8px;
-            filter: brightness(0.9);
-            transition: 0.3s;
-        }
-
-        .chart-img:hover {
-            transform: scale(1.01);
-            filter: brightness(1.1);
-        }
-
-        .card {
-            background: var(--card-bg);
-            backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
-            border: 1px solid var(--border-color);
-            border-radius: 12px;
-            padding: 1rem;
-        }
-
-        .section-title {
-            font-size: 0.85rem;
-            font-weight: 700;
-            color: var(--text-secondary);
-            letter-spacing: 1px;
-            display: flex;
-            align-items: center;
-            gap: 6px;
-            margin-bottom: 0.8rem;
-        }
-
-        .news-feed {
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }
-
-        .news-card {
-            padding: 10px 14px;
-            background: rgba(255, 255, 255, 0.02);
-            border: 1px solid var(--border-color);
-            border-radius: 8px;
-            text-decoration: none;
-            color: inherit;
-            transition: all 0.2s ease;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-
-        .news-card:hover {
-            background: rgba(88, 166, 255, 0.08);
-            border-color: var(--accent-blue);
-            transform: translateY(-1px);
-        }
-
-        .news-card h4 {
-            font-size: 0.85rem;
-            color: var(--text-primary);
-            flex: 1;
-            white-space: normal;
-            line-height: 1.4;
-        }
-
-        /* News Modal */
-        .modal-overlay {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.85);
-            backdrop-filter: blur(10px);
-            display: none;
-            justify-content: center;
-            align-items: center;
-            z-index: 1000;
-            opacity: 0;
-            transition: opacity 0.3s ease;
-        }
-
-        .modal-overlay.active {
-            display: flex;
-            opacity: 1;
-        }
-
-        .modal-content {
-            background: #0d1117;
-            border: 1px solid var(--border-color);
-            border-radius: 20px;
-            width: 90%;
-            max-width: 700px;
-            max-height: 85vh;
-            padding: 2.5rem;
-            position: relative;
-            overflow-y: auto;
-            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
-        }
-
-        .modal-close {
-            position: absolute;
-            top: 20px;
-            right: 20px;
-            background: none;
-            border: none;
-            color: var(--text-secondary);
-            font-size: 1.5rem;
-            cursor: pointer;
-        }
-
-        .modal-title {
-            font-size: 1.4rem;
-            font-weight: 800;
-            color: #fff;
-            margin-bottom: 1.5rem;
-            line-height: 1.3;
-        }
-
-        .modal-body {
-            font-size: 1rem;
-            line-height: 1.8;
-            color: var(--text-secondary);
-            margin-bottom: 2rem;
-            white-space: pre-wrap;
-        }
-
-        .modal-link {
-            display: inline-block;
-            background: var(--accent-blue);
-            color: #000;
-            padding: 10px 24px;
-            border-radius: 50px;
-            text-decoration: none;
-            font-weight: 800;
-            font-size: 0.9rem;
-        }
-
-        .btn-refresh {
-            background: var(--accent-blue);
-            color: #000;
-            border: none;
-            padding: 0.6rem 1.2rem;
-            border-radius: 30px;
-            font-weight: 800;
-            font-size: 0.75rem;
-            cursor: pointer;
-            transition: 0.3s;
-        }
-
-        .btn-refresh:hover {
-            transform: scale(1.05);
-            filter: brightness(1.2);
-        }
-
-        @keyframes slideUp {
-            from {
-                opacity: 0;
-                transform: translateY(15px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        .animate-up {
-            animation: slideUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
-            opacity: 0;
-        }
-
         .main-grid {
             display: flex;
             gap: 1.5rem;
             align-items: flex-start;
-            width: 100%;
         }
 
         .left-col {
@@ -440,37 +137,155 @@
             flex-shrink: 0;
         }
 
-        @media (max-width: 1000px) {
-            .main-grid {
-                flex-wrap: wrap;
-            }
-
-            .center-col {
-                order: 2;
-                flex: 1 1 100%;
-            }
-
-            .right-col {
-                order: 3;
-                flex: 1 1 100%;
-                width: 100%;
-            }
-
-            .charts-grid-stacked {
-                display: grid;
-                grid-template-columns: 1fr 1fr;
-                gap: 1rem;
-            }
+        .card {
+            background: var(--card-bg);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 1rem;
         }
 
-        @media (max-width: 750px) {
-            .left-col {
-                width: 100%;
+        .pulse-dual-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+        }
+
+        .mini-card {
+            background: var(--card-bg);
+            padding: 4px 6px;
+            border-radius: 4px;
+            border: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            min-height: 44px;
+            justify-content: center;
+        }
+
+        .mini-card.up {
+            border-left: 2px solid var(--accent-up);
+        }
+
+        .mini-card.down {
+            border-left: 2px solid var(--accent-down);
+        }
+
+        .mini-symbol {
+            font-size: 0.55rem;
+            font-weight: 700;
+            opacity: 0.8;
+        }
+
+        .mini-price {
+            font-size: 0.75rem;
+            font-weight: 800;
+        }
+
+        .mini-pct {
+            font-size: 0.5rem;
+            font-weight: 700;
+        }
+
+        .news-feed {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .news-card {
+            padding: 10px 14px;
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .chart-item {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 10px;
+            border: 1px solid var(--border-color);
+            margin-bottom: 1rem;
+        }
+
+        .chart-img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            transition: 0.3s;
+        }
+
+        .chart-img:hover {
+            transform: scale(1.01);
+            filter: brightness(1.1);
+        }
+
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.85);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .modal-overlay.active {
+            display: flex;
+        }
+
+        .modal-content {
+            background: #0d1117;
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            width: 90%;
+            max-width: 700px;
+            padding: 2.5rem;
+            max-height: 85vh;
+            overflow-y: auto;
+            position: relative;
+        }
+
+        .btn-refresh {
+            background: var(--accent-blue);
+            color: #000;
+            border: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 30px;
+            font-weight: 800;
+            font-size: 0.75rem;
+            cursor: pointer;
+        }
+
+        .read-more-btn {
+            background: none;
+            border: none;
+            color: var(--accent-blue);
+            font-size: 0.7rem;
+            font-weight: 800;
+            cursor: pointer;
+        }
+
+        .animate-up {
+            animation: slideUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+            opacity: 0;
+        }
+
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(15px);
             }
 
-            .charts-grid-stacked {
-                display: flex;
-                flex-direction: column;
+            to {
+                opacity: 1;
+                transform: translateY(0);
             }
         }
 
@@ -481,114 +296,86 @@
         .down {
             color: var(--accent-down) !important;
         }
+
+        @media (max-width: 1000px) {
+            .main-grid {
+                flex-wrap: wrap;
+            }
+
+            .center-col,
+            .right-col {
+                flex: 1 1 100%;
+                width: 100%;
+            }
+        }
     </style>
 </head>
 
 <body>
     <header class="animate-up">
-        <div class="brand">
-            <h1>Forcus Market <span style="color:var(--accent-blue)">β</span></h1>
-        </div>
-        <div class="header-actions">
-            <span id="sync-status" style="margin-right: 20px; font-size: 0.8rem; color: var(--text-secondary);">SYNCING
-                DATA...</span>
+        <h1>Forcus Market <span style="color:var(--accent-blue)">β</span></h1>
+        <div class="header-actions" style="display: flex; align-items: center; gap: 15px;">
+            <div style="text-align: right; line-height: 1.2;">
+                <div id="sync-status" style="font-size: 0.75rem; color: var(--text-secondary); font-weight: 700;">
+                    SYNCING DATA...</div>
+                <div id="sync-footer"
+                    style="font-size: 0.55rem; color: var(--accent-blue); opacity: 0.8; font-weight: 800; text-transform: uppercase;">
+                    Init..</div>
+            </div>
             <button class="btn-refresh" id="refresh-btn">REFRESH SYSTEM</button>
         </div>
     </header>
 
-    <!-- News Modal -->
     <div id="news-modal" class="modal-overlay">
         <div class="modal-content">
-            <button class="modal-close" onclick="closeNewsModal()">&times;</button>
-            <div id="modal-source"
-                style="font-size: 0.7rem; color: var(--accent-blue); margin-bottom: 0.5rem; font-weight: 800; letter-spacing: 1px;">
-            </div>
-            <h2 id="modal-title" class="modal-title"></h2>
-            <div id="modal-body" class="modal-body"></div>
-            <a id="modal-link" href="#" target="_blank" class="modal-link">本文（元記事）を読む ↗</a>
+            <h2 id="modal-title" style="color:#fff; margin-bottom:1rem;"></h2>
+            <div id="modal-body" style="color:var(--text-secondary); line-height:1.6; margin-bottom:1rem;"></div>
+            <a id="modal-link" href="#" target="_blank"
+                style="background:var(--accent-blue); color:#000; padding:10px 20px; border-radius:50px; text-decoration:none; font-weight:800;">本文を読む
+                ↗</a>
+            <button onclick="closeNewsModal()"
+                style="background:none; border:none; color:#fff; position:absolute; top:20px; right:20px; cursor:pointer; font-size:1.5rem;">&times;</button>
         </div>
     </div>
 
-    <!-- AI Modal -->
     <div id="ai-modal" class="modal-overlay">
         <div class="modal-content">
-            <button class="modal-close" onclick="closeAIModal()">&times;</button>
-            <h2 id="ai-modal-title" class="modal-title"></h2>
-            <div id="ai-modal-body" class="modal-body" style="font-size: 0.95rem;"></div>
+            <h2 id="ai-modal-title" style="color:#fff; margin-bottom:1rem;"></h2>
+            <div id="ai-modal-body" style="color:var(--text-secondary); line-height:1.6;"></div>
+            <button onclick="closeAIModal()"
+                style="background:none; border:none; color:#fff; position:absolute; top:20px; right:20px; cursor:pointer; font-size:1.5rem;">&times;</button>
         </div>
     </div>
 
-    <!-- Moving Ticker -->
-    <div class="ticker-wrap animate-up" style="animation-delay: 0.1s;">
-        <div class="ticker" id="main-ticker">
-            <!-- Items injected by JS -->
-        </div>
+    <div class="ticker-wrap">
+        <div class="ticker" id="main-ticker"></div>
     </div>
 
     <div class="dashboard-container">
         <main class="main-grid">
-
-            <!-- Left: Market Pulse (Dual Sidebar) -->
             <aside class="left-col">
-                <div class="card animate-up" style="animation-delay: 0.2s;">
-                    <div class="section-head">
-                        <h2 class="section-title"><span>📡</span> MARKET PULSE</h2>
-                    </div>
+                <div class="card">
+                    <h2 style="font-size:0.8rem; color:var(--text-secondary); margin-bottom:1rem;">📡 MARKET PULSE</h2>
                     <div class="pulse-dual-grid">
-                        <div class="pulse-sub-col">
-                            <h3 class="sub-col-label">US</h3>
-                            <div id="us-indices" class="indices-grid-compact">
-                                <!-- Injected via app.js -->
-                            </div>
-                        </div>
-                        <div class="pulse-sub-col">
-                            <h3 class="sub-col-label">JP</h3>
-                            <div id="jp-indices" class="indices-grid-compact">
-                                <!-- Injected via app.js -->
-                            </div>
-                        </div>
+                        <div id="us-indices"></div>
+                        <div id="jp-indices"></div>
                     </div>
                 </div>
             </aside>
-
-            <!-- Center: AI Analysis & News -->
             <section class="center-col">
-                <div class="card animate-up" style="animation-delay: 0.3s;">
-                    <div class="section-head">
-                        <h2 class="section-title"><span>🛡️</span> AI Market Intelligence</h2>
-                    </div>
-                    <div id="ai-overview" class="overview-content">
-                        <!-- Injected via app.js -->
-                        <div style="padding: 40px; text-align: center; color: var(--text-secondary);">ANALYZING MARKET
-                            VIBRATIONS...</div>
-                    </div>
-
-                    <hr style="border: none; border-top: 1px solid var(--border-color); margin: 2rem 0;">
-
-                    <div class="section-head">
-                        <h2 class="section-title"><span>📽️</span> News Wire</h2>
-                    </div>
-                    <div id="top-news-feed" class="news-feed">
-                        <!-- Injected via app.js -->
-                    </div>
+                <div class="card">
+                    <h2 style="font-size:0.8rem; color:var(--text-secondary); margin-bottom:1rem;">🛡️ AI INTELLIGENCE
+                    </h2>
+                    <div id="ai-overview"></div>
+                    <hr style="border:none; border-top:1px solid var(--border-color); margin:1.5rem 0;">
+                    <div id="top-news-feed" class="news-feed"></div>
                 </div>
             </section>
-
-            <!-- Right: Technical Charts -->
             <aside class="right-col">
-                <div class="card animate-up" style="animation-delay: 0.4s;">
-                    <div class="section-head">
-                        <h2 class="section-title"><span>📊</span> Technical Visuals</h2>
-                    </div>
-                    <div id="charts-main" class="charts-grid-stacked">
-                        <!-- Injected via app.js -->
-                    </div>
-                </div>
+                <div id="charts-main"></div>
             </aside>
-
         </main>
     </div>
-
     <script src="app.js"></script>
 </body>
 
