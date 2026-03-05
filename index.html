@@ -121,8 +121,8 @@
 
         .main-grid {
             display: grid;
-            grid-template-columns: 240px 1.5fr 0.7fr;
-            gap: 1rem;
+            grid-template-columns: 240px 1.25fr 0.75fr;
+            gap: 1.2rem;
             align-items: start;
         }
 
@@ -190,7 +190,7 @@
         }
 
         .mini-price {
-            font-size: 0.7rem;
+            font-size: 0.75rem;
             font-weight: 800;
             color: var(--text-primary);
             line-height: 1;
@@ -210,9 +210,9 @@
         }
 
         .overview-content {
-            font-size: 0.85rem;
-            line-height: 1.6;
-            color: var(--text-primary);
+            font-size: 0.82rem;
+            line-height: 1.7;
+            color: #ced4da;
         }
 
         .charts-grid-stacked {
@@ -398,20 +398,14 @@
             }
         }
 
-        .animate-up {
-            animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
-            opacity: 0;
-        }
-
-        /* Tablet: 2 Columns (Pulse + Analysis, Charts move below) */
-        @media (max-width: 1100px) {
+        @media (max-width: 1200px) {
             .main-grid {
                 grid-template-columns: 240px 1fr;
             }
 
             .right-col {
                 grid-column: span 2;
-                margin-top: 1rem;
+                margin-top: 1.5rem;
             }
 
             .charts-grid-stacked {
@@ -421,8 +415,7 @@
             }
         }
 
-        /* Mobile: 1 Column Stack */
-        @media (max-width: 700px) {
+        @media (max-width: 800px) {
             .main-grid {
                 grid-template-columns: 1fr;
             }
@@ -434,10 +427,6 @@
             .charts-grid-stacked {
                 display: flex;
                 flex-direction: column;
-            }
-
-            .pulse-dual-grid {
-                grid-template-columns: 1fr 1fr;
             }
         }
     </style>
