@@ -92,8 +92,7 @@ class ChartGenerator:
         # Prepare figure (Removed invalid 'fontfamily' kwarg)
         fig, axes = mpf.plot(df, type='candle', style=s, 
                            volume=True, returnfig=True, figsize=(12, 8), 
-                           datetime_format='%Y/%m', xrotation=0,
-                           figcolor='#000000', facecolor='#000000') 
+                           datetime_format='%Y/%m', xrotation=0) 
         
         ax1 = axes[0]
         # Explicitly set font on title and text as well
