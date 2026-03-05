@@ -124,7 +124,7 @@ h1 {
 /* Final Multi-Column Layout */
 .main-grid {
     display: grid;
-    grid-template-columns: 340px 1fr 1fr;
+    grid-template-columns: minmax(300px, 340px) 1.2fr 1fr;
     gap: 1.2rem;
     align-items: start;
 }
@@ -133,7 +133,7 @@ h1 {
 .pulse-dual-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 10px;
+    gap: 8px;
 }
 
 .sub-col-label {
@@ -148,11 +148,11 @@ h1 {
 /* Responsive Grid */
 @media (max-width: 1400px) {
     .main-grid {
-        grid-template-columns: 320px 1fr 1fr;
+        grid-template-columns: minmax(280px, 320px) 1.2fr 1fr;
     }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 900px) {
     .main-grid {
         grid-template-columns: 1fr;
     }
