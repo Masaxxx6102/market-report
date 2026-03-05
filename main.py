@@ -1,6 +1,7 @@
 import os
 import shutil
 import certifi
+import json
 
 import platform
 
@@ -146,6 +147,9 @@ def run_report():
         }
         builder = ReportBuilder(organization=settings.organization)
         report_path = builder.build_report(report_data)
+        
+        # Step 6.5: Export for Web Dashboard
+        generate_web_data(report_data)
 
         # Step 7: Send Email
         email_data = settings.email_settings
@@ -175,6 +179,30 @@ def run_report():
         logger.info("Process completed successfully.")
     except Exception as e:
         logger.exception(f"Error: {e}")
+
+def generate_web_data(report_data):
+    """
+    Exports market data to a JSON file for the Web Dashboard.
+    """
+    web_data_path = os.path.join(os.path.dirname(__file__), "data", "latest_report.json")
+    os.makedirs(os.path.dirname(web_data_path), exist_ok=True)
+    
+    # Ensure charts paths are relative for the web app
+    # (Assuming index.html is in the root and charts/ is in the root/data/charts or similar)
+    # The current code puts charts in <root>/charts
+    
+    serializable_data = {
+        "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "quotes": report_data["quotes"],
+        "news": report_data["news"],
+        "charts": report_data["charts"],
+        "overview": report_data["overview"]
+    }
+    
+    with open(web_data_path, "w", encoding="utf-8") as f:
+        json.dump(serializable_data, f, ensure_ascii=False, indent=2)
+    
+    logger.info(f"Web Dashboard data exported to {web_data_path}")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MARKET INSIGHT 3.0 | Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header class="animate-up">
+        <div class="brand">
+            <h1>MARKET INSIGHT <span style="color:var(--accent-blue)">3.0</span></h1>
+        </div>
+        <div class="header-actions">
+            <span id="sync-status" style="margin-right: 20px; font-size: 0.8rem; color: var(--text-secondary);">SYNCING
+                DATA...</span>
+            <button class="btn-refresh" id="refresh-btn">REFRESH SYSTEM</button>
+        </div>
+    </header>
+
+    <!-- Moving Ticker -->
+    <div class="ticker-wrap animate-up" style="animation-delay: 0.1s;">
+        <div class="ticker" id="main-ticker">
+            <!-- Items injected by JS -->
+        </div>
+    </div>
+
+    <div class="dashboard-container">
+        <!-- Dashboard Content Grid -->
+        <main class="main-grid">
+
+            <!-- Left: Indices Heatmap -->
+            <aside class="left-col">
+                <div class="card animate-up" style="animation-delay: 0.2s;">
+                    <div class="section-head">
+                        <h2 class="section-title"><span>📡</span> Market Pulse</h2>
+                    </div>
+                    <div id="mini-indices" class="indices-grid">
+                        <!-- Injected via app.js -->
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Center: Intelligence & Charts -->
+            <section class="center-col">
+                <div class="card animate-up" style="animation-delay: 0.3s;">
+                    <div class="section-head">
+                        <h2 class="section-title"><span>🛡️</span> AI Market Intelligence</h2>
+                    </div>
+                    <div id="ai-overview" class="overview-content">
+                        <!-- Injected via app.js -->
+                        <div style="padding: 40px; text-align: center; color: var(--text-secondary);">ANALYZING MARKET
+                            VIBRATIONS...</div>
+                    </div>
+                    <hr style="border: none; border-top: 1px solid var(--border-color); margin: 2rem 0;">
+                    <div class="section-head">
+                        <h2 class="section-title"><span>📊</span> Technical Visuals</h2>
+                    </div>
+                    <div id="charts-main" class="charts-grid">
+                        <!-- Injected via app.js -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- Right: News Wire -->
+            <aside class="right-col">
+                <div class="card animate-up" style="animation-delay: 0.4s;">
+                    <div class="section-head">
+                        <h2 class="section-title"><span>📽️</span> News Wire</h2>
+                    </div>
+                    <div id="top-news-feed" class="news-feed">
+                        <!-- Injected via app.js -->
+                    </div>
+                </div>
+            </aside>
+
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
