@@ -12,7 +12,8 @@ async function bootstrap() {
   });
 
   try {
-    const dataPath = './data/latest_report.json';
+    // Add cache-buster to ensure the latest data is always fetched
+    const dataPath = `./data/latest_report.json?v=${new Date().getTime()}`;
     console.log(`Attempting to fetch data from: ${dataPath}`);
 
     const response = await fetch(dataPath);
