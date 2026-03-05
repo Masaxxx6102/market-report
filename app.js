@@ -16,8 +16,14 @@ async function bootstrap() {
   });
 
   try {
-    const response = await fetch('data/latest_report.json');
-    if (!response.ok) throw new Error('Data file missing');
+    const dataPath = './data/latest_report.json';
+    console.log(`Attempting to fetch data from: ${dataPath}`);
+
+    const response = await fetch(dataPath);
+    if (!response.ok) {
+      console.error('Fetch failed:', response.status, response.statusText);
+      throw new Error(`Data file missing (HTTP ${response.status}). Please ensure Daily Market Report Automation has run successfully and committed the data.`);
+    }
     const data = await response.json();
 
     syncStatus.textContent = `LAST SYNC: ${data.last_updated}`;
