@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06 22:36:23",
+  "last_updated": "2026-03-06 22:40:45",
   "quotes": {
     "NVDA": {
       "symbol": "NVDA",
@@ -224,13 +224,13 @@
     "^FTSE": {
       "symbol": "^FTSE",
       "name": "FTSE100",
-      "price": 10357.23,
-      "change": -56.71,
-      "changesPercentage": -0.54456,
+      "price": 10359.6,
+      "change": -54.34,
+      "changesPercentage": -0.5218,
       "previousClose": 10413.94,
       "yearStart": 9951.14,
-      "ytdChange": 406.09000000000015,
-      "ytdChangePercentage": 4.08083897925263
+      "ytdChange": 408.46000000000095,
+      "ytdChangePercentage": 4.1046553460206665
     },
     "7203.T": {
       "symbol": "7203.T",
@@ -499,145 +499,145 @@
     "^GDAXI": {
       "symbol": "^GDAXI",
       "name": "DAX",
-      "price": 23655.009765625,
-      "change": -160.740234375,
-      "changesPercentage": -0.6749324895289881,
+      "price": 23653.5,
+      "change": -162.25,
+      "changesPercentage": -0.6812718474119018,
       "previousClose": 23815.75,
       "yearStart": 24539.33984375,
-      "ytdChange": -884.330078125,
-      "ytdChangePercentage": -3.603723994841829
+      "ytdChange": -885.83984375,
+      "ytdChangePercentage": -3.609876424510325
     },
     "^STOXX": {
       "symbol": "^STOXX",
       "name": "欧州STOXX",
-      "price": 600.3900146484375,
-      "change": -4.44000244140625,
-      "changesPercentage": -0.7340909538136754,
+      "price": 600.5999755859375,
+      "change": -4.23004150390625,
+      "changesPercentage": -0.699376913245677,
       "previousClose": 604.8300170898438,
       "yearStart": 601.760009765625,
-      "ytdChange": -1.3699951171875,
-      "ytdChangePercentage": -0.22766469937427197
+      "ytdChange": -1.1600341796875,
+      "ytdChangePercentage": -0.19277355770771692
     }
   },
   "news": [
     {
-      "headline": "Avoid Dividend Offenders With This ETF",
-      "summary": "As is the case in life, there are no sure things in investing. That sentiment certainly applies to d...",
-      "category": "General",
-      "importance": 5,
-      "source": "etftrends.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Consumer Rebound Could Boost These ETFs",
-      "summary": "This isn't the perfect climate for consumer spending, particularly the discretionary side. There's t...",
-      "category": "General",
-      "importance": 5,
-      "source": "etftrends.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "These 3 Cash Flow Machines Provide Stability in Uncertain Markets",
-      "summary": "When times get tough for companies, cash flow is an essential element that can determine viability t...",
-      "category": "General",
-      "importance": 5,
-      "source": "marketbeat.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Schrödinger, Inc. (SDGR) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
-      "summary": "Schrödinger, Inc. (SDGR) Presents at TD Cowen 46th Annual Health Care Conference Transcript...",
+      "headline": "PAR Technology: From Premium SaaS To Penalty Box, With A Clear Path Back",
+      "summary": "PAR Technology Corporation has suffered a 70% stock decline despite strong ARR and subscription grow...",
       "category": "General",
       "importance": 5,
       "source": "seekingalpha.com",
       "related_symbols": []
     },
     {
-      "headline": "Costco Thrives And The Cash Pile Builds (Earnings Review)",
-      "summary": "Costco's Q2 shows resilient growth driven by traffic, ticket size, and booming e‑commerce. Membershi...",
-      "category": "General",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Novartis shareholders approve all resolutions proposed by the Board of Directors at the 2026 Annual General Meeting",
-      "summary": "Basel, March 6, 2026 – Novartis shareholders today agreed to the Board of Directors' recommendations...",
+      "headline": "Solid Biosciences Announces Oversubscribed $240 Million Private Placement",
+      "summary": "CHARLESTOWN, Mass., March 06, 2026 (GLOBE NEWSWIRE) -- Solid Biosciences Inc. (Nasdaq: SLDB), a life...",
       "category": "General",
       "importance": 5,
       "source": "globenewswire.com",
       "related_symbols": []
     },
     {
-      "headline": "Gold market analysis for March 6 - key intra-day price entry levels for active traders",
-      "summary": "Jim Wyckoff has spent over 25 years involved with the stock, financial and commodity markets. He was...",
+      "headline": "Reborn Coffee Appoints Jung Jae Lim as Co-Chief Executive Officer to Strengthen Supply Chain Execution and Drive New Growth",
+      "summary": "Board-Approved Leadership Appointment Adds Deep Logistics and Operational Expertise to Accelerate En...",
       "category": "General",
       "importance": 5,
-      "source": "kitco.com",
+      "source": "globenewswire.com",
       "related_symbols": []
     },
     {
-      "headline": "United Airlines CEO: Fuel spike will hit results, but travel demand hasn't taken 'even a tiny step back'",
-      "summary": "United Airlines CEO Scott Kirby said the spike in jet fuel prices will have a \"meaningful\" impact on...",
-      "category": "General",
-      "importance": 5,
-      "source": "cnbc.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Support for struggling PageGroup after dividend cut",
-      "summary": "Deutsche Bank has maintained its 'buy' rating on PageGroup PLC (LSE:PAGE), the FTSE 250 recruitment ...",
-      "category": "General",
-      "importance": 5,
-      "source": "proactiveinvestors.co.uk",
-      "related_symbols": []
-    },
-    {
-      "headline": "Intrepid Potash's Q4 Earnings Beat Estimates, Revenues Up Y/Y",
-      "summary": "IPI posts Q4 adjusted profit as revenue jumps 36%, driven by strong Trio and potash performance, whi...",
-      "category": "General",
-      "importance": 5,
-      "source": "zacks.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Oil News: Crude Oil Futures Jump as War Threatens OPEC Production Flows",
-      "summary": "Crude oil futures surge above $86 as Middle East war threatens OPEC supply and Strait of Hormuz traf...",
-      "category": "General",
-      "importance": 5,
-      "source": "fxempire.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "bpost NV/SA (BPOSY) Q4 2025 Earnings Call Transcript",
-      "summary": "bpost NV/SA (BPOSY) Q4 2025 Earnings Call Transcript...",
-      "category": "General",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Had You Invested $1,000 in Northrop Grumman or Lockheed Martin a Decade Ago, Here's What You'd Have Now",
-      "summary": "On March 2, 2026, as news broke of U.S. and Israeli strikes on Iranian nuclear and military sites du...",
+      "headline": "These 3 Stocks Just Bounced From Lows — What Wall Street Thinks Comes Next",
+      "summary": "Wall Street's read on three of 2026's most volatile names—Moderna (NASDAQ: MRNA), Strategy (NASDAQ: ...",
       "category": "General",
       "importance": 5,
       "source": "247wallst.com",
       "related_symbols": []
     },
     {
-      "headline": "Samsung reveals first details of its AI smart glasses to CNBC",
-      "summary": "Samsung's upcoming AI smart glasses will feature a camera and be connected to a smartphone, Jay Kim,...",
+      "headline": "SunCar Forecasting Preliminary Unaudited 2025 Revenue of $498 million, Strong Q4 Growth of 24%, Second Half 2025 Profitability, and 20% Revenue Growth in 2026",
+      "summary": "NEW YORK, March 06, 2026 (GLOBE NEWSWIRE) -- SunCar Technology Group Inc. (the \"Company\" or \"SunCar\"...",
       "category": "General",
       "importance": 5,
-      "source": "cnbc.com",
+      "source": "globenewswire.com",
       "related_symbols": []
     },
     {
-      "headline": "Freeport-McMoRan's Shares Pop 39% in 3 Months: How to Play the Stock?",
-      "summary": "FCX is up 39% in three months on strong copper prices, but higher costs and lower volumes suggest ca...",
+      "headline": "Angkor Resources Announces Closing of Evesham Oil and Gas Sale",
+      "summary": "GRANDE PRAIRIE, ALBERTA – TheNewswire - March 6, 2026 - ANGKOR RESOURCES CORP. (TSXV: ANK) (“ANGKOR”...",
       "category": "General",
       "importance": 5,
-      "source": "zacks.com",
+      "source": "thenewswire.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Eightco ($ORBS) Highlights Treasury Position in Latest Update",
+      "summary": "ORBS holds nearly 10% of the current WLD supply in circulation The Company is supported by a group o...",
+      "category": "General",
+      "importance": 5,
+      "source": "prnewswire.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Servier and Day One Biopharmaceuticals announce acquisition to expand Servier's rare oncology portfolio",
+      "summary": "SURESNES, France and BRISBANE, Calif., March 06, 2026 (GLOBE NEWSWIRE) -- Servier, an independent in...",
+      "category": "General",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "DirectBooking Technology Co., Ltd. Announces Regained Compliance with Nasdaq Minimum Bid Price Requirement",
+      "summary": "DirectBooking Technology regained Nasdaq compliance as its stock closed at or above $1 for 10 straig...",
+      "category": "General",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Liberty Live Holdings, Inc. Announces 2026 Virtual Annual Meeting of Stockholders",
+      "summary": "ENGLEWOOD, Colo.--(BUSINESS WIRE)--Liberty Live Holdings, Inc. Announces 2026 Virtual Annual Meeting...",
+      "category": "General",
+      "importance": 5,
+      "source": "businesswire.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "XTI Aerospace to Participate in 2026 Wharton Aerospace Conference on Innovation and National Security",
+      "summary": "Company Executive to Join Industry Leaders Discussing Innovation, Manufacturing Capacity and the Fut...",
+      "category": "General",
+      "importance": 5,
+      "source": "prnewswire.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Twin Vee PowerCats Set to Redefine the Offshore Adventure Day Boat Category",
+      "summary": "FORT PIERCE, FLORIDA / ACCESS Newswire / March 6, 2026 / Twin Vee PowerCats Co. (NASDAQ:VEEE),(\"Twin...",
+      "category": "General",
+      "importance": 5,
+      "source": "accessnewswire.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Carlyle Secured Lending: I Believe The Dividend Has A +50% Chance Of Being Cut In 2026",
+      "summary": "Carlyle Secured Lending (CGBD) remains a 'hold' as I anticipate further underperformance due to macr...",
+      "category": "General",
+      "importance": 5,
+      "source": "seekingalpha.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "GoldHaven Files NI 43-101 Technical Report for the District-Scale Magno Polymetallic Project, Cassiar District, British Columbia",
+      "summary": "VANCOUVER, British Columbia, March 06, 2026 (GLOBE NEWSWIRE) -- GoldHaven Resources Corp. (\"GoldHave...",
+      "category": "General",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Reliance Global Group Schedules Fourth Quarter 2025 Financial Results and Business Update Conference Call",
+      "summary": "LAKEWOOD, N.J., March 06, 2026 (GLOBE NEWSWIRE) -- Reliance Global Group, Inc. (NASDAQ: EZRA) (“Reli...",
+      "category": "General",
+      "importance": 5,
+      "source": "globenewswire.com",
       "related_symbols": []
     }
   ],
