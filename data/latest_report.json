@@ -1,71 +1,71 @@
 {
-  "last_updated": "2026-03-06 22:53:43",
+  "last_updated": "2026-03-06 23:35:14",
   "quotes": {
     "NVDA": {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 183.34,
-      "change": 0.3,
-      "changesPercentage": 0.1639,
-      "previousClose": 183.04,
+      "price": 180.8058,
+      "change": -2.5342,
+      "changesPercentage": -1.38224,
+      "previousClose": 183.34,
       "yearStart": 188.85,
-      "ytdChange": -5.509999999999991,
-      "ytdChangePercentage": -2.917659518136082
+      "ytdChange": -8.04419999999999,
+      "ytdChangePercentage": -4.259571088165205
     },
     "AAPL": {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": 260.29,
-      "change": -2.23,
-      "changesPercentage": -0.84946,
-      "previousClose": 262.52,
+      "price": 255.385,
+      "change": -4.905,
+      "changesPercentage": -1.88444,
+      "previousClose": 260.29,
       "yearStart": 271.01,
-      "ytdChange": -10.71999999999997,
-      "ytdChangePercentage": -3.9555735950702817
-    },
-    "GOOG": {
-      "symbol": "GOOG",
-      "name": "Alphabet Inc.",
-      "price": 300.91,
-      "change": -2.53999,
-      "changesPercentage": -0.83704,
-      "previousClose": 303.44999,
-      "yearStart": 315.32,
-      "ytdChange": -14.409999999999968,
-      "ytdChangePercentage": -4.5699606748699635
+      "ytdChange": -15.625,
+      "ytdChangePercentage": -5.765469908859452
     },
     "GOOGL": {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "price": 300.88,
-      "change": -2.25001,
-      "changesPercentage": -0.74226,
-      "previousClose": 303.13001,
+      "price": 297.46,
+      "change": -3.42,
+      "changesPercentage": -1.13667,
+      "previousClose": 300.88,
       "yearStart": 315.15,
-      "ytdChange": -14.269999999999982,
-      "ytdChangePercentage": -4.5280025384737375
+      "ytdChange": -17.689999999999998,
+      "ytdChangePercentage": -5.613200063461844
+    },
+    "GOOG": {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc.",
+      "price": 297.4299,
+      "change": -3.4801,
+      "changesPercentage": -1.15653,
+      "previousClose": 300.91,
+      "yearStart": 315.32,
+      "ytdChange": -17.890100000000018,
+      "ytdChangePercentage": -5.673633134593435
     },
     "MSFT": {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": 410.68,
-      "change": 5.48,
-      "changesPercentage": 1.35242,
-      "previousClose": 405.2,
+      "price": 411.67,
+      "change": 0.99,
+      "changesPercentage": 0.24106,
+      "previousClose": 410.68,
       "yearStart": 472.94,
-      "ytdChange": -62.25999999999999,
-      "ytdChangePercentage": -13.164460608110964
+      "ytdChange": -61.26999999999998,
+      "ytdChangePercentage": -12.955131729183403
     },
     "AMZN": {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "price": 218.94,
-      "change": 2.12,
-      "changesPercentage": 0.97777,
-      "previousClose": 216.82,
+      "price": 216.3436,
+      "change": -2.5964,
+      "changesPercentage": -1.1859,
+      "previousClose": 218.94,
       "yearStart": 226.5,
-      "ytdChange": -7.560000000000002,
-      "ytdChangePercentage": -3.337748344370862
+      "ytdChange": -10.15639999999999,
+      "ytdChangePercentage": -4.484061810154522
     },
     "VSMPX": {
       "symbol": "VSMPX",
@@ -103,46 +103,35 @@
     "TSM": {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
-      "price": 353.86,
-      "change": -3.58,
-      "changesPercentage": -1.00157,
-      "previousClose": 357.44,
+      "price": 344.34,
+      "change": -9.52,
+      "changesPercentage": -2.69033,
+      "previousClose": 353.86,
       "yearStart": 319.61,
-      "ytdChange": 34.25,
-      "ytdChangePercentage": 10.716185350896405
+      "ytdChange": 24.72999999999996,
+      "ytdChangePercentage": 7.737555145333362
     },
     "META": {
       "symbol": "META",
       "name": "Meta Platforms, Inc.",
-      "price": 660.57,
-      "change": -7.16,
-      "changesPercentage": -1.07229,
-      "previousClose": 667.73,
+      "price": 638.67,
+      "change": -21.9,
+      "changesPercentage": -3.31532,
+      "previousClose": 660.57,
       "yearStart": 650.41,
-      "ytdChange": 10.160000000000082,
-      "ytdChangePercentage": 1.5620916037576424
+      "ytdChange": -11.740000000000009,
+      "ytdChangePercentage": -1.8050152980427745
     },
     "AVGO": {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "price": 332.77,
-      "change": 15.24,
-      "changesPercentage": 4.79955,
-      "previousClose": 317.53,
+      "price": 331.13541,
+      "change": -1.63459,
+      "changesPercentage": -0.49121,
+      "previousClose": 332.77,
       "yearStart": 347.62,
-      "ytdChange": -14.850000000000023,
-      "ytdChangePercentage": -4.271906104366844
-    },
-    "TSLA": {
-      "symbol": "TSLA",
-      "name": "Tesla, Inc.",
-      "price": 405.55,
-      "change": -0.39,
-      "changesPercentage": -0.09607331,
-      "previousClose": 405.94,
-      "yearStart": 438.07,
-      "ytdChange": -32.51999999999998,
-      "ytdChangePercentage": -7.42347113475015
+      "ytdChange": -16.484590000000026,
+      "ytdChangePercentage": -4.742129336631962
     },
     "VFINX": {
       "symbol": "VFINX",
@@ -177,60 +166,71 @@
       "ytdChange": -1.4399999999999409,
       "ytdChangePercentage": -0.22742348147445293
     },
+    "TSLA": {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 396.305,
+      "change": -9.245,
+      "changesPercentage": -2.27962,
+      "previousClose": 405.55,
+      "yearStart": 438.07,
+      "ytdChange": -41.764999999999986,
+      "ytdChangePercentage": -9.533864450886842
+    },
     "BCTK": {
       "symbol": "BCTK",
       "name": "Baron Technology ETF",
-      "price": 24.9577,
-      "change": 0.083,
-      "changesPercentage": 0.33367,
-      "previousClose": 24.8747,
+      "price": 24.49,
+      "change": -0.4677,
+      "changesPercentage": -1.87397,
+      "previousClose": 24.9577,
       "yearStart": 25.29,
-      "ytdChange": -0.33230000000000004,
-      "ytdChangePercentage": -1.3139580862000793
+      "ytdChange": -0.8000000000000007,
+      "ytdChangePercentage": -3.16330565440886
     },
     "BRK-B": {
       "symbol": "BRK-B",
       "name": "Berkshire Hathaway Inc.",
-      "price": 500.19,
-      "change": 12.71,
-      "changesPercentage": 2.60729,
-      "previousClose": 487.48,
+      "price": 498.755,
+      "change": -1.535,
+      "changesPercentage": -0.30682,
+      "previousClose": 500.29,
       "yearStart": 496.85,
-      "ytdChange": 3.339999999999975,
-      "ytdChangePercentage": 0.6722350810103602
+      "ytdChange": 1.9049999999999727,
+      "ytdChangePercentage": 0.3834155177618944
     },
     "BRK-A": {
       "symbol": "BRK-A",
       "name": "Berkshire Hathaway Inc.",
-      "price": 749989.22,
-      "change": 19282.21,
-      "changesPercentage": 2.63884,
-      "previousClose": 730707.01,
+      "price": 745941.7,
+      "change": -4683.4,
+      "changesPercentage": -0.62393,
+      "previousClose": 750625.1,
       "yearStart": 744120,
-      "ytdChange": 5869.219999999972,
-      "ytdChangePercentage": 0.7887464387464349
+      "ytdChange": 1821.6999999999534,
+      "ytdChangePercentage": 0.24481266462397913
     },
     "WMT": {
       "symbol": "WMT",
       "name": "Walmart Inc.",
-      "price": 123.31,
-      "change": -4.5,
-      "changesPercentage": -3.52085,
-      "previousClose": 127.81,
+      "price": 122.3947,
+      "change": -0.9153,
+      "changesPercentage": -0.74228,
+      "previousClose": 123.31,
       "yearStart": 112.76,
-      "ytdChange": 10.549999999999997,
-      "ytdChangePercentage": 9.356154664774738
+      "ytdChange": 9.634699999999995,
+      "ytdChangePercentage": 8.544430649166367
     },
     "^FTSE": {
       "symbol": "^FTSE",
       "name": "FTSE100",
-      "price": 10342.12,
-      "change": -71.82,
-      "changesPercentage": -0.68965,
+      "price": 10260,
+      "change": -153.94,
+      "changesPercentage": -1.47821,
       "previousClose": 10413.94,
       "yearStart": 9951.14,
-      "ytdChange": 390.9800000000014,
-      "ytdChangePercentage": 3.9289970797315825
+      "ytdChange": 308.8600000000006,
+      "ytdChangePercentage": 3.103764995769335
     },
     "7203.T": {
       "symbol": "7203.T",
@@ -466,178 +466,178 @@
     "^DJI": {
       "symbol": "^DJI",
       "name": "ダウ平均",
-      "price": 47954.73828125,
-      "change": -784.671875,
-      "changesPercentage": -1.6099330551692759,
-      "previousClose": 48739.41015625,
+      "price": 47153.08984375,
+      "change": -801.6484375,
+      "changesPercentage": -1.671677223632017,
+      "previousClose": 47954.73828125,
       "yearStart": 48382.390625,
-      "ytdChange": -427.65234375,
-      "ytdChangePercentage": -0.8839008123112974
+      "ytdChange": -1229.30078125,
+      "ytdChangePercentage": -2.540802067384408
     },
     "^IXIC": {
       "symbol": "^IXIC",
       "name": "ナスダック",
-      "price": 22748.990234375,
-      "change": -58.490234375,
-      "changesPercentage": -0.2564519761625632,
-      "previousClose": 22807.48046875,
+      "price": 22426.728515625,
+      "change": -322.26171875,
+      "changesPercentage": -1.4165979035985714,
+      "previousClose": 22748.990234375,
       "yearStart": 23235.630859375,
-      "ytdChange": -486.640625,
-      "ytdChangePercentage": -2.0943723368012304
+      "ytdChange": -808.90234375,
+      "ytdChangePercentage": -3.4813014057831273
     },
     "^GSPC": {
       "symbol": "^GSPC",
       "name": "S&P 500",
-      "price": 6830.7099609375,
-      "change": -38.7900390625,
-      "changesPercentage": -0.5646704863891113,
-      "previousClose": 6869.5,
+      "price": 6735.06005859375,
+      "change": -95.64990234375,
+      "changesPercentage": -1.4002922520607544,
+      "previousClose": 6830.7099609375,
       "yearStart": 6858.47021484375,
-      "ytdChange": -27.76025390625,
-      "ytdChangePercentage": -0.40475868578052043
+      "ytdChange": -123.41015625,
+      "ytdChangePercentage": -1.7993831333247474
     },
     "^GDAXI": {
       "symbol": "^GDAXI",
       "name": "DAX",
-      "price": 23637.66015625,
-      "change": -178.08984375,
-      "changesPercentage": -0.7477817988096113,
+      "price": 23393.76953125,
+      "change": -421.98046875,
+      "changesPercentage": -1.771854628764578,
       "previousClose": 23815.75,
       "yearStart": 24539.33984375,
-      "ytdChange": -901.6796875,
-      "ytdChangePercentage": -3.674425201498041
+      "ytdChange": -1145.5703125,
+      "ytdChangePercentage": -4.66830126561766
     },
     "^STOXX": {
       "symbol": "^STOXX",
       "name": "欧州STOXX",
-      "price": 599.8599853515625,
-      "change": -4.97003173828125,
-      "changesPercentage": -0.8217237236661459,
+      "price": 594.3300170898438,
+      "change": -10.5,
+      "changesPercentage": -1.736024949707529,
       "previousClose": 604.8300170898438,
       "yearStart": 601.760009765625,
-      "ytdChange": -1.9000244140625,
-      "ytdChangePercentage": -0.3157445465348431
+      "ytdChange": -7.42999267578125,
+      "ytdChangePercentage": -1.2347102757252184
     }
   },
   "news": [
     {
-      "headline": "Gold rallies near session highs after U.S. retail sales drop -0.2% in January",
-      "summary": "Ernest Hoffman is a Crypto and Market Reporter for Kitco News. He has over 15 years of experience as...",
+      "headline": "Key Primark hires give ABF investors “clarity and certainty” - broker",
+      "summary": "Associated British Foods PLC's (LSE:ABF) new boardroom hires have removed a layer of uncertainty aro...",
       "category": "General",
       "importance": 5,
-      "source": "kitco.com",
+      "source": "proactiveinvestors.co.uk",
       "related_symbols": []
     },
     {
-      "headline": "Should Investors Buy Credo Technology Stock Post Q3 Earnings?",
-      "summary": "CRDO posts 201% jump in Q3 revenues as AI connectivity demand climbs, but stock volatility after ear...",
+      "headline": "Will Linzess Continue to Aid IRWD's Top Line in 2026 After a Soft Q4?",
+      "summary": "Ironwood sees Linzess rebounding in 2026 despite soft Q4 results, helped by strong prescription dema...",
       "category": "General",
       "importance": 5,
       "source": "zacks.com",
       "related_symbols": []
     },
     {
-      "headline": "Clarivate: A Tough Operating Backdrop Ahead",
-      "summary": "Clarivate (CLVT) remains a hold as core organic growth continues to deteriorate, with no evidence of...",
+      "headline": "Is This the Right Time to Hold Thermo Fisher Stock in Your Portfolio?",
+      "summary": "TMO's acquisitions and resilient pharma, biotech and diagnostics demand support growth, but currency...",
+      "category": "General",
+      "importance": 5,
+      "source": "zacks.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Ciena's Q1 Earnings & Revenues Beat, Surge Y/Y, Stock Falls",
+      "summary": "CIEN tops fiscal Q1 2026 estimates as AI-driven network demand lifts revenue 33%. Cloud growth and a...",
+      "category": "General",
+      "importance": 5,
+      "source": "zacks.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Quantum Computing's Major Growth Catalysts Heading Into 2026",
+      "summary": "QUBT eyes 2026 growth from Luminar Semiconductor acquisition, Fab 1 foundry ramp, photonic AI system...",
+      "category": "General",
+      "importance": 5,
+      "source": "zacks.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "How Microsoft Stock Falls To $325?",
+      "summary": "As of March 6, 2026, Microsoft stands at a pivotal moment. Although the technology titan has establi...",
+      "category": "General",
+      "importance": 5,
+      "source": "forbes.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Is GE Stock Flying Too High?",
+      "summary": "Although GE Aerospace continues to be a powerhouse in the propulsion and systems market, its present...",
+      "category": "General",
+      "importance": 5,
+      "source": "forbes.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "How Amazon Stock Rewrote Its Future",
+      "summary": "In just over three years, Amazon (NASDAQ: AMZN) evolved from a “battered retailer” into a “high-marg...",
+      "category": "General",
+      "importance": 5,
+      "source": "forbes.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Nvidia: Why The Permit Fears Don't Change Bullish Case",
+      "summary": "Nvidia Corporation remains a Buy after Q4, with robust financials and continued demand for its AI ch...",
       "category": "General",
       "importance": 5,
       "source": "seekingalpha.com",
       "related_symbols": []
     },
     {
-      "headline": "New England Journal of Medicine publishes phase III ALLEGORY data showing Roche's Gazyva/Gazyvaro significantly reduces disease activity in the most common form of lupus",
-      "summary": "Basel, 06 March 2026 - Roche (SIX: RO, ROG; OTCQX: RHHBY) announced today that a detailed analysis o...",
-      "category": "General",
-      "importance": 5,
-      "source": "globenewswire.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "FIBRA Prologis Announces an Ordinary Certificate Holders Meeting",
-      "summary": "MEXICO CITY, March 6, 2026 /PRNewswire/ -- FIBRA Prologis (BMV: FIBRAPL 14), a leading owner and ope...",
-      "category": "General",
-      "importance": 5,
-      "source": "prnewswire.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Gates Industrial: Industrial Markets May Be Stabilizing But Uncertainty Remains",
-      "summary": "Gates Industrial Corporation plc (GTES) remains rated 'Hold' due to valuation concerns and insuffici...",
-      "category": "General",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Kuwait Cuts Oil Production as Storage Fills Up",
-      "summary": "The cuts signal a broader storage crisis that poses new risks to the global market....",
-      "category": "General",
-      "importance": 5,
-      "source": "wsj.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "The 5 Safest Dividend Kings Have Raised Their Dividends for Over 50 Years",
-      "summary": "Investors love dividend stocks because they provide dependable passive income streams and an excelle...",
+      "headline": "Alphabet Could Simply Be the Best Tech Stock to Own — and It's Still Cheap",
+      "summary": "Technology juggernaut Alphabet (NASDAQ:GOOG) continues to be a top pick of mine, Wall Street analyst...",
       "category": "General",
       "importance": 5,
       "source": "247wallst.com",
       "related_symbols": []
     },
     {
-      "headline": "Gold prices jump as the U.S. economy loses 92k jobs",
-      "summary": "Neils Christensen has a diploma in journalism from Lethbridge College and has more than a decade of ...",
+      "headline": "RR INVESTOR ALERT: Faruqi & Faruqi, LLP Reminds Richtech Robotics Investors of the Securities Class Action Lawsuit Deadline on April 3, 2026",
+      "summary": "Faruqi & Faruqi, LLP Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suff...",
       "category": "General",
       "importance": 5,
-      "source": "kitco.com",
+      "source": "prnewswire.com",
       "related_symbols": []
     },
     {
-      "headline": "AtaiBeckley reports 2025 results as it eyes Q2 start for Phase 3 depression trial",
-      "summary": "AtaiBeckley Inc. (NASDAQ:ATAI, XETRA:9VC) has reported its fourth quarter and full-year 2025 financi...",
-      "category": "General",
-      "importance": 5,
-      "source": "proactiveinvestors.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Shell Secures Major Oil and Gas Agreements With Venezuela",
-      "summary": "SHEL expands Venezuela footprint with Dragon gas project and new partnerships, targeting first gas t...",
-      "category": "General",
-      "importance": 5,
-      "source": "zacks.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Will AbbVie's Neuroscience Segment Continue to Aid Top Line in 2026?",
-      "summary": "ABBV's neuroscience unit delivered $10.8B in 2025 and can hit $12.5B in 2026 as Vyalev gains tractio...",
-      "category": "General",
-      "importance": 5,
-      "source": "zacks.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "BURL Stock Up 7% After Q4 Earnings Beat Estimates & Comps Up Y/Y",
-      "summary": "Burlington Stores jumps 7% after Q4 earnings and revenues top estimates, due to 4% comps growth and ...",
-      "category": "General",
-      "importance": 5,
-      "source": "zacks.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Algonquin Power & Utilities (AQN) Tops Q4 Earnings and Revenue Estimates",
-      "summary": "Algonquin Power & Utilities (AQN) came out with quarterly earnings of $0.06 per share, beating the Z...",
-      "category": "General",
-      "importance": 5,
-      "source": "zacks.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Oil Prices Will Dictate When This War Ends",
-      "summary": "Equity, bond, and commodity markets are under pressure as oil prices surge amid escalating geopoliti...",
+      "headline": "Coty: The Market Is Holding Its Nose, But I Smell Opportunity",
+      "summary": "Coty shares have sold off sharply after suspending FY'26 guidance and reporting weak near-term outlo...",
       "category": "General",
       "importance": 5,
       "source": "seekingalpha.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "The NASDAQ Dividend Stocks Retirees Are Loading Up On Before the Next Rate Cut",
+      "summary": "U.S. Treasury bonds paid decent yields for a while, but that's very likely to come to an end soon....",
+      "category": "General",
+      "importance": 5,
+      "source": "247wallst.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "5 Low P/B Ratio Stocks That You May Consider Buying in March",
+      "summary": "Ford, USANA, Strategic Education, Patria Investments and Concentrix are some low P/B picks, signalin...",
+      "category": "General",
+      "importance": 5,
+      "source": "zacks.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Stocks to Keep an Eye on to Take Advantage of the Gig Economy Boom",
+      "summary": "The gig economy offers multiple benefits. If you wish to make the most of this popular trend, focusi...",
+      "category": "General",
+      "importance": 5,
+      "source": "zacks.com",
       "related_symbols": []
     }
   ],
