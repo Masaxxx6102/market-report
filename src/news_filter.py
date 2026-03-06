@@ -11,7 +11,7 @@ class NewsFilterAI:
     """
     def __init__(self, gemini_key: str):
         genai.configure(api_key=gemini_key)
-        self.model = genai.GenerativeModel('gemini-3.1-flash-lite-preview') # Latest free-tier/low-cost model
+        self.model = genai.GenerativeModel('gemini-2.5-flash') # Standard high-performance model (March 2026)
 
     @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
     def filter_news(self, news_items: List[Dict[str, Any]], watchlist_symbols: List[str] = None) -> List[Dict[str, Any]]:

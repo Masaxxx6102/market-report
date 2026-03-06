@@ -83,31 +83,52 @@ class ChartGenerator:
         # Explicitly set the font to the one provided by japanize-matplotlib
         plt.rcParams['font.family'] = 'IPAexGothic'
         
-        # Prepare style with market colors and explicit Japanese font family
-        mc = mpf.make_marketcolors(up='#ff4444', down='#00c853', edge='inherit', wick='inherit', volume='in', inherit=True)
-        # 'night' is not always available, using 'charles' as base and overriding to deep dark
-        s = mpf.make_mpf_style(base_mpf_style='charles', marketcolors=mc, gridstyle='--', 
-                             y_on_right=False, rc={'font.family': 'IPAexGothic', 'axes.facecolor': '#000000', 'figure.facecolor': '#000000', 'text.color': 'white', 'axes.labelcolor': 'white', 'xtick.color': 'white', 'ytick.color': 'white', 'grid.color': '#1f1f1f'})
+        # Prepare style with premium market colors (Neon)
+        mc = mpf.make_marketcolors(up='#00ffcc', down='#ff0055', edge='inherit', wick='inherit', volume='in', inherit=True)
         
-        # Prepare figure (Removed invalid 'fontfamily' kwarg)
+        # Dashboard-matching dark theme
+        s = mpf.make_mpf_style(base_mpf_style='charles', marketcolors=mc, gridstyle=':', 
+                             y_on_right=False, 
+                             rc={
+                                 'font.family': 'IPAexGothic', 
+                                 'axes.facecolor': '#03060a', 
+                                 'figure.facecolor': '#03060a', 
+                                 'text.color': '#8b949e', 
+                                 'axes.labelcolor': '#8b949e', 
+                                 'xtick.color': '#58a6ff', 
+                                 'ytick.color': '#58a6ff', 
+                                 'grid.color': '#1f242c',
+                                 'axes.edgecolor': '#1f242c'
+                             })
+        
+        # Prepare figure
         fig, axes = mpf.plot(df, type='candle', style=s, 
-                           volume=True, returnfig=True, figsize=(12, 8), 
-                           datetime_format='%Y/%m', xrotation=0) 
+                           volume=True, returnfig=True, figsize=(14, 9), 
+                           datetime_format='%Y/%m', xrotation=0,
+                           tight_layout=True) 
         
         ax1 = axes[0]
-        # Explicitly set font on title and text as well
-        ax1.set_title(title, fontsize=28, fontweight='bold', pad=50, fontname='IPAexGothic')
+        # Title styling (Premium look)
+        ax1.set_title(title, fontsize=32, fontweight='bold', pad=40, fontname='IPAexGothic', color='#ffffff')
         
         if subtitle:
-            ax1.text(0, 1.08, f"開始時期: {subtitle}", transform=ax1.transAxes, 
-                    ha='left', fontsize=20, color='#D32F2F', fontweight='bold', fontname='IPAexGothic')
+            ax1.text(0.02, 0.95, f" {subtitle}", transform=ax1.transAxes, 
+                    ha='left', fontsize=22, color='#58a6ff', fontweight='bold', fontname='IPAexGothic',
+                    bbox=dict(facecolor='#03060a', alpha=0.8, edgecolor='none'))
 
-        # Formatting
-        ax1.tick_params(axis='both', which='major', labelsize=18)
+        # Formatting axis
+        ax1.tick_params(axis='both', which='major', labelsize=18, colors='#8b949e')
+        ax1.yaxis.label.set_color('#8b949e')
         ax1.yaxis.label.set_size(18)
+        
+        # Grid refinement
+        ax1.grid(True, linestyle=':', alpha=0.3, color='#1f242c')
+        
         if len(axes) > 2: 
-            axes[2].tick_params(labelsize=14)
+            axes[2].tick_params(labelsize=14, colors='#8b949e')
+            axes[2].yaxis.label.set_color('#8b949e')
             axes[2].yaxis.label.set_size(14)
         
-        plt.savefig(path, dpi=120, bbox_inches='tight')
+        # Save with matching background
+        plt.savefig(path, dpi=120, facecolor='#03060a', bbox_inches='tight')
         plt.close(fig)
