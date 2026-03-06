@@ -1,71 +1,71 @@
 {
-  "last_updated": "2026-03-07 04:03:59",
+  "last_updated": "2026-03-07 04:32:12",
   "quotes": {
     "NVDA": {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 180.89,
-      "change": -2.45,
-      "changesPercentage": -1.33631,
+      "price": 180.615,
+      "change": -2.725,
+      "changesPercentage": -1.48631,
       "previousClose": 183.34,
       "yearStart": 188.85,
-      "ytdChange": -7.960000000000008,
-      "ytdChangePercentage": -4.214985438178453
+      "ytdChange": -8.234999999999985,
+      "ytdChangePercentage": -4.3606036536934
     },
     "AAPL": {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": 256.435,
-      "change": -3.855,
-      "changesPercentage": -1.48104,
+      "price": 257.25,
+      "change": -3.04,
+      "changesPercentage": -1.16793,
       "previousClose": 260.29,
       "yearStart": 271.01,
-      "ytdChange": -14.574999999999989,
-      "ytdChangePercentage": -5.3780303309840924
+      "ytdChange": -13.759999999999991,
+      "ytdChangePercentage": -5.077303420537985
     },
     "GOOGL": {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "price": 299.53,
-      "change": -1.35,
-      "changesPercentage": -0.44868,
+      "price": 299.34,
+      "change": -1.54,
+      "changesPercentage": -0.51183,
       "previousClose": 300.88,
       "yearStart": 315.15,
-      "ytdChange": -15.620000000000005,
-      "ytdChangePercentage": -4.956369982547995
+      "ytdChange": -15.810000000000002,
+      "ytdChangePercentage": -5.016658733936222
     },
     "GOOG": {
       "symbol": "GOOG",
       "name": "Alphabet Inc.",
-      "price": 299.4057,
-      "change": -1.5043,
-      "changesPercentage": -0.49992,
+      "price": 299.12,
+      "change": -1.79,
+      "changesPercentage": -0.59486,
       "previousClose": 300.91,
       "yearStart": 315.32,
-      "ytdChange": -15.914299999999969,
-      "ytdChangePercentage": -5.04703158695927
+      "ytdChange": -16.19999999999999,
+      "ytdChangePercentage": -5.1376379550932345
     },
     "MSFT": {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": 410.065,
-      "change": -0.615,
-      "changesPercentage": -0.14975,
+      "price": 410.38,
+      "change": -0.3,
+      "changesPercentage": -0.07304958,
       "previousClose": 410.68,
       "yearStart": 472.94,
-      "ytdChange": -62.875,
-      "ytdChangePercentage": -13.294498245020511
+      "ytdChange": -62.56,
+      "ytdChangePercentage": -13.227893601725377
     },
     "AMZN": {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "price": 215.07,
-      "change": -3.87,
-      "changesPercentage": -1.76761,
+      "price": 214.73,
+      "change": -4.21,
+      "changesPercentage": -1.9229,
       "previousClose": 218.94,
       "yearStart": 226.5,
-      "ytdChange": -11.430000000000007,
-      "ytdChangePercentage": -5.046357615894043
+      "ytdChange": -11.77000000000001,
+      "ytdChangePercentage": -5.196467991169983
     },
     "VSMPX": {
       "symbol": "VSMPX",
@@ -103,35 +103,35 @@
     "TSM": {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
-      "price": 343.875,
-      "change": -9.985,
-      "changesPercentage": -2.82174,
+      "price": 343.84,
+      "change": -10.02,
+      "changesPercentage": -2.83163,
       "previousClose": 353.86,
       "yearStart": 319.61,
-      "ytdChange": 24.264999999999986,
-      "ytdChangePercentage": 7.59206532962047
+      "ytdChange": 24.22999999999996,
+      "ytdChangePercentage": 7.581114483276481
     },
     "META": {
       "symbol": "META",
       "name": "Meta Platforms, Inc.",
-      "price": 645.26,
-      "change": -15.31,
-      "changesPercentage": -2.3177,
+      "price": 645.945,
+      "change": -14.625,
+      "changesPercentage": -2.214,
       "previousClose": 660.57,
       "yearStart": 650.41,
-      "ytdChange": -5.149999999999977,
-      "ytdChangePercentage": -0.7918082440306848
+      "ytdChange": -4.464999999999918,
+      "ytdChangePercentage": -0.6864900601159143
     },
     "AVGO": {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "price": 339.765,
-      "change": 6.995,
-      "changesPercentage": 2.10205,
+      "price": 339.12,
+      "change": 6.35,
+      "changesPercentage": 1.90822,
       "previousClose": 332.77,
       "yearStart": 347.62,
-      "ytdChange": -7.855000000000018,
-      "ytdChangePercentage": -2.259651343420982
+      "ytdChange": -8.5,
+      "ytdChangePercentage": -2.4451987802773143
     },
     "VFINX": {
       "symbol": "VFINX",
@@ -169,57 +169,57 @@
     "TSLA": {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": 398.74,
-      "change": -6.81,
-      "changesPercentage": -1.6792,
+      "price": 399.549,
+      "change": -6.001,
+      "changesPercentage": -1.47972,
       "previousClose": 405.55,
       "yearStart": 438.07,
-      "ytdChange": -39.329999999999984,
-      "ytdChangePercentage": -8.978017211861115
+      "ytdChange": -38.521000000000015,
+      "ytdChangePercentage": -8.793343529572903
     },
     "BCTK": {
       "symbol": "BCTK",
       "name": "Baron Technology ETF",
-      "price": 24.7999,
-      "change": -0.1578,
-      "changesPercentage": -0.63227,
+      "price": 24.795,
+      "change": -0.1627,
+      "changesPercentage": -0.6519,
       "previousClose": 24.9577,
       "yearStart": 25.29,
-      "ytdChange": -0.4900999999999982,
-      "ytdChangePercentage": -1.937920126532219
+      "ytdChange": -0.49499999999999744,
+      "ytdChangePercentage": -1.9572953736654704
     },
     "BRK-B": {
       "symbol": "BRK-B",
       "name": "Berkshire Hathaway Inc.",
-      "price": 496.29,
-      "change": -4.11,
-      "changesPercentage": -0.82134,
+      "price": 497.92,
+      "change": -2.48,
+      "changesPercentage": -0.4956,
       "previousClose": 500.4,
       "yearStart": 496.85,
-      "ytdChange": -0.5600000000000023,
-      "ytdChangePercentage": -0.1127100734628162
+      "ytdChange": 1.0699999999999932,
+      "ytdChangePercentage": 0.21535674750930725
     },
     "BRK-A": {
       "symbol": "BRK-A",
       "name": "Berkshire Hathaway Inc.",
-      "price": 744396.2,
-      "change": -6353.7,
-      "changesPercentage": -0.84631,
+      "price": 746031.25,
+      "change": -4718.65,
+      "changesPercentage": -0.62852,
       "previousClose": 750749.9,
       "yearStart": 744120,
-      "ytdChange": 276.19999999995343,
-      "ytdChangePercentage": 0.03711766919313463
+      "ytdChange": 1911.25,
+      "ytdChangePercentage": 0.2568470139224856
     },
     "WMT": {
       "symbol": "WMT",
       "name": "Walmart Inc.",
-      "price": 123.1,
-      "change": -0.21,
-      "changesPercentage": -0.1703,
+      "price": 123.07,
+      "change": -0.24,
+      "changesPercentage": -0.19463,
       "previousClose": 123.31,
       "yearStart": 112.76,
-      "ytdChange": 10.33999999999999,
-      "ytdChangePercentage": 9.169918410783955
+      "ytdChange": 10.309999999999988,
+      "ytdChangePercentage": 9.143313231642415
     },
     "^FTSE": {
       "symbol": "^FTSE",
@@ -466,35 +466,35 @@
     "^DJI": {
       "symbol": "^DJI",
       "name": "ダウ平均",
-      "price": 47397.30078125,
-      "change": -557.4375,
-      "changesPercentage": -1.1624242358089452,
+      "price": 47501.73828125,
+      "change": -453.0,
+      "changesPercentage": -0.9446407513334717,
       "previousClose": 47954.73828125,
       "yearStart": 48382.390625,
-      "ytdChange": -985.08984375,
-      "ytdChangePercentage": -2.036050370857424
+      "ytdChange": -880.65234375,
+      "ytdChangePercentage": -1.820191876370309
     },
     "^IXIC": {
       "symbol": "^IXIC",
       "name": "ナスダック",
-      "price": 22509.474609375,
-      "change": -239.515625,
-      "changesPercentage": -1.0528626656935236,
+      "price": 22532.380859375,
+      "change": -216.609375,
+      "changesPercentage": -0.9521713832937125,
       "previousClose": 22748.990234375,
       "yearStart": 23235.630859375,
-      "ytdChange": -726.15625,
-      "ytdChangePercentage": -3.1251841380799608
+      "ytdChange": -703.25,
+      "ytdChangePercentage": -3.0266017060443016
     },
     "^GSPC": {
       "symbol": "^GSPC",
       "name": "S&P 500",
-      "price": 6755.02978515625,
-      "change": -75.68017578125,
-      "changesPercentage": -1.1079401147763426,
+      "price": 6764.8701171875,
+      "change": -65.83984375,
+      "changesPercentage": -0.963879949910267,
       "previousClose": 6830.7099609375,
       "yearStart": 6858.47021484375,
-      "ytdChange": -103.4404296875,
-      "ytdChangePercentage": -1.5082143167090591
+      "ytdChange": -93.60009765625,
+      "ytdChangePercentage": -1.3647372478730289
     },
     "^GDAXI": {
       "symbol": "^GDAXI",
@@ -521,138 +521,138 @@
   },
   "news": [
     {
-      "headline": "Rocket Pharmaceuticals, Inc. (RCKT) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
-      "summary": "Rocket Pharmaceuticals, Inc. (RCKT) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879610-rocket-pharmaceuticals-inc-rckt-presents-at-td-cowen-46th-annual-health-care-conference",
-      "related_symbols": []
-    },
-    {
-      "headline": "Nerds on Site Inc. (NOSUF) Shareholder/Analyst Call Transcript",
-      "summary": "Nerds on Site Inc. (NOSUF) Shareholder/Analyst Call Transcript",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879592-nerds-on-site-inc-nosuf-shareholder-analyst-call-transcript",
-      "related_symbols": []
-    },
-    {
-      "headline": "Canfor Corporation (CFP:CA) Q4 2025 Earnings Call Transcript",
-      "summary": "Canfor Corporation (CFP:CA) Q4 2025 Earnings Call Transcript",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879609-canfor-corporation-cfp-ca-q4-2025-earnings-call-transcript",
-      "related_symbols": []
-    },
-    {
-      "headline": "BOSTON SCIENTIFIC CORPORATION (BSX) INVESTOR ALERT Investors With Large Losses in Boston Scientific Corporation Should Contact Bernstein Liebhard LLP To Discuss Their Rights",
-      "summary": "Boston Scientific Shareholders Between July 23, 2025 and February 3, 2026 - Contact Bernstein Liebhard For More Information Regarding Shareholder Lawsuit",
+      "headline": "Zynex Investor Alert: Hagens Berman Alerts Zynex (ZYXI / ZYXIQ) Investors to Securities Class Action and April 21 Lead Plaintiff Deadline",
+      "summary": "SAN FRANCISCO, March 06, 2026 (GLOBE NEWSWIRE) -- National shareholder rights law firm Hagens Berman is notifying investors that a securities class action lawsuit has been filed against the former top executives of Zynex, Inc., whose common stock traded on the NASDAQ exchange under the symbol “ZYXI” prior to its suspension on Dec. 24, 2025 and subsequently traded over the counter as “ZYXIQ.” The lawsuit, captioned Beidel v.",
       "category": "【マーケット一般】",
       "importance": 5,
       "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251235/0/en/BOSTON-SCIENTIFIC-CORPORATION-BSX-INVESTOR-ALERT-Investors-With-Large-Losses-in-Boston-Scientific-Corporation-Should-Contact-Bernstein-Liebhard-LLP-To-Discuss-Their-Rights.html",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251248/32716/en/Zynex-Investor-Alert-Hagens-Berman-Alerts-Zynex-ZYXI-ZYXIQ-Investors-to-Securities-Class-Action-and-April-21-Lead-Plaintiff-Deadline.html",
       "related_symbols": []
     },
     {
-      "headline": "CompX Q4 Earnings Rise Y/Y on Margin Gains Despite Sales Dip",
-      "summary": "CIX posts higher y/y Q4 earnings as margins improve and Marine Components demand offsets softer Security Products sales.",
+      "headline": "Kuehn Law Encourages Investors of Nuvation Bio Inc. to Contact Law Firm",
+      "summary": "NEW YORK, March 6, 2026 /PRNewswire/ -- Kuehn Law, PLLC, a shareholder litigation law firm, is investigating whether certain officers and directors of Nuvation Bio Inc. (NYSE: NUVB) breached their fiduciary duties to shareholders.  The investigation concerns potential self-dealing.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/kuehn-law-encourages-investors-of-nuvation-bio-inc-to-contact-law-firm-302706992.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "Mastercard's Stablecoin Moment: SoFiUSD Gets Global Settlement Rails",
+      "summary": "MA expands its SoFi partnership to enable SoFiUSD stablecoin settlements across its global network, aiming to speed cross-border and B2B payments.",
       "category": "【マーケット一般】",
       "importance": 5,
       "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880432/compx-q4-earnings-rise-y-y-on-margin-gains-despite-sales-dip?cid=CS-STOCKNEWSAPI-FT-microcap_article|earnings-2880432",
+      "url": "https://www.zacks.com/stock/news/2880444/mastercard-s-stablecoin-moment-sofiusd-gets-global-settlement-rails?cid=CS-STOCKNEWSAPI-FT-analyst_blog|quick_take-2880444",
       "related_symbols": []
     },
     {
-      "headline": "Is Coherent's Deleveraging Plan Clearing the Runway for Growth?",
-      "summary": "COHR slashes debt via asset sales, cuts leverage to 1.7X and builds $899M cash, positioning the company to ramp capacity and chase surging datacenter demand.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880434/is-coherent-s-deleveraging-plan-clearing-the-runway-for-growth?cid=CS-STOCKNEWSAPI-FT-analyst_blog|quick_take-2880434",
-      "related_symbols": []
-    },
-    {
-      "headline": "CYH Agreed to Sell 4 Arkansas Hospitals for $112M to Reduce Debt",
-      "summary": "Community Health Systems is set to sell four Arkansas hospitals and related operations to Freeman Health System for $112M, advancing its divestiture strategy to reduce debt and refocus resources.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880433/cyh-agreed-to-sell-4-arkansas-hospitals-for-112m-to-reduce-debt?cid=CS-STOCKNEWSAPI-FT-analyst_blog|company_news_corporate_actions-2880433",
-      "related_symbols": []
-    },
-    {
-      "headline": "IMOM: Better Tactical ETF Than Long-Term Holding",
-      "summary": "The Alpha Architect Intl Quantitative Momentum ETF targets high-momentum international stocks, with a concentrated 50-stock portfolio and high turnover. IMOM has strong growth metrics without sacrificing value, and is heavily weighted in Japan and industrials, increasing sector and country risk. Despite underperforming EFA and peer momentum ETFs long-term, IMOM has outperformed them over the past year.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879596-imom-better-tactical-etf-than-long-term-holding",
-      "related_symbols": []
-    },
-    {
-      "headline": "Why Some Experts Think 'Defensive' Investors Could Lift Costco Stock Back Toward Records",
-      "summary": "Costco Wholesale's (COST) latest earnings beat estimates, giving its stock a lift. But what's next for the retailer's shares, which haven't done much over the past year?",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "investopedia.com",
-      "url": "https://www.investopedia.com/why-some-experts-think-defensive-investors-could-lift-costco-stock-back-toward-records-cost-11920818",
-      "related_symbols": []
-    },
-    {
-      "headline": "Can Annaly Sustain Its Impressive 12.2% Dividend Yield?",
-      "summary": "NLY pairs a 12.2% dividend yield with a $104.7B portfolio heavy in Agency MBS and $9.4B in liquidity, supporting payouts despite rate risks.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880430/can-annaly-sustain-its-impressive-12-2-dividend-yield?cid=CS-STOCKNEWSAPI-FT-analyst_blog|company_news_finance_sector-2880430",
-      "related_symbols": []
-    },
-    {
-      "headline": "My Largest BDC Pick KBDC Has Again Proven The Skeptics Wrong",
-      "summary": "Kayne Anderson BDC stands out as a top defensive BDC pick, demonstrating resilience amid sector headwinds and SaaS-related volatility. KBDC delivered quarter-over-quarter NII per share growth to $0.44, outpacing sector peers suffering dividend cuts and negative NII trends. The base dividend coverage is robust at 110%, with management guiding for the $0.40 dividend to be maintained throughout 2026.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879595-my-largest-bdc-pick-kbdc-has-proven-the-skeptics-wrong",
-      "related_symbols": []
-    },
-    {
-      "headline": "MacKenzie Realty Capital Secures additional $1 Million Loan for Non-Traded REIT Shares",
-      "summary": "ORINDA, Calif., March 06, 2026 (GLOBE NEWSWIRE) -- MacKenzie Realty Capital, Inc. (Nasdaq: MKZR) (“MacKenzie” or the “Company”) today announced the closing of an additional $1 million loan agreement with Streeterville Capital, a division of Chicago Venture Partners, for the purchase of non-traded REIT shares.",
+      "headline": "Corcept Therapeutics (CORT) Litigation: Hagens Berman Alerts Corcept (CORT) Investors to Securities Class Action and April 21 Lead Plaintiff Deadline",
+      "summary": "SAN FRANCISCO, March 06, 2026 (GLOBE NEWSWIRE) -- National shareholder rights law firm Hagens Berman is notifying investors that a securities class action lawsuit has been filed against Corcept Therapeutics Inc. (NASDAQ: CORT) and certain of its top executives. The lawsuit, Allegheny County Employees' Retirement System v.",
       "category": "【マーケット一般】",
       "importance": 5,
       "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251233/0/en/MacKenzie-Realty-Capital-Secures-additional-1-Million-Loan-for-Non-Traded-REIT-Shares.html",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251247/32716/en/Corcept-Therapeutics-CORT-Litigation-Hagens-Berman-Alerts-Corcept-CORT-Investors-to-Securities-Class-Action-and-April-21-Lead-Plaintiff-Deadline.html",
       "related_symbols": []
     },
     {
-      "headline": "CRWV Alert: Hagens Berman Analyzes CoreWeave (CRWV) $452M Q4 Loss and Soft Guidance Amid Ongoing Securities Fraud Litigation",
-      "summary": "SAN FRANCISCO, March 06, 2026 (GLOBE NEWSWIRE) -- National shareholder rights law firm Hagens Berman provides an update to investors in CoreWeave, Inc. (NASDAQ: CRWV) following the company's dismal fourth-quarter 2025 financial results. The news follows allegations that the company concealed operational failures, as pled in a recently filed securities class action.",
+      "headline": "Eurocommercial Properties N.V. (ECMPF) Q4 2025 Earnings Call Transcript",
+      "summary": "Eurocommercial Properties N.V. (ECMPF) Q4 2025 Earnings Call Transcript",
       "category": "【マーケット一般】",
       "importance": 5,
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251234/32716/en/CRWV-Alert-Hagens-Berman-Analyzes-CoreWeave-CRWV-452M-Q4-Loss-and-Soft-Guidance-Amid-Ongoing-Securities-Fraud-Litigation.html",
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4879421-eurocommercial-properties-n-v-ecmpf-q4-2025-earnings-call-transcript",
       "related_symbols": []
     },
     {
-      "headline": "FRMI CLASS ACTION DEADLINE TONIGHT: Faruqi & Faruqi, LLP Reminds Fermi Investors of Securities Class Action Deadline on March 6, 2026",
-      "summary": "NEW YORK--(BUSINESS WIRE)---- $FRMI #ClassAction--Faruqi & Faruqi, LLP, a leading national securities law firm, is investigating potential claims against Fermi Inc. (“Fermi” or the “Company”) (NASDAQ: FRMI) and reminds investors of the March 6, 2026 deadline to seek the role of lead plaintiff in a federal securities class action that has been filed against the Company. Faruqi & Faruqi is a leading national securities law firm with offices in New York, Pennsylvania, California and Georgia. The firm has recover.",
+      "headline": "Tsakos Energy Navigation Limited (TEN) Q4 2025 Earnings Call Transcript",
+      "summary": "Tsakos Energy Navigation Limited (TEN) Q4 2025 Earnings Call Transcript",
       "category": "【マーケット一般】",
       "importance": 5,
-      "source": "businesswire.com",
-      "url": "https://www.businesswire.com/news/home/20260306134875/en/FRMI-CLASS-ACTION-DEADLINE-TONIGHT-Faruqi-Faruqi-LLP-Reminds-Fermi-Investors-of-Securities-Class-Action-Deadline-on-March-6-2026/",
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4879556-tsakos-energy-navigation-limited-ten-q4-2025-earnings-call-transcript",
       "related_symbols": []
     },
     {
-      "headline": "Can Microchip's Expanding Portfolio Help Its Stock Deliver in 2026?",
-      "summary": "MCHP's expanding portfolio and AI-driven products support its 2026 prospects despite inventory and macro headwinds.",
+      "headline": "Will Deere's Tenna Buyout Aid Its Construction & Forestry Segment?",
+      "summary": "Deere & Company DE acquired construction technology company Tenna in February 2026 with the aim of scaling and growing the business using Tenna's customer-focused mixed-fleet model. The deal also aligns with Deere's broader strategy to expand the Construction & Forestry business.",
       "category": "【マーケット一般】",
       "importance": 5,
       "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880425/can-microchip-s-expanding-portfolio-help-its-stock-deliver-in-2026?cid=CS-STOCKNEWSAPI-FT-analyst_blog|company_news_tech_sector-2880425",
+      "url": "https://www.zacks.com/stock/news/2880443/will-deere-s-tenna-buyout-aid-its-construction-forestry-segment?cid=CS-STOCKNEWSAPI-FT-analyst_blog|quick_take-2880443",
+      "related_symbols": []
+    },
+    {
+      "headline": "Natural Gas, WTI Oil, Brent Oil Forecasts – WTI Oil Soars 16% As Trump Demands Iran's Unconditional Surrender",
+      "summary": "Oil traders enjoy an epic rally as Kuwait is forced to cut production.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "fxempire.com",
+      "url": "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-wti-oil-soars-16-as-trump-demands-irans-unconditional-surrender-1583893",
+      "related_symbols": []
+    },
+    {
+      "headline": "Bank Of America: Slipping Back Into The 'Buy' Zone",
+      "summary": "Bank of America remains a \"Buy\" as shares trade for 12.5x trailing earnings, below their 10-year average, despite robust prospects for earnings growth. BAC's net interest margin is expanding due to the repricing of low-yielding assets, and this looks set to be a multi-year tailwind for the bank. By nature, this growth will be great for operating leverage and BAC's return on tangible equity.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4879600-bank-of-america-slipping-back-into-the-buy-zone",
+      "related_symbols": []
+    },
+    {
+      "headline": "Sight Sciences Shareholders Are Encouraged to Reach Out to Johnson Fistel for More Information About Potentially Recovering Their Losses",
+      "summary": "SAN DIEGO, March 06, 2026 (GLOBE NEWSWIRE) -- Johnson Fistel, PLLP is investigating potential claims on behalf of investors of Sight Sciences, Inc. (NASDAQ: SGHT). The investigation focuses on Sight Sciences executive officers and whether investor losses may be recovered under federal securities laws.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251246/0/en/Sight-Sciences-Shareholders-Are-Encouraged-to-Reach-Out-to-Johnson-Fistel-for-More-Information-About-Potentially-Recovering-Their-Losses.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "RR Investor Alert: Richtech Robotics (RR) Facing Securities Class Action Amid Questions About Possible Pump and Dump – Hagens Berman",
+      "summary": "SAN FRANCISCO, March 06, 2026 (GLOBE NEWSWIRE) -- Richtech Robotics (NASDAQ: RR) has been hit with a securities class action lawsuit after Hunterbrook Media reported on January 29, 2026 that Microsoft denied a commercial partnership with Richtech, sending the price of Richtech shares down over 20% that day. The lawsuit seeks to represent investors who purchased or otherwise acquired Richtech securities between January 27, 2026 and January 29, 2026.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251244/32716/en/RR-Investor-Alert-Richtech-Robotics-RR-Facing-Securities-Class-Action-Amid-Questions-About-Possible-Pump-and-Dump-Hagens-Berman.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "Kyndryl Holdings (KD) Faces Securities Class Action Amid 55% Stock Drop After Four Bombshell Disclosures – Hagens Berman",
+      "summary": "SAN FRANCISCO, March 06, 2026 (GLOBE NEWSWIRE) -- On February 17, 2026, Kyndryl Holdings, Inc. (NYSE: KD) filed two amended quarterly reports and one amended annual report providing further detail about problems previously reported on February 9, 2026. The recent filings reveal that “the Company's disclosure controls and procedures and internal control over financial reporting were ineffective” as of March 31, June 30, and September 30, 2025.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251243/32716/en/Kyndryl-Holdings-KD-Faces-Securities-Class-Action-Amid-55-Stock-Drop-After-Four-Bombshell-Disclosures-Hagens-Berman.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "AU Registers 72% Y/Y Surge in 2025 Revenues: More Upside Ahead?",
+      "summary": "AngloGold Ashanti PLC AU posted gold revenues of $9.73 billion in 2025, which surged 71.5% year over year. This was driven by a 16% year-over-year increase in gold production in the year and higher metal prices.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/stock/news/2880441/au-registers-72-y-y-surge-in-2025-revenues-more-upside-ahead?cid=CS-STOCKNEWSAPI-FT-analyst_blog|quick_take-2880441",
+      "related_symbols": []
+    },
+    {
+      "headline": "WORLDLINE : Launch of the reserved capital increase - Press release",
+      "summary": "Worldline launches a c. €108 million reserved capital increase to its strategic investors, representing the first step in its contemplated c. €500 million share capital increase",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251242/0/en/WORLDLINE-Launch-of-the-reserved-capital-increase-Press-release.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "Salesforce: A Week After Earnings, the Market Has Spoken",
+      "summary": "Software giant Salesforce Inc NYSE: CRM has spent the past year on the defensive in a major way. Its shares fell as much as 50% from last year's highs before recovering and currently trade right around $200, reflecting widespread concerns that artificial intelligence (AI) could disrupt parts of the company's traditional business model.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "marketbeat.com",
+      "url": "https://www.marketbeat.com/originals/salesforce-a-week-after-earnings-the-market-has-spoken/",
       "related_symbols": []
     }
   ],
