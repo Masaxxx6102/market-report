@@ -8,8 +8,9 @@ on:
       - 'data/latest_report.json'
       - 'charts/**'
   schedule:
-    # Every 1 hour as baseline
+    # Hourly baseline
     - cron: '0 * * * *'
+    - cron: '30 22 * * *' # 07:30 JST (Email delivery time)
     # Every 15 minutes during US/JP active market ranges (approx 22:00-11:00 UTC)
     - cron: '*/15 22-23 * * *'
     - cron: '*/15 0-10 * * *'
@@ -45,7 +46,17 @@ jobs:
         GMAIL_CREDENTIALS_JSON: ${{ secrets.GMAIL_CREDENTIALS_JSON }}
 
     - name: Run Market Report
-      run: python main.py
+      run: |
+        if [ "${{ github.event_name }}" == "schedule" ] && [ "${{ github.event.schedule }}" == "30 22 * * *" ]; then
+          echo "Scheduled daily report time (07:30 JST). Sending email..."
+          python main.py
+        elif [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+          echo "Manual trigger. Sending email..."
+          python main.py
+        else
+          echo "Periodic update. Skipping email..."
+          python main.py --no-email
+        fi
       env:
         FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
