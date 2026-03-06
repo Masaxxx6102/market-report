@@ -11,7 +11,6 @@ email:
   sender: "mitamura@forcus.inc"
   recipients:
     - "mitamura@forcus.inc"
-    - "kubota@forcus.inc"
   subject_template: "日次マーケットレポート {date}"
 
 market_cap_filters:
@@ -49,3 +48,4 @@ organization: "Forcus株式会社"
 report_title: "Daily Market Report"
 timezone: "Asia/Tokyo"
 delivery_time: "16:42"
+
