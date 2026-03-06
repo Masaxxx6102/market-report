@@ -1,71 +1,71 @@
 {
-  "last_updated": "2026-03-06 23:35:14",
+  "last_updated": "2026-03-07 00:23:58",
   "quotes": {
     "NVDA": {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 180.8058,
-      "change": -2.5342,
-      "changesPercentage": -1.38224,
+      "price": 181.93,
+      "change": -1.41,
+      "changesPercentage": -0.76906,
       "previousClose": 183.34,
       "yearStart": 188.85,
-      "ytdChange": -8.04419999999999,
-      "ytdChangePercentage": -4.259571088165205
+      "ytdChange": -6.9199999999999875,
+      "ytdChangePercentage": -3.6642838231400523
     },
     "AAPL": {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": 255.385,
-      "change": -4.905,
-      "changesPercentage": -1.88444,
+      "price": 256.4743,
+      "change": -3.8157,
+      "changesPercentage": -1.46594,
       "previousClose": 260.29,
       "yearStart": 271.01,
-      "ytdChange": -15.625,
-      "ytdChangePercentage": -5.765469908859452
+      "ytdChange": -14.535699999999963,
+      "ytdChangePercentage": -5.363529021069319
     },
     "GOOGL": {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "price": 297.46,
-      "change": -3.42,
-      "changesPercentage": -1.13667,
+      "price": 300.045,
+      "change": -0.835,
+      "changesPercentage": -0.27752,
       "previousClose": 300.88,
       "yearStart": 315.15,
-      "ytdChange": -17.689999999999998,
-      "ytdChangePercentage": -5.613200063461844
+      "ytdChange": -15.104999999999961,
+      "ytdChangePercentage": -4.7929557353641
     },
     "GOOG": {
       "symbol": "GOOG",
       "name": "Alphabet Inc.",
-      "price": 297.4299,
-      "change": -3.4801,
-      "changesPercentage": -1.15653,
+      "price": 299.861,
+      "change": -1.049,
+      "changesPercentage": -0.34861,
       "previousClose": 300.91,
       "yearStart": 315.32,
-      "ytdChange": -17.890100000000018,
-      "ytdChangePercentage": -5.673633134593435
+      "ytdChange": -15.459000000000003,
+      "ytdChangePercentage": -4.902638589369531
     },
     "MSFT": {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": 411.67,
-      "change": 0.99,
-      "changesPercentage": 0.24106,
+      "price": 410.37,
+      "change": -0.31,
+      "changesPercentage": -0.07548456,
       "previousClose": 410.68,
       "yearStart": 472.94,
-      "ytdChange": -61.26999999999998,
-      "ytdChangePercentage": -12.955131729183403
+      "ytdChange": -62.56999999999999,
+      "ytdChangePercentage": -13.230008034845856
     },
     "AMZN": {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "price": 216.3436,
-      "change": -2.5964,
-      "changesPercentage": -1.1859,
+      "price": 215.07,
+      "change": -3.87,
+      "changesPercentage": -1.76761,
       "previousClose": 218.94,
       "yearStart": 226.5,
-      "ytdChange": -10.15639999999999,
-      "ytdChangePercentage": -4.484061810154522
+      "ytdChange": -11.430000000000007,
+      "ytdChangePercentage": -5.046357615894043
     },
     "VSMPX": {
       "symbol": "VSMPX",
@@ -103,35 +103,35 @@
     "TSM": {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
-      "price": 344.34,
-      "change": -9.52,
-      "changesPercentage": -2.69033,
+      "price": 346.88,
+      "change": -6.98,
+      "changesPercentage": -1.97253,
       "previousClose": 353.86,
       "yearStart": 319.61,
-      "ytdChange": 24.72999999999996,
-      "ytdChangePercentage": 7.737555145333362
+      "ytdChange": 27.269999999999982,
+      "ytdChangePercentage": 8.532273708582329
     },
     "META": {
       "symbol": "META",
       "name": "Meta Platforms, Inc.",
-      "price": 638.67,
-      "change": -21.9,
-      "changesPercentage": -3.31532,
+      "price": 643.055,
+      "change": -17.515,
+      "changesPercentage": -2.6515,
       "previousClose": 660.57,
       "yearStart": 650.41,
-      "ytdChange": -11.740000000000009,
-      "ytdChangePercentage": -1.8050152980427745
+      "ytdChange": -7.355000000000018,
+      "ytdChangePercentage": -1.1308251718147044
     },
     "AVGO": {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "price": 331.13541,
-      "change": -1.63459,
-      "changesPercentage": -0.49121,
+      "price": 338.5326,
+      "change": 5.7626,
+      "changesPercentage": 1.73171,
       "previousClose": 332.77,
       "yearStart": 347.62,
-      "ytdChange": -16.484590000000026,
-      "ytdChangePercentage": -4.742129336631962
+      "ytdChange": -9.087400000000002,
+      "ytdChangePercentage": -2.614176399516714
     },
     "VFINX": {
       "symbol": "VFINX",
@@ -169,68 +169,68 @@
     "TSLA": {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": 396.305,
-      "change": -9.245,
-      "changesPercentage": -2.27962,
+      "price": 398.06,
+      "change": -7.49,
+      "changesPercentage": -1.84687,
       "previousClose": 405.55,
       "yearStart": 438.07,
-      "ytdChange": -41.764999999999986,
-      "ytdChangePercentage": -9.533864450886842
+      "ytdChange": -40.00999999999999,
+      "ytdChangePercentage": -9.133243545552078
     },
     "BCTK": {
       "symbol": "BCTK",
       "name": "Baron Technology ETF",
-      "price": 24.49,
-      "change": -0.4677,
-      "changesPercentage": -1.87397,
+      "price": 24.84,
+      "change": -0.1177,
+      "changesPercentage": -0.4716,
       "previousClose": 24.9577,
       "yearStart": 25.29,
-      "ytdChange": -0.8000000000000007,
-      "ytdChangePercentage": -3.16330565440886
+      "ytdChange": -0.4499999999999993,
+      "ytdChangePercentage": -1.7793594306049796
     },
     "BRK-B": {
       "symbol": "BRK-B",
       "name": "Berkshire Hathaway Inc.",
-      "price": 498.755,
-      "change": -1.535,
-      "changesPercentage": -0.30682,
-      "previousClose": 500.29,
+      "price": 494.4905,
+      "change": -5.9095,
+      "changesPercentage": -1.18096,
+      "previousClose": 500.4,
       "yearStart": 496.85,
-      "ytdChange": 1.9049999999999727,
-      "ytdChangePercentage": 0.3834155177618944
+      "ytdChange": -2.3595000000000255,
+      "ytdChangePercentage": -0.4748918184562796
     },
     "BRK-A": {
       "symbol": "BRK-A",
       "name": "Berkshire Hathaway Inc.",
-      "price": 745941.7,
-      "change": -4683.4,
-      "changesPercentage": -0.62393,
+      "price": 740483,
+      "change": -10142.1,
+      "changesPercentage": -1.35115,
       "previousClose": 750625.1,
       "yearStart": 744120,
-      "ytdChange": 1821.6999999999534,
-      "ytdChangePercentage": 0.24481266462397913
+      "ytdChange": -3637,
+      "ytdChangePercentage": -0.4887652529161963
     },
     "WMT": {
       "symbol": "WMT",
       "name": "Walmart Inc.",
-      "price": 122.3947,
-      "change": -0.9153,
-      "changesPercentage": -0.74228,
+      "price": 123.19,
+      "change": -0.12,
+      "changesPercentage": -0.09731571,
       "previousClose": 123.31,
       "yearStart": 112.76,
-      "ytdChange": 9.634699999999995,
-      "ytdChangePercentage": 8.544430649166367
+      "ytdChange": 10.429999999999993,
+      "ytdChangePercentage": 9.249733948208577
     },
     "^FTSE": {
       "symbol": "^FTSE",
       "name": "FTSE100",
-      "price": 10260,
-      "change": -153.94,
-      "changesPercentage": -1.47821,
+      "price": 10251.92,
+      "change": -162.02,
+      "changesPercentage": -1.5558,
       "previousClose": 10413.94,
       "yearStart": 9951.14,
-      "ytdChange": 308.8600000000006,
-      "ytdChangePercentage": 3.103764995769335
+      "ytdChange": 300.78000000000065,
+      "ytdChangePercentage": 3.022568268560192
     },
     "7203.T": {
       "symbol": "7203.T",
@@ -466,175 +466,175 @@
     "^DJI": {
       "symbol": "^DJI",
       "name": "ダウ平均",
-      "price": 47153.08984375,
-      "change": -801.6484375,
-      "changesPercentage": -1.671677223632017,
+      "price": 47311.76953125,
+      "change": -642.96875,
+      "changesPercentage": -1.3407825233641129,
       "previousClose": 47954.73828125,
       "yearStart": 48382.390625,
-      "ytdChange": -1229.30078125,
-      "ytdChangePercentage": -2.540802067384408
+      "ytdChange": -1070.62109375,
+      "ytdChangePercentage": -2.212832148060067
     },
     "^IXIC": {
       "symbol": "^IXIC",
       "name": "ナスダック",
-      "price": 22426.728515625,
-      "change": -322.26171875,
-      "changesPercentage": -1.4165979035985714,
+      "price": 22523.6015625,
+      "change": -225.388671875,
+      "changesPercentage": -0.9907634121466415,
       "previousClose": 22748.990234375,
       "yearStart": 23235.630859375,
-      "ytdChange": -808.90234375,
-      "ytdChangePercentage": -3.4813014057831273
+      "ytdChange": -712.029296875,
+      "ytdChangePercentage": -3.0643854741207246
     },
     "^GSPC": {
       "symbol": "^GSPC",
       "name": "S&P 500",
-      "price": 6735.06005859375,
-      "change": -95.64990234375,
-      "changesPercentage": -1.4002922520607544,
+      "price": 6747.7900390625,
+      "change": -82.919921875,
+      "changesPercentage": -1.2139283083192045,
       "previousClose": 6830.7099609375,
       "yearStart": 6858.47021484375,
-      "ytdChange": -123.41015625,
-      "ytdChangePercentage": -1.7993831333247474
+      "ytdChange": -110.68017578125,
+      "ytdChangePercentage": -1.6137735138326545
     },
     "^GDAXI": {
       "symbol": "^GDAXI",
       "name": "DAX",
-      "price": 23393.76953125,
-      "change": -421.98046875,
-      "changesPercentage": -1.771854628764578,
+      "price": 23495.859375,
+      "change": -319.890625,
+      "changesPercentage": -1.3431893809768745,
       "previousClose": 23815.75,
       "yearStart": 24539.33984375,
-      "ytdChange": -1145.5703125,
-      "ytdChangePercentage": -4.66830126561766
+      "ytdChange": -1043.48046875,
+      "ytdChangePercentage": -4.252276040815203
     },
     "^STOXX": {
       "symbol": "^STOXX",
       "name": "欧州STOXX",
-      "price": 594.3300170898438,
-      "change": -10.5,
-      "changesPercentage": -1.736024949707529,
+      "price": 596.1900024414062,
+      "change": -8.6400146484375,
+      "changesPercentage": -1.4285029519548595,
       "previousClose": 604.8300170898438,
       "yearStart": 601.760009765625,
-      "ytdChange": -7.42999267578125,
-      "ytdChangePercentage": -1.2347102757252184
+      "ytdChange": -5.57000732421875,
+      "ytdChangePercentage": -0.9256193887639975
     }
   },
   "news": [
     {
-      "headline": "Key Primark hires give ABF investors “clarity and certainty” - broker",
-      "summary": "Associated British Foods PLC's (LSE:ABF) new boardroom hires have removed a layer of uncertainty aro...",
-      "category": "General",
-      "importance": 5,
-      "source": "proactiveinvestors.co.uk",
-      "related_symbols": []
-    },
-    {
-      "headline": "Will Linzess Continue to Aid IRWD's Top Line in 2026 After a Soft Q4?",
-      "summary": "Ironwood sees Linzess rebounding in 2026 despite soft Q4 results, helped by strong prescription dema...",
+      "headline": "Should You Avoid QCOM Stock Amid Declining Estimate Revisions?",
+      "summary": "Qualcomm faces falling FY26???27 estimates, China trade pressure, softer handset demand and rising R...",
       "category": "General",
       "importance": 5,
       "source": "zacks.com",
       "related_symbols": []
     },
     {
-      "headline": "Is This the Right Time to Hold Thermo Fisher Stock in Your Portfolio?",
-      "summary": "TMO's acquisitions and resilient pharma, biotech and diagnostics demand support growth, but currency...",
-      "category": "General",
-      "importance": 5,
-      "source": "zacks.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Ciena's Q1 Earnings & Revenues Beat, Surge Y/Y, Stock Falls",
-      "summary": "CIEN tops fiscal Q1 2026 estimates as AI-driven network demand lifts revenue 33%. Cloud growth and a...",
-      "category": "General",
-      "importance": 5,
-      "source": "zacks.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Quantum Computing's Major Growth Catalysts Heading Into 2026",
-      "summary": "QUBT eyes 2026 growth from Luminar Semiconductor acquisition, Fab 1 foundry ramp, photonic AI system...",
-      "category": "General",
-      "importance": 5,
-      "source": "zacks.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "How Microsoft Stock Falls To $325?",
-      "summary": "As of March 6, 2026, Microsoft stands at a pivotal moment. Although the technology titan has establi...",
-      "category": "General",
-      "importance": 5,
-      "source": "forbes.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Is GE Stock Flying Too High?",
-      "summary": "Although GE Aerospace continues to be a powerhouse in the propulsion and systems market, its present...",
-      "category": "General",
-      "importance": 5,
-      "source": "forbes.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "How Amazon Stock Rewrote Its Future",
-      "summary": "In just over three years, Amazon (NASDAQ: AMZN) evolved from a “battered retailer” into a “high-marg...",
-      "category": "General",
-      "importance": 5,
-      "source": "forbes.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Nvidia: Why The Permit Fears Don't Change Bullish Case",
-      "summary": "Nvidia Corporation remains a Buy after Q4, with robust financials and continued demand for its AI ch...",
-      "category": "General",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Alphabet Could Simply Be the Best Tech Stock to Own — and It's Still Cheap",
-      "summary": "Technology juggernaut Alphabet (NASDAQ:GOOG) continues to be a top pick of mine, Wall Street analyst...",
+      "headline": "Marvell (MRVL) Did These Things Right to Send Shares 16% Higher Today",
+      "summary": "Marvell Technology ( NASDAQ:MRVL ) posted a record quarter in Q3 FY2026, with revenue of $2.075 bill...",
       "category": "General",
       "importance": 5,
       "source": "247wallst.com",
       "related_symbols": []
     },
     {
-      "headline": "RR INVESTOR ALERT: Faruqi & Faruqi, LLP Reminds Richtech Robotics Investors of the Securities Class Action Lawsuit Deadline on April 3, 2026",
-      "summary": "Faruqi & Faruqi, LLP Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suff...",
+      "headline": "Conagra Brands to Expand Manufacturing Operations in Fayetteville, Arkansas",
+      "summary": "FAYETTEVILLE, Ark., March 06, 2026 (GLOBE NEWSWIRE) -- Today, the Arkansas Economic Development Comm...",
+      "category": "General",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "The Trade Desk: The OpenAI Deal Looks More Than Just Rumors",
+      "summary": "The Trade Desk, Inc. remains fundamentally strong, with robust profitability, premium growth, and a ...",
+      "category": "General",
+      "importance": 5,
+      "source": "seekingalpha.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "BBOT Announces Publication in Cancer Discovery Highlighting Preclinical Data Demonstrating BBO-11818 is a Potent and Selective panKRAS Inhibitor",
+      "summary": "BBO-11818 is a selective, orally bioavailable non-covalent inhibitor that targets KRAS in both the O...",
+      "category": "General",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Western Digital: Autocatalytic Phase Shift, The $454 FY28 Coordinate",
+      "summary": "Western Digital (WDC) earns a strong buy rating, targeting a $454 fair value (~68% upside) driven by...",
+      "category": "General",
+      "importance": 5,
+      "source": "seekingalpha.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Best Income Stocks to Buy for March 6th",
+      "summary": "ESCA, MGA and SGHC made it to the Zacks Rank #1 (Strong Buy) income stocks list on March 6, 2026....",
+      "category": "General",
+      "importance": 5,
+      "source": "zacks.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "ASHFORD ANNOUNCES PLANNED RETIREMENT OF CHIEF FINANCIAL OFFICER DERIC EUBANKS",
+      "summary": "DALLAS, March 6, 2026 /PRNewswire/ -- Ashford Inc. (the \"Company\") today announced that Deric Eubank...",
       "category": "General",
       "importance": 5,
       "source": "prnewswire.com",
       "related_symbols": []
     },
     {
-      "headline": "Coty: The Market Is Holding Its Nose, But I Smell Opportunity",
-      "summary": "Coty shares have sold off sharply after suspending FY'26 guidance and reporting weak near-term outlo...",
+      "headline": "Sticking With Baxter At The Lows",
+      "summary": "Baxter International faces deep investor skepticism after disappointing guidance and management's de...",
       "category": "General",
       "importance": 5,
       "source": "seekingalpha.com",
       "related_symbols": []
     },
     {
-      "headline": "The NASDAQ Dividend Stocks Retirees Are Loading Up On Before the Next Rate Cut",
-      "summary": "U.S. Treasury bonds paid decent yields for a while, but that's very likely to come to an end soon....",
-      "category": "General",
-      "importance": 5,
-      "source": "247wallst.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "5 Low P/B Ratio Stocks That You May Consider Buying in March",
-      "summary": "Ford, USANA, Strategic Education, Patria Investments and Concentrix are some low P/B picks, signalin...",
+      "headline": "Can FuelCell Energy Power Data Centers Amid Grid Limits?",
+      "summary": "FCEL says its modular fuel cells can power data centers facing grid delays, offering behind-the-mete...",
       "category": "General",
       "importance": 5,
       "source": "zacks.com",
       "related_symbols": []
     },
     {
-      "headline": "Stocks to Keep an Eye on to Take Advantage of the Gig Economy Boom",
-      "summary": "The gig economy offers multiple benefits. If you wish to make the most of this popular trend, focusi...",
+      "headline": "Should You Avoid Travel ETFs Altogether Amid Iran Tensions?",
+      "summary": "The ongoing conflict between the United States, Israel and Iran is severely disrupting global travel...",
+      "category": "General",
+      "importance": 5,
+      "source": "zacks.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Occidental Petroleum Corporation (OXY) is Attracting Investor Attention: Here is What You Should Know",
+      "summary": "Recently, Zacks.com users have been paying close attention to Occidental (OXY). This makes it worthw...",
+      "category": "General",
+      "importance": 5,
+      "source": "zacks.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Krown Network and Quantum eMotion Deploy Quantum-Secure Infrastructure Protecting $67.5M in KROWN Tokens",
+      "summary": "QRNG2 quantum random number technology supports cryptographic security within the Krown ecosystem, s...",
+      "category": "General",
+      "importance": 5,
+      "source": "newsfilecorp.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Builders FirstSource, Inc. (BLDR) Is a Trending Stock: Facts to Know Before Betting on It",
+      "summary": "Builders FirstSource (BLDR) has received quite a bit of attention from Zacks.com users lately. There...",
+      "category": "General",
+      "importance": 5,
+      "source": "zacks.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Is Trending Stock Nice (NICE) a Buy Now?",
+      "summary": "Nice (NICE) has been one of the stocks most watched by Zacks.com users lately. So, it is worth explo...",
       "category": "General",
       "importance": 5,
       "source": "zacks.com",
@@ -672,7 +672,7 @@
     }
   },
   "overview": {
-    "jp_overview": "日本市場の概況生成に失敗しました。",
-    "us_overview": "米国市場の概況生成に失敗しました。"
+    "jp_overview": "昨日の日本市場は、前日の米国市場の軟調な動きとは対照的に、日経平均株価が55,620.84円（+0.62%）と反発し、堅調な推移を見せました。この回復は、主に円安の進行と、構造的な成長期待が持続するセクターへの資金流入によって支えられています。\n\n背景にあるマクロ経済要因としては、米国の雇用統計のサプライズ的な悪化（2月の非農業部門雇用者数が大幅に減少）と中東情勢の緊迫化による原油価格の高騰が挙げられます。通常であればグローバルな景気減速懸念やインフレ圧力の高まりは日本市場にも重しとなりますが、昨日は円安がこれらの外部要因に対する緩衝材として機能しました。特に、輸出を主軸とする自動車セクター（トヨタ：7203.T +0.98%、ホンダ：7267.T +2.13%）は、円安の恩恵を享受し、株価を押し上げました。ただし、中東情勢の緊迫化が長期化すれば、原油価格の高騰は輸入コスト増を通じて企業収益を圧迫し、サプライチェーンにも影響を及ぼすリスクがあり、予断を許さない状況です。\n\n日銀の動向に関しては、金融政策の正常化への期待が金融セクターを押し上げています。三菱UFJ（8306.T +0.90%）や三井住友（8316.T +0.57%）といったメガバンクが上昇を示したことは、市場が日銀の追加利上げや金融引き締め政策の継続を織り込み始めている証左と言えます。また、Silver Lakeと野村證券による戦略的パートナーシップのニュースは、日本の資本市場の活性化に対する期待を高めるものです。しかし、政策変更のペースやコミュニケーションの明確性が欠ければ、市場に不確実性をもたらす可能性も秘めています。\n\n主要セクターでは、半導体関連が引き続き注目されました。米国のMarvell Technologyが好決算で16%急騰し、Broadcomも1.73%上昇するなど、AI半導体需要の強さが改めて示されたことは、日本の半導体製造装置メーカーにとっても追い風となりました。東京エレクトロン（8035.T +0.17%）やアドバンテスト（6857.T - データなしだが推測）など、グローバルサプライチェーンの中核を担う企業群は、引き続きAI関連投資の恩恵を受けると見られます。一方で、TSMCが米市場で約2%下落しており、過熱感を警戒する動きも散見されます。\n\n今後の展望として、日本市場は国内の賃上げ動向と個人消費の回復、企業統治改革への期待が下支え要因となるでしょう。ただし、世界経済の減速懸念、地政学リスクの継続的な高まり、そして米国の金融政策の不確実性は、依然として日本株の上値を抑制する可能性があります。投資家は、個別企業のファンダメンタルズに加え、為替動向、原油価格、そしてグローバルな金利環境の変化を綿密に分析し、リスク管理を徹底する必要があります。特に、AI関連のバリュエーションの精査と、持続可能な成長を見極める視点がこれまで以上に重要となります。",
+    "us_overview": "昨晩の米国市場は、主要3指数が揃って大幅に下落し、リスクオフムードが支配しました。ダウ工業株平均は-1.34%（642.97ドル安）、S&P 500は-1.21%（82.92ポイント安）、ハイテク株中心のNASDAQ総合指数も-0.99%（225.39ポイント安）と、前日の日本市場とは異なる様相を呈しました。この広範な下落は、複合的なマクロ経済の逆風と地政学的な緊張の高まりによって引き起こされています。\n\nFRB要人発言に直接的な言及はなかったものの、昨日の市場の動きの背景には、主要経済指標の結果と金利動向への深い懸念があります。特に、2月の非農業部門雇用者数が市場予想を大きく下回る92,000人減となったことは、米国経済の景気減速を示唆し、市場に冷や水を浴びせました。この雇用悪化は、FRBの利下げ開始時期に関する市場の期待を複雑にするものです。一方で、中東情勢の緊迫化（イランとの地政学的な対立激化）により原油価格が急騰し、「カタールのエネルギー大臣はイラン紛争で原油価格が150ドルに達する可能性を警告」とのニュースが伝わりました。原油高はコストプッシュ型インフレを加速させ、インフレ抑制を最優先するFRBが利下げに踏み切りにくくなる状況を生み出します。この「景気減速下のインフレ」、すなわちスタグフレーションへの懸念が市場心理を大きく悪化させています。\n\n主要経済指標としては、雇用の悪化が最も注目されますが、中古車価格が2月に前年比4.2%上昇したというManheim Used Vehicle Value Indexの報告は、インフレ圧力が依然として根強いことを示唆しており、FRBにとって難しい舵取りが続くことを予感させます。\n\nメガキャップ株の動向は全般的に軟調でした。NVIDIA（NVDA -0.77%）、Apple（AAPL -1.47%）、Alphabet（GOOGL -0.28%）、Microsoft（MSFT -0.08%）、Amazon（AMZN -1.77%）、Tesla（TSLA -1.85%）、Meta Platforms（META -2.65%）といった主要テクノロジー株は軒並み下落しました。特に、AIブームの牽引役であるNVIDIAでさえも調整が見られ、広範なハイテク株への利益確定売りが優勢となりました。しかし、この中でMarvell Technology（MRVL +16%）やBroadcom（AVGO +1.73%）のように、個別材料（好決算やAI関連の強い需要見通し）で逆行高を見せる銘柄もあり、AI分野における選別的な投資は継続していることを示唆しています。これは、AI技術の構造的な成長期待が依然として高いことを裏付けていますが、市場全体のリスクセンチメントが悪化する中では、個別の好材料が全体を押し上げる力には至っていません。\n\nインフレや景気後退懸念に関する市場心理は、スタグフレーションのリスクを強く意識しています。雇用の悪化は景気減速のサインであり、原油価格の高騰は企業コストと消費者物価を押し上げ、利益率の圧迫と実質所得の減少をもたらします。これにより、FRBが利下げに踏み切るための「ソフトランディング」シナリオへの信頼性が揺らぎ、市場はより悲観的な見方を強めています。また、「債券が株式よりも魅力的に見える時」というヘッドラインは、不確実性の高い株式市場から、より安全資産とされる債券への資金シフトの兆候を示唆しており、市場参加者のリスク回避姿勢が強まっていることを浮き彫りにしています。地政学リスクの増大は、エネルギー価格の変動を通じて、インフレと景気動行の両面に影響を及ぼし続けるでしょう。この複雑な状況下で、投資家は慎重な姿勢を保ち、経済指標の動向とFRBの声明、そして地政学的なニュースフローを緊密に監視する必要があります。"
   }
 }
