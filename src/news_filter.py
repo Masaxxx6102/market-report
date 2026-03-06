@@ -89,16 +89,17 @@ class NewsFilterAI:
             return selected
         except Exception as e:
             logger.error(f"AI Filtering failed: {e}")
-            # Fallback: Return top 15 news with raw data
+            # Fallback: Return top 15 news with consistent field names for the dashboard
             fallback_news = []
             for item in news_items[:15]:
                 fallback_news.append({
-                    "headline": item.get("headline") or "News Update",
-                    "summary": (item.get("summary") or "")[:100] + "...",
-                    "category": "General",
+                    "headline": item.get("headline") or item.get("title") or "News Update",
+                    "summary": item.get("summary") or item.get("text") or "詳細情報がありません。",
+                    "category": "【マーケット一般】",
                     "importance": 5,
-                    "source": item.get("source", "Unknown"),
-                    "related_symbols": item.get("related_symbols", [])
+                    "source": item.get("source") or item.get("site") or "情報源不明",
+                    "url": item.get("url"),
+                    "related_symbols": item.get("related_symbols") or item.get("tickers") or []
                 })
             return fallback_news
     @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
