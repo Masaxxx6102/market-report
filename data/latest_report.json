@@ -1,71 +1,71 @@
 {
-  "last_updated": "2026-03-07 03:41:39",
+  "last_updated": "2026-03-07 04:03:59",
   "quotes": {
     "NVDA": {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 181.2726,
-      "change": -2.0674,
-      "changesPercentage": -1.12763,
+      "price": 180.89,
+      "change": -2.45,
+      "changesPercentage": -1.33631,
       "previousClose": 183.34,
       "yearStart": 188.85,
-      "ytdChange": -7.577399999999983,
-      "ytdChangePercentage": -4.012390786338355
+      "ytdChange": -7.960000000000008,
+      "ytdChangePercentage": -4.214985438178453
     },
     "AAPL": {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": 256.14,
-      "change": -4.15,
-      "changesPercentage": -1.59438,
+      "price": 256.435,
+      "change": -3.855,
+      "changesPercentage": -1.48104,
       "previousClose": 260.29,
       "yearStart": 271.01,
-      "ytdChange": -14.870000000000005,
-      "ytdChangePercentage": -5.4868824028633645
+      "ytdChange": -14.574999999999989,
+      "ytdChangePercentage": -5.3780303309840924
     },
     "GOOGL": {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "price": 299.44,
-      "change": -1.44,
-      "changesPercentage": -0.4786,
+      "price": 299.53,
+      "change": -1.35,
+      "changesPercentage": -0.44868,
       "previousClose": 300.88,
       "yearStart": 315.15,
-      "ytdChange": -15.70999999999998,
-      "ytdChangePercentage": -4.984927812152937
+      "ytdChange": -15.620000000000005,
+      "ytdChangePercentage": -4.956369982547995
     },
     "GOOG": {
       "symbol": "GOOG",
       "name": "Alphabet Inc.",
-      "price": 299.37,
-      "change": -1.54,
-      "changesPercentage": -0.51178,
+      "price": 299.4057,
+      "change": -1.5043,
+      "changesPercentage": -0.49992,
       "previousClose": 300.91,
       "yearStart": 315.32,
-      "ytdChange": -15.949999999999989,
-      "ytdChangePercentage": -5.058353418749204
+      "ytdChange": -15.914299999999969,
+      "ytdChangePercentage": -5.04703158695927
     },
     "MSFT": {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": 410.036,
-      "change": -0.644,
-      "changesPercentage": -0.15681,
+      "price": 410.065,
+      "change": -0.615,
+      "changesPercentage": -0.14975,
       "previousClose": 410.68,
       "yearStart": 472.94,
-      "ytdChange": -62.903999999999996,
-      "ytdChangePercentage": -13.300630101069903
+      "ytdChange": -62.875,
+      "ytdChangePercentage": -13.294498245020511
     },
     "AMZN": {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "price": 215.025,
-      "change": -3.915,
-      "changesPercentage": -1.78816,
+      "price": 215.07,
+      "change": -3.87,
+      "changesPercentage": -1.76761,
       "previousClose": 218.94,
       "yearStart": 226.5,
-      "ytdChange": -11.474999999999994,
-      "ytdChangePercentage": -5.066225165562911
+      "ytdChange": -11.430000000000007,
+      "ytdChangePercentage": -5.046357615894043
     },
     "VSMPX": {
       "symbol": "VSMPX",
@@ -103,35 +103,35 @@
     "TSM": {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
-      "price": 345.05,
-      "change": -8.81,
-      "changesPercentage": -2.48969,
+      "price": 343.875,
+      "change": -9.985,
+      "changesPercentage": -2.82174,
       "previousClose": 353.86,
       "yearStart": 319.61,
-      "ytdChange": 25.439999999999998,
-      "ytdChangePercentage": 7.959700885454146
+      "ytdChange": 24.264999999999986,
+      "ytdChangePercentage": 7.59206532962047
     },
     "META": {
       "symbol": "META",
       "name": "Meta Platforms, Inc.",
-      "price": 645.565,
-      "change": -15.005,
-      "changesPercentage": -2.27152,
+      "price": 645.26,
+      "change": -15.31,
+      "changesPercentage": -2.3177,
       "previousClose": 660.57,
       "yearStart": 650.41,
-      "ytdChange": -4.844999999999914,
-      "ytdChangePercentage": -0.7449147460832265
+      "ytdChange": -5.149999999999977,
+      "ytdChangePercentage": -0.7918082440306848
     },
     "AVGO": {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "price": 339.865,
-      "change": 7.095,
-      "changesPercentage": 2.1321,
+      "price": 339.765,
+      "change": 6.995,
+      "changesPercentage": 2.10205,
       "previousClose": 332.77,
       "yearStart": 347.62,
-      "ytdChange": -7.7549999999999955,
-      "ytdChangePercentage": -2.2308842989471245
+      "ytdChange": -7.855000000000018,
+      "ytdChangePercentage": -2.259651343420982
     },
     "VFINX": {
       "symbol": "VFINX",
@@ -155,17 +155,6 @@
       "ytdChange": -0.75,
       "ytdChangePercentage": -0.2233937985881512
     },
-    "TSLA": {
-      "symbol": "TSLA",
-      "name": "Tesla, Inc.",
-      "price": 400.7256,
-      "change": -4.8244,
-      "changesPercentage": -1.18959,
-      "previousClose": 405.55,
-      "yearStart": 438.07,
-      "ytdChange": -37.34440000000001,
-      "ytdChangePercentage": -8.52475631748351
-    },
     "VFIAX": {
       "symbol": "VFIAX",
       "name": "Vanguard 500 Index Fund Admiral Shares",
@@ -177,49 +166,60 @@
       "ytdChange": -1.4399999999999409,
       "ytdChangePercentage": -0.22742348147445293
     },
+    "TSLA": {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 398.74,
+      "change": -6.81,
+      "changesPercentage": -1.6792,
+      "previousClose": 405.55,
+      "yearStart": 438.07,
+      "ytdChange": -39.329999999999984,
+      "ytdChangePercentage": -8.978017211861115
+    },
     "BCTK": {
       "symbol": "BCTK",
       "name": "Baron Technology ETF",
-      "price": 24.8412,
-      "change": -0.1165,
-      "changesPercentage": -0.46679,
+      "price": 24.7999,
+      "change": -0.1578,
+      "changesPercentage": -0.63227,
       "previousClose": 24.9577,
       "yearStart": 25.29,
-      "ytdChange": -0.44879999999999853,
-      "ytdChangePercentage": -1.774614472123363
-    },
-    "BRK-A": {
-      "symbol": "BRK-A",
-      "name": "Berkshire Hathaway Inc.",
-      "price": 743165.93,
-      "change": -7583.97,
-      "changesPercentage": -1.01019,
-      "previousClose": 750749.9,
-      "yearStart": 744120,
-      "ytdChange": -954.0699999999488,
-      "ytdChangePercentage": -0.1282145352900001
+      "ytdChange": -0.4900999999999982,
+      "ytdChangePercentage": -1.937920126532219
     },
     "BRK-B": {
       "symbol": "BRK-B",
       "name": "Berkshire Hathaway Inc.",
-      "price": 495.32,
-      "change": -5.08,
-      "changesPercentage": -1.01519,
+      "price": 496.29,
+      "change": -4.11,
+      "changesPercentage": -0.82134,
       "previousClose": 500.4,
       "yearStart": 496.85,
-      "ytdChange": -1.5300000000000296,
-      "ytdChangePercentage": -0.3079400221394846
+      "ytdChange": -0.5600000000000023,
+      "ytdChangePercentage": -0.1127100734628162
+    },
+    "BRK-A": {
+      "symbol": "BRK-A",
+      "name": "Berkshire Hathaway Inc.",
+      "price": 744396.2,
+      "change": -6353.7,
+      "changesPercentage": -0.84631,
+      "previousClose": 750749.9,
+      "yearStart": 744120,
+      "ytdChange": 276.19999999995343,
+      "ytdChangePercentage": 0.03711766919313463
     },
     "WMT": {
       "symbol": "WMT",
       "name": "Walmart Inc.",
-      "price": 123.16,
-      "change": -0.15,
-      "changesPercentage": -0.12164,
+      "price": 123.1,
+      "change": -0.21,
+      "changesPercentage": -0.1703,
       "previousClose": 123.31,
       "yearStart": 112.76,
-      "ytdChange": 10.399999999999991,
-      "ytdChangePercentage": 9.223128769067038
+      "ytdChange": 10.33999999999999,
+      "ytdChangePercentage": 9.169918410783955
     },
     "^FTSE": {
       "symbol": "^FTSE",
@@ -466,35 +466,35 @@
     "^DJI": {
       "symbol": "^DJI",
       "name": "ダウ平均",
-      "price": 47376.98828125,
-      "change": -577.75,
-      "changesPercentage": -1.2047818853927446,
+      "price": 47397.30078125,
+      "change": -557.4375,
+      "changesPercentage": -1.1624242358089452,
       "previousClose": 47954.73828125,
       "yearStart": 48382.390625,
-      "ytdChange": -1005.40234375,
-      "ytdChangePercentage": -2.078033620832476
+      "ytdChange": -985.08984375,
+      "ytdChangePercentage": -2.036050370857424
     },
     "^IXIC": {
       "symbol": "^IXIC",
       "name": "ナスダック",
-      "price": 22530.4609375,
-      "change": -218.529296875,
-      "changesPercentage": -0.9606109749205043,
+      "price": 22509.474609375,
+      "change": -239.515625,
+      "changesPercentage": -1.0528626656935236,
       "previousClose": 22748.990234375,
       "yearStart": 23235.630859375,
-      "ytdChange": -705.169921875,
-      "ytdChangePercentage": -3.034864541198723
+      "ytdChange": -726.15625,
+      "ytdChangePercentage": -3.1251841380799608
     },
     "^GSPC": {
       "symbol": "^GSPC",
       "name": "S&P 500",
-      "price": 6830.7099609375,
-      "change": 0.0,
-      "changesPercentage": 0.0,
+      "price": 6755.02978515625,
+      "change": -75.68017578125,
+      "changesPercentage": -1.1079401147763426,
       "previousClose": 6830.7099609375,
       "yearStart": 6858.47021484375,
-      "ytdChange": -27.76025390625,
-      "ytdChangePercentage": -0.40475868578052043
+      "ytdChange": -103.4404296875,
+      "ytdChangePercentage": -1.5082143167090591
     },
     "^GDAXI": {
       "symbol": "^GDAXI",
@@ -521,404 +521,138 @@
   },
   "news": [
     {
-      "headline": "原油価格が12%超急騰、米小売売上高は1月に減少",
-      "summary": "2026年初頭の米国市場は、原油価格の急騰と予想外の小売売上高減少という二つのマクロ経済指標の発表に大きく揺れ動いた。原油価格は週初から12%以上も急騰し、エネルギーコストの上昇を通じてインフレ圧力再燃への懸念を高めている。この原油価格の上昇は、投資家心理を悪化させ、ウォール街全体で株価下落を招く主要因となった。一方で、1月の米小売売上高は予想に反して減少を記録し、これは消費支出の減速を示唆している。消費は米国経済の主要な牽引役であるため、このデータは経済成長の勢いが鈍化している可能性を示唆し、リセッションへの警戒感も一部で強まっている。FRBの金融政策委員会（FOMC）は、高止まりするインフレリスクと経済活動の減速という相反するシグナルに直面しており、今後の金融引き締め政策の方向性についてより複雑な判断を迫られることになる。この状況は、金利パスの不確実性を高め、株式市場にさらなる変動をもたらすだろう。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "benzinga.com",
-      "url": "https://www.benzinga.com/markets/market-summary/26/03/51105761/crude-oil-jumps-over-12-us-retail-sales-fall-in-january",
-      "related_symbols": []
-    },
-    {
-      "headline": "急騰する原油価格がダウ平均を4月以来最悪の週間に押し下げ",
-      "summary": "2026年3月第1週、原油価格の急激な上昇は、米株式市場、特にダウ工業株30種平均に深刻な影響を与え、4月以来で最悪の週間パフォーマンスを記録した。中東情勢の緊迫化が供給懸念を煽り、原油価格は週の間に大幅に上昇。これにより、企業収益への圧力、消費者物価上昇、そしてインフレ再燃の懸念が強まり、市場全体のリスクオフムードが高まった。投資家は、エネルギーコストの増加が企業のマージンを圧迫し、景気減速を招く可能性を警戒している。特に、原油高は航空会社や輸送関連企業など、燃料費に敏感なセクターの株価に直接的な下押し圧力をかけた。この市場の反応は、原油価格が単なる商品価格の動きに留まらず、広範な経済活動や金融政策の展望に大きな影響を与える主要なマクロ経済要因であることを改めて示した。FRBは、エネルギー価格の上昇が持続的なインフレに繋がるかどうかを注視しており、今後の利上げサイクルや利下げ期待に修正を迫られる可能性も浮上している。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "schaeffersresearch.com",
-      "url": "https://www.schaeffersresearch.com/content/news/2026/03/06/red-hot-oil-prices-pressure-dow-to-worst-week-since-april",
-      "related_symbols": []
-    },
-    {
-      "headline": "米国の石油・ガス採掘リグ、4週間ぶりに増加に転じる — ベーカーヒューズ報告",
-      "summary": "エネルギーサービス大手ベーカーヒューズの最新報告によると、米国で稼働中の石油・天然ガス採掘リグの数が4週間ぶりに増加に転じた。この動きは、原油価格の高騰を受け、米国のエネルギー生産者が増産に向けて動き出している可能性を示唆している。これまで原油価格は中東情勢の緊迫化など地政学的リスクの高まりから大幅に上昇しており、エネルギー企業は収益性改善の機会と捉えていると見られる。リグ数の増加は、短期的には国内供給の増加期待に繋がり、過度な価格高騰を抑制する効果も期待されるが、実際に生産量に反映されるまでには時間を要する。また、増産傾向が続けば、米国のエネルギー自給率向上に寄与し、地政学的な供給リスクに対する国内経済の耐性を高める可能性もある。しかし、この増産が世界的な供給過剰に繋がり、将来的な価格下落を招くリスクも孕んでおり、市場は今後のリグ数の推移と実際の生産動向を注視するだろう。FRBはインフレ抑制のためにエネルギー価格の安定を望んでおり、今回のリグ数増加は政策判断に影響を与える可能性もある。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "reuters.com",
-      "url": "https://www.reuters.com/business/energy/us-drillers-add-oil-gas-rigs-first-time-four-weeks-baker-hughes-says-2026-03-06/",
-      "related_symbols": []
-    },
-    {
-      "headline": "FRB理事ミラノ氏、2月の雇用喪失は追加利下げを裏付けると発言",
-      "summary": "米連邦準備制度理事会（FRB）のスティーブン・ミラノ理事は金曜日のCNBCインタビューで、2月の弱い雇用統計が中央銀行のさらなる利下げの根拠を強めると述べた。ミラノ理事は、金利が中立水準、すなわち現在の水準からほぼ1%低い水準にあるべきだと考えている。2月の非農業部門雇用者数が予想外に減少したことは、労働市場の軟化を示唆しており、これはFRBが利下げを検討する上で重要な要素となる。これまでFRBは、インフレ抑制と雇用最大化という二つの目標の間でバランスを取ろうとしてきたが、雇用市場の弱化は利下げ支持派に有利な材料となる可能性がある。しかし、一方で中東情勢の緊迫化による原油価格高騰がインフレリスクを再燃させており、FRBは依然として難しい政策判断を迫られている。ミラノ理事の発言は、FRB内部での利下げに関する議論が活発化していることを示唆しており、次回のFOMC会合では、最新の経済データと地政学的リスクを総合的に評価した上で、金融政策の方向性が決定されることになるだろう。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html",
-      "related_symbols": []
-    },
-    {
-      "headline": "NYSEがシステム障害で900万ドルの罰金、SECが発表",
-      "summary": "ニューヨーク証券取引所（NYSE）は、2023年1月に市場の開場を混乱させ、優良株の価格に大きな変動を引き起こしたコンピューターの不具合に関して、米証券取引委員会（SEC）から科された900万ドルの民事罰金に合意した。このシステム障害は、多くの銘柄で売買開始価格の設定に異常が生じ、取引の公平性と市場の信頼性に影響を与えた。SECは、NYSEが市場運営における義務を十分に果たしていなかったと判断し、今回の罰金命令に至った。この事案は、高速かつ複雑な現代の電子取引システムにおいて、技術的な信頼性と堅牢性が極めて重要であることを改めて浮き彫りにした。また、規制当局が市場の安定性を確保するために、取引所のシステム管理やリスク対策に対して厳格な監視を続けている姿勢を示している。今回の和解は、同様の技術的問題が発生しないよう、他の取引所や金融機関に対する警告ともなり、システム投資やリスク管理体制の強化を促すことになるだろう。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "reuters.com",
-      "url": "https://www.reuters.com/legal/government/nyse-fined-9-million-by-sec-over-glitch-that-disrupted-stock-market-2026-03-06/",
-      "related_symbols": []
-    },
-    {
-      "headline": "原油価格高騰が市場を揺るがす可能性",
-      "summary": "原油、金利、ドルが全て上昇基調にあり、原油価格は1バレル88ドルを超えて一段の上昇を示唆している。この動きは、原油価格がさらに上昇すれば、例え雇用データが弱かったとしても金利のさらなる上昇を示唆している。中東情勢の緊迫化が原油供給への懸念を高め、WTI原油先物価格は数年来の高値を更新。このエネルギー価格の高騰は、企業の生産コスト増や輸送コスト増大を通じて、広範な物価上昇圧力となる。また、高インフレはFRBの金融引き締め姿勢を維持させ、利下げ期待を後退させる要因となり、国債利回りも上昇。米ドルも地政学的リスクの高まりから安全資産としての需要が高まり、堅調に推移している。このような「原油高、金利高、ドル高」の同時進行は、企業の資金調達コスト増や消費者の購買力低下を招き、株式市場全体に重しとなる。市場はスタグフレーションのリスクを警戒し始めており、今後のエネルギー価格と金融政策の動向が、経済と市場の安定性を大きく左右する局面を迎えている。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
+      "headline": "Rocket Pharmaceuticals, Inc. (RCKT) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
+      "summary": "Rocket Pharmaceuticals, Inc. (RCKT) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
+      "category": "【マーケット一般】",
+      "importance": 5,
       "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879564-surging-oil-prices-may-be-about-to-jolt-markets",
+      "url": "https://seekingalpha.com/article/4879610-rocket-pharmaceuticals-inc-rckt-presents-at-td-cowen-46th-annual-health-care-conference",
       "related_symbols": []
     },
     {
-      "headline": "失業率上昇と原油価格90ドルへの急騰：週末リスクを前にしたスタグフレーション・カクテル",
-      "summary": "今朝の市場は、中東情勢の緊張激化による原油価格の急騰と、米国労働データの予想外の悪化という悪い組み合わせに直面している。原油価格は1バレル90ドルに迫る勢いで急騰し、エネルギーコストの上昇を通じてインフレ圧力の再燃懸念が強まっている。同時に、米国の労働市場からは2月の非農業部門雇用者数が92,000人減と大幅に落ち込み、失業率も上昇した。この「原油高と雇用減」という組み合わせは、1970年代のスタグフレーションを想起させるものであり、投資家の間に深い不安を広げている。FRBは、インフレ抑制のための利上げと景気刺激のための利下げという、相反する政策のジレンマに陥る可能性が高まっている。このような不確実性の高い状況は、週末にかけて市場のリスクオフを加速させ、株式市場のさらなる下落圧力となるだろう。投資家は、ポートフォリオの防御的側面を強化し、エネルギー株や金などの安全資産に注目する必要がある。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
+      "headline": "Nerds on Site Inc. (NOSUF) Shareholder/Analyst Call Transcript",
+      "summary": "Nerds on Site Inc. (NOSUF) Shareholder/Analyst Call Transcript",
+      "category": "【マーケット一般】",
+      "importance": 5,
       "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879562-large-nfp-miss-oil-surge-to-90-stagflation-cocktail-ahead-of-weekend-risk",
+      "url": "https://seekingalpha.com/article/4879592-nerds-on-site-inc-nosuf-shareholder-analyst-call-transcript",
       "related_symbols": []
     },
     {
-      "headline": "非農業部門雇用者数、予想外に大幅減",
-      "summary": "米国労働統計局（BLS）が発表した2月の雇用統計によると、非農業部門雇用者数は予想を大きく下回る92,000人減となり、市場に衝撃を与えた。これはアナリストが予想していた50,000人増を大きく下回り、1月に下方修正された126,000人増からも大幅な落ち込みを示している。この予想外の雇用減少は、これまで堅調と見られていた労働市場の勢いが失われつつある可能性を示唆しており、米経済の成長鈍化への懸念を強める。同時に発表された失業率は4.4%に上昇し、労働市場の軟化が明確になった。FRBは金融政策を決定する上で雇用情勢を重視しており、今回の弱いデータは、インフレ圧力と労働市場のバランスを見極める上で、今後の利下げシナリオに影響を与える可能性がある。しかし、中東情勢の緊迫化による原油価格高騰がインフレリスクを煽る中で、FRBは依然として難しいかじ取りを迫られる状況にある。市場は、経済指標の複雑な組み合わせに直面し、今後のFRBの動向と経済の方向性を慎重に見極めることになるだろう。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
+      "headline": "Canfor Corporation (CFP:CA) Q4 2025 Earnings Call Transcript",
+      "summary": "Canfor Corporation (CFP:CA) Q4 2025 Earnings Call Transcript",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4879609-canfor-corporation-cfp-ca-q4-2025-earnings-call-transcript",
+      "related_symbols": []
+    },
+    {
+      "headline": "BOSTON SCIENTIFIC CORPORATION (BSX) INVESTOR ALERT Investors With Large Losses in Boston Scientific Corporation Should Contact Bernstein Liebhard LLP To Discuss Their Rights",
+      "summary": "Boston Scientific Shareholders Between July 23, 2025 and February 3, 2026 - Contact Bernstein Liebhard For More Information Regarding Shareholder Lawsuit",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251235/0/en/BOSTON-SCIENTIFIC-CORPORATION-BSX-INVESTOR-ALERT-Investors-With-Large-Losses-in-Boston-Scientific-Corporation-Should-Contact-Bernstein-Liebhard-LLP-To-Discuss-Their-Rights.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "CompX Q4 Earnings Rise Y/Y on Margin Gains Despite Sales Dip",
+      "summary": "CIX posts higher y/y Q4 earnings as margins improve and Marine Components demand offsets softer Security Products sales.",
+      "category": "【マーケット一般】",
+      "importance": 5,
       "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880198/nonfarm-payrolls-fall-big-against-expectations?cid=CS-STOCKNEWSAPI-FT-economic_highlights-2880198",
+      "url": "https://www.zacks.com/stock/news/2880432/compx-q4-earnings-rise-y-y-on-margin-gains-despite-sales-dip?cid=CS-STOCKNEWSAPI-FT-microcap_article|earnings-2880432",
       "related_symbols": []
     },
     {
-      "headline": "FRBダリー総裁、雇用統計が金利決定を複雑化と発言",
-      "summary": "サンフランシスコ連邦準備銀行のメアリー・ダリー総裁は金曜日、2月の弱い雇用統計が金融政策決定の環境を複雑化させていると述べた。ダリー総裁はCNBCのインタビューで、労働市場の軟化とインフレがFRBの目標である2%を依然として上回っている状況が、今後の金利に関する決定を難しくしていると指摘した。彼女は具体的な金利の方向性については言及を避けたが、最新のデータがFRBが置かれた「難しい」状況を浮き彫りにしていると強調した。2月の非農業部門雇用者数が予想外に減少したことは、FRBが利下げを検討する上での新たな材料となる一方で、中東情勢の緊迫化による原油価格の高騰はインフレリスクを再燃させ、FRBにさらなる警戒を促している。このようなマクロ経済と地政学的要因の複雑な絡み合いは、FRBが経済の軟着陸を実現するための政策調整をより慎重に行う必要があることを示唆している。市場は、ダリー総裁のようなFRB高官の発言から、今後の金融政策の方向性に関するヒントを探るだろう。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/03/06/san-francisco-feds-daly-says-jobs-report-complicates-interest-rate-call.html",
-      "related_symbols": []
-    },
-    {
-      "headline": "米労働省、2月に予想外の9.2万件の雇用減少を発表",
-      "summary": "米労働省が金曜日に発表した2月の雇用統計は、非農業部門雇用者数が予想に反して92,000件減少したと報じ、市場に大きな驚きを与えた。これはエコノミストが50,000件の増加を見込んでいたのに対し、大幅な下振れとなった。また、失業率は1月の4.3%から4.4%に上昇し、労働市場の軟化が鮮明になった。この弱い雇用データは、米国経済の成長の勢いが鈍化している可能性を示唆しており、これまでFRBが金融政策を決定する上で重視してきた労働市場の堅調さに疑問符を投げかけるものとなった。インフレ圧力が依然として懸念される中で、労働市場の弱化はFRBの利下げ判断を促す材料となる一方で、地政学的緊張による原油価格高騰がインフレリスクを再燃させるという複雑な状況に、FRBは対応を迫られている。今回の雇用統計は、金融市場に大きな不確実性をもたらし、今後の経済政策や市場の方向性について、投資家はより慎重な姿勢を取ることになるだろう。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/03/06/february-2026-jobs-report.html",
-      "related_symbols": []
-    },
-    {
-      "headline": "Google、Microsoftに続きAnthropicが防衛プロジェクト以外で利用可能と表明",
-      "summary": "Googleは、Anthropicが米国防総省から連邦契約のブラックリストに掲載された後も、防衛関連以外のプロジェクトではAnthropicとの協力を継続すると発表した。この発表は、MicrosoftがAnthropicの技術は防衛分野以外で引き続き利用可能であるとユーザーに伝えた翌日に行われた。この動きは、大手テック企業がAI開発における地政学的な制約に直面しつつも、主要なAIパートナーシップを維持しようとする戦略を示している。Anthropicは、その大規模言語モデル「Claude」で知られる主要なAIスタートアップであり、その技術は幅広い商業用途で利用されている。GoogleとMicrosoftがAnthropicとの関係を継続する姿勢を示すことで、AI分野における競争と協力の複雑なダイナミクスが浮き彫りになる。特に、政府調達と民間セクターのAI利用の線引きが明確化される中で、AI技術の倫理的利用や安全保障上の側面が、大手テック企業の事業戦略に大きな影響を与えていることを示唆している。両社の声明は、AI技術が多様な産業に与える影響力の大きさを改めて浮き彫りにした。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 10,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
-      "related_symbols": [
-        "GOOGL",
-        "MSFT"
-      ]
-    },
-    {
-      "headline": "注目3銘柄：AMZN、AAOI、CVX",
-      "summary": "市場アナリストのティム・ボーエン氏は、現在の地政学的な不確実性を乗り越えれば、市場は強気相場に転じると予測し、その中で注目すべき3銘柄としてAmazon (AMZN)、Applied Optoelectronics (AAOI)、Chevron (CVX)を挙げた。彼は、中東情勢による原油価格の高騰や、それに伴う市場のボラティリティがある中でも、これら銘柄には短期的な取引機会が存在すると指摘する。Amazonは、その広範なEコマースとクラウドサービス（AWS）事業により、経済の不確実性下でも消費者行動の変化や企業のデジタルトランスフォーメーション需要を取り込み、底堅い成長を続ける可能性を秘めている。Chevronは、原油価格上昇の恩恵を直接受けるエネルギー大手であり、現在の地政学的リスクが高い環境下ではディフェンシブかつ収益性の高い選択肢となる。Applied OptoelectronicsはAI関連の光通信部品を手掛けており、AIインフラ投資の加速という構造的トレンドに乗る企業として、長期的な成長が期待される。これらの銘柄は、異なるセクターに属しながらも、現在の市場環境で強みを発揮し得るという共通点を持つ。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 9,
-      "source": "youtube.com",
-      "url": "https://www.youtube.com/watch?v=VqRtuvofQwQ",
-      "related_symbols": [
-        "AMZN"
-      ]
-    },
-    {
-      "headline": "ジェンスン・フアンがNVIDIA投資家へ驚くべきニュースを伝える",
-      "summary": "NVIDIAのCEO、ジェンスン・フアン氏は、同社の次世代プラットフォーム「Vera Rubin」の商業出荷を2026年後半に開始すると発表し、投資家にとって重要な情報を提供した。これは、AIデータセンターインフラへの支出が今後も減速しないという彼の見解を裏付けるものとなる。フアン氏は、AI技術の進化が様々な産業に革命をもたらし、それに伴うコンピューティング需要が継続的に拡大すると強調した。NVIDIAは、HPC (高性能計算) およびAI市場における支配的な地位を確立しており、Vera Rubinプラットフォームの投入は、そのリーダーシップをさらに強化し、新たな成長段階へと移行する戦略の一環と見られる。高性能GPUに対する需要が引き続き旺盛である中、次世代製品の投入は、データセンター事業者やクラウドプロバイダーがAIワークロードを効率的に処理するための新たなソリューションを提供するものとなる。この発表は、NVIDIAの長期的な成長見通しを強固なものとし、AIセクター全体の投資家心理にもポジティブな影響を与える可能性が高い。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 10,
-      "source": "fool.com",
-      "url": "https://www.fool.com/investing/2026/03/06/jensen-huang-incredible-news-nvidia-stock-investor/",
-      "related_symbols": [
-        "NVDA"
-      ]
-    },
-    {
-      "headline": "NVIDIAのCEOが「エージェントAIの転換点到来」と語る：なぜ投資家は耳を傾けるべきか",
-      "summary": "NVIDIAのCEO、ジェンスン・フアン氏は、エージェントAIの台頭が加速していると指摘し、投資家に対してその重要性を強調した。彼は、AIエージェントが既存のソフトウェアツールを破壊するのではなく、全く新しいソフトウェアツールを創造することでソフトウェア産業を変革するという予測を否定した。フアン氏の視点は、AI技術が既存の枠組みを拡張し、新たな価値を創出する方向で進化するという、より建設的なものである。NVIDIAは、AI学習と推論の中核を担うGPUを提供することで、このAIの進化を最前線で支えている。エージェントAIは、自律的に目標を設定し、それを達成するための行動を計画・実行する能力を持つAIシステムであり、その普及は企業オペレーションの自動化、パーソナライズされたサービス提供、新たな製品開発など、幅広い分野で大きな影響をもたらすと期待される。フアン氏の発言は、AI技術の次のフロンティアを示唆し、NVIDIAがその中心で果たす役割への期待感を高めるものだ。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 10,
-      "source": "fool.com",
-      "url": "https://www.fool.com/investing/2026/03/06/nvidias-ceo-says-the-agentic-ai-inflection-point-h/",
-      "related_symbols": [
-        "NVDA"
-      ]
-    },
-    {
-      "headline": "Google株は依然としてビッグテックの「バリュープレイ」なのか？",
-      "summary": "Google（GOOGL）の株価は過去12ヶ月で75%も急騰し、多くの大型テクノロジー企業を大きく上回るパフォーマンスを見せている。しかし、この株価上昇により、「ディープバリュー」という認識から、高リスクの「実行力」が問われる局面へと物語が変化している。同社はAI分野への巨額な投資を継続しており、検索、クラウド、自動運転など多岐にわたる事業でAI技術を統合・活用することで、新たな成長機会を模索している。しかし、AI競争の激化、規制圧力の高まり、そして広告収入源の多様化への課題は、Googleが直面する重要なリスク要因となっている。投資家は、GoogleがAI技術のリーダーシップを維持し、それを収益に結びつけられるか、また、その巨大な事業規模を効率的に運営できるかどうかに注目している。現在の高評価は、将来の成長への期待を織り込んでいるため、同社が期待通りの成長戦略を着実に実行できるかが、今後も「バリュープレイ」としての魅力を維持できるかの鍵となるだろう。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 9,
-      "source": "forbes.com",
-      "url": "https://www.forbes.com/sites/greatspeculations/2026/03/06/is-google-stock-still-the-value-play-of-big-tech/",
-      "related_symbols": [
-        "GOOGL",
-        "GOOG"
-      ]
-    },
-    {
-      "headline": "ユナイテッド航空の株価に何が起きているのか？",
-      "summary": "国際航空輸送および航空サービス企業であるユナイテッド航空（UAL）の株価は、5日連続で下落し、この期間に合計18%の損失を記録した。同社の時価総額は約68億ドル減少し、現在310億ドルとなっている。この急速な下落は、中東情勢の緊迫化による原油価格の高騰が主要因である可能性が高い。燃料費は航空会社の主要な運転コストであり、原油価格の上昇は航空会社の利益マージンを直接圧迫する。さらに、地政学的な不確実性は旅行需要を冷え込ませ、国際線の予約キャンセルや運航制限につながるリスクもはらんでいる。ユナイテッド航空は、収益性改善と事業拡大を目指して様々な戦略を進めていたものの、外部環境の急激な悪化が業績見通しに暗い影を落としている。投資家は、航空業界全体のリスクとして、燃料価格の変動、地政学的な安定性、そして消費者心理の回復を注視しており、UALの株価はこれらの要因に敏感に反応している状況だ。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 9,
-      "source": "forbes.com",
-      "url": "https://www.forbes.com/sites/greatspeculations/2026/03/06/whats-happening-with-united-airlines-stock/",
-      "related_symbols": []
-    },
-    {
-      "headline": "NVIDIAのAI半導体需要の加速を裏付けるMarvellのCEO発言",
-      "summary": "二つの主要なAIカスタムチップメーカーが連続して好調な四半期決算を発表する中、MarvellのCEOは「当社の製品に対する需要が加速し続けている」と述べ、データセンター収益が15億ドルに達したことを明らかにした。これは、AI分野におけるNVIDIA (NVDA)の独走的な成功が、サプライチェーン全体、特に高性能データセンター向け半導体メーカーに波及していることを示唆する。AI技術の進化と大規模言語モデルの普及に伴い、データセンターの処理能力と接続性に対する需要は爆発的に増加しており、Marvellのような企業は、NVIDIAのGPUを補完する形で、ASIC（特定用途向け集積回路）や高性能ネットワーキングソリューションを提供している。Marvellのデータセンター事業の好調なパフォーマンスは、AIインフラ投資が引き続き強力な勢いを保っていることの明確な証拠であり、NVIDIAの成長ストーリーをさらに強固なものとする。この動きは、半導体業界全体の収益性向上と、AIエコシステムの拡大が持続的な市場の主要テーマであることを強調している。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 9,
-      "source": "247wallst.com",
-      "url": "https://247wallst.com/investing/2026/03/06/marvell-ceo-demand-for-our-products-continuing-to-accelerate-as-data-center-revenue-hits-1-5b/",
-      "related_symbols": [
-        "NVDA"
-      ]
-    },
-    {
-      "headline": "Netflix、ワーナー買収を断念し「通常業務」に回帰",
-      "summary": "NetflixはWarner Bros. Discoveryの買収計画を断念し、これまでの有機的成長戦略に重点を置く姿勢を強調した。この動きは、Netflixの事業戦略における転換点を示すものであり、自社のコンテンツ開発とストリーミングサービスのエコシステム強化に資源を集中させる意図があることを示唆する。Bank of America Securitiesは、Netflixが価格予測を引き下げたにもかかわらず、依然として同社に対して強気な見方を維持している。これは、投資家がコンテンツの質とプラットフォームの利用者体験が長期的な成長の鍵であると認識しているためと考えられる。市場では、ストリーミング競争の激化とコンテンツ制作コストの上昇が懸念されているが、Netflixは新たな買収による統合リスクを避け、既存の強みをさらに伸ばす戦略を選択したことで、安定した成長路線を再確認しようとしている。今回の決定は、ストリーミング業界全体のM&A環境にも影響を与える可能性があり、各社が自社の差別化戦略を再考するきっかけとなるかもしれない。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 8,
-      "source": "benzinga.com",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/03/51104277/netflix-drops-warner-pursuit-returns-to-business-as-usual",
-      "related_symbols": []
-    },
-    {
-      "headline": "リヴィアン、フォードやGMが達成できなかったR2での目標を追う",
-      "summary": "リヴィアン・オートモーティブ（RIVN）は、新型R2車両に高い期待を寄せており、顧客への納車を2026年6月、あるいはそれ以前に開始することを目指している。これは、フォードやGMといった既存の自動車大手でさえ達成できなかった、電気自動車（EV）市場における新たな記録を打ち立てることを意図している。R2は、より手頃な価格帯で提供されることが予想されており、これによりEV市場の主流セグメントへの浸透を狙っている。テスラ（TSLA）がEV市場で先行している中で、リヴィアンは独自のデザインとオフロード性能を強みとして差別化を図ってきたが、R2ではより広範な消費者層へのアピールを目指す。成功すれば、EVスタートアップとしての地位を確固たるものとし、競合他社に対する優位性を確立する可能性がある。しかし、生産規模の拡大、サプライチェーンの最適化、そして市場での厳しい競争という課題も依然として残る。R2の成功は、リヴィアンの長期的な成長戦略において極めて重要な要素となるだろう。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 9,
-      "source": "benzinga.com",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/03/51104881/rivian-wants-r2-to-accomplish-something-ford-gm-couldnt-heres-the-record-its-chasing",
-      "related_symbols": [
-        "TSLA"
-      ]
-    },
-    {
-      "headline": "The Trade Desk、OpenAIとの提携懸念からWedbushにより格下げ",
-      "summary": "The Trade Desk (NASDAQ:TTD) は、OpenAI (Unlisted:OPAI) との提携の可能性が過大評価されているとの懸念を理由に、Wedbushによって「Underperform」に格下げされた。同社株価は金曜日の午後に29ドルで取引され、Wedbushの12ヶ月目標株価23ドルを上回っている。この格下げは、広告技術分野におけるAIの影響力と、大手AI企業とのパートナーシップが企業価値に与える影響に関する市場の評価が複雑化していることを示している。The Trade Deskは、デマンドサイドプラットフォーム（DSP）のリーディングカンパニーとして、オープンインターネット上の広告取引を最適化する技術を提供している。AI技術は、広告のターゲティングや効果測定を向上させる大きな可能性を秘めている一方で、OpenAIのような企業が広告分野に直接進出する可能性は、既存の広告テクノロジー企業にとって競争上のリスクとなり得る。Wedbushの分析は、AI関連の期待が先行しすぎている可能性や、提携の実質的な価値が当初の予想ほど大きくない可能性を示唆しており、投資家は今後、AI技術の広告市場への具体的な影響と、The Trade Deskの競争戦略を注視する必要がある。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 8,
-      "source": "proactiveinvestors.com",
-      "url": "https://www.proactiveinvestors.com/companies/news/1088499",
-      "related_symbols": []
-    },
-    {
-      "headline": "Amphenol、多様なエンドマーケットを開拓：多角化が成長を加速させるか？",
-      "summary": "Amphenol (APH)は、ITデータ通信、自動車、産業機器など多岐にわたるエンドマーケットへの広範なエクスポージャーを活用し、AI、EV、次世代ネットワークといったトレンドがコネクティビティ技術の需要を押し上げていることで成長を促進している。同社の戦略は、異なる産業分野におけるコネクタ、センサー、アンテナなどの製品需要を取り込むことで、単一市場の変動リスクを低減し、安定的な成長基盤を築くことにある。特に、AIデータセンターの急速な拡張や、電気自動車（EV）への移行、5Gなどの次世代通信インフラの整備は、高性能で信頼性の高い相互接続ソリューションに対する需要をかつてないほど高めている。Amphenolは、これらの分野で技術的なリーダーシップを発揮しており、幅広い顧客基盤と技術ポートフォリオを持つことで、市場の大きなトレンドから恩恵を受けている。このような多角化戦略は、同社が今後も持続的な成長を達成するための重要な鍵となると期待されており、市場は同社の製品イノベーションと市場浸透の動向を注視するだろう。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 8,
+      "headline": "Is Coherent's Deleveraging Plan Clearing the Runway for Growth?",
+      "summary": "COHR slashes debt via asset sales, cuts leverage to 1.7X and builds $899M cash, positioning the company to ramp capacity and chase surging datacenter demand.",
+      "category": "【マーケット一般】",
+      "importance": 5,
       "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880224/amphenol-taps-multiple-end-markets-can-diversification-boost-growth?cid=CS-STOCKNEWSAPI-FT-analyst_blog|quick_take-2880224",
+      "url": "https://www.zacks.com/stock/news/2880434/is-coherent-s-deleveraging-plan-clearing-the-runway-for-growth?cid=CS-STOCKNEWSAPI-FT-analyst_blog|quick_take-2880434",
       "related_symbols": []
     },
     {
-      "headline": "米イラン戦争拡大が迫る中、ポートフォリオに必要なもの",
-      "summary": "2026年は市場にとって変動の激しい幕開けとなり、米イラン戦争の拡大という地政学がかつてないほど大きな要因となっている。ベネズエラへの米国の介入に続き、新たな紛争が年初の市場予測を一変させた。このような情勢下では、ポートフォリオの防御力強化が不可欠である。伝統的に、金や米国債といった安全資産への配分を増やすことで、市場の不確実性から資産を守る戦略が有効とされる。また、エネルギー価格の高騰が予想されるため、エネルギーセクターの銘柄や関連ETFへの投資も検討されるが、これは高いボラティリティを伴う。さらに、防衛関連企業も需要増加の恩恵を受ける可能性がある。サプライチェーンの混乱リスクも高まるため、国内生産比率の高い企業や、強固なバランスシートを持つ企業への注目も重要だ。投資家は、市場の感情的な反応に流されず、長期的な視点からリスクを評価し、分散投資を徹底することで、地政学的ショックに対する耐性を高める必要がある。",
-      "category": "【国際・地政学】",
-      "importance": 10,
-      "source": "etftrends.com",
-      "url": "https://www.etftrends.com/active-etf-content-hub/your-portfolio-needs-u-s-iran-war-spreads/",
+      "headline": "CYH Agreed to Sell 4 Arkansas Hospitals for $112M to Reduce Debt",
+      "summary": "Community Health Systems is set to sell four Arkansas hospitals and related operations to Freeman Health System for $112M, advancing its divestiture strategy to reduce debt and refocus resources.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/stock/news/2880433/cyh-agreed-to-sell-4-arkansas-hospitals-for-112m-to-reduce-debt?cid=CS-STOCKNEWSAPI-FT-analyst_blog|company_news_corporate_actions-2880433",
       "related_symbols": []
     },
     {
-      "headline": "原油価格の急騰を逆転させる可能性のある要因",
-      "summary": "最近の原油価格の急騰は、中東情勢の緊迫化を主因とする供給懸念と、世界経済の底堅さによる需要増が複合的に作用した結果である。しかし、この価格上昇トレンドを逆転させる可能性のあるいくつかの要因が存在する。第一に、地政学的緊張の緩和が挙げられる。例えば、米イラン間の対立が外交努力によって鎮静化すれば、ホルムズ海峡の安全な航行が保証され、供給リスクプレミアムは大幅に低下するだろう。第二に、主要産油国による増産である。OPEC+が供給量を増やす決定を下したり、米国やその他の非OPEC産油国がシェールオイル生産を拡大したりすれば、市場の需給バランスは緩和される。第三に、世界経済の減速やリセッションへの転換も需要を押し下げ、価格を是正する要因となる。最後に、戦略的石油備蓄の放出や、エネルギー効率改善、再生可能エネルギーへの移行加速といった長期的な構造変化も、原油への依存度を低下させ、価格安定に寄与する可能性がある。これらの要因のいずれか、あるいは複合的な作用が、現在の原油価格の高騰を抑制し、市場に安定をもたらす鍵となる。",
-      "category": "【国際・地政学】",
-      "importance": 9,
-      "source": "marketwatch.com",
-      "url": "https://www.marketwatch.com/story/heres-how-the-oil-price-surge-might-be-reversed-8cda6035",
-      "related_symbols": []
-    },
-    {
-      "headline": "中東紛争がカナダ市場に与える影響",
-      "summary": "現在の中東紛争は、原油価格の変動を通じて世界経済に広範な影響を及ぼしているが、カナダ市場は他の国々と異なる状況にある。カナダは主要なエネルギー輸出国であるため、原油価格の上昇は、エネルギーセクターの企業収益を押し上げ、カナダドルを支援する可能性がある。これにより、カナダの経済は、エネルギー輸入依存度の高い欧州やアジア諸国に比べて、原油価格ショックに対する耐性が高いと見られている。しかし、完全に無縁というわけではない。世界的な景気減速やサプライチェーンの混乱は、カナダの他の輸出産業や国内消費にも悪影響を及ぼす可能性がある。また、投資家心理の悪化によるリスクオフの流れは、カナダ株式市場全体を押し下げる圧力にもなり得る。総じて、中東紛争がカナダ市場に与える影響は、そのエネルギー輸出国の特性から、他国と比較して相対的に緩衝されるものの、世界経済全体の減速リスクからは免れられないだろう。投資家は、エネルギーセクターの恩恵と広範な市場リスクのバランスを考慮し、慎重なポートフォリオ戦略を練る必要がある。",
-      "category": "【国際・地政学】",
-      "importance": 8,
+      "headline": "IMOM: Better Tactical ETF Than Long-Term Holding",
+      "summary": "The Alpha Architect Intl Quantitative Momentum ETF targets high-momentum international stocks, with a concentrated 50-stock portfolio and high turnover. IMOM has strong growth metrics without sacrificing value, and is heavily weighted in Japan and industrials, increasing sector and country risk. Despite underperforming EFA and peer momentum ETFs long-term, IMOM has outperformed them over the past year.",
+      "category": "【マーケット一般】",
+      "importance": 5,
       "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879579-what-middle-east-conflict-means-canada-markets",
+      "url": "https://seekingalpha.com/article/4879596-imom-better-tactical-etf-than-long-term-holding",
       "related_symbols": []
     },
     {
-      "headline": "トランプ関税：税関・国境警備局が返金命令に従えないと裁判官に通知",
-      "summary": "米税関・国境警備局（CBP）は金曜日、国際貿易裁判所の判事に対し、昨年ドナルド・トランプ大統領によって課され、最高裁が最近違法と判断した相互関税の返還命令に現時点では応じられないと通知した。最高裁は最近、トランプ政権が発動した特定の関税が「国際緊急経済権限法（IEEPA）」の下で認められないとの判決を下した。この判決を受けて、企業は過去に支払った関税の返還を求めているが、CBPは技術的・行政的な問題により、直ちに返還手続きを開始できないとしている。この状況は、ビジネス界に新たな不確実性をもたらし、返還プロセスが長期化する可能性を示唆している。輸入業者や小売業者にとっては、過去に支払った関税が還付されることは大きな恩恵となるが、その時期が不透明なままだ。この問題は、今後の米国の貿易政策や、同様の関税措置が導入される際の法的・行政的な課題について、重要な先例となるだろう。",
-      "category": "【国際・地政学】",
-      "importance": 9,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html",
-      "related_symbols": []
-    },
-    {
-      "headline": "イラン紛争が引き起こす新興市場株式ファンドの急落",
-      "summary": "新興市場株式ファンドは今月、イラン紛争の激化を受けて投資家がリスク資産へのエクスポージャーを削減したことで、急激な下落を記録し、他のアセットクラスと比較しても最もパフォーマンスの悪い部類に入った。中東情勢の緊迫化は、原油価格の高騰、サプライチェーンの混乱、そして世界経済成長への懸念を招き、リスク回避の動きを加速させている。新興市場は、一般的に地政学的リスクやコモディティ価格の変動に敏感であり、資本流出に見舞われやすい。特に、エネルギー輸入依存度の高い新興国は、原油価格の上昇がインフレ圧力を高め、経済成長を阻害するとの見方から売り圧力が強まった。投資家は、不確実性が高まる環境下で、より安全な資産に資金をシフトする傾向にあるため、新興市場は短期的に資金流出と価格下落に見舞われる可能性が高い。この状況は、新興市場への投資において、地政学的リスクの評価がこれまで以上に重要であることを示唆している。",
-      "category": "【国際・地政学】",
-      "importance": 9,
-      "source": "reuters.com",
-      "url": "https://www.reuters.com/business/finance/emerging-market-equity-funds-slide-iran-conflict-sparks-selloff-2026-03-06/",
-      "related_symbols": []
-    },
-    {
-      "headline": "イラン紛争激化で原油価格が90ドルに高騰",
-      "summary": "米とイスラエルがイラン全土に攻撃を開始して以来、原油市場は緊迫した状態が続いており、紛争が他の地域産油国に波及したことで、原油価格は90ドルに高騰した。トレーダーたちは、世界の原油消費量の20%以上が毎日通過するホルムズ海峡の混乱に注目している。この海峡が封鎖されれば、世界のエネルギー供給に壊滅的な影響が及び、原油価格はさらに急騰する可能性が高い。市場は、紛争の拡大が世界のエネルギー供給に与える具体的な影響を警戒しており、供給途絶のリスクプレミアムが価格に織り込まれている。原油価格の高騰は、世界経済のインフレ圧力をさらに高め、中央銀行の金融政策決定を複雑化させるだけでなく、企業の生産コストや消費者の生活費を押し上げ、景気減速のリスクを高める。今回の価格上昇は、地政学的リスクがエネルギー市場および世界経済に与える影響力の大きさを改めて浮き彫りにした。",
-      "category": "【国際・地政学】",
-      "importance": 10,
-      "source": "forbes.com",
-      "url": "https://www.forbes.com/sites/mikestunson/2026/03/06/oil-soars-to-90-as-iran-conflict-intensifies/",
-      "related_symbols": []
-    },
-    {
-      "headline": "株式市場の新たな恐怖は1970年代に経済を破滅させた11文字の言葉",
-      "summary": "最近の株式市場は、中東情勢の緊迫化による原油価格の高騰と、予想外に弱い雇用統計という二重の衝撃に直面している。原油価格は急騰し、同時に雇用は落ち込んでいる。この状況は、投資家の間で1970年代に世界経済を苦しめた「スタグフレーション」という言葉を想起させている。スタグフレーションとは、経済活動の停滞（Stagnation）とインフレ（Inflation）が同時に進行する現象であり、中央銀行にとって最も対応が難しい状況の一つである。原油価格の高騰は、企業の生産コストや消費者の購買力を圧迫し、経済成長を鈍化させる一方で、物価を押し上げる。また、雇用市場の軟化は、消費支出の回復を妨げ、さらなる景気悪化を招く可能性がある。現在の市場は、AIブームによる楽観論と、地政学的リスクおよびマクロ経済の不確実性による悲観論が入り混じった複雑な様相を呈している。投資家は、スタグフレーションのリスクを真剣に評価し、ポートフォリオの防御的な再構築を検討する必要がある。",
-      "category": "【国際・地政学】",
-      "importance": 10,
-      "source": "barrons.com",
-      "url": "https://www.barrons.com/articles/stock-market-fear-stagflation-oil-war-4a7185a3",
-      "related_symbols": []
-    },
-    {
-      "headline": "中東戦争が株式市場を直撃。しかしAIは「依然として市場で最も重要なダイナミクス」",
-      "summary": "中東における戦争の拡大は株式市場全体に大きな打撃を与え、特に投資家は原油価格高騰とサプライチェーンの混乱による景気減速リスクを警戒している。ダウ平均株価は800ポイント近く急落し、リスクオフの動きが加速した。しかし、Gabelli Fundsのポートフォリオマネージャーであるジョン・ベルトン氏は、「中長期的に見れば、AIは依然として市場で最も重要なダイナミクスである」と強調した。これは、地政学的リスクが短期的な市場の変動要因である一方で、人工知能（AI）の技術革新とその経済への影響が、より長期的な成長ドライバーとしての地位を維持しているとの見方を示す。企業はAI技術への投資を継続しており、半導体メーカーからソフトウェアプロバイダーに至るまで、AIエコシステム全体が強力な成長を見せている。したがって、投資家は短期的な地政学的ショックに過度に反応せず、AIがもたらす構造的な成長機会を見据え、ポートフォリオのバランスを保つことが重要であると示唆される。",
-      "category": "【国際・地政学】",
-      "importance": 9,
-      "source": "barrons.com",
-      "url": "https://www.barrons.com/articles/war-hits-stocks-but-ai-is-most-important-dynamic-b8539fc5",
-      "related_symbols": []
-    },
-    {
-      "headline": "欧州の逆説：戦争から離れていても影響は受ける — 米国以上に",
-      "summary": "イランと米国の戦争は、EUのエネルギー供給ショックに対する脆弱性を露呈させ、急激な株価下落と景気後退リスクの増大を引き起こした。EU経済、特にイタリア、ドイツ、スペインは、輸入原油とガスへの圧倒的な依存度から、壊滅的なインフレに直面する可能性がある。中東紛争は原油価格を高騰させ、欧州のエネルギーコストを直接押し上げている。これは、企業のマージンを圧迫し、消費者物価を上昇させることで、すでに高インフレに苦しむ欧州経済にさらなる打撃を与える。米国はエネルギー自給率が高く、中東の供給途絶からの直接的な影響は相対的に小さいが、欧州はロシアからのエネルギー供給減少に続き、新たな供給リスクに直面している。この逆説は、欧州連合が地政学的リスクに対して米国よりも構造的に脆弱であることを浮き彫りにする。EUの政策立案者は、エネルギー安全保障の強化と経済のレジリエンス構築を急務としており、長期的な視点でのエネルギー戦略の見直しが不可欠となるだろう。",
-      "category": "【国際・地政学】",
-      "importance": 9,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879155-the-european-paradox-out-of-the-war-but-affected-more-than-the-us-itself",
-      "related_symbols": []
-    },
-    {
-      "headline": "原油価格が高騰中 — そして株式投資家を不安にさせている。その理由。",
-      "summary": "中東情勢の緊迫化を背景に原油価格が急騰しており、これが株式市場の投資家を不安にさせている。特にダウ平均株価は大幅に下落し、市場全体がリスク回避モードに転じている。原油価格の上昇は、航空会社、輸送企業、製造業など、燃料コストに敏感なセクターの企業収益を直接圧迫する。また、消費者にとってはガソリン価格の上昇に繋がり、可処分所得を減少させることで小売売上高や広範な消費支出に悪影響を及ぼす。この結果、景気減速やリセッションへの懸念が高まり、投資家はリスク資産からの資金引き揚げを進めている。さらに、原油高は中央銀行のインフレ抑制努力を複雑化させ、利下げ期待を後退させる要因ともなる。株式市場は、地政学的リスクとマクロ経済の不確実性という二重の圧力に直面しており、原油価格の動向が今後の市場の方向性を大きく左右する主要な変数となっている。",
-      "category": "【国際・地政学】",
-      "importance": 9,
+      "headline": "Why Some Experts Think 'Defensive' Investors Could Lift Costco Stock Back Toward Records",
+      "summary": "Costco Wholesale's (COST) latest earnings beat estimates, giving its stock a lift. But what's next for the retailer's shares, which haven't done much over the past year?",
+      "category": "【マーケット一般】",
+      "importance": 5,
       "source": "investopedia.com",
-      "url": "https://www.investopedia.com/oil-prices-are-surging-and-it-is-making-stock-investors-anxious-dow-11920433",
+      "url": "https://www.investopedia.com/why-some-experts-think-defensive-investors-could-lift-costco-stock-back-toward-records-cost-11920818",
       "related_symbols": []
     },
     {
-      "headline": "アルファベット（GOOGL）、前回の決算報告以来9.2%下落：反発できるか？",
-      "summary": "アルファベット（GOOGL）の株価は、前回の決算報告以来9.2%下落しており、市場は同社がこの下落から反発できるかに注目している。前回の決算発表では、一部のセグメントの成長鈍化や広告収入の伸びに関する懸念が示され、これが株価下落の主な要因となった。特に、競争激化とマクロ経済の不確実性が、主要な広告事業に影響を与えているとの見方が広がった。しかし、同社はAI技術への大規模な投資を継続しており、Google Cloudの成長も堅調である。これらの高成長分野への戦略的シフトが、長期的な収益源の多様化と収益性向上に繋がる可能性は高い。投資家は、今後のAI関連製品の収益化や、コスト管理の徹底、そして主要な広告事業の回復の兆しに注目している。市場の懸念が過度であるとの見方もあり、現在の株価下落が新たな買いの機会となるかどうかが議論されている。同社の今後のガイダンスや市場動向に応じた戦略が、株価の反発を左右する重要な要素となるだろう。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 10,
+      "headline": "Can Annaly Sustain Its Impressive 12.2% Dividend Yield?",
+      "summary": "NLY pairs a 12.2% dividend yield with a $104.7B portfolio heavy in Agency MBS and $9.4B in liquidity, supporting payouts despite rate risks.",
+      "category": "【マーケット一般】",
+      "importance": 5,
       "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880263/alphabet-googl-down-9-2-since-last-earnings-report-can-it-rebound?cid=CS-STOCKNEWSAPI-FT-realtime_blog-2880263",
-      "related_symbols": [
-        "GOOGL"
-      ]
+      "url": "https://www.zacks.com/stock/news/2880430/can-annaly-sustain-its-impressive-12-2-dividend-yield?cid=CS-STOCKNEWSAPI-FT-analyst_blog|company_news_finance_sector-2880430",
+      "related_symbols": []
     },
     {
-      "headline": "Broadcom：GPU以外で最も重要なAI複合企業が不可欠な存在に",
-      "summary": "Broadcom Inc. (AVGO)の直近の2026年度第1四半期決算と、2027年度のAI関連収益見通し1,000億ドルというガイダンスは、AIインフラ支出における同社の持続的成長と市場シェア拡大の可視性を一段と強化した。同社は、ハイパースケーラーがワークロード最適化されたリターンを追求し、GPU以外のカスタムXPU（特定用途向けプロセッサ）導入を加速させる中で、AI設備投資の多様化の主要な受益者となっている。これは、従来の汎用GPUに依存しないAIシステムの構築が進んでいることを示唆しており、BroadcomのASIC（特定用途向け集積回路）やネットワークソリューションの重要性が増している。また、帯域幅、メモリ、電力のボトルネックが深刻化する中で、低遅延のDAC（Direct Attached Copper）ケーブルやCPO（Co-packaged Optics）インターコネクトといった接続技術へのBroadcomのエクスポージャーが、同社の強みを裏付けている。AIインフラの複雑化と専門化が進むにつれて、Broadcomは不可欠な「複合企業」としての地位を確立しつつあり、同社の長期的な成長シナリオを強力に支持する内容と言える。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 10,
+      "headline": "My Largest BDC Pick KBDC Has Again Proven The Skeptics Wrong",
+      "summary": "Kayne Anderson BDC stands out as a top defensive BDC pick, demonstrating resilience amid sector headwinds and SaaS-related volatility. KBDC delivered quarter-over-quarter NII per share growth to $0.44, outpacing sector peers suffering dividend cuts and negative NII trends. The base dividend coverage is robust at 110%, with management guiding for the $0.40 dividend to be maintained throughout 2026.",
+      "category": "【マーケット一般】",
+      "importance": 5,
       "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879549-broadcom-the-most-important-non-gpu-ai-compounder-is-becoming-indispensable",
-      "related_symbols": [
-        "AVGO"
-      ]
-    },
-    {
-      "headline": "Broadcom：NVIDIAに匹敵する「AIの瞬間」を実現する強固な根拠",
-      "summary": "Broadcom Inc. (AVGO)は、カスタムAIチップとネットワーキング分野でNVIDIA (NVDA)に匹敵する成長軌道に乗る可能性を示している。同社の経営陣は、2026年度第2四半期までにAI関連収益が107億ドルに達し、2027年までに1000億ドルを目指すという野心的なガイダンスを示しており、これは同社の長期的な収益の可視性を高めている。ハイパースケールデータセンター事業者によるAI向けカスタムチップ開発の需要増は、BroadcomのASIC設計能力とネットワークソリューションに新たな成長機会をもたらしている。同社は、調整後EBITDAマージンが68.5%以上、フリーキャッシュフローマージンが51.9%という高い収益性と効率性を維持しており、これはその規模と統合によるメリットを最大限に活用していることを示している。NVIDIAがGPUハードウェアで市場をリードする一方で、BroadcomはAIワークロードを最適化するためのカスタムシリコンと高速ネットワーク技術で不可欠な役割を担い、AIエコシステムにおける存在感を急速に高めている。この「NVIDIAの瞬間」は、AI半導体市場における多様な成長経路の可能性を浮き彫りにしている。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 10,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879533-broadcom-making-a-solid-case-for-its-nvidia-moment",
-      "related_symbols": [
-        "AVGO",
-        "NVDA"
-      ]
-    },
-    {
-      "headline": "Oracle株はクラウド成長の新たな王者となるか？",
-      "summary": "Oracleは伝統的にレガシーなデータベースプロバイダーとして認識されてきたが、Oracle Cloud Infrastructure（OCI）への積極的な転換が、同社を「台頭する巨人」と見るか、「過度に拡大した弱者」と見るかの議論を巻き起こしている。同社は、競合するクラウドプロバイダー（AWS、Azure、Google Cloud）と比較して、特に特定のワークロードにおいてコスト効率と高性能を提供できる点を強調している。AI技術の進化に伴い、高性能なインフラ需要が高まる中、OracleはNVIDIAとの提携を強化するなど、AI関連のクラウドサービスを拡充している。これにより、データセンター投資やクラウド移行を検討する企業からの需要獲得を目指している。市場は、Oracleが従来のデータベース事業からの脱却を成功させ、クラウド分野で持続的な成長を確立できるか、そして、その高成長が株価に適切に反映されるかどうかに注目している。同社のクラウド戦略の成否は、今後のテック業界における競争力と市場シェアを大きく左右するだろう。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 9,
-      "source": "forbes.com",
-      "url": "https://www.forbes.com/sites/greatspeculations/2026/03/06/is-oracle-stock-the-new-king-of-cloud-growth/",
+      "url": "https://seekingalpha.com/article/4879595-my-largest-bdc-pick-kbdc-has-proven-the-skeptics-wrong",
       "related_symbols": []
     },
     {
-      "headline": "MarvellのCEO：「当社の製品需要は加速し続けている」データセンター収益は15億ドルに",
-      "summary": "二つの主要なAIカスタムチップメーカーが連続して好調な四半期決算を発表する中、MarvellのCEOは「当社の製品に対する需要が加速し続けている」と述べ、データセンター収益が15億ドルに達したことを明らかにした。これは、AI分野におけるNVIDIA (NVDA)の独走的な成功が、サプライチェーン全体、特に高性能データセンター向け半導体メーカーに波及していることを示唆する。AI技術の進化と大規模言語モデルの普及に伴い、データセンターの処理能力と接続性に対する需要は爆発的に増加しており、Marvellのような企業は、NVIDIAのGPUを補完する形で、ASIC（特定用途向け集積回路）や高性能ネットワーキングソリューションを提供している。Marvellのデータセンター事業の好調なパフォーマンスは、AIインフラ投資が引き続き強力な勢いを保っていることの明確な証拠であり、NVIDIAの成長ストーリーをさらに強固なものとする。この動きは、半導体業界全体の収益性向上と、AIエコシステムの拡大が持続的な市場の主要テーマであることを強調している。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 9,
-      "source": "247wallst.com",
-      "url": "https://247wallst.com/investing/2026/03/06/marvell-ceo-demand-for-our-products-continuing-to-accelerate-as-data-center-revenue-hits-1-5b/",
+      "headline": "MacKenzie Realty Capital Secures additional $1 Million Loan for Non-Traded REIT Shares",
+      "summary": "ORINDA, Calif., March 06, 2026 (GLOBE NEWSWIRE) -- MacKenzie Realty Capital, Inc. (Nasdaq: MKZR) (“MacKenzie” or the “Company”) today announced the closing of an additional $1 million loan agreement with Streeterville Capital, a division of Chicago Venture Partners, for the purchase of non-traded REIT shares.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251233/0/en/MacKenzie-Realty-Capital-Secures-additional-1-Million-Loan-for-Non-Traded-REIT-Shares.html",
       "related_symbols": []
     },
     {
-      "headline": "Marvell Technology、第4四半期決算発表後の株価急騰を受けBank of Americaが「買い」に格上げ",
-      "summary": "Marvell Technology Group Ltd. (NASDAQ:MRVL)は、同社の第4四半期決算報告と事業見通しが投資家に好意的に受け止められたことを受け、Bank of Americaのアナリストによって「買い」に格上げされた。同社の株価は決算発表後、大幅に上昇している。Marvellは、データセンター向け半導体ソリューション、特にAIワークロードをサポートするカスタムASICや高性能ネットワーキング製品の需要拡大から恩恵を受けている。今回の好調な決算は、AIインフラ投資が活発化する中で、同社の技術が重要な役割を果たしていることを裏付けている。Bank of Americaの格上げは、Marvellが今後もこの市場トレンドに乗じて成長を継続できるとの強い自信を示している。特に、生成AIの普及に伴い、データセンターにおける帯域幅と処理能力の需要が飛躍的に高まる中、Marvellのソリューションは不可欠な存在となりつつある。投資家は、AIブームが広範な半導体エコシステムに波及する中で、Marvellのような企業が持続的な成長を実現できるかに注目している。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 9,
-      "source": "proactiveinvestors.com",
-      "url": "https://www.proactiveinvestors.com/companies/news/1088497",
+      "headline": "CRWV Alert: Hagens Berman Analyzes CoreWeave (CRWV) $452M Q4 Loss and Soft Guidance Amid Ongoing Securities Fraud Litigation",
+      "summary": "SAN FRANCISCO, March 06, 2026 (GLOBE NEWSWIRE) -- National shareholder rights law firm Hagens Berman provides an update to investors in CoreWeave, Inc. (NASDAQ: CRWV) following the company's dismal fourth-quarter 2025 financial results. The news follows allegations that the company concealed operational failures, as pled in a recently filed securities class action.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251234/32716/en/CRWV-Alert-Hagens-Berman-Analyzes-CoreWeave-CRWV-452M-Q4-Loss-and-Soft-Guidance-Amid-Ongoing-Securities-Fraud-Litigation.html",
       "related_symbols": []
     },
     {
-      "headline": "Adobeの第1四半期決算が迫る：投資家の不安を払拭する数字とは",
-      "summary": "Adobeの第1四半期決算発表が目前に迫っており、投資家はAIによる「ディスラプション（破壊）」の懸念が現実のものとなるのか、それとも同社がこの変革を収益化できるのかに注目している。AI脅威論によってADBに対する評価はピークから57%下落したが、2025年度の売上高は10%増、営業利益は29%増、ARR（年間経常収益）は11.5%増と、ファンダメンタルズは株価下落を裏付けていない。今後の決算で注目すべき3つのポイントは、ARR全体の軌道、目標とする非GAAP営業利益率47%達成の可否、そしてCanvaとの競争が激化するBP&C（Document CloudおよびCreative Cloud個人向け）サブスクリプションの成長率である。Adobeは、AI機能の統合により製品価値を高め、すでに契約の3分の1がAIの影響を受けていると指摘しており、AIが同社の成長を加速させる可能性を示唆している。市場は、Adobeがクリエイティブおよびドキュメントソリューションのリーダーとして、AI時代においても競争力を維持し、収益成長を加速できるかに注目している。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 8,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879550-adobes-q1-earnings-are-approaching-numbers-that-will-debunk-investor-fears",
+      "headline": "FRMI CLASS ACTION DEADLINE TONIGHT: Faruqi & Faruqi, LLP Reminds Fermi Investors of Securities Class Action Deadline on March 6, 2026",
+      "summary": "NEW YORK--(BUSINESS WIRE)---- $FRMI #ClassAction--Faruqi & Faruqi, LLP, a leading national securities law firm, is investigating potential claims against Fermi Inc. (“Fermi” or the “Company”) (NASDAQ: FRMI) and reminds investors of the March 6, 2026 deadline to seek the role of lead plaintiff in a federal securities class action that has been filed against the Company. Faruqi & Faruqi is a leading national securities law firm with offices in New York, Pennsylvania, California and Georgia. The firm has recover.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "businesswire.com",
+      "url": "https://www.businesswire.com/news/home/20260306134875/en/FRMI-CLASS-ACTION-DEADLINE-TONIGHT-Faruqi-Faruqi-LLP-Reminds-Fermi-Investors-of-Securities-Class-Action-Deadline-on-March-6-2026/",
       "related_symbols": []
     },
     {
-      "headline": "Costcoは高すぎるか？株価下落を招く3つの危険信号",
-      "summary": "大手小売業者であるCostco Wholesale (COST)は現在、いくつかの課題に直面しており、その株価が過大評価されている可能性を示す3つの危険信号が指摘されている。一つ目は、高いバリュエーションである。Costcoの株価は過去の成長を大きく織り込んでおり、現在の市場環境下では割高感が否めない。特に、金利上昇局面においては、将来の利益成長に対する割引率が高まり、成長株の評価に逆風となる。二つ目は、競争激化である。Walmart (WMT)などの大手競合だけでなく、Eコマースの台頭により、小売業界全体の競争環境は厳しさを増している。Costcoは会員制モデルで差別化を図っているものの、価格競争や顧客獲得コストの上昇は避けられない。三つ目は、マクロ経済の不確実性である。インフレや景気減速の懸念が消費者の購買意欲に影響を与え、売上高の伸びが鈍化するリスクがある。これらの要因が複合的に作用することで、Costcoの株価に下落圧力がかかる可能性があるため、投資家は同社のファンダメンタルズとバリュエーションを慎重に評価する必要がある。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 8,
-      "source": "forbes.com",
-      "url": "https://www.forbes.com/sites/greatspeculations/2026/03/06/is-costco-too-expensive-3-red-flags-that-could-send-shares-sliding/",
-      "related_symbols": []
-    },
-    {
-      "headline": "Costco、堅調な売上高と会員数増加で第2四半期決算が予想を上回る",
-      "summary": "Costco Wholesale (COST)は、第2四半期決算で予想を上回る業績を達成し、売上高は9.2%増加した。この好調な結果は、店舗への客足の堅調さ、客単価の上昇、強力なデジタル販売の伸び、そして会員数の継続的な増加によって牽引された。同社は、インフレ環境下でも、幅広い品揃えと競争力のある価格設定により、消費者の支持を維持している。特に、会員制ビジネスモデルは、安定した収益基盤と高い顧客ロイヤルティを提供し、不安定な経済環境下でも堅調な成長を支える要因となっている。また、Eコマース事業の強化も、消費者の購買行動の変化に対応し、全体の売上高を押し上げる重要な要素である。経営陣は、積極的な新規店舗出店とデジタル戦略の推進により、今後の成長にも自信を示している。この好調な決算は、Costcoが小売業界におけるリーダーシップを維持し、厳しい市場環境の中でも優れたビジネスモデルを展開していることを改めて証明した形だ。投資家は、会員数の伸びとオムニチャネル戦略の進展を注視するだろう。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 9,
+      "headline": "Can Microchip's Expanding Portfolio Help Its Stock Deliver in 2026?",
+      "summary": "MCHP's expanding portfolio and AI-driven products support its 2026 prospects despite inventory and macro headwinds.",
+      "category": "【マーケット一般】",
+      "importance": 5,
       "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880218/costco-q2-earnings-beat-estimates-on-solid-sales-and-membership-growth?cid=CS-STOCKNEWSAPI-FT-analyst_blog|earnings_article-2880218",
-      "related_symbols": []
-    },
-    {
-      "headline": "BJ's Wholesale、会員獲得の強みが成長を牽引し第4四半期決算が予想を上回る",
-      "summary": "BJ's Wholesale Club (BJ)は、記録的な会員数、デジタル販売の31%増、および新規店舗の好調な開店によってトラフィックと事業拡大の勢いが加速し、第4四半期の収益と売上高が市場予想を上回った。同社は、インフレ圧力が高まる中でも、会員制倉庫型小売モデルの強みを活かし、競争力のある価格と高品質な商品を提供することで、顧客の囲い込みに成功している。特に、デジタルチャネルへの積極的な投資が実を結び、オンラインでの売上が大幅に増加したことは、オムニチャネル戦略の成功を示唆している。新規店舗の開設は、地理的な事業範囲を拡大し、さらなる会員獲得と売上成長の機会を生み出している。経営陣は、引き続き会員基盤の拡大とデジタル化への投資を優先し、サプライチェーンの効率化を通じて収益性を向上させる計画である。この好調な決算は、BJ's Wholesaleが厳しい小売市場環境下でも、堅実な成長戦略を着実に実行し、市場の期待を上回るパフォーマンスを達成できる能力があることを示している。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 8,
-      "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880216/bj-s-wholesale-q4-earnings-beat-as-membership-strength-drives-growth?cid=CS-STOCKNEWSAPI-FT-analyst_blog|earnings_article-2880216",
-      "related_symbols": []
-    },
-    {
-      "headline": "Rollins株を今ポートフォリオに維持すべき理由",
-      "summary": "害虫駆除サービス大手のRollins (ROL)の株価は、過去1年間で12%上昇しており、堅調な害虫駆除需要、テクノロジーを活用した効率化、安定した配当支払いが、同社の売上高と利益成長見通しを支えている。同社は、住宅用および商業用の害虫駆除サービスにおいて市場をリードする地位を確立しており、経済状況に左右されにくい安定した需要が強みである。近年では、デジタル技術やAIを活用して業務効率を高め、顧客サービスを改善することで、競争優位性をさらに強化している。また、M&A戦略を通じて事業規模を拡大し、市場シェアを着実に伸ばしていることも成長ドライバーとなっている。さらに、定期的な配当支払い実績は、株主還元へのコミットメントを示し、長期投資家にとって魅力的な要素である。不安定な市場環境においても、Rollinsは本質的な需要に支えられたビジネスモデルと、効率的な運営により堅実なパフォーマンスを維持しており、ポートフォリオの中核をなすディフェンシブ銘柄として、今後も安定的なリターンを提供し続ける可能性が高い。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 7,
-      "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880347/reasons-why-you-should-retain-rollins-stock-in-your-portfolio-now?cid=CS-STOCKNEWSAPI-FT-analyst_blog|rank_focused-2880347",
+      "url": "https://www.zacks.com/stock/news/2880425/can-microchip-s-expanding-portfolio-help-its-stock-deliver-in-2026?cid=CS-STOCKNEWSAPI-FT-analyst_blog|company_news_tech_sector-2880425",
       "related_symbols": []
     }
   ],
