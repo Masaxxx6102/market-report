@@ -1,71 +1,71 @@
 {
-  "last_updated": "2026-03-07 05:55:56",
+  "last_updated": "2026-03-07 06:31:09",
   "quotes": {
     "NVDA": {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 178.015,
-      "change": -5.325,
-      "changesPercentage": -2.90444,
+      "price": 177.885,
+      "change": -5.455,
+      "changesPercentage": -2.97534,
       "previousClose": 183.34,
       "yearStart": 188.85,
-      "ytdChange": -10.835000000000008,
-      "ytdChangePercentage": -5.737357691289388
+      "ytdChange": -10.965000000000003,
+      "ytdChangePercentage": -5.806195393169184
     },
     "AAPL": {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": 257.42001,
-      "change": -2.86999,
-      "changesPercentage": -1.10261,
+      "price": 257.46,
+      "change": -2.83,
+      "changesPercentage": -1.08725,
       "previousClose": 260.29,
       "yearStart": 271.01,
-      "ytdChange": -13.58999,
-      "ytdChangePercentage": -5.014571418028855
+      "ytdChange": -13.550000000000011,
+      "ytdChangePercentage": -4.99981550496292
     },
     "GOOGL": {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "price": 298.25,
-      "change": -2.63,
-      "changesPercentage": -0.8741,
+      "price": 298.48,
+      "change": -2.4,
+      "changesPercentage": -0.79766,
       "previousClose": 300.88,
       "yearStart": 315.15,
-      "ytdChange": -16.899999999999977,
-      "ytdChangePercentage": -5.362525781373942
+      "ytdChange": -16.66999999999996,
+      "ytdChangePercentage": -5.289544661272397
     },
     "GOOG": {
       "symbol": "GOOG",
       "name": "Alphabet Inc.",
-      "price": 297.99,
-      "change": -2.92,
-      "changesPercentage": -0.97039,
+      "price": 298.3,
+      "change": -2.61,
+      "changesPercentage": -0.86737,
       "previousClose": 300.91,
       "yearStart": 315.32,
-      "ytdChange": -17.329999999999984,
-      "ytdChangePercentage": -5.496004059368255
+      "ytdChange": -17.019999999999982,
+      "ytdChangePercentage": -5.397691234301656
     },
     "MSFT": {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": 408.89,
-      "change": -1.79,
-      "changesPercentage": -0.43586,
+      "price": 408.96,
+      "change": -1.72,
+      "changesPercentage": -0.41882,
       "previousClose": 410.68,
       "yearStart": 472.94,
-      "ytdChange": -64.05000000000001,
-      "ytdChangePercentage": -13.54294413667696
+      "ytdChange": -63.98000000000002,
+      "ytdChangePercentage": -13.528143104833598
     },
     "AMZN": {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "price": 213.29,
-      "change": -5.65,
-      "changesPercentage": -2.58061,
+      "price": 213.12,
+      "change": -5.82,
+      "changesPercentage": -2.65826,
       "previousClose": 218.94,
       "yearStart": 226.5,
-      "ytdChange": -13.210000000000008,
-      "ytdChangePercentage": -5.832229580573955
+      "ytdChange": -13.379999999999995,
+      "ytdChangePercentage": -5.907284768211919
     },
     "VSMPX": {
       "symbol": "VSMPX",
@@ -103,35 +103,35 @@
     "TSM": {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
-      "price": 338.14,
-      "change": -15.72,
-      "changesPercentage": -4.44243,
+      "price": 338.89,
+      "change": -14.97,
+      "changesPercentage": -4.23049,
       "previousClose": 353.86,
       "yearStart": 319.61,
-      "ytdChange": 18.529999999999973,
-      "ytdChangePercentage": 5.797690935828031
+      "ytdChange": 19.279999999999973,
+      "ytdChangePercentage": 6.0323519289133545
     },
     "META": {
       "symbol": "META",
       "name": "Meta Platforms, Inc.",
-      "price": 645.075,
-      "change": -15.495,
-      "changesPercentage": -2.3457,
+      "price": 644.86,
+      "change": -15.71,
+      "changesPercentage": -2.37825,
       "previousClose": 660.57,
       "yearStart": 650.41,
-      "ytdChange": -5.334999999999923,
-      "ytdChangePercentage": -0.820251841146342
+      "ytdChange": -5.5499999999999545,
+      "ytdChangePercentage": -0.8533079134699582
     },
     "AVGO": {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "price": 331.15,
-      "change": -1.62,
-      "changesPercentage": -0.48682,
+      "price": 330.45,
+      "change": -2.32,
+      "changesPercentage": -0.69718,
       "previousClose": 332.77,
       "yearStart": 347.62,
-      "ytdChange": -16.470000000000027,
-      "ytdChangePercentage": -4.737932224843227
+      "ytdChange": -17.170000000000016,
+      "ytdChangePercentage": -4.93930153616018
     },
     "VFINX": {
       "symbol": "VFINX",
@@ -169,57 +169,57 @@
     "TSLA": {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": 396.9101,
-      "change": -8.6399,
-      "changesPercentage": -2.13042,
+      "price": 396.73,
+      "change": -8.82,
+      "changesPercentage": -2.17482,
       "previousClose": 405.55,
       "yearStart": 438.07,
-      "ytdChange": -41.15989999999999,
-      "ytdChangePercentage": -9.3957358413039
+      "ytdChange": -41.339999999999975,
+      "ytdChangePercentage": -9.436847992329987
     },
     "BCTK": {
       "symbol": "BCTK",
       "name": "Baron Technology ETF",
-      "price": 24.5198,
-      "change": -0.4379,
-      "changesPercentage": -1.75457,
+      "price": 24.5056,
+      "change": -0.4521,
+      "changesPercentage": -1.81146,
       "previousClose": 24.9577,
       "yearStart": 25.29,
-      "ytdChange": -0.7701999999999991,
-      "ytdChangePercentage": -3.045472518782124
-    },
-    "BRK-A": {
-      "symbol": "BRK-A",
-      "name": "Berkshire Hathaway Inc.",
-      "price": 748400,
-      "change": -2349.9,
-      "changesPercentage": -0.31301,
-      "previousClose": 750749.9,
-      "yearStart": 744120,
-      "ytdChange": 4280,
-      "ytdChangePercentage": 0.5751760468741601
+      "ytdChange": -0.784399999999998,
+      "ytdChangePercentage": -3.1016211941478766
     },
     "BRK-B": {
       "symbol": "BRK-B",
       "name": "Berkshire Hathaway Inc.",
-      "price": 498.49,
-      "change": -1.91,
-      "changesPercentage": -0.38169,
+      "price": 498.8,
+      "change": -1.6,
+      "changesPercentage": -0.31974,
       "previousClose": 500.4,
       "yearStart": 496.85,
-      "ytdChange": 1.6399999999999864,
-      "ytdChangePercentage": 0.33007950085538623
+      "ytdChange": 1.9499999999999886,
+      "ytdChangePercentage": 0.3924725772365882
+    },
+    "BRK-A": {
+      "symbol": "BRK-A",
+      "name": "Berkshire Hathaway Inc.",
+      "price": 748000,
+      "change": -2749.9,
+      "changesPercentage": -0.36629,
+      "previousClose": 750749.9,
+      "yearStart": 744120,
+      "ytdChange": 3880,
+      "ytdChangePercentage": 0.5214212761382573
     },
     "WMT": {
       "symbol": "WMT",
       "name": "Walmart Inc.",
-      "price": 123.75,
-      "change": 0.44,
-      "changesPercentage": 0.35682,
+      "price": 123.8,
+      "change": 0.49,
+      "changesPercentage": 0.39737,
       "previousClose": 123.31,
       "yearStart": 112.76,
-      "ytdChange": 10.989999999999995,
-      "ytdChangePercentage": 9.746363958850651
+      "ytdChange": 11.039999999999992,
+      "ytdChangePercentage": 9.790705924086549
     },
     "^FTSE": {
       "symbol": "^FTSE",
@@ -466,35 +466,35 @@
     "^DJI": {
       "symbol": "^DJI",
       "name": "ダウ平均",
-      "price": 47478.828125,
-      "change": -475.91015625,
-      "changesPercentage": -0.9924152926428916,
+      "price": 47501.55078125,
+      "change": -453.1875,
+      "changesPercentage": -0.9450317450219375,
       "previousClose": 47954.73828125,
       "yearStart": 48382.390625,
-      "ytdChange": -903.5625,
-      "ytdChangePercentage": -1.8675441381210172
+      "ytdChange": -880.83984375,
+      "ytdChangePercentage": -1.8205794140623863
     },
     "^IXIC": {
       "symbol": "^IXIC",
       "name": "ナスダック",
-      "price": 22382.34375,
-      "change": -366.646484375,
-      "changesPercentage": -1.6117044343400202,
+      "price": 22387.6796875,
+      "change": -361.310546875,
+      "changesPercentage": -1.5882487229215103,
       "previousClose": 22748.990234375,
       "yearStart": 23235.630859375,
-      "ytdChange": -853.287109375,
-      "ytdChangePercentage": -3.672321679317434
+      "ytdChange": -847.951171875,
+      "ytdChangePercentage": -3.6493572178302736
     },
     "^GSPC": {
       "symbol": "^GSPC",
       "name": "S&P 500",
-      "price": 6737.2001953125,
-      "change": -93.509765625,
-      "changesPercentage": -1.3689611498621732,
+      "price": 6740.02001953125,
+      "change": -90.68994140625,
+      "changesPercentage": -1.327679581256924,
       "previousClose": 6830.7099609375,
       "yearStart": 6858.47021484375,
-      "ytdChange": -121.27001953125,
-      "ytdChangePercentage": -1.7681788464836656
+      "ytdChange": -118.4501953125,
+      "ytdChangePercentage": -1.7270643686129727
     },
     "^GDAXI": {
       "symbol": "^GDAXI",
@@ -521,138 +521,138 @@
   },
   "news": [
     {
-      "headline": "Algonquin Power & Utilities Corp. (AQN:CA) Q4 2025 Earnings Call Transcript",
-      "summary": "Algonquin Power & Utilities Corp. (AQN:CA) Q4 2025 Earnings Call Transcript",
+      "headline": "The Top 5 AI Stocks to Buy in March",
+      "summary": "March has handed AI investors something they rarely get: a pullback! Market have been sliding this week as investors fret over rising oil prices and concerns tensions in Iran could spill over into the global economy.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "247wallst.com",
+      "url": "https://247wallst.com/investing/2026/03/06/the-top-5-ai-stocks-to-buy-in-march/",
+      "related_symbols": []
+    },
+    {
+      "headline": "Tectonic Therapeutic, Inc. (TECX) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
+      "summary": "Tectonic Therapeutic, Inc. (TECX) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
       "category": "【マーケット一般】",
       "importance": 5,
       "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879507-algonquin-power-and-utilities-corp-aqn-ca-q4-2025-earnings-call-transcript",
+      "url": "https://seekingalpha.com/article/4879617-tectonic-therapeutic-inc-tecx-presents-at-td-cowen-46th-annual-health-care-conference",
       "related_symbols": []
     },
     {
-      "headline": "Petróleo Brasileiro S.A. - Petrobras (PBR) Q4 2025 Earnings Call Transcript",
-      "summary": "Petróleo Brasileiro S.A. - Petrobras (PBR) Q4 2025 Earnings Call Transcript",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879560-petroleo-brasileiro-s-a-petrobras-pbr-q4-2025-earnings-call-transcript",
-      "related_symbols": []
-    },
-    {
-      "headline": "Relay Therapeutics, Inc. (RLAY) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
-      "summary": "Relay Therapeutics, Inc. (RLAY) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879647-relay-therapeutics-inc-rlay-presents-at-td-cowen-46th-annual-health-care-conference",
-      "related_symbols": []
-    },
-    {
-      "headline": "TMX Group Equity Financing Statistics - February 2026",
-      "summary": "Toronto Stock Exchange, TSX Venture Exchange Toronto, Ontario--(Newsfile Corp. - March 6, 2026) - TMX Group today announced its financing activity on Toronto Stock Exchange (TSX) and TSX Venture Exchange (TSXV) for February 2026. TSX welcomed 28 new issuers in February 2026, compared with 23 in the previous month and 25 in February 2025.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "newsfilecorp.com",
-      "url": "https://www.newsfilecorp.com/release/286522/TMX-Group-Equity-Financing-Statistics-February-2026",
-      "related_symbols": []
-    },
-    {
-      "headline": "Crude-oil futures haven't been this overbought since 1990. That doesn't mean the rally is over.",
-      "summary": "A momentum indicator for a crude futures chart has soared to its highest level in 36 years, but as the Wall Street saying goes, overbought doesn't mean over.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "marketwatch.com",
-      "url": "https://www.marketwatch.com/story/crude-oil-futures-havent-been-this-overbought-since-1990-that-doesnt-mean-the-rally-is-over-1550e567",
-      "related_symbols": []
-    },
-    {
-      "headline": "Nvidia: Blowout Q4 Report Aside, Don't Underestimate The Power Of CUDA",
-      "summary": "Nvidia Corporation delivered a blowout Q4, beating top- and bottom-line estimates with data center revenues hitting $62.3 billion, up 75% y/y. NVDA confirmed supply commitments exceeding $95.2 billion, supporting visibility to meet explosive demand through FY27 and beyond. Despite rising competition, NVDA's CUDA software ecosystem and new Vera Rubin GPUs reinforce its market leadership and defensibility.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879627-nvidia-blowout-q4-report-aside-dont-underestimate-the-power-of-cuda",
-      "related_symbols": []
-    },
-    {
-      "headline": "Texas Mineral Investor Alert: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Texas Mineral Resources Corp. - TMRC",
-      "summary": "NEW YORK & NEW ORLEANS--(BUSINESS WIRE)--Former Attorney General of Louisiana Charles C. Foti, Jr., Esq. and the law firm of Kahn Swick & Foti, LLC (“KSF”) are investigating the proposed sale of Texas Mineral Resources Corp. (OTC: TMRC) to USA Rare Earth, Inc. (NasdaqGM: USAR). Under the terms of the proposed transaction, shareholders of Texas Mineral will receive 3,823,328 shares of USA Rare common stock for each share of Texas Mineral that they own. KSF is seeking to determine whether thi.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "businesswire.com",
-      "url": "https://www.businesswire.com/news/home/20260306947608/en/Texas-Mineral-Investor-Alert-Kahn-Swick-Foti-LLC-Investigates-Adequacy-of-Price-and-Process-in-Proposed-Sale-of-Texas-Mineral-Resources-Corp.---TMRC/",
-      "related_symbols": []
-    },
-    {
-      "headline": "Letter to Shareholders from CEO Dr. Ryan Saadi",
-      "summary": "WARREN, N.J., March 06, 2026 (GLOBE NEWSWIRE) -- Tevogen (“Tevogen Bio Holdings Inc.” or “Company”) (Nasdaq: TVGN).",
+      "headline": "NI Holdings, Inc. Reports Results for Fourth Quarter and Year Ended December 31, 2025",
+      "summary": "FARGO, N.D., March 06, 2026 (GLOBE NEWSWIRE) -- NI Holdings, Inc. (“NI Holdings,” or the “Company,” NASDAQ: NODK) announced today results for the year ended December 31, 2025.",
       "category": "【マーケット一般】",
       "importance": 5,
       "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251264/0/en/Letter-to-Shareholders-from-CEO-Dr-Ryan-Saadi.html",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251320/0/en/NI-Holdings-Inc-Reports-Results-for-Fourth-Quarter-and-Year-Ended-December-31-2025.html",
       "related_symbols": []
     },
     {
-      "headline": "Jefferies analyst: Oracle down 50% but in ‘better spot' with accelerating growth",
-      "summary": "Oracle ( NYSE:ORCL ) has had a brutal run since its moment in the AI spotlight.",
+      "headline": "RBI Recommends Shareholders Reject NYSB's \"Mini-tender Offer\"",
+      "summary": "MIAMI, March 6, 2026 /PRNewswire/ - Restaurant Brands International Inc. (NYSE: QSR) (TSX: QSR) (\"RBI\") has been notified of an unsolicited mini-tender offer made by New York Stock and Bond LLC (\"NYSB\") to purchase up to 100,000 RBI common shares, or approximately 0.03% of the company's outstanding common shares, at a price of US$43.60 per share. NYSB's offer price of US$43.60 represents a discount of 34.92% to the NYSE closing price of US$66.99 for RBI common shares on January 30, 2026, the last trading day before the mini-tender offer was commenced.",
       "category": "【マーケット一般】",
       "importance": 5,
-      "source": "247wallst.com",
-      "url": "https://247wallst.com/investing/2026/03/06/jefferies-analyst-oracle-down-50-but-in-better-spot-with-accelerating-growth/",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/rbi-recommends-shareholders-reject-nysbs-mini-tender-offer-302705545.html",
       "related_symbols": []
     },
     {
-      "headline": "Sensient: Traders Overreacted To The Natural Colorings Thesis",
-      "summary": "Sensient Technologies has an intriguing growth opportunity in the natural colorings space. Recent state regulations and private sector moves are driving a shift toward natural colors rather than artificial dyes. Sensient stock has already rallied and reflects this growth opportunity, while actual operating results remain uninspiring.",
+      "headline": "Redwood Trust Announces Closing of Aspire's Inaugural Non-QM Securitization",
+      "summary": "MILL VALLEY, Calif.--(BUSINESS WIRE)--Redwood Trust, Inc. (NYSE: RWT; “Redwood,” the “Company”), a leader in expanding access to housing for homebuyers and renters, today announced the closing of SPIRE 2026-1, the inaugural non-qualified mortgage (“non-QM”) securitization issued through Aspire, Redwood's non-QM mortgage banking platform. The $391 million transaction marks an important milestone in Aspire's strategy to diversify its funding sources and expand its capital markets platform. Built.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "businesswire.com",
+      "url": "https://www.businesswire.com/news/home/20260306026935/en/Redwood-Trust-Announces-Closing-of-Aspires-Inaugural-Non-QM-Securitization/",
+      "related_symbols": []
+    },
+    {
+      "headline": "Crescent Biopharma Announces Grants of Inducement Awards",
+      "summary": "WALTHAM, Mass., March 06, 2026 (GLOBE NEWSWIRE) -- Crescent Biopharma, Inc. (“Crescent” or the “Company”) (Nasdaq: CBIO), a clinical-stage biotechnology company dedicated to rapidly advancing the next wave of therapies for cancer patients, today announced that the independent Compensation Committee of its Board of Directors approved the grant of options to purchase an aggregate of 45,675 shares of the Company's ordinary shares to two non-executive employees as equity inducement awards under the Crescent Biopharma, Inc. 2025 Employment Inducement Incentive Award Plan, as amended (the “Inducement Plan”). The options were approved on March 5, 2026 and were material to each employee's acceptance of employment with Crescent, in accordance with Nasdaq Listing Rule 5635(c)(4).",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251321/0/en/Crescent-Biopharma-Announces-Grants-of-Inducement-Awards.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "DHT Holdings, Inc. announces delivery of VLCC newbuilding",
+      "summary": "HAMILTON, BERMUDA, March 6, 2026 – DHT Holdings, Inc. (NYSE:DHT) (“DHT” or the “Company”) today announces that it has taken delivery of the second VLCC newbuilding from Hanwha Ocean Co., Ltd. The vessel is named DHT Addax and is entering the spot market.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251322/0/en/DHT-Holdings-Inc-announces-delivery-of-VLCC-newbuilding.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "Spartan Capital Securities, LLC Serves as Sales Agent in YY Group Holding Limited's $20 Million At-the-Market Offering",
+      "summary": "New York, NY, March 06, 2026 (GLOBE NEWSWIRE) -- Spartan Capital Securities, LLC, a premier investment banking firm, today announced that YY Group Holding Limited (NASDAQ: YYGH) has entered into a sales agreement under which Spartan Capital Securities will act as the Company's sales agent for an at-the-market equity offering program.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251319/0/en/Spartan-Capital-Securities-LLC-Serves-as-Sales-Agent-in-YY-Group-Holding-Limited-s-20-Million-At-the-Market-Offering.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "Trump says defense CEOs agree to quadruple production of `Exquisite Class' weaponry",
+      "summary": "President Donald Trump met with CEOs of major defense industry companies at the White House as the war against Iran ended its first full week. After the meeting, Trump said in a social media post that \"we discussed Production and Production Schedules\" and \"they have agreed to quadruple Production of the 'Exquisite Class' Weaponry in that we want to reach, as rapidly as possible, the highest levels of quantity.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "NASDAQ: PYPL: Kessler Topaz Meltzer & Check, LLP Announces the Filing of a Securities Fraud Class Action Lawsuit Against PayPal Holdings, Inc.",
+      "summary": "Did you buy PYPL common stock between February 25, 2025, and February 2, 2026? Affected PayPal Holdings, Inc. Investor Summary Who: PayPal Holdings, Inc. (NASDAQ: PYPL) What: Securities fraud class action lawsuit filed Class Period: February 25, 2025, through February 2, 2026 Deadline to Seek Lead Plaintiff Status: April 20, 2026 Key Lawsuit Allegations: Material misstatements and/or omissions concerning the company's projected revenue outlook and anticipated growth.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/nasdaq-pypl-kessler-topaz-meltzer--check-llp-announces-the-filing-of-a-securities-fraud-class-action-lawsuit-against-paypal-holdings-inc-302707196.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "INVESTOR ALERT: Investigation of Nutex Health, Inc. (NUTX) announced by Holzer & Holzer, LLC",
+      "summary": "ATLANTA, March 06, 2026 (GLOBE NEWSWIRE) -- Holzer & Holzer, LLC is investigating whether Nutex Health, Inc. (“Nutex Health” or the “Company”) (NASDAQ: NUTX) complied with federal securities laws. On March 5, 2026, Nutex Health announced its financial and operating results for the fourth quarter and fiscal year 2025, revealing a revenue decrease of $105.9 to $151.7 million for the three months ended December 31, 2025 due in part to a “one-time $55.0 million cumulative true-up of 18,950 arbitration claims that arbitrators determined were ineligible under the IDR process. ” The price of the Company's stock dropped following this news.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251315/0/en/INVESTOR-ALERT-Investigation-of-Nutex-Health-Inc-NUTX-announced-by-Holzer-Holzer-LLC.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "Deadline Approaching: Apollo Global Management, Inc. (APO) Shareholders Who Lost Money Urged To Contact Law Offices of Howard G. Smith",
+      "summary": "BENSALEM, Pa.--(BUSINESS WIRE)--Law Offices of Howard G. Smith reminds investors of the upcoming May 1, 2026 deadline to file a lead plaintiff motion in the case filed on behalf of investors who purchased Apollo Global Management, Inc. (“Apollo” or the “Company”) (NYSE: APO) securities between May 10, 2021 and February 21, 2026, inclusive (the “Class Period”). IF YOU ARE AN INVESTOR WHO SUFFERED A LOSS IN APOLLO GLOBAL MANAGEMENT, INC. (APO), CONTACT THE LAW OFFICES OF HOWARD G. SMITH TO PARTIC.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "businesswire.com",
+      "url": "https://www.businesswire.com/news/home/20260306348300/en/Deadline-Approaching-Apollo-Global-Management-Inc.-APO-Shareholders-Who-Lost-Money-Urged-To-Contact-Law-Offices-of-Howard-G.-Smith/",
+      "related_symbols": []
+    },
+    {
+      "headline": "Oil prices are surging. Will that help Tesla and others sell more EVs?",
+      "summary": "A 9% jump in gasoline prices in a week could make electric vehicles look more affordable to consumers.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "marketwatch.com",
+      "url": "https://www.marketwatch.com/story/oil-prices-are-surging-will-that-help-tesla-and-others-sell-more-evs-1f2f3856",
+      "related_symbols": []
+    },
+    {
+      "headline": "Lowe's: Macroeconomic Headwinds Become More And More Concerning (Rating Downgrade)",
+      "summary": "Lowe's continues to face challenging macroeconomic conditions, with consumer confidence and housing market headwinds persisting. LOW's performance has largely tracked the broader market and consumer discretionary sector but has slightly underperformed since late 2024. The company maintains a safe, reliable 1.9% dividend yield, with cash flow amply covering payouts despite a significant reduction in share buybacks.",
       "category": "【マーケット一般】",
       "importance": 5,
       "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879626-sensient-traders-overreacted-to-the-natural-colorings-thesis",
+      "url": "https://seekingalpha.com/article/4879636-lowes-macroeconomic-headwinds-become-more-and-more-concerning-rating-downgrade",
       "related_symbols": []
     },
     {
-      "headline": "BYD Needs Just 9 Minutes To Challenge Tesla's Last Great Advantage",
-      "summary": "One of Tesla Inc's (NASDAQ: TSLA) biggest competitive advantages has never been the cars. It's the chargers.",
+      "headline": "3 Best Earnings Acceleration Stocks to Buy in March 2026",
+      "summary": "Intuit leads a screen of 17 stocks showing rising EPS growth rates, highlighting earnings acceleration that often precedes share price rallies.",
       "category": "【マーケット一般】",
       "importance": 5,
-      "source": "benzinga.com",
-      "url": "https://www.benzinga.com/markets/tech/26/03/51110032/byd-needs-just-9-minutes-to-challenge-teslas-last-great-advantage",
-      "related_symbols": []
-    },
-    {
-      "headline": "S&P 500 Rebalancing Tonight: Could Vertiv, SoFi, or Lumentum Join the Index?",
-      "summary": "Tonight, after the market closes, S&P 500 index changes for the first quarter of 2026 are expected to be announced.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "247wallst.com",
-      "url": "https://247wallst.com/investing/2026/03/06/sp-500-rebalancing-tonight-could-vertiv-sofi-or-lumentum-join-the-index/",
-      "related_symbols": []
-    },
-    {
-      "headline": "Allen Green Announces Updated Holdings in Akwaaba Mining Ltd. and Filing of Early Warning Report",
-      "summary": "Port Coquitlam, British Columbia--(Newsfile Corp. - March 6, 2026) - Allan Green, Chairman and CEO of Akwaaba Mining Ltd, announces certain acquisitions of Akwaaba Mining Ltd. (\"AML\"), a reporting issuer whose securities are traded on the TSX Venture Exchange, pursuant to National Instrument 62-103- The Early Warning System and Related Take-Over Bid and Insider Reporting Issues (\"NI 62-103\").",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "newsfilecorp.com",
-      "url": "https://www.newsfilecorp.com/release/286529/Allen-Green-Announces-Updated-Holdings-in-Akwaaba-Mining-Ltd.-and-Filing-of-Early-Warning-Report",
-      "related_symbols": []
-    },
-    {
-      "headline": "Potential Tender Offer At MFS High Income Municipal Trust Before Vote",
-      "summary": "I expect MFS High Income Municipal Trust to conduct a tender offer similar to plans already announced for CMU and CXH in the same vote. As a comparison, CMU and CXH boards authorized 50% tenders contingent on achieving the same vote. This is a binary situation. I expect merging into MFM absent a tender would be a money loser.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879619-potential-tender-offer-at-mfs-high-income-municipal-trust-before-vote",
-      "related_symbols": []
-    },
-    {
-      "headline": "The Trade Desk: Catching A Falling Knife Or Buying The Reset? (Rating Downgrade)",
-      "summary": "The Trade Desk, Inc. faces decelerating revenue growth, with Q1 guidance implying just 10% YoY growth and consensus expectations reset to conservative levels. My DCF analysis suggests TTD is undervalued by ~20%, but market-implied assumptions now price in only 5–7% CAGR and lower FCF margins. TTD's moat remains its objective platform and post-cookie positioning, but CPG and Automotive verticals—over 25% of business—are under pressure.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879618-the-trade-desk-catching-a-falling-knife-or-buying-the-reset-rating-downgrade",
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/stock/news/2880457/3-best-earnings-acceleration-stocks-to-buy-in-march-2026?cid=CS-STOCKNEWSAPI-FT-analyst_blog|rw-2880457",
       "related_symbols": []
     }
   ],
