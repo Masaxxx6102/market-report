@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-07 06:31:09",
+  "last_updated": "2026-03-07 07:29:40",
   "quotes": {
     "NVDA": {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 177.885,
-      "change": -5.455,
-      "changesPercentage": -2.97534,
+      "price": 177.82,
+      "change": -5.52,
+      "changesPercentage": -3.0108,
       "previousClose": 183.34,
       "yearStart": 188.85,
-      "ytdChange": -10.965000000000003,
-      "ytdChangePercentage": -5.806195393169184
+      "ytdChange": -11.030000000000001,
+      "ytdChangePercentage": -5.840614244109082
     },
     "AAPL": {
       "symbol": "AAPL",
@@ -26,13 +26,13 @@
     "GOOGL": {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "price": 298.48,
-      "change": -2.4,
-      "changesPercentage": -0.79766,
+      "price": 298.52,
+      "change": -2.36,
+      "changesPercentage": -0.78437,
       "previousClose": 300.88,
       "yearStart": 315.15,
-      "ytdChange": -16.66999999999996,
-      "ytdChangePercentage": -5.289544661272397
+      "ytdChange": -16.629999999999995,
+      "ytdChangePercentage": -5.276852292559098
     },
     "GOOG": {
       "symbol": "GOOG",
@@ -59,13 +59,13 @@
     "AMZN": {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "price": 213.12,
-      "change": -5.82,
-      "changesPercentage": -2.65826,
+      "price": 213.21,
+      "change": -5.73,
+      "changesPercentage": -2.61715,
       "previousClose": 218.94,
       "yearStart": 226.5,
-      "ytdChange": -13.379999999999995,
-      "ytdChangePercentage": -5.907284768211919
+      "ytdChange": -13.289999999999992,
+      "ytdChangePercentage": -5.867549668874169
     },
     "VSMPX": {
       "symbol": "VSMPX",
@@ -125,13 +125,13 @@
     "AVGO": {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "price": 330.45,
-      "change": -2.32,
-      "changesPercentage": -0.69718,
+      "price": 330.48,
+      "change": -2.29,
+      "changesPercentage": -0.68816,
       "previousClose": 332.77,
       "yearStart": 347.62,
-      "ytdChange": -17.170000000000016,
-      "ytdChangePercentage": -4.93930153616018
+      "ytdChange": -17.139999999999986,
+      "ytdChangePercentage": -4.9306714228180155
     },
     "VFINX": {
       "symbol": "VFINX",
@@ -521,138 +521,291 @@
   },
   "news": [
     {
-      "headline": "The Top 5 AI Stocks to Buy in March",
-      "summary": "March has handed AI investors something they rarely get: a pullback! Market have been sliding this week as investors fret over rising oil prices and concerns tensions in Iran could spill over into the global economy.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "247wallst.com",
-      "url": "https://247wallst.com/investing/2026/03/06/the-top-5-ai-stocks-to-buy-in-march/",
+      "headline": "2月の雇用統計で非農業部門雇用者数9.2万人減、経済見通しに冷や水",
+      "summary": "2026年2月の米国雇用統計は、非農業部門雇用者数が9.2万人減と、市場予想の5.0万人増を大きく下回る結果となり、労働市場の顕著な失速が明らかになりました。失業率も4.4%に上昇し、経済成長の減速懸念が強まっています。この予想外の悪化は、連邦準備制度理事会（FRB）の金融政策判断に新たな課題を突きつけています。特に、賃金上昇率が依然として高水準を維持する中で雇用が減少していることから、スタグフレーションのリスクも指摘され始め、FRBがインフレ抑制と雇用維持のバランスをどう取るか、市場の注目を集めています。今回の雇用報告は、消費者の信頼感と支出に悪影響を及ぼし、経済全体の回復軌道に不確実性をもたらす可能性があります。FRB高官からは、このような弱いデータは利下げの根拠を強めるという見方も出ており、今後の金融政策の動向がますます重要になります。市場は、地政学的リスクによる原油高騰がインフレ圧力を再燃させる中、FRBがどのような決断を下すか、神経質な展開を予測しています。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 10,
+      "source": "forbes.com",
+      "url": "https://www.forbes.com/sites/harryholzer/2026/03/06/february-payrolls-drop-92000-undercutting-jobs-outlook/",
       "related_symbols": []
     },
     {
-      "headline": "Tectonic Therapeutic, Inc. (TECX) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
-      "summary": "Tectonic Therapeutic, Inc. (TECX) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
-      "category": "【マーケット一般】",
-      "importance": 5,
+      "headline": "FRBミラン理事、2月雇用喪失はさらなる利下げを支持する材料と発言",
+      "summary": "米連邦準備制度理事会（FRB）のスティーブン・ミラン理事は、2026年2月の雇用統計で示された予想外の雇用喪失が、さらなる利下げの必要性を裏付けるものだと発言しました。ミラン理事は、労働需要が現在の金融引き締め政策によって十分に強くない状態にあると指摘し、政策金利が中立金利よりも約1%高い水準にあるとの認識を示しました。この発言は、FRB内部で利下げを求める声が強まっている可能性を示唆しており、金融市場はFRBの今後の動きに注目しています。中東情勢の緊迫化による原油価格高騰がインフレ懸念を再燃させる中で、雇用統計の悪化はFRBにとって、経済成長と物価安定という二つの目標を達成する上でのジレンマを深めています。市場参加者は、FRBが雇用情勢の悪化を重視し、利下げへと傾く可能性を織り込み始めていますが、同時にインフレリスクへの警戒も怠れない状況です。FRBは、慎重なデータ分析に基づき、経済の軟着陸を実現するための最適な道筋を探っています。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 10,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "ボストン連銀コリンズ総裁、金利据え置きを主張",
+      "summary": "ボストン連邦準備銀行のスーザン・コリンズ総裁は、連邦公開市場委員会（FOMC）の議決権を持たないものの、現在の金利水準を「しばらくの間」維持すべきだとの見解をウォール・ストリート・ジャーナル紙に示しました。コリンズ総裁は、労働市場が軟化し、インフレがFRBの目標である2%を依然として上回る状況が続く中で、金融政策の決定が複雑になっていると指摘しました。彼女の発言は、FRB内部での利下げ推進派と慎重派の間の意見の相違を示唆しており、今後の政策決定の不確実性を高めています。特に、直近の2月雇用統計で予想外の雇用減少が示されたことで、FRBはインフレ抑制と雇用維持という相反する目標の間で難しい舵取りを迫られています。市場は、コリンズ総裁のようなタカ派寄りの発言と、雇用統計の弱さを背景としたハト派的な見方の間で、金利見通しを修正しており、FRBの今後の発言やデータに一層注目が集まっています。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 10,
+      "source": "wsj.com",
+      "url": "https://www.wsj.com/economy/central-banking/boston-fed-president-collins-argues-for-holding-rates-steady-30ea86c9",
+      "related_symbols": []
+    },
+    {
+      "headline": "FRBの最大の懸念、インフレと雇用の板挟み：2月雇用報告がジレンマを深める",
+      "summary": "連邦準備制度理事会（FRB）にとって、常に最大の懸念はインフレ抑制と雇用保護のどちらかを選択しなければならない状況でした。金曜日に発表された2月の雇用報告は、非農業部門雇用者数の予想外の減少と失業率の上昇を示し、労働市場の軟化が明らかになった一方で、中東情勢の緊迫化による原油価格高騰がインフレ再燃のリスクを高めています。この「スタグフレーション的」な兆候は、FRBが金融引き締めを継続すれば景気後退リスクが高まり、利下げに転じればインフレが加速するという、極めて難しい局面を意味します。FRBは現在、データ依存のアプローチを強調していますが、相反する経済指標の中で、今後の政策金利の方向性を決定する上で極めて困難な判断を迫られることになります。市場は、FRBが経済の「軟着陸」シナリオを実現できるか、強い不確実性を持って見守っています。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 10,
+      "source": "wsj.com",
+      "url": "https://www.wsj.com/economy/central-banking/jobs-report-oil-surge-leave-fed-gritting-its-teeth-b0f1b7c6",
+      "related_symbols": []
+    },
+    {
+      "headline": "原油価格急騰、市場に大きな衝撃を与える可能性",
+      "summary": "原油価格が急騰し、ブレント原油は一時的に88ドルを超え、市場に新たな衝撃を与える可能性が高まっています。これは、中東情勢の緊迫化と供給途絶の懸念を背景に、原油、金利、ドルの全てが同時に上昇する動きを示しています。通常、原油価格の上昇はインフレ圧力を高め、中央銀行が金融引き締め政策を継続する根拠となり得ます。米10年国債利回りは原油価格の動向に密接に連動しており、原油価格がさらに上昇すれば、金利も引き上げられる可能性を示唆しています。2月の弱い雇用統計が利下げ期待を高めた一方で、原油高はインフレ抑制の必要性を強調し、FRBの金融政策決定を一層複雑化させる要因となっています。投資家は、エネルギー価格の変動が株式市場や債券市場に与える影響を警戒しており、今後の原油市場の動向が経済全体の安定性にとって重要な鍵を握ると見ています。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 10,
       "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879617-tectonic-therapeutic-inc-tecx-presents-at-td-cowen-46th-annual-health-care-conference",
+      "url": "https://seekingalpha.com/article/4879564-surging-oil-prices-may-be-about-to-jolt-markets",
       "related_symbols": []
     },
     {
-      "headline": "NI Holdings, Inc. Reports Results for Fourth Quarter and Year Ended December 31, 2025",
-      "summary": "FARGO, N.D., March 06, 2026 (GLOBE NEWSWIRE) -- NI Holdings, Inc. (“NI Holdings,” or the “Company,” NASDAQ: NODK) announced today results for the year ended December 31, 2025.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251320/0/en/NI-Holdings-Inc-Reports-Results-for-Fourth-Quarter-and-Year-Ended-December-31-2025.html",
+      "headline": "株式市場の新たな恐怖、「スタグフレーション」が1970年代の経済危機を想起させる",
+      "summary": "株式市場に新たな懸念が浮上しています。それは、1970年代に経済を壊滅させた11文字の言葉「スタグフレーション」です。これは、原油価格の急騰と雇用市場の低迷が同時に進行する状況を指します。中東情勢の悪化に伴う原油価格の急激な上昇は、インフレ圧力を高める一方で、2月の雇用統計が示す予想外の雇用喪失は景気減速の兆候として捉えられています。連邦準備制度理事会（FRB）はこれまで、利上げによってインフレを抑制しつつ、軟着陸を目指してきましたが、スタグフレーションのシナリオが現実味を帯びることで、金融政策の選択肢が著しく制限されることになります。投資家は、高インフレと高失業が共存する環境下での企業収益への影響や、FRBの対応の難しさから、市場のボラティリティが増大することを懸念しています。この状況は、経済の先行きに対する不透明感を一層深めています。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 10,
+      "source": "barrons.com",
+      "url": "https://www.barrons.com/articles/stock-market-fear-stagflation-oil-war-4a7185a3",
       "related_symbols": []
     },
     {
-      "headline": "RBI Recommends Shareholders Reject NYSB's \"Mini-tender Offer\"",
-      "summary": "MIAMI, March 6, 2026 /PRNewswire/ - Restaurant Brands International Inc. (NYSE: QSR) (TSX: QSR) (\"RBI\") has been notified of an unsolicited mini-tender offer made by New York Stock and Bond LLC (\"NYSB\") to purchase up to 100,000 RBI common shares, or approximately 0.03% of the company's outstanding common shares, at a price of US$43.60 per share. NYSB's offer price of US$43.60 represents a discount of 34.92% to the NYSE closing price of US$66.99 for RBI common shares on January 30, 2026, the last trading day before the mini-tender offer was commenced.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/news-releases/rbi-recommends-shareholders-reject-nysbs-mini-tender-offer-302705545.html",
+      "headline": "トランプ政権下の関税払い戻し命令、税関・国境警備局が対応不能と表明",
+      "summary": "米税関・国境警備局（CBP）は、連邦裁判官に対し、ドナルド・トランプ前大統領が課した相互関税に関する払い戻し命令に現時点では応じられないと伝えました。この関税は最高裁判所によって違法と判断されたものであり、CBPのこの表明は、企業が払い戻しを受けるまでのプロセスが複雑かつ長期化する可能性を示唆しています。関税政策の変動は、米国の小売業者にとって戦略の見直しを迫る要因となっており、消費者の慎重な姿勢と相まって、経済に不確実性をもたらしています。貿易政策の不透明感は、企業のサプライチェーン戦略や投資計画にも影響を与え、グローバル経済全体に波紋を広げています。今回のCBPの発表は、貿易政策が依然として市場に大きな影響を与える要因であることを再確認させるものです。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 10,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html",
       "related_symbols": []
     },
     {
-      "headline": "Redwood Trust Announces Closing of Aspire's Inaugural Non-QM Securitization",
-      "summary": "MILL VALLEY, Calif.--(BUSINESS WIRE)--Redwood Trust, Inc. (NYSE: RWT; “Redwood,” the “Company”), a leader in expanding access to housing for homebuyers and renters, today announced the closing of SPIRE 2026-1, the inaugural non-qualified mortgage (“non-QM”) securitization issued through Aspire, Redwood's non-QM mortgage banking platform. The $391 million transaction marks an important milestone in Aspire's strategy to diversify its funding sources and expand its capital markets platform. Built.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "businesswire.com",
-      "url": "https://www.businesswire.com/news/home/20260306026935/en/Redwood-Trust-Announces-Closing-of-Aspires-Inaugural-Non-QM-Securitization/",
+      "headline": "雇用データの悪化がFRBのジレンマを浮き彫りに、戦争がインフレリスクを煽る中",
+      "summary": "最新の米雇用統計は、予想外の雇用減少を示し、連邦準備制度理事会（FRB）が直面するジレンマを浮き彫りにしました。この労働市場の軟化は、FRBが利下げを検討する可能性を高める一方で、中東での紛争激化が原油価格を押し上げ、インフレ再燃のリスクを増大させています。FRBは、インフレ抑制と雇用の安定という二つの目標の間で綱渡りの状況にあり、政策決定は一層複雑化しています。市場は、FRBが3月の会合で金利を据え置くとの見方が依然として強いものの、今後の経済指標や地政学的展開によって、利下げのタイミングやペースに関する見通しが大きく変動する可能性があります。この状況は、経済の「軟着陸」シナリオに対する懸念を深め、投資家はFRBの慎重な姿勢に注目しています。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 10,
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/live/2026/03/06/business/jobs-report-economy/federal-reserve-jobs-inflation",
       "related_symbols": []
     },
     {
-      "headline": "Crescent Biopharma Announces Grants of Inducement Awards",
-      "summary": "WALTHAM, Mass., March 06, 2026 (GLOBE NEWSWIRE) -- Crescent Biopharma, Inc. (“Crescent” or the “Company”) (Nasdaq: CBIO), a clinical-stage biotechnology company dedicated to rapidly advancing the next wave of therapies for cancer patients, today announced that the independent Compensation Committee of its Board of Directors approved the grant of options to purchase an aggregate of 45,675 shares of the Company's ordinary shares to two non-executive employees as equity inducement awards under the Crescent Biopharma, Inc. 2025 Employment Inducement Incentive Award Plan, as amended (the “Inducement Plan”). The options were approved on March 5, 2026 and were material to each employee's acceptance of employment with Crescent, in accordance with Nasdaq Listing Rule 5635(c)(4).",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251321/0/en/Crescent-Biopharma-Announces-Grants-of-Inducement-Awards.html",
+      "headline": "米国サービス部門活動、2月も堅調な拡大を継続",
+      "summary": "2026年2月の米国サービス部門の活動は、供給管理協会（ISM）の購買担当者景気指数（PMI）が56.1に上昇し、引き続き堅調な拡大を示しました。これは、前月の53.8からさらに改善し、サービス活動の回復が広範に及んでいることを示唆しています。指数を構成する四つのサブ指数全てが3ヶ月連続で拡大領域にあり、特に新規受注と販売の増加が顕著でした。この堅調なサービス部門の活動は、米国経済の回復力を裏付けるものであり、一部で指摘される景気減速懸念を和らげる要因となり得ます。しかし、同時に中東情勢の緊迫化によるエネルギー価格上昇がインフレ圧力を高める可能性があり、連邦準備制度理事会（FRB）はサービス部門の堅調さとインフレリスクのバランスを考慮しながら金融政策を決定する必要があります。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 10,
+      "source": "wsj.com",
+      "url": "https://www.wsj.com/economy/u-s-services-sector-activity-continues-to-rise-in-february-1c821b38",
       "related_symbols": []
     },
     {
-      "headline": "DHT Holdings, Inc. announces delivery of VLCC newbuilding",
-      "summary": "HAMILTON, BERMUDA, March 6, 2026 – DHT Holdings, Inc. (NYSE:DHT) (“DHT” or the “Company”) today announces that it has taken delivery of the second VLCC newbuilding from Hanwha Ocean Co., Ltd. The vessel is named DHT Addax and is entering the spot market.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251322/0/en/DHT-Holdings-Inc-announces-delivery-of-VLCC-newbuilding.html",
+      "headline": "FRBミラン理事、利下げ継続が適切と再確認",
+      "summary": "米連邦準備制度理事会（FRB）のスティーブン・ミラン理事は、中東情勢の緊迫化にもかかわらず、利下げを継続することが適切であるとの見解を改めて表明しました。彼はブルームバーグ・サーベイランスのインタビューで、「行動を継続することが適切だと信じる」と述べ、現在の金融政策が経済に与える影響を重視する姿勢を示しました。ミラン理事の発言は、インフレ抑制と雇用安定というFRBの二重責務において、雇用市場の軟化により利下げの必要性が高まっているという彼の認識を強調しています。しかし、イラン紛争が原油価格を押し上げ、インフレ再燃のリスクを高めている現状は、FRBの政策決定をより複雑にしています。市場は、ミラン理事のようなハト派的な見解と、タカ派的な見解の間のバランスに注目し、今後の金利動向を見極めようとしています。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 10,
+      "source": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=q1Wf3ezqU7Y",
       "related_symbols": []
     },
     {
-      "headline": "Spartan Capital Securities, LLC Serves as Sales Agent in YY Group Holding Limited's $20 Million At-the-Market Offering",
-      "summary": "New York, NY, March 06, 2026 (GLOBE NEWSWIRE) -- Spartan Capital Securities, LLC, a premier investment banking firm, today announced that YY Group Holding Limited (NASDAQ: YYGH) has entered into a sales agreement under which Spartan Capital Securities will act as the Company's sales agent for an at-the-market equity offering program.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251319/0/en/Spartan-Capital-Securities-LLC-Serves-as-Sales-Agent-in-YY-Group-Holding-Limited-s-20-Million-At-the-Market-Offering.html",
+      "headline": "ブロードコムの成長が加速、今が買い時か？",
+      "summary": "ブロードコム（AVGO）は、2026年第1四半期の売上高が前年同期比29%増を記録し、現在の四半期には47%増に加速する見通しを発表しました。この目覚ましい業績は、主に同社の人工知能（AI）事業の急成長に牽引されています。AIチップや関連インフラへの需要が爆発的に高まる中、ブロードコムは半導体市場において中心的な役割を担っており、その技術力と市場シェアが投資家から高く評価されています。特に、データセンターの拡張やAIモデルの開発競争が活発化する中で、同社の製品に対する需要は今後も堅調に推移すると見られています。市場は、この成長加速が株価にどのような影響を与えるか、引き続き注目しています。ブロードコムの株価は、AIセクター全体の高騰とともに大きく上昇してきましたが、今回のガイダンスは、その勢いが今後も持続する可能性を示唆しています。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 10,
+      "source": "fool.com",
+      "url": "https://www.fool.com/investing/2026/03/06/broadcoms-growth-is-accelerating-time-to-buy-the-s/",
+      "related_symbols": [
+        "AVGO"
+      ]
+    },
+    {
+      "headline": "エヌビディア、2027年報酬プランでフアンCEOに400万ドルの現金ボーナス設定",
+      "summary": "エヌビディア（NVDA）は、2027会計年度の新たな変動報酬制度の下で、ジェンスン・フアン最高経営責任者（CEO）に対し、目標キャッシュボーナスとして400万ドルを設定しました。この報酬プランは、エヌビディアが人工知能（AI）市場を牽引し、データセンター部門を中心に記録的な業績を達成している中で発表されました。フアンCEOのリーダーシップは、同社を半導体業界の最前線に押し上げ、時価総額で世界有数の企業へと成長させました。この高額な報酬設定は、AI分野における熾烈な人材獲得競争と、フアンCEOが果たす戦略的役割の重要性を反映しています。市場は、CEOへのインセンティブが会社の長期的な成長戦略とどのように連動し、株主価値のさらなる向上に貢献するかを注視しています。特に、AI技術の進化と市場の変化が速い現代において、リーダーシップの質は企業の成功に不可欠です。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 10,
+      "source": "reuters.com",
+      "url": "https://www.reuters.com/business/nvidia-sets-4-million-cash-bonus-ceo-huang-under-2027-compensation-plan-2026-03-06/",
+      "related_symbols": [
+        "NVDA"
+      ]
+    },
+    {
+      "headline": "米国、エヌビディアとAMDのAIチップ世界販売に許可制を検討か",
+      "summary": "米商務省は、人工知能（AI）チップの世界的な出荷に対し、アメリカの承認なしには認めない新たな規制案を策定していると報じられました。この動きは、エヌビディア（NVDA）やAMDといった主要なAIチップメーカーのグローバルな事業展開に大きな影響を与える可能性があります。AI技術の戦略的重要性から、米国政府は技術流出を防ぎ、国家安全保障を強化する目的で輸出規制を強化しています。この規制が導入されれば、AIチップの供給チェーンに不確実性が生じ、関連企業の売上や利益に影響を及ぼす恐れがあります。一方で、規制の詳細はまだ不明であり、AI業界や各国政府の反応が注目されます。市場は、これらの規制がAI技術の発展と普及に与える長期的な影響を慎重に評価しており、半導体業界の競争環境と地政学的リスクが連動する複雑な状況が続いています。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 10,
+      "source": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=Sf4GBsgz8bY",
+      "related_symbols": [
+        "NVDA"
+      ]
+    },
+    {
+      "headline": "ブラックロック、プライベート・クレジット・ファンドの引き出し制限で株価7%超下落",
+      "summary": "世界最大の資産運用会社であるブラックロック（BLK）の株価は、同社がプライベート・クレジット・ファンドからの引き出しを制限したことを受け、7%以上下落しました。このニュースは、急速に拡大するプライベート・クレジット市場における流動性リスクに対する懸念を再燃させました。投資家は、金利上昇環境下での融資の質や、市場のボラティリティに対するファンドの回復力について、一層の警戒を強めています。ブラックロックの決定は、特定の資産クラスにおける市場の脆弱性を示唆する可能性があり、より広範な金融市場への波及効果が懸念されます。この状況は、他の資産運用会社にも影響を与える可能性があり、プライベート・クレジット市場の今後の規制動向や透明性向上が求められるでしょう。市場の不確実性が高まる中、大手金融機関の動きは特に注目されます。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 10,
+      "source": "forbes.com",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/03/06/blackrock-shares-tumble-over-7-after-firm-limits-withdrawals-from-private-credit-fund/",
       "related_symbols": []
     },
     {
-      "headline": "Trump says defense CEOs agree to quadruple production of `Exquisite Class' weaponry",
-      "summary": "President Donald Trump met with CEOs of major defense industry companies at the White House as the war against Iran ended its first full week. After the meeting, Trump said in a social media post that \"we discussed Production and Production Schedules\" and \"they have agreed to quadruple Production of the 'Exquisite Class' Weaponry in that we want to reach, as rapidly as possible, the highest levels of quantity.",
-      "category": "【マーケット一般】",
-      "importance": 5,
+      "headline": "アルファベットとエヌビディア、究極のAI銘柄となるか？今後10年の勝者は",
+      "summary": "アルファベット（GOOGL, GOOG）とエヌビディア（NVDA）は、人工知能（AI）分野における究極の投資銘柄として注目されていますが、今後10年間でどちらがより大きな勝者となるかについて議論が交わされています。アルファベットは、クラウドバックログが前期比55%増の2400億ドルに達するなど、AIのインフラとサービス提供の両面で強固な基盤を持っています。一方、エヌビディアは、直近の四半期でデータセンター売上が前年同期比75%急増するなど、AIチップ市場で圧倒的なリーダーシップを誇ります。この両社はAIエコシステムの異なる層で支配的な地位を築いており、それぞれの成長ドライバーと競争優位性を比較検討することが重要です。投資家は、AI技術の進化と市場の変化に応じて、これらのメガキャップ企業の長期的なパフォーマンスを評価しています。両社が提供するソリューションは、現代のデジタル経済に不可欠であり、その成長戦略は幅広い分野に影響を与えます。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 10,
+      "source": "fool.com",
+      "url": "https://www.fool.com/investing/2026/03/06/alphabet-and-nvidia-just-might-be-the-ultimate-ai/",
+      "related_symbols": [
+        "GOOGL",
+        "GOOG",
+        "NVDA"
+      ]
+    },
+    {
+      "headline": "OpenAIとオラクル、テキサスでのAIデータセンター拡張計画を中止",
+      "summary": "OpenAIとオラクル（ORCL）が、テキサス州における主要な人工知能（AI）データセンターの拡張計画を中止したとブルームバーグ・ニュースが報じました。この決定は、資金調達に関する交渉の長期化と、OpenAIのニーズの変化が要因とされています。AI技術の急速な発展に伴い、データセンターのインフラ投資は極めて重要であり、この計画中止はAIインフラの展開ペースや戦略に影響を与える可能性があります。オラクルは、自社のクラウドインフラを利用したAIサービスの強化を目指していましたが、今回の決定により、その戦略の一部が見直される可能性があります。市場は、AI関連の巨大プロジェクトにおける不確実性や、主要企業間の協力関係の変化が、AIエコシステム全体にどのような影響を及ぼすかを注視しています。この動きは、AIインフラ市場における競争とパートナーシップの動向に新たな視点を提供します。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 10,
+      "source": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=GGaI-smIJgs",
+      "related_symbols": []
+    },
+    {
+      "headline": "BYD、急速充電器と10の新モデルで中国販売を巻き返せるか？",
+      "summary": "中国の電気自動車（EV）大手BYDは、急速充電器の展開と10の新モデル投入により、中国市場での販売を回復できるか注目されています。テスラ（TSLA）の主要な強みの一つが充電インフラにあると認識されている中、BYDは独自の急速充電技術でその差を縮めようとしています。この戦略は、EVの普及を加速させる上で重要な要素であり、消費者の充電に関する不安を解消することを目指しています。BYDの新たな攻勢は、熾烈な競争が繰り広げられる中国EV市場において、テスラを含む競合他社に圧力をかける可能性があります。市場は、BYDがこれらの新戦略を通じて、販売台数と市場シェアを拡大できるか、そしてEV市場全体の競争環境にどのような変化をもたらすかを注視しています。特に、急速充電インフラの整備はEVの普及に不可欠であり、BYDの取り組みは業界全体のベンチマークとなる可能性を秘めています。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 10,
+      "source": "investors.com",
+      "url": "https://www.investors.com/news/byd-chinese-evs-tesla-nio-auto-sales-fast-chargers/",
+      "related_symbols": [
+        "TSLA"
+      ]
+    },
+    {
+      "headline": "マイクロン株下落、世界的なメモリセクターの低迷が影響",
+      "summary": "マイクロン・テクノロジー（MU）の株価が下落しました。これは、世界的なメモリ半導体セクターにおける需要の弱さが背景にあり、特に韓国の主要メモリメーカーであるサムスン電子やSKハイニックスの株価も同時に下落しています。市場は、米国で発表される2月の雇用統計を待つ中で、イラン紛争による米国株市場全体の下落傾向もセンチメントに影響を与えました。メモリ半導体は、スマートフォン、PC、データセンターなど幅広い電子機器に不可欠であり、その需要動向はIT業界全体の健全性を示す指標となります。今回の下落は、人工知能（AI）需要による一部半導体分野の好調とは対照的に、広範なメモリ市場が依然として回復途上にあることを示唆しており、関連企業の業績に短期的な逆風となる可能性があります。投資家は、メモリ市場の回復のタイミングと、AI関連以外の需要動向に注目しています。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 10,
+      "source": "invezz.com",
+      "url": "https://invezz.com/news/2026/03/06/micron-stock-falls-as-weakness-hits-global-memory-sector/",
+      "related_symbols": []
+    },
+    {
+      "headline": "エヌビディアQ4決算は好調も、CUDAの力を過小評価してはならない",
+      "summary": "エヌビディア（NVDA）は、2026年第4四半期に市場予想を大きく上回る好決算を発表し、データセンター部門の売上が前年同期比75%増の623億ドルに達しました。しかし、この驚異的な業績以上に重要なのは、同社の「CUDA」ソフトウェアエコシステムの強力な影響力です。CUDAは、エヌビディアのGPUを最大限に活用するためのプログラミングプラットフォームであり、AI開発者にとって事実上の業界標準となっています。競合他社が台頭する中でも、CUDAが生み出すエコシステムのロックイン効果は、エヌビディアの市場支配力を維持し、長期的な競争優位性を確保する上で不可欠です。同社は2027会計年度以降も爆発的な需要に対応するための952億ドルを超える供給契約を確保しており、CUDAと新たなVera Rubin GPUは、AI市場における同社のリーダーシップをさらに強固にするでしょう。このソフトウェアとハードウェアの統合力が、エヌビディアの持続的な成長の鍵を握っています。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 10,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4879627-nvidia-blowout-q4-report-aside-dont-underestimate-the-power-of-cuda",
+      "related_symbols": [
+        "NVDA"
+      ]
+    },
+    {
+      "headline": "アマゾン、国防以外のワークロードでアンソロピック社のClaude利用を継続へ",
+      "summary": "アマゾン（AMZN）は、国防関連以外のワークロードにおいて、顧客が引き続きアンソロピック社のAIモデル「Claude」を同社のクラウドサービス上で利用できることを発表しました。これは、米国防総省がClaudeを「サプライチェーンリスク」と見なし、マイクロソフトやグーグルも同様の姿勢を示した後の動きです。アマゾンのこの発表は、人工知能（AI）技術の利用における規制や国家安全保障上の懸念が高まる中でも、民間セクターでのAI導入を推進する姿勢を示しています。アンソロピックのClaudeは、OpenAIの競合として注目されており、アマゾンとの提携はAIクラウド市場における競争環境に影響を与えます。この決定は、AI技術の軍事利用と民間利用の線引きが厳しくなる中で、クラウドプロバイダーがどのようにAIサービスを提供していくかを示す重要な事例となるでしょう。アマゾンの戦略は、広範な顧客層へのAIサービス提供を重視していることを示唆しています。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 10,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/03/06/amazon-aws-anthropic-claude-pentagon-blacklist.html",
+      "related_symbols": [
+        "AMZN"
+      ]
+    },
+    {
+      "headline": "米原油価格、1985年以来最大の週次高騰を記録",
+      "summary": "米国の原油価格は、1985年以来となる週次での大幅な高騰を記録しました。この急騰は、主に中東における地政学的緊張の高まりと、イラン紛争が原油供給に与える潜在的な影響への懸念が背景にあります。特に、世界的な原油輸送の要衝であるホルムズ海峡での混乱が現実味を帯びたことで、市場は供給途絶のリスクを強く意識しています。原油価格の急激な上昇は、ガソリン価格の引き上げを通じて消費者の購買力を圧迫し、企業にとっては輸送コストや生産コストの増加に直結します。これは、米国経済におけるインフレ圧力の再燃につながり、連邦準備制度理事会（FRB）の金融政策決定を一層複雑化させる要因となります。市場は、今後の地政学的展開が原油市場に与える影響を警戒し、原油価格の動向が経済全体の安定性にとって重要な鍵を握ると見ています。",
+      "category": "【国際・地政学】",
+      "importance": 10,
+      "source": "youtube.com",
+      "url": "https://www.youtube.com/shorts/SIpcdzy02Lo",
+      "related_symbols": []
+    },
+    {
+      "headline": "労働力減少と原油価格急騰で株価は4月以来最悪の週に",
+      "summary": "労働力人口の減少と原油価格の急騰が重なり、株式市場は4月以来最悪の週を記録しました。中東における地政学的緊張が原油価格を押し上げ、供給懸念が市場に広がる中、投資家はインフレ圧力の再燃と企業収益への悪影響を警戒しています。同時に、2月の雇用統計で労働力人口の予想外の減少が示されたことは、経済成長の減速懸念を強めました。この二つの要因は、連邦準備制度理事会（FRB）がインフレ抑制と雇用維持という相反する目標の間で難しい舵取りを迫られる「スタグフレーション」のシナリオを現実味のあるものにしています。市場は、原油価格のさらなる上昇が経済全体に与える影響と、FRBの今後の金融政策の方向性を巡って、引き続き高いボラティリティを示す可能性があります。企業は、エネルギーコストの上昇と労働力不足への対応を迫られています。",
+      "category": "【国際・地政学】",
+      "importance": 10,
+      "source": "wsj.com",
+      "url": "https://www.wsj.com/finance/investing/shrinking-labor-force-surging-oil-prices-drive-stocks-to-worst-week-since-april-2407d954",
+      "related_symbols": []
+    },
+    {
+      "headline": "トランプ前大統領、防衛企業CEOが「精巧な兵器」生産を4倍に増産合意と発表",
+      "summary": "ドナルド・トランプ前大統領は、主要な防衛産業企業のCEOらと会談後、企業が「精巧なクラス」の兵器生産を4倍に増やすことに合意したとソーシャルメディアで発表しました。これは、イランとの紛争が激化し、防衛支出が増加する可能性が高まる中で行われた発言です。トランプ氏は、可能な限り迅速に最高レベルの数量に到達したいと述べており、防衛産業株はこれを受けて上昇する可能性があります。地政学的緊張の高まりは、防衛関連企業にとって新たなビジネスチャンスを生み出す一方で、国際社会の不安定化を一層深刻にするリスクもはらんでいます。市場は、防衛費の増加が国家予算に与える影響や、技術革新の加速が軍事バランスにどう影響するかを注視しています。この動きは、軍事産業における長期的な投資動向に影響を与えるでしょう。",
+      "category": "【国際・地政学】",
+      "importance": 10,
       "source": "cnbc.com",
       "url": "https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html",
       "related_symbols": []
     },
     {
-      "headline": "NASDAQ: PYPL: Kessler Topaz Meltzer & Check, LLP Announces the Filing of a Securities Fraud Class Action Lawsuit Against PayPal Holdings, Inc.",
-      "summary": "Did you buy PYPL common stock between February 25, 2025, and February 2, 2026? Affected PayPal Holdings, Inc. Investor Summary Who: PayPal Holdings, Inc. (NASDAQ: PYPL) What: Securities fraud class action lawsuit filed Class Period: February 25, 2025, through February 2, 2026 Deadline to Seek Lead Plaintiff Status: April 20, 2026 Key Lawsuit Allegations: Material misstatements and/or omissions concerning the company's projected revenue outlook and anticipated growth.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/news-releases/nasdaq-pypl-kessler-topaz-meltzer--check-llp-announces-the-filing-of-a-securities-fraud-class-action-lawsuit-against-paypal-holdings-inc-302707196.html",
-      "related_symbols": []
-    },
-    {
-      "headline": "INVESTOR ALERT: Investigation of Nutex Health, Inc. (NUTX) announced by Holzer & Holzer, LLC",
-      "summary": "ATLANTA, March 06, 2026 (GLOBE NEWSWIRE) -- Holzer & Holzer, LLC is investigating whether Nutex Health, Inc. (“Nutex Health” or the “Company”) (NASDAQ: NUTX) complied with federal securities laws. On March 5, 2026, Nutex Health announced its financial and operating results for the fourth quarter and fiscal year 2025, revealing a revenue decrease of $105.9 to $151.7 million for the three months ended December 31, 2025 due in part to a “one-time $55.0 million cumulative true-up of 18,950 arbitration claims that arbitrators determined were ineligible under the IDR process. ” The price of the Company's stock dropped following this news.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251315/0/en/INVESTOR-ALERT-Investigation-of-Nutex-Health-Inc-NUTX-announced-by-Holzer-Holzer-LLC.html",
-      "related_symbols": []
-    },
-    {
-      "headline": "Deadline Approaching: Apollo Global Management, Inc. (APO) Shareholders Who Lost Money Urged To Contact Law Offices of Howard G. Smith",
-      "summary": "BENSALEM, Pa.--(BUSINESS WIRE)--Law Offices of Howard G. Smith reminds investors of the upcoming May 1, 2026 deadline to file a lead plaintiff motion in the case filed on behalf of investors who purchased Apollo Global Management, Inc. (“Apollo” or the “Company”) (NYSE: APO) securities between May 10, 2021 and February 21, 2026, inclusive (the “Class Period”). IF YOU ARE AN INVESTOR WHO SUFFERED A LOSS IN APOLLO GLOBAL MANAGEMENT, INC. (APO), CONTACT THE LAW OFFICES OF HOWARD G. SMITH TO PARTIC.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "businesswire.com",
-      "url": "https://www.businesswire.com/news/home/20260306348300/en/Deadline-Approaching-Apollo-Global-Management-Inc.-APO-Shareholders-Who-Lost-Money-Urged-To-Contact-Law-Offices-of-Howard-G.-Smith/",
-      "related_symbols": []
-    },
-    {
-      "headline": "Oil prices are surging. Will that help Tesla and others sell more EVs?",
-      "summary": "A 9% jump in gasoline prices in a week could make electric vehicles look more affordable to consumers.",
-      "category": "【マーケット一般】",
-      "importance": 5,
+      "headline": "原油価格急騰、テスラなどEV販売に追い風か？",
+      "summary": "原油価格の急騰は、ガソリン価格の上昇に直結し、電気自動車（EV）への需要を刺激する可能性があります。ガソリン価格が週に9%も跳ね上がったことで、消費者はより燃費効率の良い、あるいは全くガソリンを必要としないEVへの関心を高めています。これは、テスラ（TSLA）をはじめとするEVメーカーにとって追い風となる可能性があります。歴史的に見ても、エネルギー価格の高騰はEV販売を押し上げる傾向があります。しかし、EVの普及には充電インフラの整備や車両価格といった課題も依然として存在します。市場は、原油高がEV市場の成長をどれだけ加速させるか、そしてEVメーカー各社がこの機会をどのように捉え、供給体制を強化していくかに注目しています。原油価格の長期的な高止まりは、自動車産業の電動化を一層加速させる要因となり得ます。",
+      "category": "【国際・地政学】",
+      "importance": 10,
       "source": "marketwatch.com",
       "url": "https://www.marketwatch.com/story/oil-prices-are-surging-will-that-help-tesla-and-others-sell-more-evs-1f2f3856",
+      "related_symbols": [
+        "TSLA"
+      ]
+    },
+    {
+      "headline": "ダウ平均株価560ポイント下落、トランプ氏のイラン降伏要求で米原油価格90ドル超へ急騰",
+      "summary": "米国株式市場は、ドナルド・トランプ前大統領がイランに無条件降伏を要求したことで地政学的緊張が急激に高まり、ダウ平均株価が560ポイント下落しました。これに伴い、米国原油価格は一時90ドルまで急騰しました。カタールのエネルギー大臣が「世界の経済を破綻させる可能性がある」と警告したように、イラン紛争の長期化への懸念が市場を覆っています。原油価格の高騰は、企業コストの増加と消費者の購買力低下につながり、世界経済の成長見通しに暗雲を投げかけています。投資家は、中東情勢のさらなる悪化がエネルギー供給に与える影響や、連邦準備制度理事会（FRB）がインフレ圧力と経済成長のバランスをどう取るかについて、強い不確実性を感じています。市場のボラティリティは高まり、リスクオフの動きが加速しています。",
+      "category": "【国際・地政学】",
+      "importance": 10,
+      "source": "nypost.com",
+      "url": "https://nypost.com/2026/03/06/business/dow-falls-560-points-us-oil-surges-to-90-as-trump-demands-iran-surrenders/",
       "related_symbols": []
     },
     {
-      "headline": "Lowe's: Macroeconomic Headwinds Become More And More Concerning (Rating Downgrade)",
-      "summary": "Lowe's continues to face challenging macroeconomic conditions, with consumer confidence and housing market headwinds persisting. LOW's performance has largely tracked the broader market and consumer discretionary sector but has slightly underperformed since late 2024. The company maintains a safe, reliable 1.9% dividend yield, with cash flow amply covering payouts despite a significant reduction in share buybacks.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879636-lowes-macroeconomic-headwinds-become-more-and-more-concerning-rating-downgrade",
+      "headline": "イラン戦争継続の中、専門家が経済・市場への影響を考察",
+      "summary": "イランでの紛争が続く中、専門家は経済と市場への影響について様々な見解を示しています。中東での戦争は今週、株式市場に大きな変動をもたらしましたが、その影響は予想されたほど悪くなかったとする声もあります。しかし、原油価格の急騰や供給チェーンの混乱、政府債務の増加など、長期的な経済的影響に対する懸念は依然として根強く、特にインフレ圧力の再燃が指摘されています。連邦準備制度理事会（FRB）の金融政策は、インフレ抑制と雇用保護のジレンマに直面しており、市場は地政学的リスクが経済指標に与える影響を注視しています。専門家は、投資家に対して、ポートフォリオのリスク管理を徹底し、短期的なボラティリティに過剰反応しないようアドバイスしています。中東情勢の行方は、世界の金融市場にとって最も重要なリスク要因の一つであり続けています。",
+      "category": "【国際・地政学】",
+      "importance": 10,
+      "source": "investopedia.com",
+      "url": "https://www.investopedia.com/here-s-what-experts-think-about-the-economy-and-markets-as-war-in-iran-continues-11921180",
       "related_symbols": []
     },
     {
-      "headline": "3 Best Earnings Acceleration Stocks to Buy in March 2026",
-      "summary": "Intuit leads a screen of 17 stocks showing rising EPS growth rates, highlighting earnings acceleration that often precedes share price rallies.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880457/3-best-earnings-acceleration-stocks-to-buy-in-march-2026?cid=CS-STOCKNEWSAPI-FT-analyst_blog|rw-2880457",
+      "headline": "原油急騰が国債市場を揺るがす、「解放記念日」の混乱以来最悪の週次下落",
+      "summary": "原油価格の急騰は、米国債市場に「解放記念日」の混乱以来となる最悪の週次下落をもたらしました。イラン紛争が週末に向けて拡大する中、世界の政府債券市場は軒並み打撃を受けました。原油価格の上昇はインフレ期待を高め、これに反応して長期金利が上昇、債券価格が下落するという展開になりました。これは、連邦準備制度理事会（FRB）がインフレ抑制のために金融引き締めを継続するとの見方を強める要因となり、金利敏感な資産に影響を与えています。債券市場のボラティリティは、株式市場にも波及し、投資家のリスク回避姿勢を強めています。中東情勢の不安定化が、金融市場全体に長期的な影響を及ぼす可能性があり、特にエネルギー価格の動向が今後の市場の鍵を握ると見られています。",
+      "category": "【国際・地政学】",
+      "importance": 10,
+      "source": "marketwatch.com",
+      "url": "https://www.marketwatch.com/story/oil-surge-sparks-treasury-markets-worst-weekly-rout-since-liberation-day-chaos-e4e34ad0",
+      "related_symbols": []
+    },
+    {
+      "headline": "イラン戦争激化でガソリン価格高騰、給油所の状況は？",
+      "summary": "イラン紛争の激化に伴い、ガソリン価格が急騰しており、ドライバーは今後、給油所でさらなる価格上昇に直面する可能性が高いです。中東情勢の悪化は、原油供給の不確実性を高め、世界的な原油価格を押し上げています。特に、世界の石油供給の20%以上が通過するホルムズ海峡の安全保障への懸念が、市場の不安を煽っています。ガソリン価格の上昇は、消費者の可処分所得を減少させ、小売売上高や消費者信頼感に悪影響を与えることが予想されます。政府や中央銀行は、このインフレ圧力に対処するため、難しい政策判断を迫られることになります。消費者としては、燃料費の上昇に備え、家計管理を一層引き締める必要がありそうです。この状況は、経済活動全般に広範な影響を及ぼすでしょう。",
+      "category": "【国際・地政学】",
+      "importance": 10,
+      "source": "investopedia.com",
+      "url": "https://www.investopedia.com/gas-prices-jump-as-iran-war-intensifies-what-can-you-expect-at-the-pump-11919804",
+      "related_symbols": []
+    },
+    {
+      "headline": "イラン戦争、湾岸市場を直撃しイスラエル市場を押し上げ、地域のリスク地図を塗り替える",
+      "summary": "イラン戦争の勃発は、湾岸諸国の市場に大きな打撃を与え、長らく維持されてきた市場の前提を覆しました。投資家は新たなリスク要因を織り込み始めており、特に湾岸諸国の株式市場は下落傾向にあります。対照的に、イスラエル市場は一部で上昇を見せており、地域の資本フローとリスク認識の変化を反映しています。この紛争は、中東地域全体における地政学的リスクの再評価を促し、エネルギー供給の安定性、貿易ルート、および各国経済の脆弱性に対する懸念を深めています。国際社会は、この紛争が地域経済に与える長期的な影響や、新たな経済圏の形成、資本市場の再編につながる可能性を注視しています。紛争の行方次第では、地域の経済構造と金融市場に恒久的な変化をもたらす可能性があります。",
+      "category": "【国際・地政学】",
+      "importance": 10,
+      "source": "wsj.com",
+      "url": "https://www.wsj.com/world/middle-east/the-iran-war-is-hitting-gulf-markets-lifting-israel-and-shifting-risk-across-the-region-890d272e",
+      "related_symbols": []
+    },
+    {
+      "headline": "ECBナーゲル理事、イラン戦争の長期化はインフレを押し上げると警告",
+      "summary": "欧州中央銀行（ECB）のヨアヒム・ナーゲル理事は、イランでの戦争が長期化すれば、ユーロ圏のインフレを押し上げ、経済成長を阻害するだろうと警告しました。ナーゲル理事は、紛争が原油価格を押し上げ、それがエネルギーコストの増加を通じて広範なインフレ圧力につながるとの見方を示しました。ユーロ圏経済は、エネルギー輸入への依存度が高いため、中東情勢の不安定化による原油供給の混乱や価格高騰に特に脆弱です。ECBは、インフレ目標達成のために金融引き締め政策を維持する可能性が高まりますが、経済成長への下押し圧力も考慮に入れる必要があります。市場は、ナーゲル理事の発言を受けて、ユーロ圏経済の先行きに対する懸念を強めています。地政学的リスクがユーロ圏の金融政策と経済見通しに与える影響は、今後も引き続き重要な焦点となるでしょう。",
+      "category": "【国際・地政学】",
+      "importance": 10,
+      "source": "reuters.com",
+      "url": "https://www.reuters.com/business/finance/ecbs-nagel-says-long-iran-war-would-push-up-inflation-2026-03-05/",
       "related_symbols": []
     }
   ],
