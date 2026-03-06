@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07 07:59:06",
+  "last_updated": "2026-03-07 08:25:01",
   "quotes": {
     "NVDA": {
       "symbol": "NVDA",
@@ -521,405 +521,138 @@
   },
   "news": [
     {
-      "headline": "労働力人口の減少と原油価格の高騰が株式市場を4月以来最悪の週次下落に",
-      "summary": "ウォール・ストリート・ジャーナルによると、2026年3月第1週の株式市場は、労働力人口の減少と原油価格の高騰という複合的な要因により、昨年4月以来最悪の週次下落を記録しました。特に、中東情勢の緊迫化に伴う原油供給懸念がWTI原油価格を90ドル台へと押し上げ、市場にインフレ圧力と景気後退への懸念をもたらしました。同時に、発表された2月の雇用統計では非農業部門雇用者数が予想外に減少し、労働市場の軟化が示唆されました。これは、FRBがインフレ抑制と雇用最大化という二重責務の間で政策判断を迫られるという、スタグフレーション的なシナリオへの警戒感を強めるものとなりました。投資家は、経済指標の悪化と地政学的リスクの高まりという二つの不確実性要因に対し、防衛的な資産へのシフトを模索する動きを見せています。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "wsj.com",
-      "url": "https://www.wsj.com/finance/investing/shrinking-labor-force-surging-oil-prices-drive-stocks-to-worst-week-since-april-2407d954",
-      "related_symbols": []
-    },
-    {
-      "headline": "原油価格高騰が債券市場を「解放記念日」以来最悪の週次下落に追い込む",
-      "summary": "イラン紛争の激化による原油価格の急騰は、世界的な債券市場に深刻な影響を与え、米国債市場は「解放記念日」の混乱以来となる週次での大幅下落を記録しました。原油価格の上昇はインフレ期待を再燃させ、各国中央銀行が金融引き締め政策を継続せざるを得ないとの観測が広がりました。これにより、長期金利は急騰し、米国10年債利回りは主要なレジスタンスラインを突破、約3.8%に達しました。特に、エネルギー輸入に大きく依存する欧州市場では、インフレと景気後退が同時に進行するスタグフレーションへの懸念が強まっています。債券投資家は、インフレヘッジとしての金利上昇リスクと、経済成長鈍化による信用リスクの板挟みとなり、ポートフォリオのリバランスを加速させています。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "marketwatch.com",
-      "url": "https://www.marketwatch.com/story/oil-surge-sparks-treasury-markets-worst-weekly-rout-since-liberation-day-chaos-e4e34ad0",
-      "related_symbols": []
-    },
-    {
-      "headline": "イラン戦争が続く中、経済専門家が経済と市場について見解を表明",
-      "summary": "イランでの紛争が続く中、経済専門家たちは、原油価格の長期的な高騰やサプライチェーンの混乱、政府債務の増加といった要因が米国経済に広範な影響を及ぼす可能性について警告しています。紛争の激化は、特にホルムズ海峡を通る世界の原油供給量の20%以上を危険にさらし、エネルギーコストの継続的な上昇を引き起こす可能性があります。これにより、消費者物価指数（CPI）の上昇や消費者支出の抑制につながり、FRBの利上げ再開や利下げ見送りの圧力となるでしょう。さらに、戦争関連の政府支出増大は財政赤字を悪化させ、長期的な金利上昇を招く可能性もあります。専門家は、投資家に対し、短期的な市場のボラティリティに一喜一憂せず、長期的な視点からポートフォリオを多様化し、リスク管理を徹底するよう助言しています。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "investopedia.com",
-      "url": "https://www.investopedia.com/here-s-what-experts-think-about-the-economy-and-markets-as-war-in-iran-continues-11921180",
-      "related_symbols": []
-    },
-    {
-      "headline": "2月雇用統計を読み解く：米国が9万2千人の雇用を喪失した理由",
-      "summary": "2026年2月の米国雇用統計は、非農業部門雇用者数が9万2000人減と予想外の大幅な減少を示し、失業率も4.4%に上昇しました。これは、当初5万人の増加が見込まれていた市場予想を大きく下回る結果となりました。労働省は、特に医療部門でのストライキや、特定セクターでの雇用調整が影響したと説明しています。この報告は、FRBが金融政策を決定する上で重要なインフレと雇用のバランスをさらに複雑化させるものです。市場は、労働市場の急激な軟化が景気後退の兆候である可能性と、インフレ圧力の持続との間で揺れ動いています。FRBの高官からは、この弱い雇用統計が今後の利下げの根拠となり得るとの見方も出ており、今後の金融政策の方向性が注目されています。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "youtube.com",
-      "url": "https://www.youtube.com/shorts/NCL1aUt9dJs",
-      "related_symbols": []
-    },
-    {
-      "headline": "弱い雇用統計にウォール街が動揺 | クローシング・ベル",
-      "summary": "2026年2月の米雇用統計が予想外に軟調な結果となったことを受け、ウォール街は動揺に包まれました。非農業部門雇用者数は9万2000人減と大幅なマイナスを記録し、失業率も4.4%に上昇。これは、堅調な労働市場が持続するとの見方を覆す結果となりました。市場参加者は、このデータがFRBの金融政策スタンスにどのような影響を与えるか、特に今後の利下げ経路について新たな不確実性を抱いています。労働市場の冷え込みは、企業収益への懸念を強め、消費者の信頼感と支出に悪影響を及ぼす可能性も指摘されています。地政学的リスクと相まって、株式市場はボラティリティの高い展開となり、投資家は経済の先行きの不透明感に直面しています。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "youtube.com",
-      "url": "https://www.youtube.com/watch?v=OKwT7OCIFcA",
-      "related_symbols": []
-    },
-    {
-      "headline": "FRBのハマック総裁、金利に「両面のリスク」を見出す",
-      "summary": "クリーブランド連邦準備銀行のベス・ハマック総裁は、インフレが低下し労働市場がさらに安定するまで、金利はしばらく現行水準に維持される可能性があると発言しました。彼女は、経済が「かなり良い状態」にあると認識しつつも、金利政策には「両面のリスク」が存在すると指摘しました。これは、FRBが性急な利下げでインフレを再燃させるリスクと、利上げ維持が経済成長を過度に抑制するリスクの間で慎重なバランスを取ろうとしている姿勢を示唆します。ハマック総裁の発言は、最近の弱い雇用統計と原油価格の高騰を受け、金融市場がFRBの次の動きを読み解こうとする中で、政策当局者の間で意見が分かれている現状を浮き彫りにしています。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "youtube.com",
-      "url": "https://www.youtube.com/watch?v=akKo9943RKE",
-      "related_symbols": []
-    },
-    {
-      "headline": "市場はインフレリスクを過小評価している — 2月CPI速報",
-      "summary": "シーキングアルファの分析によると、市場は2026年2月の消費者物価指数（CPI）がFRBの目標である2%付近まで低下すると予測しているものの、実際のインフレリスクを過小評価している可能性があります。消費者物価指数以外のインフレ指標（PCEやPPIなど）は、依然として高いインフレ圧力の存在を示唆しており、さらに最近のエネルギー価格高騰が、短期的なインフレ率を押し上げる可能性が高まっています。市場が長期的なインフレを抑制的と見ているのに対し、現状の地政学的リスクやエネルギー市場の動向は、インフレが持続する「スタグフレーション的」なシナリオを示唆しています。この乖離は、FRBが直面する政策の困難さを増大させ、市場の期待と現実の経済状況との間に調整圧力が生じる可能性を示唆しています。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879638-markets-are-underpricing-inflation-risk-the-february-cpi-preview",
-      "related_symbols": []
-    },
-    {
-      "headline": "雇用激減、戦争勃発：賢い投資家はこれらの銘柄に資金を隠す",
-      "summary": "2026年3月、予想外に軟調だった2月の雇用統計と、イラン紛争の激化による地政学的緊張が重なり、市場には不確実性が高まっています。ベンジンガによると、このような状況下で「賢い資金（Smart Money）」は、ヘルスケア、主要エネルギー企業、生活必需品といった伝統的なディフェンシブ株、さらには手元資金が豊富なAI関連大手企業へと避難する動きを見せています。雇用市場の急激な冷え込みは景気減速への懸念を強め、原油価格の急騰はインフレ圧力を再燃させており、投資家は収益の安定性と株主還元能力の高い企業に注目しています。AI関連株の一部も、その成長性からポートフォリオの核として見られていますが、全体としては市場の変動に対する防御的な姿勢が強まっています。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "benzinga.com",
-      "url": "https://www.benzinga.com/markets/equities/26/03/51111129/jobs-crash-war-flares-smart-money-hides-in-these-stocks",
-      "related_symbols": []
-    },
-    {
-      "headline": "雇用喪失が消費者信頼感と支出を試す可能性",
-      "summary": "2026年2月の米国雇用統計で雇用者数が予想外に減少し、失業率が上昇したことは、今後の消費者信頼感と支出に大きな試練を与える可能性があります。PYMNTS.comによると、この労働市場の軟化は、消費者の購買力への懸念を招き、既に慎重な傾向を見せている消費行動をさらに抑制する恐れがあります。インフレ圧力が高止まりする中で、雇用の不安定化は家計の財政状況を圧迫し、裁量的支出の減少につながるでしょう。これは、小売業やサービス業にとって逆風となり、経済全体の下押し圧力となる可能性を秘めています。FRBは、このような経済状況の変化を注視し、今後の金融政策の調整において、消費者セクターの動向を重要な判断材料とすることになるでしょう。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "pymnts.com",
-      "url": "https://www.pymnts.com/economy/2026/job-losses-test-consumer-confidence-spending/",
-      "related_symbols": []
-    },
-    {
-      "headline": "FRBミラン理事：2月の雇用喪失はさらなる利下げの根拠となる",
-      "summary": "連邦準備制度理事会（FRB）のスティーブン・ミラン理事は、2026年2月の米国雇用統計における雇用喪失が、中央銀行のさらなる利下げを支持する根拠となるとCNBCのインタビューで述べました。ミラン理事は、もし自分の意向が通れば、政策金利は「中立金利」水準、つまり現状からさらに1%ポイント低い水準に設定されるべきだとの見解を示しました。この発言は、最近の経済指標、特に労働市場の軟化がFRB内のタカ派とハト派の議論に影響を与えていることを示唆しています。労働市場の弱さが確認されたことで、FRBが景気支援のために金融緩和の方向へ傾く可能性が高まりましたが、同時に原油価格高騰によるインフレ圧力も存在するため、今後の政策決定は依然として複雑な状況にあります。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 10,
-      "source": "youtube.com",
-      "url": "https://www.youtube.com/shorts/4JxpPscon5A",
-      "related_symbols": []
-    },
-    {
-      "headline": "OpenAIとOracle、テキサス州アビリーンでのデータセンター拡張計画を縮小",
-      "summary": "ブルームバーグの報道によると、OpenAIとOracleは、テキサス州アビリーンでの旗艦AIデータセンター拡張計画を中止しました。この決定は、資金調達に関する交渉の長期化とOpenAIのニーズの変化が背景にあるとされています。OpenAIの追加データセンター容量は、他のOracleデータセンターによって賄われると報じられています。この動きは、AIインフラ投資の巨大な規模と、急速に進化する技術環境における計画の柔軟性の必要性を示唆しています。データセンターの建設・運用は、AI企業にとって不可欠な要素であり、今回の計画変更は、Oracleのクラウドインフラ戦略や、AIブームがもたらすサプライチェーン全体への影響について、市場に新たな視点を提供する可能性があります。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 10,
-      "source": "barrons.com",
-      "url": "https://www.barrons.com/articles/openai-oracle-stargate-abilene-texas-data-centers-fc305aa7",
-      "related_symbols": [
-        "ORCL"
-      ]
-    },
-    {
-      "headline": "マクドナルドのバズった「ビッグアーチバーガー」動画、1800万ドル相当の無料宣伝効果か",
-      "summary": "マーケットウォッチの分析によると、マクドナルドのクリス・ケンプチンスキーCEOが新しい「ビッグアーチバーガー」を試食する動画がバイラル化したことで、同社は少なくとも1800万ドル相当の無料広告効果を得た可能性があります。この動画は、ソーシャルメディア上でCEOの食べ方に注目が集まり、ユーモラスなミームとして拡散されました。当初の意図とは異なる形で広まったものの、結果として膨大なオーディエンスにリーチし、新製品への関心とブランド認知度を大幅に高めることに成功しました。これは、現代のデジタルマーケティングにおいて、予期せぬ形でコンテンツが拡散し、莫大な経済的価値を生み出す可能性を示しています。マクドナルドは、この予期せぬ「バズ」を巧みに利用し、マーケティング戦略に組み込むことで、売上向上に繋げる機会を得ています。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 10,
-      "source": "marketwatch.com",
-      "url": "https://www.marketwatch.com/story/that-viral-big-arch-burger-video-could-be-worth-at-least-18-million-to-mcdonalds-in-free-publicity-87a3d882",
-      "related_symbols": [
-        "MCD"
-      ]
-    },
-    {
-      "headline": "AlphabetとNvidiaこそ究極のAI銘柄となるか？今後10年でより大きく勝つのはどちらか？",
-      "summary": "モトリーフールの記事によると、AlphabetとNvidiaはAI分野における究極の投資先として注目されていますが、今後10年間でどちらがより大きな勝者となるかについて議論が展開されています。Alphabetはクラウドバックログが前期比55%増の2400億ドルに急増し、AIサービスの需要が堅調であることを示しています。一方、Nvidiaは最新四半期でデータセンター収益が前年比75%増と驚異的な成長を遂げ、AIチップ市場での圧倒的なリーダーシップを維持しています。AlphabetはAIモデルとアプリケーションの幅広いエコシステムを構築し、NvidiaはAIチップとCUDAソフトウェアプラットフォームでAIインフラの根幹を支えています。両社ともにAI革命の主要な受益者であることは間違いないものの、長期的な視点では、AI技術の進化と市場の変革が、それぞれのビジネスモデルに異なる成長経路をもたらす可能性があります。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 10,
-      "source": "fool.com",
-      "url": "https://www.fool.com/investing/2026/03/06/alphabet-and-nvidia-just-might-be-the-ultimate-ai/",
-      "related_symbols": [
-        "GOOGL",
-        "GOOG",
-        "NVDA"
-      ]
-    },
-    {
-      "headline": "BYD：急速充電器と10車種の新型車が中国での販売を救うか？",
-      "summary": "インベスターズ・ドットコムによると、中国のEV大手BYDが、急速充電器の開発と10車種の新型車投入によって、中国市場での販売を回復できるか注目されています。テスラなどの競合他社が充電インフラで優位に立つ中、BYDは自社独自の急速充電技術を強化することで、消費者の利便性を高め、市場シェアの拡大を目指しています。特に中国市場では、価格競争が激化しており、新モデルの多様なラインナップは、幅広い顧客層のニーズに応え、BYDの競争力を維持するために不可欠です。この戦略が奏功すれば、中国国内だけでなく、国際市場におけるBYDの地位をさらに確固たるものにする可能性があり、EV業界全体の競争環境に大きな影響を与えることが予想されます。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 10,
-      "source": "investors.com",
-      "url": "https://www.investors.com/news/byd-chinese-evs-tesla-nio-auto-sales-fast-chargers/",
-      "related_symbols": [
-        "TSLA"
-      ]
-    },
-    {
-      "headline": "BYD、テスラの最後の大きな優位性に挑戦するためにわずか9分を必要とする",
-      "summary": "ベンジンガの報道によると、中国のEV大手BYDがわずか9分間で充電可能な新技術を投入することで、テスラの最大の競争優位性の一つであった充電インフラに挑戦しようとしています。これまでテスラは、スーパーチャージャーネットワークによって他社をリードしてきましたが、BYDのこの急速充電技術は、EVユーザーの「航続距離不安」を大幅に軽減し、より多くの消費者をEV市場に引き込む可能性を秘めています。この技術革新は、EVの普及を加速させるだけでなく、グローバルなEV市場における競争環境を大きく変えるゲームチェンジャーとなるかもしれません。テスラにとって、このBYDの動きは新たな脅威となり、充電技術とインフラのさらなる進化を促すことになりそうです。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 10,
-      "source": "benzinga.com",
-      "url": "https://www.benzinga.com/markets/tech/26/03/51110032/byd-needs-just-9-minutes-to-challenge-teslas-last-great-advantage",
-      "related_symbols": [
-        "TSLA"
-      ]
-    },
-    {
-      "headline": "S&P 500の今夜のリバランス：Vertiv、SoFi、Lumentumは指数入りするか？",
-      "summary": "S&P 500指数の四半期ごとのリバランスが今夜実施され、Vertiv、SoFi、Lumentumといった企業が指数に採用される可能性が浮上しています。24/7 Wall St.によると、S&Pダウ・ジョーンズ・インディシーズは通常、市場引け後に指数変更を発表するため、これらの銘柄の株価は発表前後に大きく変動する傾向があります。S&P 500への採用は、該当企業の株価にとって重要なマイルストーンであり、パッシブファンドからの資金流入を誘発し、流動性と認知度を高める効果が期待されます。今回のリバランスは、AI関連インフラやフィンテック分野の成長を反映する可能性があり、市場のトレンドの変化を示唆するものとなるでしょう。投資家は、これらの候補銘柄の動向に注目しています。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 10,
+      "headline": "Solstice Advanced Materials and SiTime Join the S&P MidCap 400 As AI Stocks Reshuffle the Index",
+      "summary": "Tonight's S&P quarterly rebalancing is a clean snapshot of where the market's center of gravity has shifted.",
+      "category": "【マーケット一般】",
+      "importance": 5,
       "source": "247wallst.com",
-      "url": "https://247wallst.com/investing/2026/03/06/sp-500-rebalancing-tonight-could-vertiv-sofi-or-lumentum-join-the-index/",
-      "related_symbols": [
-        "SOFI"
-      ]
+      "url": "https://247wallst.com/investing/2026/03/06/solstice-advanced-materials-and-sitime-join-the-sp-midcap-400-as-ai-stocks-reshuffle-the-index/",
+      "related_symbols": []
     },
     {
-      "headline": "Intuit株のラリーは過熱しているのか、それとも始まったばかりなのか？",
-      "summary": "フォブス誌の分析によると、会計ソフトウェア大手Intuitの株価が7日間連続で上昇し、この期間に30%もの急騰を見せたことで、そのラリーが過熱しているのか、それともまだ始まったばかりなのかという疑問が提起されています。Intuitは、TurboTaxやQuickBooksといった主力製品に加え、AIを活用した新機能の導入により、高い成長期待を背景に投資家からの関心を集めています。しかし、短期間での大幅な上昇は、過大評価のリスクもはらんでいます。市場は、同社の今後の収益見通しや、競合環境、さらには金融政策の方向性など、複合的な要因を織り込みながら株価の適正水準を探っています。投資家は、Intuitのファンダメンタルズと市場センチメントの両方を注意深く評価する必要があります。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 10,
-      "source": "forbes.com",
-      "url": "https://www.forbes.com/sites/greatspeculations/2026/03/06/is-intuit-stock-rally-overextended-or-just-getting-started/",
-      "related_symbols": [
-        "INTU"
-      ]
+      "headline": "BBWI Deadline: BBWI Investors Have Opportunity to Lead Bath & Body Works, Inc. Securities Fraud Lawsuit",
+      "summary": "NEW YORK, March 6, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Bath & Body Works, Inc. (NYSE: BBWI) between June 4, 2024 and November 19, 2025, both dates inclusive (the \"Class Period\"), of the important March 16, 2026 lead plaintiff deadline. So What: If you purchased Bath & Body Works securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/bbwi-deadline-bbwi-investors-have-opportunity-to-lead-bath--body-works-inc-securities-fraud-lawsuit-302707220.html",
+      "related_symbols": []
     },
     {
-      "headline": "PEGA株、Pega BlueprintでのVibe Coding Assistant発表で急騰",
-      "summary": "ザックス・ドットコムによると、Pegasystemsの株価は、同社が「Pega Blueprint」内でVibe Coding Assistantをリリースしたことを受け、大幅に上昇しました。このAIを活用したコーディングアシスタントは、アプリケーション設計プロセスを自動化し、開発効率を劇的に向上させることを目的としています。今回の発表は、企業がAI技術を製品戦略の中心に据え、競争優位性を確立しようとする動きが加速していることを示しています。Pegasystemsは、Pega Cloudの年間契約額（ACV）が堅調に成長していることも強みとしており、AIによるイノベーションが収益拡大に貢献するという市場の期待が高まっています。AIとソフトウェアの融合は、ビジネスプロセスの変革を促し、関連企業の株価に引き続き大きな影響を与えるでしょう。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 10,
-      "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880450/pega-stock-surges-on-launch-of-vibe-coding-assistant-in-pega-blueprint?cid=CS-STOCKNEWSAPI-FT-analyst_blog|company_news_tech_sector-2880450",
-      "related_symbols": [
-        "PEGA"
-      ]
+      "headline": "Lisata Therapeutics Enters into Definitive Agreement to be Acquired by Kuva Labs, Inc.",
+      "summary": "Each Lisata stockholder to receive $5.00 per share in cash payable at closing plus one contingent value right for a potential additional cash payment of $1.00 per share",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251364/18623/en/Lisata-Therapeutics-Enters-into-Definitive-Agreement-to-be-Acquired-by-Kuva-Labs-Inc.html",
+      "related_symbols": []
     },
     {
-      "headline": "OracleとOpenAI、テキサス州データセンター拡張計画を中止とBloomberg報道",
-      "summary": "ブルームバーグの報道によると、OracleとOpenAIは、テキサス州での主要なAIデータセンターの拡張計画を中止しました。これは、両社間の資金調達交渉の難航とOpenAIの要件の変化が背景にあるとされています。この決定は、OpenAIがAI開発を加速させるために必要な計算能力を確保する上で、多様なインフラパートナーシップを模索している現状を浮き彫りにしています。Oracleにとっては、AI関連インフラ事業への大きな期待が一部後退した形となりますが、OpenAIの需要は他の地域にあるOracleのデータセンターで対応される見込みです。AI技術の急速な進化は、データセンター市場に巨大な需要をもたらす一方で、プロジェクトの規模と複雑性から、計画変更や調整が頻繁に発生する可能性を示唆しています。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 10,
-      "source": "reuters.com",
-      "url": "https://www.reuters.com/business/oracle-openai-end-plans-expand-texas-data-center-site-bloomberg-news-reports-2026-03-06/",
-      "related_symbols": [
-        "ORCL"
-      ]
+      "headline": "EOS ENERGY LAWSUIT ALERT: Bragar Eagel & Squire, P.C. Announces that a Class Action Lawsuit Has Been Filed Against Eos Energy Enterprises, Inc. and Encourages Investors to Contact the Firm",
+      "summary": "Bragar Eagel & Squire, P.C.  Litigation Partner  Brandon Walker  Encourages Investors Who Suffered Losses In Eos (EOSE) To Contact Him Directly To Discuss Their Options",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251363/0/en/EOS-ENERGY-LAWSUIT-ALERT-Bragar-Eagel-Squire-P-C-Announces-that-a-Class-Action-Lawsuit-Has-Been-Filed-Against-Eos-Energy-Enterprises-Inc-and-Encourages-Investors-to-Contact-the-Fir.html",
+      "related_symbols": []
     },
     {
-      "headline": "Nvidia、フアンCEOに2027年報酬計画で400万ドルの現金ボーナスを設定",
-      "summary": "ロイター通信によると、Nvidiaは2027会計年度の新たな変動報酬計画の下、ジェンスン・フアンCEOに対して400万ドルの現金ボーナスを設定しました。この報酬計画は、AI半導体市場におけるNvidiaの圧倒的なリーダーシップと、フアンCEOがその成長を牽引していることへの評価を反映しています。過去数年間でNvidiaは、データセンター向けAIチップの需要急増により目覚ましい業績を達成し、株価も飛躍的に上昇しました。CEOへの高額報酬は、企業が主要な人材を引き留め、イノベーションを継続するためのインセンティブとして機能しますが、同時に株主の関心を集めるテーマでもあります。今回の発表は、Nvidiaが今後もAI分野での競争優位性を維持し、積極的な成長戦略を推進していく意向を示唆していると解釈できます。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 10,
-      "source": "reuters.com",
-      "url": "https://www.reuters.com/business/nvidia-sets-4-million-cash-bonus-ceo-huang-under-2027-compensation-plan-2026-03-06/",
-      "related_symbols": [
-        "NVDA"
-      ]
+      "headline": "ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Franklin BSP Realty Trust, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - FBRT",
+      "summary": "New York, New York--(Newsfile Corp. - March 6, 2026) - WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Franklin BSP Realty Trust, Inc. (NYSE: FBRT) between November 5, 2024 and February 11, 2026, both dates inclusive (the \"Class Period\"), of the important April 27, 2026 lead plaintiff deadline in the securities class action first filed by the Firm. SO WHAT: If you purchased Franklin BSP Realty Trust, Inc. securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "newsfilecorp.com",
+      "url": "https://www.newsfilecorp.com/release/286592/ROSEN-RECOGNIZED-INVESTOR-COUNSEL-Encourages-Franklin-BSP-Realty-Trust-Inc.-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-First-Filed-by-the-Firm-FBRT",
+      "related_symbols": []
     },
     {
-      "headline": "Nvidia：好調な第4四半期決算以外にも、CUDAの力を過小評価してはならない",
-      "summary": "シーキングアルファの報道によると、Nvidiaは2025年第4四半期決算で売上高と利益の両方で市場予想を大幅に上回る「とてつもない」結果を達成しました。データセンター収益は前年比75%増の623億ドルに達し、同社のAI半導体市場における圧倒的な優位性を再確認させました。同社は2027会計年度以降の爆発的な需要を満たすため、952億ドルを超える供給契約を確定しています。この成功は、単にハードウェアの強さだけでなく、Nvidia独自のCUDAソフトウェアエコシステムがAI開発者コミュニティに深く浸透していることによるものです。CUDAはAIインフラの事実上の標準となっており、新たな競合他社の台頭があったとしても、その強力なロックイン効果がNvidiaの市場リーダーシップと防御力をさらに強化すると分析されています。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 10,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879627-nvidia-blowout-q4-report-aside-dont-underestimate-the-power-of-cuda",
-      "related_symbols": [
-        "NVDA"
-      ]
+      "headline": "METC Investors Have Opportunity to Lead Ramaco Resources, Inc. Securities Fraud Lawsuit",
+      "summary": "NEW YORK, March 6, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Ramaco Resources, Inc. (NASDAQ: METC) between July 31, 2025 and October 23, 2025, both dates inclusive (the \"Class Period\"), of the important March 31, 2026 lead plaintiff deadline. So What: If you purchased Ramaco securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/metc-investors-have-opportunity-to-lead-ramaco-resources-inc-securities-fraud-lawsuit-302707210.html",
+      "related_symbols": []
     },
     {
-      "headline": "Broadcomの成長が加速。今こそ株を買う時か？",
-      "summary": "モトリーフールの報道によると、Broadcomの第1四半期売上高は前年同期比29%増と好調に推移し、さらに現四半期では47%増に加速する見通しです。この目覚ましい業績は、同社のAIビジネスの急成長によって牽引されており、特にデータセンターやカスタムAIチップの需要が寄与しています。Broadcomは、AIインフラの構築に不可欠なネットワーキングソリューションやカスタムシリコンを提供しており、AIブームの主要な受益者の一つとなっています。このような強力な成長見通しは、投資家にとって同社株の購入を検討する時期が来ている可能性を示唆しています。AI市場の拡大が続く限り、Broadcomのファンダメンタルズは引き続き堅固であると予想され、株価のさらなる上昇が期待されます。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 10,
-      "source": "fool.com",
-      "url": "https://www.fool.com/investing/2026/03/06/broadcoms-growth-is-accelerating-time-to-buy-the-s/",
-      "related_symbols": [
-        "AVGO"
-      ]
-    },
-    {
-      "headline": "Appleの中国でのiPhone販売が24%減、Huaweiの巻き返しが影響",
-      "summary": "ロイター通信の報道によると、Appleの中国におけるiPhone販売台数は、2026年に入り前年同期比で24%もの大幅な減少を記録しました。この背景には、中国国内の強力な競合であるHuaweiの市場復帰が挙げられます。Huaweiは、米国制裁からの回復を見せ、高性能な新モデルを投入することで、プレミアムスマートフォン市場における存在感を再び高めています。この動きは、Appleにとって中国市場での厳しい競争環境を示唆しており、収益性や市場シェアへの圧力が懸念されます。中国市場はAppleにとって重要な成長ドライバーであるため、この販売減少は、今後の同社の業績見通しや戦略に大きな影響を与える可能性があります。投資家は、Appleが中国市場でどのように競争力を維持していくか、その動向を注視しています。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 10,
-      "source": "reuters.com",
-      "url": "https://www.reuters.com/technology/apple-china-iphone-sales-drop-24-huawei-comeback-bites-2026-03-06/",
-      "related_symbols": [
-        "AAPL"
-      ]
-    },
-    {
-      "headline": "Oracle Corporation (ORCL) 株価予測：60%下落後に反転シグナルを構築",
-      "summary": "FXEmpireの分析によると、Oracle Corporation（ORCL）の株価は、大幅な60%の下落後、潜在的な反転シグナルを構築し始めています。最近の株価は、二重底形成パターンを示唆し、20日移動平均線を回復するなど、モメンタムの強化を示しています。これは、AIインフラ投資に対する市場の懐疑論が一巡し、同社のクラウドサービス、特にAIデータセンター関連の受注に対する期待感が再び高まっていることを反映している可能性があります。Oracleは、AI需要の恩恵を受ける主要なクラウドプロバイダーの一つとして位置付けられており、技術的指標の改善は、市場が同社の長期的な成長見通しを再評価していることを示唆しています。今後の四半期決算やガイダンスが、この回復トレンドを確固たるものにするかどうかが注目されます。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 10,
-      "source": "fxempire.com",
-      "url": "https://www.fxempire.com/forecasts/article/oracle-corporation-orcl-price-forecast-reversal-signals-build-after-60-decline-1583938",
-      "related_symbols": [
-        "ORCL"
-      ]
-    },
-    {
-      "headline": "来週の第3四半期決算発表前に、Oracleの「バブル懸念」を買うべきか",
-      "summary": "シーキングアルファの分析によると、Oracle（ORCL）の株価は、AIインフラへの多額の設備投資やOpenAIへのバックログ集中に関する懸念から大幅に下落していましたが、来週の第3四半期決算発表を前に底入れの兆候を見せています。最近のOpenAIへの新たな資金供給や、NvidiaのCEOがAIインフラ投資の必要性を擁護したことで、ハイパースケーラーへの投資家信頼が回復し、Oracle株も過去1週間で9%以上上昇しました。2026会計年度第3四半期のOracleの売上高は19.67%の成長加速が見込まれており、アナリストは2029会計年度まで堅調な成長を予測し、業績予想の下方修正もありません。市場は、AI時代のデータセンター需要を背景に、同社の今後の収益力に再び注目しています。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 10,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879645-buy-oracles-bubble-fears-before-next-weeks-q3-earnings-report",
-      "related_symbols": [
-        "ORCL"
-      ]
-    },
-    {
-      "headline": "HP：三重苦にもかかわらず、無視できないほど安い",
-      "summary": "シーキングアルファは、HP Inc.が過去52週で株価が32%下落し、短期的逆風が続くにもかかわらず、「買い」推奨としました。同社は、関税コストやメモリ価格圧力により利益率が圧迫されていますが、2026会計年度第1四半期の売上高は6.9%増と加速しました。HPは、6.2%の配当利回りと積極的な自社株買いを通じて、株主への強力な資本還元を行っており、これは経営陣が将来のキャッシュフローに自信を持っていることの表れです。主要市場での競争激化やサプライチェーンの課題は残るものの、PCおよびプリンター市場での強固な地位と、コスト効率化努力が評価されています。割安なバリュエーションと堅実な株主還元策が、長期的な投資家にとって魅力的なポイントとなっています。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 10,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879655-hp-too-cheap-to-ignore-despite-triple-whammy",
-      "related_symbols": [
-        "HPQ"
-      ]
-    },
-    {
-      "headline": "GapのCEOは「コントロールできること」に集中",
-      "summary": "YouTubeの報道によると、Gap Inc.のCEOであるリチャード・ディクソン氏は、同社の第4四半期売上高と利益が市場予想をわずかに下回ったものの、これを「成功した四半期」と表現し、「素晴らしい変革ストーリー」があると強調しました。同社は二つの主要アパレルチェーンで不振を経験しましたが、経営陣はコスト削減、サプライチェーンの効率化、ブランド再構築といった「コントロール可能な要素」に焦点を当てる戦略を推進しています。ディクソンCEOのコメントは、厳しい小売環境下でも、内部努力によって業績改善を図るという決意を示しています。投資家は、Gapがどのようにしてブランド力を回復し、競争激化する市場で持続可能な成長を達成するか、今後の戦略の実行に注目しています。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 10,
-      "source": "youtube.com",
-      "url": "https://www.youtube.com/watch?v=Gv5SFRTWTfg",
-      "related_symbols": [
-        "GPS"
-      ]
-    },
-    {
-      "headline": "カルフール：ウォルマートのような企業、しかし配当利回りは7% ",
-      "summary": "シーキングアルファの分析によると、欧州小売大手Carrefourは、ウォルマートと比較されながらも、世界の同業他社と比較して著しく過小評価されており、フォワードPERは8.5倍、配当利回りは7.4%に達しています。同社は2025年に13億ユーロの堅調なフリーキャッシュフローを生成し、2026年から2028年の累積ネットフリーキャッシュフローで50億ユーロを目標としています。単一桁台の低い成長率と高めの地域リスクはあるものの、強固なバランスシートと、不動産資産、そして回復力のあるブランド力が投資根拠を支えています。この分析は、ウォルマートが監視銘柄であることから、大手小売セクター全体の健全性やバリュエーションを比較する上で重要な視点を提供し、Carrefourが魅力的な高配当銘柄である可能性を示唆しています。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 10,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879651-carrefour-like-walmart-but-with-a-7-percent-dividend-yield",
-      "related_symbols": [
-        "WMT"
-      ]
-    },
-    {
-      "headline": "Kroger株、史上最高値更新後も上昇を続ける可能性",
-      "summary": "マーケットビートの分析によると、Kroger（KR）の株価は、その質の高い事業運営が拡大し、豊富なフリーキャッシュフローを生成し続けることで、史上最高値を更新した後も上昇トレンドが継続する見込みです。同社は2025年に、通常の20億ドルの自社株買い承認に加え、加速型自社株買い（ASR）を実施し、年間平均で8.5%以上の株数を削減しました。この積極的な株主還元策は、経営陣の将来の業績に対する自信を反映しています。食料品小売業界は、インフレ圧力や消費者の購買習慣の変化といった課題に直面していますが、Krogerの効率的なサプライチェーン、プライベートブランドの強化、デジタル戦略の推進が、引き続き安定した収益とキャッシュフローを支え、株価を押し上げる要因となると分析されています。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 10,
-      "source": "marketbeat.com",
-      "url": "https://www.marketbeat.com/originals/why-kroger-stock-could-keep-climbing-even-after-record-highs/",
-      "related_symbols": [
-        "KR"
-      ]
-    },
-    {
-      "headline": "Burlington Storesの好調な年が株価を押し上げるはず。次に来るのは何か。",
-      "summary": "バロンズ誌の報道によると、ディスカウント小売大手Burlington Storesは、2025年に堅調な業績を達成し、株価を押し上げる可能性があります。市場は、同社が2026年に「より予測可能な既存店売上高成長」を達成できることに期待を寄せています。Burlington Storesは、オフプライスモデルにより、インフレ圧力下でも消費者の節約志向に応えることで競争優位性を維持しています。在庫管理の改善やサプライチェーンの最適化が、収益性の向上に貢献していると見られます。今後の課題は、消費環境の変化や競合他社の動向にどう対応し、持続的な成長を実現するかです。良好な業績見通しは、投資家心理を改善させ、株価のさらなる上昇を後押しする要因となるでしょう。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 10,
+      "headline": "Vertiv, Lumentum, Coherent, and EchoStar to Join S&P 500",
+      "summary": "The changes highlight the growing weight of technology and communications infrastructure in the U.S. market.",
+      "category": "【マーケット一般】",
+      "importance": 5,
       "source": "barrons.com",
-      "url": "https://www.barrons.com/articles/burlington-store-earnings-stock-b63edae5",
-      "related_symbols": [
-        "BURL"
-      ]
-    },
-    {
-      "headline": "元米国貿易代表ライトハイザー氏、トランプ・メディア取締役を辞任",
-      "summary": "ロイター通信の報道によると、元米国通商代表部のロバート・ライトハイザー氏が、ドナルド・トランプ前大統領が関与する「Trump Media & Technology Group」の取締役を辞任しました。ライトハイザー氏は、トランプ政権下で中国に対する強硬な貿易政策を主導したことで知られており、彼の辞任は、今後の米国貿易政策の方向性や、トランプ氏関連企業のガバナンスに対する市場の憶測を呼ぶ可能性があります。特に、トランプ氏が再び大統領選に出馬した場合、その経済・貿易顧問の動向は、国際貿易関係や関税政策に大きな影響を与えるため、投資家は慎重に注視しています。この辞任は、政治的な思惑や今後の政権交代シナリオに連動して、関連するセクターや企業の株価に影響を及ぼす可能性があります。",
-      "category": "【国際・地政学】",
-      "importance": 10,
-      "source": "reuters.com",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/former-us-trade-chief-lighthizer-resigns-trump-media-board-2026-03-06/",
+      "url": "https://www.barrons.com/articles/s-p500-vertiv-lumentum-coherent-echostar-88b3be5f",
       "related_symbols": []
     },
     {
-      "headline": "任天堂、米国政府を関税返還で提訴",
-      "summary": "テッククランチによると、任天堂は米国政府に対し、関税の払い戻しを求めて訴訟を提起しました。この訴訟は、ドナルド・トランプ前大統領が国際緊急経済権限法（IEEPA）を発動して課した関税に対して、任天堂が支払ったすべての関税の返還を求めるものです。米国最高裁判所が最近、トランプ氏がこの権限で課した広範な関税は違法であると判断したことを受けた動きです。この判決は、多くの輸入企業にとって数十億ドル規模の関税払い戻しの可能性を開くものであり、貿易政策の不確実性と企業経営への影響を改めて浮き彫りにしています。任天堂の訴訟は、他の企業も同様の行動を取る先例となる可能性があり、今後の米国貿易政策と企業のサプライチェーン戦略に大きな影響を与えるでしょう。",
-      "category": "【国際・地政学】",
-      "importance": 10,
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/",
+      "headline": "MU, LRCX, AMAT, GEV All Added to the S&P 100 As AI Stocks Gain Influence",
+      "summary": "It's the Super Bowl of index rebalancing tonight! The biggest news was the S&P 500 adding Vertiv (VRT), Lumentum (LITE), Coherent (COHR), and EchoStar (SATS).",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "247wallst.com",
+      "url": "https://247wallst.com/investing/2026/03/06/mu-lrcx-amat-gev-all-added-to-the-sp-100-as-ai-stocks-gain-influence/",
       "related_symbols": []
     },
     {
-      "headline": "イラン戦争の見通し向上でPalantir株が週次で15%急騰、Anthropicの懸念を打ち消す",
-      "summary": "CNBCの報道によると、イラン紛争の激化が防衛・情報関連ソフトウェア企業Palantir Technologiesの事業見通しを押し上げ、同社株は週次で15%上昇しました。Palantirは米国軍や情報機関と大規模な契約を結んでおり、地政学的緊張が高まる局面では、その技術への需要が増加するとの見方が広がっています。一方で、AIスタートアップのAnthropicとの競争に関する懸念は後退しました。この株価上昇は、戦争という悲劇的な出来事が特定のセクターや企業に予期せぬ恩恵をもたらすという市場の側面を浮き彫りにしています。投資家は、地政学的リスクが長期化する可能性を織り込み、防衛関連テクノロジー企業への関心を高めていると考えられます。",
-      "category": "【国際・地政学】",
-      "importance": 10,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
+      "headline": "ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Enphase Energy, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - ENPH",
+      "summary": "New York, New York--(Newsfile Corp. - March 6, 2026) - WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Enphase Energy, Inc. (NASDAQ: ENPH) between April 22, 2025 and October 28, 2025, inclusive (the \"Class Period\"), of the important April 20, 2026 lead plaintiff deadline. SO WHAT: If you purchased Enphase securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "newsfilecorp.com",
+      "url": "https://www.newsfilecorp.com/release/286591/ROSEN-GLOBAL-INVESTOR-COUNSEL-Encourages-Enphase-Energy-Inc.-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-ENPH",
       "related_symbols": []
     },
     {
-      "headline": "ジェレミー・シーゲル氏：イランに打開策がなければ原油は100ドルに達する可能性",
-      "summary": "ウォートン校の元教授でウィズダムツリーのチーフエコノミストであるジェレミー・シーゲル氏は、イラン情勢に打開策が見出されない場合、原油価格が1バレルあたり100ドルに達する可能性があると警告しました。CNBCの「Closing Bell」に出演したシーゲル氏は、中東紛争が世界の原油供給に与える影響の深刻さを強調しました。特にホルムズ海峡の閉鎖や供給途絶の懸念は、市場に強い買い圧力を生み出しています。原油価格の急騰は、世界的なインフレ圧力をさらに高め、中央銀行の金融政策に複雑な課題を突きつけます。シーゲル氏の見解は、地政学的リスクが世界経済に与える影響の大きさを再認識させ、エネルギー関連株やインフレヘッジ資産への関心を高める要因となります。",
-      "category": "【国際・地政学】",
-      "importance": 10,
-      "source": "youtube.com",
-      "url": "https://www.youtube.com/watch?v=YuwFU19JNK0",
+      "headline": "ROSEN, LEADING TRIAL ATTORNEYS, Encourages Corcept Therapeutics Incorporated to Secure Counsel Before Important Deadline in Securities Class Action - CORT",
+      "summary": "New York, New York--(Newsfile Corp. - March 6, 2026) - WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Corcept Therapeutics Incorporated (NASDAQ: CORT) between October 31, 2024 and December 30, 2025, inclusive (the \"Class Period\"), of the important April 21, 2026 lead plaintiff deadline. SO WHAT: If you purchased Corcept common stock during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "newsfilecorp.com",
+      "url": "https://www.newsfilecorp.com/release/286590/ROSEN-LEADING-TRIAL-ATTORNEYS-Encourages-Corcept-Therapeutics-Incorporated-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-CORT",
       "related_symbols": []
     },
     {
-      "headline": "米国原油価格、1985年以来最大の週次急騰を記録",
-      "summary": "2026年3月第一週、米国の原油価格は1985年以来となる週次での最大の上昇を記録しました。この急騰は、中東地域におけるイラン紛争の激化に直接関連しており、ホルムズ海峡を通る原油供給への懸念が市場に広範な影響を与えています。カタルエネルギー大臣の警告によれば、もしタンカーがホルムズ海峡を通過できなくなれば、原油価格は1バレルあたり150ドルに達し、「世界の経済を崩壊させる」可能性があると指摘されています。このような価格の急激な上昇は、ガソリン価格の押し上げを通じて消費者支出に打撃を与え、企業活動のコストを増大させるため、世界経済の成長見通しに対する深刻な逆風となります。エネルギー市場のボラティリティは、投資家のリスク回避姿勢を強めています。",
-      "category": "【国際・地政学】",
-      "importance": 10,
-      "source": "youtube.com",
-      "url": "https://www.youtube.com/shorts/SIpcdzy02Lo",
+      "headline": "XAI Octagon Floating Rate & Alternative Income Trust Announces 1-For-5 Reverse Stock Split and Effective Date",
+      "summary": "CHICAGO, March 06, 2026 (GLOBE NEWSWIRE) -- XAI Octagon Floating Rate & Alternative Income Trust (NYSE: XFLT) (the “Trust”) today announced that its Board of Trustees has approved the implementation of a 1-for-5 reverse stock split (the “Reverse Stock Split”) of the Trust's common shares of beneficial interest, par value $0.01 per share (the “Common Shares”).",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251361/0/en/XAI-Octagon-Floating-Rate-Alternative-Income-Trust-Announces-1-For-5-Reverse-Stock-Split-and-Effective-Date.html",
       "related_symbols": []
     },
     {
-      "headline": "グローバルな再軍備が防衛関連株と世界にもたらす意味",
-      "summary": "バロンズ誌の報道によると、米国、欧州、中国など世界中で軍事費が増加する「グローバルな再軍備」の動きが、防衛関連企業の成長を加速させ、今後数年間で製造業や雇用構造を再形成する可能性があります。地政学的緊張の高まり、特にイラン紛争のような地域紛争の激化は、各国の防衛力強化への投資意欲を刺激しています。これにより、防衛 contractorsや軍事技術開発企業は、受注増加や新技術開発の機会を得るでしょう。このトレンドは、経済活動の多角化を促進し、特定の産業クラスターの発展を促す一方で、世界のパワーバランスや国際関係に長期的な影響を与えることになります。投資家は、防衛セクター内の成長機会を評価しつつ、地政学的リスクの全体的な影響を考慮する必要があります。",
-      "category": "【国際・地政学】",
-      "importance": 10,
-      "source": "barrons.com",
-      "url": "https://www.barrons.com/articles/global-rearmament-defense-stocks-military-spending-d77965a1",
+      "headline": "ROSEN, NATIONAL TRIAL LAWYERS, Encourages PennyMac Financial Services, Inc. Investors to Inquire About Securities Class Action Investigation - PFSI",
+      "summary": "New York, New York--(Newsfile Corp. - March 6, 2026) - WHY: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of PennyMac Financial Services, Inc. (NYSE: PFSI) resulting from allegations that PennyMac may have issued materially misleading business information to the investing public. SO WHAT: If you purchased PennyMac securities you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "newsfilecorp.com",
+      "url": "https://www.newsfilecorp.com/release/286600/ROSEN-NATIONAL-TRIAL-LAWYERS-Encourages-PennyMac-Financial-Services-Inc.-Investors-to-Inquire-About-Securities-Class-Action-Investigation-PFSI",
       "related_symbols": []
     },
     {
-      "headline": "トランプ大統領、防衛企業のCEOらが「最高級兵器」の生産を4倍に増やすことに合意したと発表",
-      "summary": "CNBCの報道によると、ドナルド・トランプ大統領は、イランとの戦争が第一週を終える中、主要な防衛産業企業のCEOたちと会談し、彼らが「Exquisite Class」兵器の生産を4倍に増やすことに合意したとソーシャルメディアで発表しました。トランプ氏は、「我々は生産と生産スケジュールについて議論した」とし、「可能な限り迅速に最高レベルの量に到達したい」と述べました。この発言は、米国が地政学的緊張の高まりに対応するため、防衛力の強化を急いでいることを示しており、防衛関連企業には大きなビジネスチャンスをもたらします。しかし、急激な生産能力の拡大は、サプライチェーンへの圧力やコスト増といった課題も伴う可能性があります。この動きは、米国の国防戦略と経済の両面において、その後の広範な影響を及ぼすでしょう。",
-      "category": "【国際・地政学】",
-      "importance": 10,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html",
+      "headline": "Green Bridge Metals to Ship Titac Drill Core for Metallurgical Testing to Evaluate Titanium Dioxide Extraction Potential",
+      "summary": "Company Also Announces Renewal of IR Program VANCOUVER, BC / ACCESS Newswire / March 6, 2026 / Green Bridge Metals Corporation (CSE:GRBM)(OTCQB:GBMCF)(FWB:J48, WKN:A3EW4S) (\"Green Bridge\" or the \"Company\") announces that it plans to ship selected diamond drill core from its Titac Project in Minnesota to a Canadian laboratory to conduct metallurgical testing focused on evaluating potential extraction pathways for titanium dioxide (TiO2) from ilmenite mineralization using the chloride process. The Company is currently conducting a diamond drilling program at the Titac deposit designed to test copper mineralization associated with oxide ultramafic intrusions within the South Contact District of the Duluth Complex.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "accessnewswire.com",
+      "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/green-bridge-metals-to-ship-titac-drill-core-for-metallurgical-testing-to-evaluat-1144872",
       "related_symbols": []
     },
     {
-      "headline": "原油価格が35%も急騰：この流れに乗るか、それとも反落を狙うか？",
-      "summary": "ベンジンガによると、原油価格が週次で35%もの急騰を見せ、1バレル90ドルを超える心理的節目を突破したことで、トレーダーたちはこの上昇トレンドに乗るべきか、それとも反落を予想して売りに出るべきかという重大な判断に迫られています。この急騰は、イラン紛争の激化と中東情勢の不確実性が主要因であり、供給途絶への懸念が市場を支配しています。歴史的に見ても、地政学的イベントによる原油価格の急騰は短期的なものが多い一方で、サプライチェーンの構造的変化や需要の回復が重なると長期化する可能性もあります。投資家は、テクニカル分析とファンダメンタルズ分析の両面から、原油市場の次の動きを慎重に評価し、リスク管理を徹底する必要があります。",
-      "category": "【国際・地政学】",
-      "importance": 10,
-      "source": "benzinga.com",
-      "url": "https://www.benzinga.com/markets/commodities/26/03/51112599/oil-just-spiked-35-ride-it-or-fade-it",
+      "headline": "Law Offices of Howard G. Smith Encourages Eos Energy Enterprises (EOSE) Investors to Inquire About Securities Fraud Class Action",
+      "summary": "BENSALEM, Pa.--(BUSINESS WIRE)--Law Offices of Howard G. Smith announces that a class action lawsuit has been filed on behalf of investors who purchased Eos Energy Enterprises (“Eos Energy” or the “Company”) (NASDAQ: EOSE) securities between November 5, 2025 and February 26, 2026, inclusive (the “Class Period”). Eos Energy investors have until May 5, 2026 to file a lead plaintiff motion. IF YOU ARE AN INVESTOR WHO SUFFERED A LOSS IN EOS ENERGY ENTERPRISES (EOSE), CONTACT THE LAW OFFICES OF HOWA.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "businesswire.com",
+      "url": "https://www.businesswire.com/news/home/20260306552999/en/Law-Offices-of-Howard-G.-Smith-Encourages-Eos-Energy-Enterprises-EOSE-Investors-to-Inquire-About-Securities-Fraud-Class-Action/",
       "related_symbols": []
     },
     {
-      "headline": "イラン紛争の拡大で防衛技術株が人気取引に",
-      "summary": "マーケットウォッチの報道によると、イラン紛争が拡大し地政学的リスクが高まる中、サイバーセキュリティや人工知能（AI）に関連する防衛技術株が、今週の株式市場で特に好調な取引を見せています。通常、市場の不安定期には安全資産とされるセクターよりも、これらの技術株が顕著な強さを示しました。紛争の性質がデジタル領域にも拡大していることを背景に、政府や企業はサイバー防衛能力の強化を急いでおり、関連技術を提供する企業への投資が加速しています。このトレンドは、現代の戦争が従来の物理的領域だけでなく、デジタル領域においても技術革新を駆動する要因となっていることを示唆しており、防衛技術セクターの長期的な成長見通しを再評価する動きにつながっています。",
-      "category": "【国際・地政学】",
-      "importance": 10,
-      "source": "marketwatch.com",
-      "url": "https://www.marketwatch.com/story/defense-tech-stocks-are-the-hot-trade-as-iran-conflict-widens-c8a5951c",
-      "related_symbols": []
-    },
-    {
-      "headline": "イラン紛争が市場に本当に意味すること",
-      "summary": "バロンズ誌の分析によると、イランでの紛争は、インフレと金利から株式市場の再編、連邦財政赤字に至るまで、広範な財政的影響を及ぼす可能性があります。中東情勢の緊迫化は、世界のエネルギー供給に直接的な脅威を与え、原油価格の急騰を通じてインフレ圧力を強めるでしょう。これにより、FRBは利上げの選択肢を再検討するか、利下げを遅らせる可能性があります。また、紛争による市場のボラティリティは、投資家のリスク選好度を変化させ、株式市場内の資金シフトを促すでしょう。防衛関連株やエネルギー株が恩恵を受ける一方で、高成長株や消費関連株は圧迫されるかもしれません。政府の防衛支出の増加は、財政赤字を拡大させ、長期的な金利上昇要因となる可能性も指摘されています。",
-      "category": "【国際・地政学】",
-      "importance": 10,
-      "source": "barrons.com",
-      "url": "https://www.barrons.com/articles/iran-war-stock-market-4d8cbcfb",
+      "headline": "Gold struggles to hold safe-haven bid but geopolitical uncertainty continues to support prices",
+      "summary": "Neils Christensen has a diploma in journalism from Lethbridge College and has more than a decade of reporting experience working for news organizations throughout Canada. His experiences include covering territorial and federal politics in Nunavut, Canada.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "kitco.com",
+      "url": "https://www.kitco.com/news/article/2026-03-06/gold-struggles-hold-safe-haven-bid-geopolitical-uncertainty-continues",
       "related_symbols": []
     }
   ],
