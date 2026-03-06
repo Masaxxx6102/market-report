@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06 14:43:42",
+  "last_updated": "2026-03-06 15:03:21",
   "quotes": {
     "NVDA": {
       "symbol": "NVDA",
@@ -235,24 +235,24 @@
     "7203.T": {
       "symbol": "7203.T",
       "name": "トヨタ自動車",
-      "price": 3528.0,
-      "change": 47.0,
-      "changesPercentage": 1.350186727951738,
+      "price": 3529.0,
+      "change": 48.0,
+      "changesPercentage": 1.3789141051422005,
       "previousClose": 3481.0,
       "yearStart": 3399.0,
-      "ytdChange": 129.0,
-      "ytdChangePercentage": 3.795233892321271
+      "ytdChange": 130.0,
+      "ytdChangePercentage": 3.824654310091203
     },
     "8306.T": {
       "symbol": "8306.T",
       "name": "三菱UFJフィナンシャルG",
-      "price": 2747.5,
-      "change": 12.5,
-      "changesPercentage": 0.4570383912248629,
+      "price": 2750.0,
+      "change": 15.0,
+      "changesPercentage": 0.5484460694698354,
       "previousClose": 2735.0,
       "yearStart": 2545.0,
-      "ytdChange": 202.5,
-      "ytdChangePercentage": 7.956777996070727
+      "ytdChange": 205.0,
+      "ytdChangePercentage": 8.055009823182711
     },
     "6758.T": {
       "symbol": "6758.T",
@@ -279,189 +279,189 @@
     "6861.T": {
       "symbol": "6861.T",
       "name": "キーエンス",
-      "price": 61700.0,
-      "change": 390.0,
-      "changesPercentage": 0.6361115641820259,
+      "price": 61710.0,
+      "change": 400.0,
+      "changesPercentage": 0.65242211710977,
       "previousClose": 61310.0,
       "yearStart": 57180.0,
-      "ytdChange": 4520.0,
-      "ytdChangePercentage": 7.904861839804127
+      "ytdChange": 4530.0,
+      "ytdChangePercentage": 7.9223504721930755
     },
     "9984.T": {
       "symbol": "9984.T",
       "name": "ソフトバンクグループ",
-      "price": 3918.0,
-      "change": 54.0,
-      "changesPercentage": 1.3975155279503106,
+      "price": 3927.0,
+      "change": 63.0,
+      "changesPercentage": 1.6304347826086956,
       "previousClose": 3864.0,
       "yearStart": 4615.0,
-      "ytdChange": -697.0,
-      "ytdChangePercentage": -15.102925243770315
+      "ytdChange": -688.0,
+      "ytdChangePercentage": -14.907908992416036
     },
     "8058.T": {
       "symbol": "8058.T",
       "name": "三菱商事",
-      "price": 5047.0,
-      "change": -67.0,
-      "changesPercentage": -1.3101290574892452,
+      "price": 5060.0,
+      "change": -54.0,
+      "changesPercentage": -1.0559249120062575,
       "previousClose": 5114.0,
       "yearStart": 3653.0,
-      "ytdChange": 1394.0,
-      "ytdChangePercentage": 38.16041609635916
+      "ytdChange": 1407.0,
+      "ytdChangePercentage": 38.51628798248015
     },
     "8316.T": {
       "symbol": "8316.T",
       "name": "三井住友フィナンシャルG",
-      "price": 5394.0,
-      "change": 2.0,
-      "changesPercentage": 0.0370919881305638,
+      "price": 5396.0,
+      "change": 4.0,
+      "changesPercentage": 0.0741839762611276,
       "previousClose": 5392.0,
       "yearStart": 5183.0,
-      "ytdChange": 211.0,
-      "ytdChangePercentage": 4.071001350569168
+      "ytdChange": 213.0,
+      "ytdChangePercentage": 4.10958904109589
     },
     "4063.T": {
       "symbol": "4063.T",
       "name": "信越化学工業",
-      "price": 6249.0,
-      "change": 23.0,
-      "changesPercentage": 0.3694185672984259,
+      "price": 6250.0,
+      "change": 24.0,
+      "changesPercentage": 0.38548024413748794,
       "previousClose": 6226.0,
       "yearStart": 4944.0,
-      "ytdChange": 1305.0,
-      "ytdChangePercentage": 26.39563106796117
+      "ytdChange": 1306.0,
+      "ytdChangePercentage": 26.415857605177994
     },
     "8035.T": {
       "symbol": "8035.T",
       "name": "東京エレクトロン",
-      "price": 41850.0,
-      "change": 130.0,
-      "changesPercentage": 0.31160115052732507,
+      "price": 41830.0,
+      "change": 110.0,
+      "changesPercentage": 0.2636625119846596,
       "previousClose": 41720.0,
       "yearStart": 36930.0,
-      "ytdChange": 4920.0,
-      "ytdChangePercentage": 13.322502030869213
+      "ytdChange": 4900.0,
+      "ytdChangePercentage": 13.268345518548605
     },
     "6501.T": {
       "symbol": "6501.T",
       "name": "日立製作所",
-      "price": 4809.0,
-      "change": -51.0,
-      "changesPercentage": -1.0493827160493827,
+      "price": 4823.0,
+      "change": -37.0,
+      "changesPercentage": -0.7613168724279836,
       "previousClose": 4860.0,
       "yearStart": 5068.0,
-      "ytdChange": -259.0,
-      "ytdChangePercentage": -5.110497237569061
+      "ytdChange": -245.0,
+      "ytdChangePercentage": -4.834254143646409
     },
     "8411.T": {
       "symbol": "8411.T",
       "name": "みずほフィナンシャルG",
-      "price": 6535.0,
-      "change": 25.0,
-      "changesPercentage": 0.38402457757296465,
+      "price": 6539.0,
+      "change": 29.0,
+      "changesPercentage": 0.44546850998463905,
       "previousClose": 6510.0,
       "yearStart": 5874.0,
-      "ytdChange": 661.0,
-      "ytdChangePercentage": 11.252979230507322
+      "ytdChange": 665.0,
+      "ytdChangePercentage": 11.3210759278175
     },
     "7974.T": {
       "symbol": "7974.T",
       "name": "任天堂",
-      "price": 8702.0,
-      "change": 125.0,
-      "changesPercentage": 1.4573860324122654,
+      "price": 8707.0,
+      "change": 130.0,
+      "changesPercentage": 1.515681473708756,
       "previousClose": 8577.0,
       "yearStart": 10650.0,
-      "ytdChange": -1948.0,
-      "ytdChangePercentage": -18.291079812206572
+      "ytdChange": -1943.0,
+      "ytdChangePercentage": -18.24413145539906
     },
     "4502.T": {
       "symbol": "4502.T",
       "name": "武田薬品工業",
-      "price": 5670.0,
-      "change": 39.0,
-      "changesPercentage": 0.6925945657964837,
+      "price": 5673.0,
+      "change": 42.0,
+      "changesPercentage": 0.7458710708577517,
       "previousClose": 5631.0,
       "yearStart": 4916.0,
-      "ytdChange": 754.0,
-      "ytdChangePercentage": 15.33767290480065
+      "ytdChange": 757.0,
+      "ytdChangePercentage": 15.398698128559804
     },
     "4568.T": {
       "symbol": "4568.T",
       "name": "第一三共",
-      "price": 2878.0,
-      "change": 34.0,
-      "changesPercentage": 1.1954992967651195,
+      "price": 2877.5,
+      "change": 33.5,
+      "changesPercentage": 1.1779184247538679,
       "previousClose": 2844.0,
       "yearStart": 3530.0,
-      "ytdChange": -652.0,
-      "ytdChangePercentage": -18.47025495750708
+      "ytdChange": -652.5,
+      "ytdChangePercentage": -18.48441926345609
     },
     "6098.T": {
       "symbol": "6098.T",
       "name": "リクルートHD",
-      "price": 7010.0,
-      "change": 85.0,
-      "changesPercentage": 1.227436823104693,
+      "price": 6990.0,
+      "change": 65.0,
+      "changesPercentage": 0.9386281588447654,
       "previousClose": 6925.0,
       "yearStart": 9020.0,
-      "ytdChange": -2010.0,
-      "ytdChangePercentage": -22.283813747228383
+      "ytdChange": -2030.0,
+      "ytdChangePercentage": -22.505543237250556
     },
     "7267.T": {
       "symbol": "7267.T",
       "name": "本田技研工業",
-      "price": 1455.0,
-      "change": 23.5,
-      "changesPercentage": 1.6416346489696123,
+      "price": 1455.5,
+      "change": 24.0,
+      "changesPercentage": 1.6765630457562,
       "previousClose": 1431.5,
       "yearStart": 1558.0,
-      "ytdChange": -103.0,
-      "ytdChangePercentage": -6.611039794608472
+      "ytdChange": -102.5,
+      "ytdChangePercentage": -6.578947368421052
     },
     "8001.T": {
       "symbol": "8001.T",
       "name": "伊藤忠商事",
-      "price": 2087.0,
-      "change": -21.5,
-      "changesPercentage": -1.0196822385582167,
+      "price": 2093.0,
+      "change": -15.5,
+      "changesPercentage": -0.7351197533791795,
       "previousClose": 2108.5,
       "yearStart": 1999.5,
-      "ytdChange": 87.5,
-      "ytdChangePercentage": 4.3760940235058765
+      "ytdChange": 93.5,
+      "ytdChangePercentage": 4.6761690422605655
     },
     "9433.T": {
       "symbol": "9433.T",
       "name": "KDDI",
-      "price": 2670.5,
-      "change": -8.5,
-      "changesPercentage": -0.3172825681224338,
+      "price": 2667.0,
+      "change": -12.0,
+      "changesPercentage": -0.4479283314669653,
       "previousClose": 2679.0,
       "yearStart": 2733.5,
-      "ytdChange": -63.0,
-      "ytdChangePercentage": -2.3047375160051216
+      "ytdChange": -66.5,
+      "ytdChangePercentage": -2.4327784891165174
     },
     "9983.T": {
       "symbol": "9983.T",
       "name": "ファーストリテイリング",
-      "price": 65400.0,
-      "change": 1040.0,
-      "changesPercentage": 1.6159105034182724,
+      "price": 65230.0,
+      "change": 870.0,
+      "changesPercentage": 1.3517712865133624,
       "previousClose": 64360.0,
       "yearStart": 56951.921875,
-      "ytdChange": 8448.078125,
-      "ytdChangePercentage": 14.833701562419838
+      "ytdChange": 8278.078125,
+      "ytdChangePercentage": 14.5352041730374
     },
     "^N225": {
       "symbol": "^N225",
       "name": "日経平均",
-      "price": 55523.1015625,
-      "change": 245.04296875,
-      "changesPercentage": 0.4432915608539583,
+      "price": 55512.19140625,
+      "change": 234.1328125,
+      "changesPercentage": 0.4235546950385703,
       "previousClose": 55278.05859375,
       "yearStart": 51832.80078125,
-      "ytdChange": 3690.30078125,
-      "ytdChangePercentage": 7.1196244957400205
+      "ytdChange": 3679.390625,
+      "ytdChangePercentage": 7.098575746520305
     },
     "^DJI": {
       "symbol": "^DJI",
@@ -521,326 +521,331 @@
   },
   "news": [
     {
-      "headline": "【マクロ経済】FRBのカシュカリ総裁、イラン情勢によるインフレへの影響は現時点で判断困難と発言",
-      "summary": "ミネアポリス連邦準備銀行のカシュカリ総裁は、イランとの紛争が米国のインフレ見通しに与える影響について、現時点では判断するには時期尚早であるとの見解を示した。カシュカリ氏は従来、年内に1回の利下げを想定していたが、中東における地政学的緊張の激化により、今後のデータ収集が不可欠であると強調した。市場関係者は、エネルギー価格の変動が消費者物価指数（CPI）に与える波及効果を懸念しており、FRBの今後の金融政策運営がよりデータ依存型になることを示唆している。この発言は、不透明な情勢下での利下げ経路に対する慎重な姿勢を反映しており、市場のボラティリティを抑制するためのメッセージと受け取れる。",
+      "headline": "【マクロ】FRB、中東紛争に伴うインフレ懸念で金利見通しに不透明感",
+      "summary": "ミネアポリス連銀のカシュカリ総裁は、米国とイランの紛争激化を受け、今年の利下げ見通しを再考する必要があると警告した。かつてのロシアによるウクライナ侵攻後の供給ショックを例に挙げ、「トランジトリー（一時的）」なインフレ懸念が再燃することを強く警戒している。市場では依然として利下げを織り込む動きがあるものの、地政学的リスクによるエネルギー価格の高騰がインフレ率を押し上げる可能性があり、FRBはデータ依存の姿勢を強めざるを得ない状況だ。政策金利のパスに対する不確実性が、債券市場および株式市場のボラティリティを一段と高めている。",
       "category": "【マクロ経済・金融政策】",
       "importance": 10,
       "source": "wsj.com",
-      "url": "https://www.wsj.com/economy/central-banking/kashkari-says-too-soon-to-know-inflation-impact-from-middle-east-conflict-a5603d10",
+      "url": "https://www.wsj.com/economy/central-banking/kashkari-says-fed-can-sit-tight-as-war-clouds-the-outlook-fa3c53b9",
       "related_symbols": []
     },
     {
-      "headline": "【マクロ経済】米2月のADP雇用報告、民間雇用者数は6.3万人増で予想を上回る",
-      "summary": "ADPが発表した2月の民間雇用統計によると、雇用者数は6.3万人増となり、市場予想および前月（1.1万人増に下方修正）を上回る結果となった。この数字は労働市場が底堅いことを示しているが、依然として景気減速の影響下にあることを物語っている。特にサービス業での雇用維持が目立ち、労働市場の「冷え込み」が過度なものにはなっていないとの見方が浮上した。市場はこれを金利政策への影響という観点から注視しており、労働市場の動向がFRBの利下げ判断を左右する重要な指標となる。雇用環境の安定は消費を支える要因だが、同時にインフレ圧力の再燃リスクも孕んでおり、今後の雇用関連指標全体に対する注目度が一段と高まっている。",
+      "headline": "【マクロ】米財務長官、15%の世界的関税を今週導入へ",
+      "summary": "スコット・ベッセント米財務長官は、ドナルド・トランプ大統領が発表した15%の世界的関税が今週にも施行される見通しであることを明らかにした。先月の最高裁による一部関税措置の無効化を受け、市場は関税政策の混乱に直面していたが、政権は早期の政策再導入を急いでいる。ベッセント長官は、今後5か月以内に米国の関税率が以前の水準に戻る可能性を示唆したが、保護主義的な政策の継続はサプライチェーンや物価動向に大きな影響を与える。企業にとっては、コスト増と不確実性の高まりという二重の逆風が避けられない状況が続いている。",
       "category": "【マクロ経済・金融政策】",
       "importance": 9,
-      "source": "foxbusiness.com",
-      "url": "https://www.foxbusiness.com/economy/private-sector-added-63000-jobs-february-above-expectations-adp-says",
-      "related_symbols": []
-    },
-    {
-      "headline": "【マクロ経済】米国の関税政策を巡り、州司法長官らが提訴　最高裁の判断との矛盾を指摘",
-      "summary": "ニューヨーク州のジェームズ司法長官を中心とする複数の州のグループが、トランプ政権による新たな関税措置の差し止めを求めて提訴した。原告側は、大統領による一方的な関税導入は憲法および関連法令の逸脱であり、最高裁の判決に反するものだと主張している。この法廷闘争は、米国内のインフレ圧力やサプライチェーンの混乱を招く関税政策に対し、法的なブレーキをかけようとする動きであり、企業の経営判断に直接的な影響を及ぼしている。市場は、この法的混乱がどの程度長期化するか、また輸出入コストの将来予測にどのような不確実性をもたらすかを注視しており、今後の司法判断が企業収益の回復見通しを左右する重要な鍵となる。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 9,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/03/05/trump-tariffs-state-ags-sue-supreme-court-decision.html",
-      "related_symbols": []
-    },
-    {
-      "headline": "【マクロ経済】FRBのミラン理事、中東情勢に関わらず利下げの継続は妥当と主張",
-      "summary": "FRBのミラン理事は、中東地域での紛争が激化している現状においても、金融政策として利下げを継続することが依然として妥当であるとの見解を示した。紛争に伴うエネルギー価格の上昇による供給側のショックは懸念されるものの、米国内のインフレ抑制基調を重視する立場である。市場は、FRB内の利下げに対する姿勢の割れを鋭く分析しており、カシュカリ総裁らの慎重姿勢との対比が焦点となっている。利下げは株式市場の評価（マルチプル）を支える主要因であるが、地政学リスクが高まる中で、FRBがどのように「利下げと景気抑制」のバランスをとるのか、投資家は不確実性に直面している。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 8,
-      "source": "youtube.com",
-      "url": "https://www.youtube.com/watch?v=16CWqo7etSA",
-      "related_symbols": []
-    },
-    {
-      "headline": "【マクロ経済】米サービス業景況指数が3年半ぶりの高水準に、経済の底堅さを裏付け",
-      "summary": "ISMが発表した2月のサービス部門景況指数は56.1へと上昇し、過去3年半で最も高い水準に達した。新規受注や売上の拡大が全体を押し上げ、冬の悪天候の影響を跳ね返すほどの経済成長の強さを示している。この指標は米国経済の大部分を占めるサービス業が堅調であることを裏付けており、懸念されていた「ソフトランディング」から「ノーランディング」への期待感も一部で囁かれている。ただし、この好調さがインフレを再燃させ、金融政策の引き締め姿勢を長引かせるのではないかという逆説的な懸念も同時に市場を駆け巡っている。投資家にとっては、強すぎる経済データは利下げ観測を後退させるリスク要素として慎重に分析されている。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 8,
-      "source": "marketwatch.com",
-      "url": "https://www.marketwatch.com/story/u-s-economy-gets-off-to-choppy-start-in-2026-the-fed-finds-heres-the-good-and-bad-news-29a35f12",
-      "related_symbols": []
-    },
-    {
-      "headline": "【マクロ経済】米国のレイオフ通知、2月は前月比で大幅減少",
-      "summary": "2月の米国のレイオフ（一時解雇）発表数が前月の高い水準から55%減の約4.8万件となった。年初の雇用削減の波が一時的なものである可能性を示唆しており、労働市場の安定化を示すポジティブな兆候と見られている。企業がコスト削減のために人員を削減する一方で、中核となる人材の流出は避けたいという意図が透けて見える。この雇用情勢の改善は、過度な景気後退への懸念を一時的に和らげ、企業の将来的な収益見通しを支える材料となる。しかし、依然として地政学リスクやインフレ再燃の可能性が残る中、投資家は労働市場の力強さが一時的なものか構造的なものかを見極めるため、引き続き慎重な投資判断を迫られている。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 8,
-      "source": "foxbusiness.com",
-      "url": "https://www.foxbusiness.com/economy/us-layoff-announcements-ease-february-after-elevated-cuts-prior-month",
-      "related_symbols": []
-    },
-    {
-      "headline": "【マクロ経済】米国の企業が利下げ時期を注視、労働市場の現状把握へ",
-      "summary": "最新のFRBベージュブックによると、米国の多くの地域で経済は抑制されたペースで成長している。特に低所得者層による消費の伸び悩みや、不確実性による企業の投資判断の慎重化が浮き彫りになった。同時に、AI導入が効率化を支えているものの、労働力を代替するのではなく、生産性向上に寄与しているという興味深い側面も報告された。投資家にとってベージュブックは、米経済の実態を俯瞰するための重要なツールであり、今回の報告書が示す「景気は底堅いが不確実性が高い」という結論は、市場のボラティリティが高い現状と整合している。FRBがこのデータを元に、今後どのような利下げペースを選択するのかに注目が集まる。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 7,
-      "source": "pymnts.com",
-      "url": "https://www.pymnts.com/economy/2026/fed-data-shows-labor-economy-anchoring-consumer-spending/",
-      "related_symbols": []
-    },
-    {
-      "headline": "【マクロ経済】トランプ次期政権の関税政策で、インフレリスクが再評価される動き",
-      "summary": "トランプ次期政権の関税政策が改めて市場の注目を集めている。財務省のベサント長官は、グローバルな関税率が近日中に引き上げられ、今後数ヶ月で以前の水準に戻ると予測している。この政策転換は、企業に輸入コスト増と価格転嫁を迫るものであり、インフレ率に上昇圧力をかけることが懸念される。債券市場では、インフレ期待の再燃により長期金利が上昇傾向にあり、株式市場にとっては評価の重石となる可能性がある。特に小売や製造業などの関税の影響を受けやすいセクターにおいて、利益率の低下が懸念されており、投資家は関税の具体的な影響範囲を詳細に分析するよう求められている。",
-      "category": "【マクロ経済・金融政策】",
-      "importance": 7,
       "source": "nytimes.com",
       "url": "https://www.nytimes.com/2026/03/04/business/economy/bessent-trump-tariffs-15-percent.html",
       "related_symbols": []
     },
     {
-      "headline": "【マクロ経済】OECDが警告、インフレが債券市場の大きなストレステストになる",
-      "summary": "OECDの幹部は、世界的な債券市場が歴史的なストレスに直面しており、その最大のリスクがインフレであると警告した。中東情勢の悪化によるエネルギー価格の急騰が、サプライチェーンを通じて広範囲な物価上昇を招いていることが背景にある。債券利回りの上昇は企業の借入コストを増加させ、特に負債水準の高い企業にとって収益の圧迫要因となる。投資家は、インフレと金利上昇というダブルの向かい風の中で、債券ポートフォリオの再編を検討せざるを得ない状況に追い込まれている。この状況は、金融市場全体のリスクプレミアムを強制的に見直させる契機となっており、今後の経済データの重要性が増している。",
+      "headline": "【マクロ】2月のADP雇用報告、6.3万人増で予想を上回る",
+      "summary": "ADPが発表した2月の民間雇用者数は6.3万人増となり、市場予想および前月（改定値1.1万人増）を上回る結果となった。労働市場の冷え込みが懸念されていた中、雇用者数の増加は経済の一定の底堅さを示唆している。しかし、依然として歴史的に見れば低水準の伸びであり、金曜日に控える非農業部門雇用者数（NFP）に対する注目度は極めて高い。労働市場の緩やかな減速はFRBのインフレ抑制に寄与する可能性がある一方、雇用情勢の悪化が個人消費に及ぼす影響は、企業の決算にも直接的なリスクとして波及する可能性がある。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 9,
+      "source": "wsj.com",
+      "url": "https://www.wsj.com/economy/jobs/private-sector-hiring-solid-last-month-adp-data-show-38f4f668",
+      "related_symbols": []
+    },
+    {
+      "headline": "【マクロ】米製造業・サービス業のISM景況感指数が示す経済の底堅さ",
+      "summary": "米供給管理協会（ISM）が発表した2月のサービス業景況感指数は56.1となり、市場予想を上回る堅調さを示した。高関税や地政学的リスクという逆風があるものの、サービスセクターを中心に経済が適度な成長を維持していることが確認された。この「ゴールドロック」的な経済データは、極端な景気後退懸念を一時的に和らげる材料となっている。しかし、足元の強い経済活動がインフレの粘着性を高める懸念もあり、FRBの今後の金利政策決定において、タカ派とハト派の議論がさらに激化することが予想される。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 8,
+      "source": "wsj.com",
+      "url": "https://www.wsj.com/economy/u-s-services-sector-activity-continues-to-rise-in-february-1c821b38",
+      "related_symbols": []
+    },
+    {
+      "headline": "【マクロ】元ゴールドマンCEO、プライベートクレジットの「2008年危機再来」を警告",
+      "summary": "元ゴールドマン・サックスCEOのロイド・ブランクフェイン氏は、急速に拡大するプライベートクレジット市場に対して警鐘を鳴らした。現在の同市場は、2008年の金融危機前夜の状況と酷似しており、特に個人投資家や小規模な貸し手にとってリスクが過小評価されていると指摘している。2兆ドル規模に達する市場での信用不安は、特定の企業だけでなく、金融システム全体への連鎖的な衝撃を招く恐れがある。市場関係者は、AIによる産業構造転換と合わせて、この隠れた「信用バブル」の崩壊が次なる危機を引き起こさないか注視する必要がある。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 9,
+      "source": "nypost.com",
+      "url": "https://nypost.com/2026/03/03/business/lloyd-blankfein-sounds-alarm-on-private-credit-warning-it-smells-like-2008/",
+      "related_symbols": []
+    },
+    {
+      "headline": "【マクロ】FRB、ウェルズ・ファーゴに対する制裁措置を終了",
+      "summary": "米連邦準備制度理事会（FRB）は、ウェルズ・ファーゴに対して課していた長年の制裁措置を終了すると発表した。これは過去の口座不正作成スキャンダルに端を発するものであり、同社が業務体制の抜本的な改善を完了したと判断された。金融大手に対する監視緩和は、銀行セクター全体の規制緩和期待につながる可能性がある。一方で、市場では依然として高金利環境下での預金獲得競争や信用コストの上昇が重石となっており、今回の制裁終了が即座に株価の爆発的な上昇要因となるかは不透明な情勢だ。",
       "category": "【マクロ経済・金融政策】",
       "importance": 7,
+      "source": "reuters.com",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/fed-terminates-enforcement-action-imposed-wells-fargo-due-fake-accounts-scandal-2026-03-05/",
+      "related_symbols": []
+    },
+    {
+      "headline": "【マクロ】OECD公式、インフレが債券市場の「ストレステスト」になると言及",
+      "summary": "OECDの幹部は、世界的なインフレが債券市場にとって重大な試練になると警鐘を鳴らした。特にイラン紛争に伴うエネルギー価格の上昇は、コストプッシュ型インフレを誘発し、債券利回りの上昇を加速させる要因となる。現在、投資家は低金利環境からの脱却と持続的なインフレの板挟みになっており、各国中央銀行が引き締めを長期化させるリスクが高まっている。債券市場の流動性枯渇と利回り上昇は、株式市場のバリュエーション全体を圧迫し、投資家に対してポートフォリオの再編を強いることになりそうだ。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 8,
       "source": "reuters.com",
       "url": "https://www.reuters.com/sustainability/climate-energy/inflation-biggest-risk-debt-markets-facing-big-stress-test-oecd-official-says-2026-03-04/",
       "related_symbols": []
     },
     {
-      "headline": "【マクロ経済】米国の銀行、流動性ルールを巡る規制緩和の可能性",
-      "summary": "米国財務省および銀行規制当局は、銀行の流動性ルールを包括的に見直す方針を示した。現行の厳しい流動性規制が、実体経済への融資を妨げているという業界からの批判を受けてのものだ。この動きは、銀行の資本活用を柔軟にすることで、企業の資金調達を促進することを狙っているが、一方で金融システム全体の安全性に対する懸念も残る。金融セクターの投資家にとっては、利益率向上のためのプラス要因として歓迎される一方で、将来的な金融危機の再燃を警戒する声もある。今後の規制見直しの詳細が、金融機関の貸借対照表の健全性にどう影響するかが今後の投資判断のポイントとなる。",
+      "headline": "【マクロ】米国債利回りが4％台へ上昇、エネルギー価格が重石に",
+      "summary": "米10年債利回りが再び4％の大台を超えて上昇した。イラン紛争による原油高騰がインフレ期待を刺激し、市場の利下げ観測を後退させていることが背景にある。債券市場の売却は、株式市場にとって負の相関関係を持つため、テクノロジー株や高配当銘柄への資金流入を抑制している。市場関係者は、紛争の長期化による物流コストの増大と賃金上昇圧力の両方を懸念しており、イールドカーブのスティープ化が進む可能性がある。金融政策の舵取りを難しくするこれらの一連の事象は、投資家にとって警戒すべき主要なシグナルである。",
       "category": "【マクロ経済・金融政策】",
-      "importance": 6,
-      "source": "reuters.com",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/us-treasury-vows-fresh-look-bank-liquidity-rules-2026-03-03/",
-      "related_symbols": []
-    },
-    {
-      "headline": "【メガキャップ・ムーブメント】ソフトバンク、OpenAIへの投資資金として400億ドルの融資を検討中との報道",
-      "summary": "ソフトバンクグループが、AI分野のリーダーであるOpenAIへの戦略的投資を資金供給するため、最大400億ドルの融資を求めていると報道された。この大規模な資金調達は、AIインフラへの投資を加速させるという同社の明確な意志を示している。OpenAIの市場価値向上と生成AIの需要拡大を見据えた、極めて強気な賭けと言える。投資家は、ソフトバンクのバランスシートのレバレッジリスクを懸念しつつも、AI革命の勝者を支援する同社の戦略的優位性を高く評価している。メガキャップ銘柄の投資動向が市場全体のSentimentを左右する中、このニュースはAI関連銘柄のバリュエーションを改めて引き上げる触媒となる可能性がある。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 10,
-      "source": "reuters.com",
-      "url": "https://www.reuters.com/business/media-telecom/softbank-seeks-up-40-billion-loan-finance-openai-investment-bloomberg-news-2026-03-06/",
-      "related_symbols": [
-        "MSFT",
-        "GOOG",
-        "GOOGL"
-      ]
-    },
-    {
-      "headline": "【メガキャップ・ムーブメント】セールスフォース、強力なキャッシュフローと500億ドルの自社株買いを発表",
-      "summary": "セールスフォースは第4四半期決算で強力な業績を示し、エージェントAI分野での勢いと前年比12%の収益成長を達成した。注目すべきは、53億ドルのフリーキャッシュフローを創出しただけでなく、時価総額の約28%に相当する500億ドル規模の自社株買いプログラムを発表したことである。これにより、市場における同社のバリュエーションに対する信認が回復している。AIによる混乱を恐れる市場の声に対し、経営陣は圧倒的なキャッシュ創出力で回答した形となった。今後も高い成長見通しを維持できるかが焦点だが、この株主還元策は同社を長期投資の対象として再定義する可能性がある。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 9,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879302-salesforce-stock-ai-disruption-fears-create-mispricing",
-      "related_symbols": [
-        "MSFT",
-        "AMZN"
-      ]
-    },
-    {
-      "headline": "【メガキャップ・ムーブメント】コストコ、デジタル戦略の奏功でオンライン売上が22.6%急増",
-      "summary": "コストコのロバート・バクリスCEOは、同社のデジタルイニシアチブが店頭とオンラインの両面で高い成果を上げていることを確認した。特にオンライン売上は22.6%の急増を記録しており、会員体験のシームレス化が進んでいる。コストコは伝統的な倉庫型小売の強みに加え、デジタル統合という新たな成長エンジンを手に入れたことで、激化する小売市場での優位性を固めている。投資家は、コストコの会員維持率と高い収益モデルを評価し続けているが、オンライン成長が既存店舗の客単価をどう変化させるかが今後の注目点である。デジタル時代の勝者として同社の地位はより強固なものとなっている。",
-      "category": "【メガキャップ・ムーブメント】",
       "importance": 8,
-      "source": "pymnts.com",
-      "url": "https://www.pymnts.com/news/retail/2026/costco-digital-innovations-fuel-22-6-online-growth/",
-      "related_symbols": [
-        "WMT",
-        "AMZN"
-      ]
-    },
-    {
-      "headline": "【メガキャップ・ムーブメント】NVIDIA、現在の株価は過去1年で最も割安水準との指摘",
-      "summary": "NVIDIAの株価がこの1年で最も魅力的なバリュエーション水準にあるとの分析が報じられている。一時的な要因による収益メトリクスの変動を調整すれば、フォワード益益（Forward P/E）ベースで見た割安感は明らかだ。市場の短期的なボラティリティにより売られたものの、AIインフラの需要という構造的な追い風は依然として強固である。投資家は、今後の業績ガイダンスが市場の期待に応えられるかを確認したいと考えており、現在の下落局面は中長期的なエントリー機会として捉えられている。GPU市場の独占に近い強みを考えると、調整局面での押し目買い需要は依然として根強い。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 8,
-      "source": "fool.com",
-      "url": "https://www.fool.com/investing/2026/03/05/nvidia-stock-hasnt-been-this-cheap-in-nearly-a-yea/",
-      "related_symbols": [
-        "NVDA",
-        "TSM"
-      ]
-    },
-    {
-      "headline": "【メガキャップ・ムーブメント】マスターカードのバリュエーション、AI懸念を差し引いても魅力的な水準に",
-      "summary": "マスターカードは、AIによる支払いシステムの破壊的リスクへの懸念から売られていたが、そのファンダメンタルズは極めて堅調である。ネットワーク収益の9%増、サービス部門の22%増は、同社の決済プラットフォームがグローバル経済で不可欠であることを示している。平均フォワードP/Eに対し約24%のディスカウントで取引されており、現在のアクティブな投資家にとって、稀有な「安全域（Margin of Safety）」を提供している。市場は短期的にはAIの脅威に敏感だが、マスターカードの持つ強力なネットワーク効果は容易に代替されるものではない。この価格評価のギャップは、割安好成長株を求める投資家にとって絶好の機会かもしれない。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 8,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879313-beyond-the-noise-why-mastercards-valuation-now-offers-a-rare-margin-of-safety",
-      "related_symbols": [
-        "VFINX",
-        "VFFSX"
-      ]
-    },
-    {
-      "headline": "【メガキャップ・ムーブメント】Visa、Pismoの成長をリードするためにベテラン役員を任命",
-      "summary": "Visaは、2024年に買収したフィンテック企業Pismoのグローバル成長を加速させるため、ベテランのレオナルド・J・コラード氏を起用した。Pismoは、銀行やフィンテック企業向けに処理ソリューションを提供する重要なインフラ企業であり、Visaの決済エコシステムにおける統合が進んでいる。今回の役員人事は、Visaが決済インフラの近代化を重要戦略と位置付けていることの表れである。競合他社がデジタル変革を急ぐ中、Visaは買収した資産を効率的に活用し、国際決済シェアを維持しようとしている。投資家は、買収企業がどれだけVisa本体にシームレスに統合され、収益貢献できるかに注目している。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 7,
-      "source": "pymnts.com",
-      "url": "https://www.pymnts.com/personnel/2026/visa-taps-veteran-leonardo-collado-to-lead-pismos-global-growth/",
-      "related_symbols": [
-        "VFINX"
-      ]
-    },
-    {
-      "headline": "【メガキャップ・ムーブメント】OpenAIのClaude提供会社に対する米政府の姿勢、アンソロピックCEOが提訴の構え",
-      "summary": "AIスタートアップであるアンソロピックは、国防総省が自社のClaudeモデルを国家安全保障上の「サプライチェーン上のリスク」と分類したことに対し、法廷で争う意向を表明した。アンソロピックのダリオ・アモデイCEOは「法的に対抗する以外の道はない」として、政府の認定の根拠を問い直す方針だ。この対立は、AI技術の国家安全保障と民間技術の自由な市場アクセスの間で生じる摩擦を象徴している。MSFTなどの大手クラウド企業がアンソロピックの製品を継続的に顧客に提供すると表明しており、テクノロジー界と政府の緊張関係が深まっている。この議論の行方は、今後の米国のAI戦略と規制のあり方を占う重要な試金石となる。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 7,
-      "source": "feeds.benzinga.com",
-      "url": "https://www.benzinga.com/markets/tech/26/03/51088389/anthropic-ceo-dario-amodei-says-no-choice-but-to-challenge-us-government-in-court-after-claude-provi",
-      "related_symbols": [
-        "MSFT",
-        "AMZN"
-      ]
-    },
-    {
-      "headline": "【メガキャップ・ムーブメント】ボーイングとエアバス、受注競争は激化するも供給網の課題がボトルネックに",
-      "summary": "航空機製造の二大巨頭、ボーイングとエアバスは受注競争を繰り広げているが、どちらも深刻な供給網の問題に直面している。ボーイングは1月に受注と納入でエアバスを上回り、61億ドルの優位を築いたが、これは在庫に依存したものであり、持続的な生産体制の確立が課題だ。一方、エアバスは部品調達の遅延による生産停滞に苦しんでいる。両社とも過去最高の受注残を抱えるものの、それを収益化するスピードが経済情勢と航空需要の回復スピードに追いついていない。投資家は、単なる受注数ではなく、安定した生産と納入能力を回復できる企業を見極めようとしている。航空セクターは長期的には強気だが、目先は供給網という不確実性に揺れている。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 7,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879205-boeing-and-airbus-deliveries-weakness-show-critical-challenge-whats-going-on",
-      "related_symbols": [
-        "AAPL"
-      ]
-    },
-    {
-      "headline": "【メガキャップ・ムーブメント】ロビンフッド、プラチナカード導入で差別化を図るも激戦の市場で苦戦か",
-      "summary": "デジタル証券ロビンフッドは、年間695ドルの年会費を持つ新たなクレジットカード「プラチナカード」を投入し、高所得者層の獲得に乗り出した。デジタル brokerageとして成長してきた同社だが、クレジットカード市場は極めて飽和しており、この戦略がどの程度収益を押し上げられるかは不透明だ。 Cathie Wood氏のARK Investが同社株を購入する一方で、WSJ等の専門家は競合他社との激しい戦いを指摘する。既存の金融機関がモバイル金融サービスを強化する中、ロビンフッドは証券以外の収益源を確保することが急務となっている。高所得層を満足させるプレミアムなUXと経済的合理性の両立が、今後の株価パフォーマンスを左右する。",
-      "category": "【メガキャップ・ムーブメント】",
-      "importance": 6,
       "source": "wsj.com",
-      "url": "https://www.wsj.com/finance/investing/how-robinhoods-new-695-a-year-credit-card-stacks-up-in-a-crowded-market-dcd354c6",
+      "url": "https://www.wsj.com/finance/investing/iran-conflict-spurs-rebound-in-u-s-borrowing-costs-dae8a3fc",
       "related_symbols": []
     },
     {
-      "headline": "【メガキャップ・ムーブメント】ストライダシス、3Dプリンティングの先駆者が直面する苦境と回復の道",
-      "summary": "3Dプリンティングの先駆者であるストライダシスは、急速に変化する製造市場の中で成長維持に苦労している。かつてのイノベーションの象徴であった同社も、現在の製造現場の自動化やAI主導の製造スタックへの適応において、苦しい舵取りを余儀なくされている。市場アナリストは、同社の現在の事業モデルが製造業のDXを本当に体現できているか懐疑的だが、一部の投資家は回復の兆しを見出している。メガキャップ銘柄ではないが、同セクター全体のダイナミクスを理解する上で重要な銘柄だ。今後のガイダンスが期待を下回れば、さらなる再評価を余儀なくされる可能性があり、投資家は成長の源泉を見直す必要がある。",
+      "headline": "【マクロ】イラン紛争で米国内の退職金引き出しが過去最高に",
+      "summary": "米国内で退職金（401k）からの「ハードシップ引き出し」が過去最高水準に達した。インフレや予期せぬ緊急支出に加え、中東紛争による経済的不安が家計を圧迫していることが要因。バンガードグループのデータによると、引き出しを行う参加者が急増しており、消費者のマインドが急速に悪化している。家計の防衛本能が高まる中で、 discretionary spending（自由裁量支出）への依存度が高い小売セクターにとっては、先行きが不透明なシグナルだ。これは雇用データと合わせ、個人消費の腰折れを示唆する重要な警鐘である。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 8,
+      "source": "foxbusiness.com",
+      "url": "https://www.foxbusiness.com/economy/americans-tap-retirement-funds-record-rates-mounting-financial-stress-takes-toll",
+      "related_symbols": []
+    },
+    {
+      "headline": "【マクロ】FRB、さらなる利下げが必要か議論が分かれる",
+      "summary": "連邦公開市場委員会（FOMC）内部で、今後の利下げ路線の継続を巡り、ハト派とタカ派の間で亀裂が深まっている。中東紛争による地政学的ショックがインフレのリスクとなる一方、経済成長の鈍化に対する懸念も根強い。一部の理事は、労働市場と経済の安定のために「利下げの継続が適切」と主張するが、インフレが再燃すればその道筋は閉ざされる。投資家にとって、FRBの反応関数が不透明であることは、ボラティリティの増大を意味する。次回の金融政策決定会合に向けた発言の一つ一つが、市場のトレンドを左右する要因となるだろう。",
+      "category": "【マクロ経済・金融政策】",
+      "importance": 7,
+      "source": "marketwatch.com",
+      "url": "https://www.marketwatch.com/story/at-a-divided-fed-doves-likely-to-rule-the-roost-and-push-for-more-rate-cuts-this-year-c4c905b9",
+      "related_symbols": []
+    },
+    {
+      "headline": "【メガキャップ】メタ、AIインフラ投資を加速させる可能性",
+      "summary": "監視対象銘柄であるMETAをはじめとするハイパースケーラー各社は、AIインフラへの投資を継続している。特にGPUの確保とデータセンターの構築に対する資本支出は、一時的な市場の懸念をよそに、中長期的な競争優位性を確保するための戦略的判断である。市場は目先の利益率低下を懸念するが、AIによる生産性向上というビジネスモデルの転換は不可逆的である。足元のハイテク株への調整局面は、強力なバランスシートを持つメガキャップにとって、長期的な投資チャンスになる可能性があるとの見方が専門家の間で浮上している。",
       "category": "【メガキャップ・ムーブメント】",
-      "importance": 6,
-      "source": "fool.com",
-      "url": "https://www.fool.com/investing/2026/03/05/stratasys-a-3d-printing-pioneer-struggling-to-find/",
-      "related_symbols": []
-    },
-    {
-      "headline": "【決算・ガイダンス速報】コストコ、第2四半期決算はデジタル成長と高い会員維持率が貢献",
-      "summary": "コストコは第2四半期決算を発表し、デジタル戦略によるオンライン売上の好調さが全体の成長を支える形となった。倉庫型小売という従来モデルの強固な基盤に加え、オンライン売上高が前年比20%超の成長を達成したことで、会員のエンゲージメントがさらに強化されている。市場予想を上回る決算内容となり、同社の高い営業レジリエンスが改めて確認された。今回のガイダンスでは、今後のインフレ環境下でも会員数が安定して推移するとの見通しが示され、投資家からの信頼が一段と厚くなっている。高まる地政学リスクの中、安定したキャッシュフローを生み出す同社はディフェンシブ銘柄としての輝きを増している。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 10,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879280-costco-wholesale-corporation-cost-q2-2026-earnings-call-transcript",
-      "related_symbols": [
-        "WMT"
-      ]
-    },
-    {
-      "headline": "【決算・ガイダンス速報】マーベル・テクノロジー、AI需要を追い風に第4四半期決算で良好な実績",
-      "summary": "マーベル・テクノロジー（MRVL）は第4四半期決算を発表し、AIインフラ需要の拡大を背景に底堅い収益成長を維持している。半導体セクター全体がボラティリティにさらされる中、同社のデータセンター向けチップ需要は、ハイパースケーラーの設備投資計画と密接に連動しており、市場の不安を打ち消す結果となった。経営陣は、AI向けの高性能チップ需要が2026年を通じて継続するとのガイダンスを提示した。投資家は、供給網の制約が緩和される中で同社が市場シェアをどれだけ伸ばせるかに注目している。マーベルは、NVIDIA以外のAI半導体選好投資家にとって、重要なポジションとなっている。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 9,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879274-marvell-technology-inc-mrvl-q4-2026-earnings-call-transcript",
-      "related_symbols": [
-        "NVDA",
-        "TSM"
-      ]
-    },
-    {
-      "headline": "【決算・ガイダンス速報】ガイドワイヤ・ソフトウェア、第2四半期決算は売上高・利益ともに予想超え",
-      "summary": "ガイドワイヤ・ソフトウェア（GWRE）は第2四半期決算を発表し、収益および利益が市場コンセンサスを上回った。同社は保険会社向け基幹システムを提供しており、DX需要の拡大が業績に大きく貢献している。今回のガイダンス引き上げは、クラウド移行サービスの需要が加速していることを示唆しており、サブスクリプション収益の安定的な積み上げが評価されている。市場のソフト系銘柄に対する懸念をよそに、同社は堅調な需要を証明した形だ。投資家は、今後も予測可能な成長を続ける同社を、保険テクノロジー分野の最有力候補としてポートフォリオの核に組み入れ続けている。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 9,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879284-guidewire-software-inc-gwre-q2-2026-earnings-call-transcript",
-      "related_symbols": []
-    },
-    {
-      "headline": "【決算・ガイダンス速報】ギャップ（Gap）、第4四半期決算は市場予想に一致し安定した業績を示す",
-      "summary": "小売大手ギャップ（GAP）の第4四半期決算は、市場予想と一致する内容となった。消費者の支出意欲が不安定な環境下で、同社は一定の利益率を確保し、ブランド戦略の再構築が進んでいることが確認された。特にデジタル販売の効率化と店舗ポートフォリオの最適化が寄与した模様である。今回のガイダンスでは、2026年度に向けた保守的かつ現実的な目標が掲げられ、投資家は同社の構造改革が順調であることを再確認した。小売セクター全体に対する警戒感が残る中、同社の業績安定性は、リスクを低減したいポートフォリオ戦略の一部として一定の価値を持っている。",
-      "category": "【決算・ガイダンス速報】",
       "importance": 8,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879278-the-gap-inc-gap-q4-2025-earnings-call-transcript",
+      "source": "investors.com",
+      "url": "https://www.investors.com/news/ai-stocks-halo-trade-microsoft-google-amazon-oracle-meta-wall-street/",
       "related_symbols": [
-        "WMT"
-      ]
-    },
-    {
-      "headline": "【決算・ガイダンス速報】サムサラ（Samsara）、第4四半期決算で堅調な成長を提示",
-      "summary": "サムサラ（IOT）は第4四半期決算を発表した。同社はコネクテッド・オペレーション・プラットフォームを提供しており、AIを活用したフリート管理機能が引き続き需要を押し上げている。決算内容は市場の期待に応えるものであり、企業が物理的なオペレーションをデジタル化するニーズが依然として高いことを示している。ガイダンスでは今後の売上成長率の見通しも示され、投資家からはクラウド系銘柄の中では比較的高い安定性が評価されている。マクロ環境の不透明感がある中、サムサラのようなB2B向けSaaS企業は、コスト削減や業務効率化のツールとしてその価値を証明し続けている。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 8,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879275-samsara-inc-iot-q4-2026-earnings-call-transcript",
-      "related_symbols": []
-    },
-    {
-      "headline": "【決算・ガイダンス速報】クラウドストライク、業績は堅調だが市場の期待には届かず慎重な声も",
-      "summary": "クラウドストライクは直近四半期で2桁の収益成長を維持し、GAAPベースでの黒字化を達成した。しかし、年率経常収益（ARR）の伸び率（前年比24%増）は以前の爆発的な成長と比較すると鈍化しており、市場はそれを「期待外れ」と捉えた可能性がある。サイバーセキュリティの需要は依然として高いが、競合環境の激化や企業のIT予算見直しが影響を及ぼしていると考えられる。投資家は、現在のARR成長率が株価のマルチプルに見合っているかを厳しく精査しており、今回の決算は「買われない理由」を増やしてしまった可能性がある。成長株としての評価を維持するには、さらに明確な成長の加速が必要だ。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 8,
-      "source": "fool.com",
-      "url": "https://www.fool.com/investing/2026/03/05/why-im-still-not-buying-crowdstrike-stock/",
-      "related_symbols": [
-        "MSFT",
-        "AMZN"
-      ]
-    },
-    {
-      "headline": "【決算・ガイダンス速報】オクタ（Okta）、強固な売上成長と利益改善でAI時代の役割を再定義",
-      "summary": "オクタ（Okta）は最新四半期において強力な売上高と利益成長を達成した。ID管理プラットフォームのリーディング企業として、同社はAI化が進む企業環境においてセキュリティとアクセスの簡素化を支える極めて重要な役割を果たしている。決算の内容は堅調であり、市場の疑念を払拭する力強いメッセージとなった。ガイダンスでも、引き続き高い収益成長が見込まれており、投資家はサイバーセキュリティとID管理をAIと組み合わせた同社の今後の拡大余地に注目している。市場のボラティリティが高い中で、このような実益を伴うIT銘柄は、投資家にとっての安全な避難先としての魅力を高めている。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 8,
-      "source": "fool.com",
-      "url": "https://www.fool.com/investing/2026/03/05/why-okta-stock-is-up-today/",
-      "related_symbols": [
+        "META",
+        "GOOG",
+        "AMZN",
         "MSFT"
       ]
     },
     {
-      "headline": "【決算・ガイダンス速報】ペトロブラス、第4四半期決算で約30億ドルの純利益を達成",
-      "summary": "ブラジルの国営石油会社ペトロブラスは、第4四半期に156億レアル（約29.6億ドル）の純利益を計上した。前年同期の170億レアルの赤字から劇的な改善を見せた形だ。国際的なエネルギー価格の変動にもかかわらず、同社はオペレーションの効率化と生産体制の最適化を推進した。今回の決算は、資源国に関連するエネルギー銘柄の底堅さを強調するものであり、投資家は同社の株主還元策と今後のキャッシュフローの安定性に注目している。中東情勢が不安定な中、供給を担う資源銘柄の重要性は改めて強調されており、ペトロブラスはその恩恵を受けるポジションにある。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 7,
-      "source": "reuters.com",
-      "url": "https://www.reuters.com/business/energy/brazils-petrobras-swings-near-3-billion-net-profit-fourth-quarter-2026-03-06/",
-      "related_symbols": []
+      "headline": "【メガキャップ】NVIDIA株価のバリュエーション、過去1年で最も割安水準に",
+      "summary": "NVDAの株価がこの1年で最も魅力的なバリュエーションに達している。市場はAIサーバー需要の飽和を懸念するものの、フォワードP/Eで見ると歴史的な割安感がある。競合他社によるHBM4メモリチップの供給開始などの懸念要素はあるものの、NVIDIAのAIチップ独占的地位は揺るぎないとの見方が強い。マクロ経済の不確実性が高い今こそ、圧倒的なキャッシュフローと市場シェアを持つNVIDIAへの選別的な買いが推奨されている。次回のガイダンスが投資家のセンチメントを反転させる鍵となるだろう。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 9,
+      "source": "fool.com",
+      "url": "https://www.fool.com/investing/2026/03/05/nvidia-stock-hasnt-been-this-cheap-in-nearly-a-yea/",
+      "related_symbols": [
+        "NVDA"
+      ]
     },
     {
-      "headline": "【決算・ガイダンス速報】ルシッド（Lucid）、車両生産計画を提示するも依然として厳しい道のり",
-      "summary": "EVメーカーのルシッド（Lucid）は、今年度の車両生産量を最大51%増加させるという計画を発表した。しかし、昨年の約100%増加と比較すると成長率は鈍化しており、市場は同社の量産能力拡大への道のりが険しいことを改めて理解した。EV市場全体が競争激化と成長率の鈍化に直面する中、ルシッドはプレミアム価格帯でのポジショニングを維持できるかが焦点となる。今回の業績発表に対する反応は慎重であり、キャッシュバーン（現金の消耗）を抑えつつ持続的な成長を実現できるのか、投資家は厳しい目を向けている。EVセクター内でも企業間格差が顕著になっており、選別投資が進行している。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 7,
+      "headline": "【メガキャップ】アマゾン、AWSを通じたAI戦略が引き続き成長の柱に",
+      "summary": "AMZNのクラウド部門であるAWSは、AIインフラとプラットフォームサービスへの投資を継続しており、収益基盤の多様化が進んでいる。中東紛争に伴う地政学的リスクやエネルギーコストの高騰が小売事業を圧迫する可能性がある中、AWSの成長が全体業績を下支えする構図は変わらない。投資家は、クラウド部門の利益率の伸びに注目しており、企業のIT投資意欲が衰えない限り、AMZNの成長ストーリーは堅固である。今回の市場調整は、むしろ強力なAWSという武器を持つ同社にとってのリバランスの機会と評価されている。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 8,
+      "source": "investors.com",
+      "url": "https://www.investors.com/market-trend/the-big-picture/nasdaq-anchors-stock-market-rebound-dow-jones-nyse-index-bullish-streak/",
+      "related_symbols": [
+        "AMZN"
+      ]
+    },
+    {
+      "headline": "【メガキャップ】TSM、AIサーバー需要の拡大と地政学リスクの狭間で",
+      "summary": "半導体受託生産の最大手TSMは、AIインフラ構築において欠かせない存在として強い需要を享受している。しかし、イラン紛争や台湾海峡を巡る緊張など、地政学的なリスクが常に株価の上値を抑える要因となっている。高い技術力と生産能力は他の追随を許さないものの、サプライチェーンの脆弱性が意識される場面も増えている。投資家は、同社の設備投資計画と中長期的な生産キャパシティの増強を注視しており、地政学的リスクが低減すれば再評価の余地が大きいとの判断が優勢である。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 8,
+      "source": "reuters.com",
+      "url": "https://www.reuters.com/business/autos-transportation/foxconn-says-iran-conflict-having-limited-impact-so-far-2026-03-06/",
+      "related_symbols": [
+        "TSM"
+      ]
+    },
+    {
+      "headline": "【メガキャップ】ソフトバンク、OpenAI投資のために400億ドルの融資を模索",
+      "summary": "ソフトバンクがChatGPTの開発元であるOpenAIへの出資を目的として、最大400億ドルの融資を検討している。この巨額の資金調達は、AI分野での主導権を握るための同社の執念ともいえる動きであり、メガキャップ・ムーブメントの中でも特に注目度が高い。投資家は、AIブームの持続可能性を評価する中で、ソフトバンクのポートフォリオ管理と債務水準のバランスを慎重に見極めている。成功すればAI革命の最大の受益者の一社となり得るが、市場環境の悪化による信用リスクの増大も懸念材料である。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 9,
+      "source": "reuters.com",
+      "url": "https://www.reuters.com/business/media-telecom/softbank-seeks-up-40-billion-loan-finance-openai-investment-bloomberg-news-2026-03-06/",
+      "related_symbols": [
+        "9984.T"
+      ]
+    },
+    {
+      "headline": "【メガキャップ】テスラ、競合他社とのEV価格競争と生産効率化の課題",
+      "summary": "TSLAは、世界的なEV価格競争の中で利益率の改善を求められている。生産台数の増加目標は発表されているものの、消費者の財布の紐が固くなる中で、プレミアムブランドとしての立ち位置をどう維持するかが焦点。マクロ経済の減速懸念が直接的に購入需要を冷やす可能性がある一方、AIロボティクス分野への投資は新たな収益源としての期待も高めている。市場は、EV事業の成熟度とAIの成長期待という二面性で同社を評価しており、今後のガイダンスにおける収益性の向上が株価のカタリストとなるだろう。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 8,
       "source": "fool.com",
-      "url": "https://www.fool.com/investing/2026/03/05/despite-production-guidance-lucid-still-has-a-long/",
+      "url": "https://www.fool.com/investing/2026/03/05/prediction-ai-robotics-will-be-a-375-billion-indus/",
       "related_symbols": [
         "TSLA"
       ]
     },
     {
-      "headline": "【決算・ガイダンス速報】メドトロニック子会社ミニメド、米国IPOで5.6億ドルを調達",
-      "summary": "医療機器メーカー大手メドトロニックの糖尿病部門であるミニメドが、米国IPOを成功させ、5.6億ドルを調達した。1株20ドルでの価格決定は、糖尿病ケア市場の成長性と同社の技術力に対する投資家の強い信頼を反映している。今回のIPOは、メドトロニック全体にとっても価値を可視化する戦略的な意義があり、親会社であるメドトロニックのポートフォリオ管理能力を示すものとなった。糖尿病患者数の増加は世界的なトレンドであり、持続的な需要が見込まれるヘルスケアセクターにおいて、ミニメドの独立は今後の医療技術セクターの再編を促す可能性がある。投資家にとって、注目すべき成長テーマの1つだ。",
-      "category": "【決算・ガイダンス速報】",
-      "importance": 7,
-      "source": "reuters.com",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/medtronics-diabetes-unit-minimed-raises-560-million-us-ipo-2026-03-06/",
+      "headline": "【メガキャップ】アップル、デジタル・サービス戦略でサービス収益を最大化",
+      "summary": "AAPLは、ハードウェアからサービス収益へとモデルをシフトさせている。特にApp Storeやサブスクリプションを通じた高利益なサービスモデルは、不安定なマクロ経済環境下での業績安定剤としての機能を果たしている。消費者の購買行動が慎重になる中でも、同社のエコシステム内での滞在時間は高く、ロイヤリティの高い顧客基盤が収益を支えている。市場は同社の次世代AIデバイス投入のインパクトを評価中であり、サービスセクターでの成長率が維持されれば、プレミアム評価が継続される見通しだ。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 8,
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/stock/news/2879775/equinix-eqix-sees-a-more-significant-dip-than-broader-market-some-facts-to-know?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6v3-2879775",
       "related_symbols": [
         "AAPL"
       ]
     },
     {
-      "headline": "【国際・地政学】イラン紛争とホルムズ海峡の閉鎖懸念が原油市場に甚大なボラティリティを招く",
-      "summary": "イラン紛争が激化する中、世界の海上原油・ガス輸送の約20%を担うホルムズ海峡が実質的に閉鎖状態にあるという事態が市場を揺るがしている。米・イスラエルによるイランへの大規模な攻撃が引き金となり、保険料の高騰や海上輸送の停止が相次いだ。エネルギー価格は急騰し、これがインフレを再加速させるという懸念が強まっている。市場は単なる短期的なショックではなく、物流の構造的な断絶を警戒している。投資家はエネルギー銘柄の利益増を期待する一方、全体の消費冷え込みを懸念しており、中東情勢の行方がFRBの政策金利と株式市場全体の方向性を決める最大の変数となっている。",
+      "headline": "【メガキャップ】ブロードコム、AI特需で第1四半期売上高が過去最高を記録",
+      "summary": "AVGOは、AIインフラ需要を背景に第1四半期の売上高が過去最高を記録した。ネットワーキング機器やカスタムチップへの強い需要が成長を牽引しており、市場のボラティリティの中でも際立つパフォーマンスを見せている。同社のポジショニングは、単なるAIハードウェアメーカーではなく、データセンターのバックボーンを支える戦略的サプライヤーとして再定義されつつある。ガイダンスも堅調であり、投資家にとっては景気敏感セクターの中での強気戦略を構築する際のコア銘柄として選好されている。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 9,
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/stock/news/2879784/buy-broadcom-stock-after-ai-fuels-record-q1-sales-positive-guidance?cid=CS-STOCKNEWSAPI-FT-stocks_in_the_news-2879784",
+      "related_symbols": [
+        "AVGO"
+      ]
+    },
+    {
+      "headline": "【メガキャップ】ウォルマート、小売セクターの防衛銘柄としての優位性",
+      "summary": "WMTは、景気減速とインフレ環境下で小売セクターにおける強力な防衛銘柄として君臨している。低価格戦略とオムニチャネルの展開により、消費者の節約志向を巧みに取り込み、シェアを拡大中である。地政学的リスクによるインフレが消費を圧迫する中、生活必需品の安定的需要は株価の下支えとなる。投資家は、同社のデジタルイノベーションと在庫管理の効率性を高く評価しており、不透明な市場環境においてリスクを低減するポートフォリオの核として機能している。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 7,
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/stock/news/2879780/gap-gap-q4-earnings-how-key-metrics-compare-to-wall-street-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|nfm-2879780",
+      "related_symbols": [
+        "WMT"
+      ]
+    },
+    {
+      "headline": "【メガキャップ】バークシャー・ハサウェイ、市場不透明下での現預金保有の戦略的価値",
+      "summary": "BRK-A/BRK-Bは、市場が不安定化する局面でその圧倒的な現預金保有高が戦略的な強みとなる。ウォーレン・バフェット氏の厳選された資本配分は、混乱期にこそ価値を発揮する。足元の地政学的緊張や市場の調整を好機と捉え、割安な資産を取得するための乾ききった弾薬（キャッシュ）を蓄えている。投資家は、同社の長期的視点と強固な財務体質に信頼を置いており、市場全体のバリュエーションが是正される局面で、どのような動きを見せるかが常に注目されている。",
+      "category": "【メガキャップ・ムーブメント】",
+      "importance": 7,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4879283-hercules-capital-vs-oxford-square-50-percent-alpha-in-17-easy-to-understand-charts",
+      "related_symbols": [
+        "BRK-A",
+        "BRK-B"
+      ]
+    },
+    {
+      "headline": "【決算】コストコ、第2四半期決算でオンライン売上高が22.6％増",
+      "summary": "COSTの第2四半期決算において、オンライン売上高が22.6％増と驚異的な成長を遂げた。CEOのロン・バクリス氏は、倉庫店舗とオンラインのシームレスな体験を強化するデジタル戦略が奏功していると説明した。会員制モデルの強さと、消費者の高い忠誠度が、厳しいマクロ経済環境下でも安定した業績を支えている。市場予想を上回る成長は、デジタル分野への投資が着実に利益に還元されていることを証明しており、同社の強固なビジネス基盤を改めて再確認させる内容となった。",
+      "category": "【決算・ガイダンス速報】",
+      "importance": 9,
+      "source": "pymnts.com",
+      "url": "https://www.pymnts.com/news/retail/2026/costco-digital-innovations-fuel-22-6-online-growth/",
+      "related_symbols": [
+        "COST"
+      ]
+    },
+    {
+      "headline": "【決算】ガイドワイア・ソフトウェア、第2四半期決算は予想を上回る好決算",
+      "summary": "GWREの第2四半期決算は、EPS 1.17ドルとなり、市場予想の0.77ドルを大きく上回った。クラウド移行の進展と損害保険業界向けのプラットフォーム需要が堅調に推移したことが背景にある。SaaSモデルへの移行が順調に進んでいることに加え、コスト規律が効いたことで利益率が改善している。市場は同社の成長性と収益性の両立を好感しており、今回の決算はソフトウェアセクター全体が調整局面にある中での強気なサプライズとなった。",
+      "category": "【決算・ガイダンス速報】",
+      "importance": 9,
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/stock/news/2879729/guidewire-software-gwre-q2-earnings-and-revenues-surpass-estimates?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_4-2879729",
+      "related_symbols": [
+        "GWRE"
+      ]
+    },
+    {
+      "headline": "【決算】マーベル・テクノロジー、第4四半期決算で堅調な成長を維持",
+      "summary": "MRVLの第4四半期決算は、データセンターおよびネットワーク需要の強さを背景に堅調に推移した。AIブームに伴うカスタムチップ需要が業績を牽引する構造は健在であり、ガイダンスも市場の期待に沿う内容となっている。競合する半導体大手と比べても、同社の技術的優位性とポートフォリオのバランスは高く評価されており、株価は市場の調整局面においても底堅い動きを見せている。決算カンファレンスコールでは、今後のデータセンター向け投資の拡大が強調され、投資家の信頼感が高まった。",
+      "category": "【決算・ガイダンス速報】",
+      "importance": 8,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4879274-marvell-technology-inc-mrvl-q4-2026-earnings-call-transcript",
+      "related_symbols": [
+        "MRVL"
+      ]
+    },
+    {
+      "headline": "【決算】ギャップ、第4四半期決算は予想と一致",
+      "summary": "GAPの第4四半期決算は、EPS 0.45ドルで市場予想と一致する結果となった。アパレル業界の価格競争が激化する中、在庫管理の効率化とブランドの再編が収益を下支えした。市場の注目は、同社の今後のガイダンスと、消費者の購買行動の変化に対する反応に集まっている。今回の決算は、不安定な消費環境下において、同社が一定の業績安定性を保っていることを示したが、今後の成長性に関しては、より積極的な戦略が求められている。",
+      "category": "【決算・ガイダンス速報】",
+      "importance": 7,
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/stock/news/2879741/gap-gap-matches-q4-earnings-estimates?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_4-2879741",
+      "related_symbols": [
+        "GAP"
+      ]
+    },
+    {
+      "headline": "【決算】サムサラ、第4四半期決算で高い成長性を再確認",
+      "summary": "IOTの第4四半期決算は、コネクテッド運用プラットフォームの需要拡大を反映し、力強い収益成長を示した。車両管理や産業用IoTデバイスを通じたデータ分析サービスの需要は、物流および産業セクターの効率化ニーズを捉えており、今後も成長の余地が大きい。市場は、同社の高い売上成長率とプラットフォーム化によるスイッチングコストの高さに注目している。今回の好決算は、市場の懸念を払拭し、同社の成長シナリオが依然として有効であることを証明する内容となった。",
+      "category": "【決算・ガイダンス速報】",
+      "importance": 8,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4879275-samsara-inc-iot-q4-2026-earnings-call-transcript",
+      "related_symbols": [
+        "IOT"
+      ]
+    },
+    {
+      "headline": "【決算】オラクル、証券クラスアクションの影響を精査",
+      "summary": "ORCLに関する証券クラスアクション調査が発表された。2025年後半にかけて発表された情報が誤解を招くものであったとの allegation（主張）が訴訟の焦点となっている。企業決算そのものとは別に、このような法的リスクは投資家にとって重大な懸念材料となり得る。特に大規模なエンタープライズ顧客を抱えるORCLにとって、ガバナンスへの不信は長期的な信頼性を損なう要因になりかねない。株価はこうした法的トラブルに対して敏感に反応しており、訴訟の帰趨が今後の株価形成において重要な変数となるだろう。",
+      "category": "【決算・ガイダンス速報】",
+      "importance": 7,
+      "source": "newsfilecorp.com",
+      "url": "https://newsfilecorp.com/release/286414/ROSEN-A-HIGHLY-RECOGNIZED-LAW-FIRM-Encourages-Oracle-Corporation-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-ORCL",
+      "related_symbols": [
+        "ORCL"
+      ]
+    },
+    {
+      "headline": "【決算】スミス・アンド・ウェッソン、第3四半期決算は安定的な業績",
+      "summary": "SWBIの第3四半期決算は、銃器需要が比較的堅調に推移し、安定した収益を計上した。同社は、季節変動や法規制の影響を受けやすい業界にありながら、効率的なコスト管理とブランド力を背景に底堅い業績を見せている。今回の決算では、供給網の回復と需要の先読みが成功していることが強調された。投資家は、同社の高配当維持能力と今後の製品ポートフォリオの拡大に注目しており、不安定な地政学リスクがある中での安定的なキャッシュフローの創出を好感している。",
+      "category": "【決算・ガイダンス速報】",
+      "importance": 6,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4879262-smith-and-wesson-brands-inc-swbi-q3-2026-earnings-call-transcript",
+      "related_symbols": [
+        "SWBI"
+      ]
+    },
+    {
+      "headline": "【決算】メドトロニック、糖尿病事業ミニメドが米国IPOで5.6億ドル調達",
+      "summary": "MDTの糖尿病事業子会社であるミニメドが米国でのIPOを実施し、5.6億ドルを調達した。1株20ドルでの価格設定は、同事業の成長期待とメドトロニックの戦略的再編を投資家が前向きに評価していることを示す。糖尿病ケア技術は、同社の長期的な成長戦略の中核であり、今回のスピンオフ・上場により事業効率と資本効率の改善が見込まれる。投資家は、独立したミニメドがどのように市場シェアを拡大していくかに注目しており、親会社MDTのバリュエーション見直しにもつながる可能性がある。",
+      "category": "【決算・ガイダンス速報】",
+      "importance": 9,
+      "source": "reuters.com",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/medtronics-diabetes-unit-minimed-raises-560-million-us-ipo-2026-03-06/",
+      "related_symbols": [
+        "MDT"
+      ]
+    },
+    {
+      "headline": "【決算】クレスコ・ラブズ、第4四半期決算は予想に沿った結果",
+      "summary": "CRLBFの第4四半期決算は、1株当たり0.02ドルの損失で市場予想と一致した。依然として成長期にある業界において、収益性の改善を模索する中で、売上高については市場予想を上回る成長を見せた。法規制の緩和と市場拡大が期待される一方、キャッシュの燃焼速度と利益転換のタイミングが最大の焦点。投資家は、今後の事業効率化がどのように利益を押し上げるかを見極めようとしており、CRLBFの今回の決算は、現状の課題を浮き彫りにしつつも成長のポテンシャルを示唆する内容だった。",
+      "category": "【決算・ガイダンス速報】",
+      "importance": 6,
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/stock/news/2879785/cresco-labs-inc-crlbf-reports-q4-loss-beats-revenue-estimates?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_4-2879785",
+      "related_symbols": [
+        "CRLBF"
+      ]
+    },
+    {
+      "headline": "【決算】トレーガー、第4四半期決算は市場予想と照らし合わせ精査中",
+      "summary": "COOKの第4四半期決算では、売上高とEPSが注目された。グリルなどのプレミアム・アウトドア・クッキング機器は、消費者の自由裁量支出の変動に影響を受けやすく、同社の決算は現在の景気循環のバロメーターとして機能している。投資家は、市場予想と昨年の実績を比較して、成長の減速感がないかを見極めようとしている。今回の決算では、コスト管理と新規顧客の獲得がバランスよく行われているかが確認の焦点となっており、アナリストの評価が二分される結果となった。",
+      "category": "【決算・ガイダンス速報】",
+      "importance": 6,
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/stock/news/2879756/traeger-cook-reports-q4-earnings-what-key-metrics-have-to-say?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|nfm-2879756",
+      "related_symbols": [
+        "COOK"
+      ]
+    },
+    {
+      "headline": "【国際】イラン紛争でエネルギー供給への懸念が拡大",
+      "summary": "米・イラン紛争の激化に伴い、世界のエネルギー供給に対する懸念が最高潮に達している。特にホルムズ海峡の機能不全は、世界の海運供給の約20％を占める原油とガスの輸送に直撃しており、価格の不安定化を招いている。米国政府は、ホルムズ海峡の航行安全を確保するための対策を模索しているが、中長期的な安定化には至っていない。このエネルギー供給網の寸断は、インフレ圧力の再燃を招き、世界経済全体に対する下押し圧力となり得る。投資家は、エネルギー価格の変動がFRBの金利政策をどれだけ歪めるかを注視している。",
       "category": "【国際・地政学】",
       "importance": 10,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4878062-iran-war-strait-of-hormuz-closure-spiking-oil-prices",
+      "source": "wsj.com",
+      "url": "https://www.wsj.com/finance/stocks/middle-east-conflict-circles-the-worlds-markets-stirring-fears-of-stalled-growth-inflation-2400b2d8",
       "related_symbols": []
     },
     {
-      "headline": "【国際・地政学】米国、インドに対してロシア産原油購入の30日間の免除を供与",
-      "summary": "イラン紛争によるエネルギー供給不安が世界中で高まる中、米国政府は世界第3位の原油輸入国であるインドに対し、ロシア産原油の購入を継続するための30日間の制裁免除を供与した。これは原油価格の急騰を少しでも抑制するための緊急措置である。米国は、中東の紛争がグローバルなインフレ圧力をさらに高めることを回避しようと躍起になっている。この措置は、米国が地政学的な目的と経済的な安定の維持の間で極めて難しいバランス調整を強いられていることを示している。今後の紛争の長期化は、各国のエネルギー政策にさらなる影響を及ぼし、地政学的な同盟関係の再編を促す可能性がある。",
+      "headline": "【国際】米国、イラン紛争の影響緩和へ向けインドにロシア産原油輸入の適用除外措置",
+      "summary": "米国政府は、世界第3位の原油輸入国であるインドに対し、制裁下にあるロシア産原油の輸入を30日間認めるとの適用除外措置を発表した。これは中東紛争によるエネルギー供給の逼迫を緩和し、原油価格の急騰を防ぐための緊急措置である。地政学的緊張がエネルギー安全保障を脅かす中、米国は友好国との連携を通じてサプライチェーンの崩壊を防ごうとしている。この措置は、エネルギー価格高騰がもたらすインフレリスクを一定程度抑制する可能性があるが、制裁の一時的な緩和という側面は慎重な議論を呼びそうだ。",
       "category": "【国際・地政学】",
       "importance": 9,
       "source": "cnbc.com",
@@ -848,17 +853,26 @@
       "related_symbols": []
     },
     {
-      "headline": "【国際・地政学】中国の経済成長目標、過去数十年間で最も低い水準に引き下げ",
-      "summary": "中国は2026年の経済成長目標を大幅に引き下げた。世界的な不確実性と貿易環境の悪化、国内のデフレ懸念を背景に、当局はより現実的な目標を選択した。この決定は、中国経済が構造転換の途上にあり、かつ世界情勢という外部要因に対して脆くなっていることを示している。中国の成長目標の低下は、資源輸出国やグローバルな製造業供給網に対して負の影響を及ぼす。市場は、中国が今後どのような景気刺激策を打ち出すのか、また貿易障壁の影響をどこまで緩和できるのかを注視している。世界第2位の経済大国が不透明な状況にあることは、世界経済の成長見通しを一段と引き下げる懸念材料となっている。",
+      "headline": "【国際】韓国株式市場が急落、エネルギーへの過度な依存がリスクに",
+      "summary": "韓国のKOSPI指数が2日間で約20％急落した。この大幅な売りは、イラン紛争に伴うエネルギー価格の上昇と、韓国経済のエネルギー輸入に対する過度な依存を背景にしている。特に半導体やハイテク株を擁する同市場にとって、製造コストの増大は margin compression（利益率の圧縮）を招き、アルゴリズム取引やマージンコールによる強制的な売却を誘発した。韓国の株式市場の混乱は、世界的なリスクオフのシグナルとなっており、投資家は同様に脆弱性を持つ他の国々の状況を警戒し始めている。",
       "category": "【国際・地政学】",
       "importance": 9,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4878939-forget-iran-south-korea-is-the-real-threat-to-markets",
+      "related_symbols": []
+    },
+    {
+      "headline": "【国際】中国、GDP成長目標を数十年ぶりの低水準に設定",
+      "summary": "中国政府が2026年の経済成長目標を4.5〜5％に設定した。これは数十年ぶりの低水準であり、世界的な経済的不確実性や国内のデフレ懸念、地政学的リスクを考慮した慎重な判断といえる。世界経済のエンジンであった中国が成長目標を引き下げたことは、グローバルな需要減退を示唆する。一方で、五カ年計画の一環として質的な成長への転換を強調しており、雇用や所得水準の安定化を目指している。市場はこの目標を「実現可能な保守的なライン」と評価しているが、世界貿易に与える影響は小さくない。",
+      "category": "【国際・地政学】",
+      "importance": 8,
       "source": "cnbc.com",
       "url": "https://www.cnbc.com/2026/03/06/china-economy-gdp-growth-target-lowest-in-decades-tariffs-deflation-.html",
       "related_symbols": []
     },
     {
-      "headline": "【国際・地政学】欧州の脆弱性、中東紛争がEUのエネルギーショックを加速",
-      "summary": "中東紛争は、欧州連合（EU）のエネルギー供給における深刻な脆弱性を改めて浮き彫りにした。欧州はロシア産のガス依存から脱却しようとしてきたが、中東産のエネルギー依存という別のボトルネックに直面している。イランを巡る紛争の影響で、特にイタリア、ドイツ、スペインの経済が停滞し、インフレ圧力が再燃するリスクが高い。エネルギー価格の急騰は、欧州の製造業の競争力を奪い、リセッション入りへの懸念を強めている。このパラドックス（戦争に参加していないが影響は直撃）は、欧州諸国の株価下落を招いており、投資家は欧州圏の成長見通しに対し極めて厳しい見方をしている。",
+      "headline": "【国際】欧州、中東の紛争が経済に与える影響は米国以上との懸念",
+      "summary": "イラン紛争は、欧州連合（EU）経済にとって米国以上に甚大なリスクとなっている。EUはエネルギー供給を中東に強く依存しており、価格急騰が直接的なインフレ増大と景気後退リスクを招いている。欧州各国の株式市場は、リスク回避の売りが加速しており、企業業績への悪影響は避けられない。特にドイツ、イタリア、スペインといった製造業中心の国々は、生産コストの増大が輸出競争力を損なう可能性を懸念している。欧州中央銀行（ECB）は、インフレ抑制のための利上げを継続するか、景気支援を優先するかの極めて困難な舵取りを迫られている。",
       "category": "【国際・地政学】",
       "importance": 8,
       "source": "seekingalpha.com",
@@ -866,62 +880,48 @@
       "related_symbols": []
     },
     {
-      "headline": "【国際・地政学】フォックスコン会長、イラン紛争の影響は限定的との見解",
-      "summary": "世界最大の電子機器受託製造業者であり、NVIDIAの重要サプライヤーであるフォックスコンの会長は、イラン紛争が自社のサプライチェーンに与える影響は現時点で限定的であると表明した。これは、ハイテク製品が原材料価格よりも複雑なサプライチェーン構造と在庫に依存していることを示唆している。しかし、紛争が長期化すれば物流や部品供給に遅延が生じるリスクは否定できない。市場はこの発言を、「技術ハードウェア製造は中東のエネルギーショックに対して、比較的耐性がある」というシグナルとして捉えており、テック銘柄のパニック売りを抑制する役割を果たした。今後、供給網の寸断リスクが顕在化するかどうかが、株価回復の分岐点となる。",
+      "headline": "【国際】米欧の年金基金がベンチャーキャピタルへの投資を拡大",
+      "summary": "2025年、米欧の年金基金によるベンチャーキャピタルへの投資額が大幅に増加した。米国だけでも92.5億ドルの投資が実行され、これは2022年以降で最高水準である。地政学的リスクの高まりやインフレ懸念の中でも、年金基金は伝統的なポートフォリオを超えた成長機会を求めて、テック系スタートアップやイノベーション企業への資金配分を積極的に拡大している。この大規模な資金移動は、リスクテイクを厭わない姿勢を示しており、AIや防衛などの先端産業における長期的成長への信頼が揺らいでいないことの証左とも言える。",
+      "category": "【国際・地政学】",
+      "importance": 7,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4879338-us-europe-pensions-increase-venture-capital-mandates",
+      "related_symbols": []
+    },
+    {
+      "headline": "【国際】フォックスコン会長、イラン紛争による電子部品供給への影響は限定的",
+      "summary": "電子機器受託製造（EMS）世界最大のフォックスコンの会長は、イラン紛争による電子部品供給への影響は現時点で限定的であると表明した。同社はNVIDIAのAIサーバー製造の鍵を握る企業であり、その動向はハイテク業界全体を左右する。サプライチェーンの重要拠点である同社が現状に落ち着きを示したことは、市場のパニック的な連想売りに対する一つの安堵材料となっている。しかし、地政学的リスクが長期化すれば物流コストや部品調達に遅延が生じるリスクは残存しており、投資家は引き続き慎重な姿勢を崩していない。",
+      "category": "【国際・地政学】",
+      "importance": 7,
+      "source": "reuters.com",
+      "url": "https://www.reuters.com/business/autos-transportation/foxconn-says-iran-conflict-having-limited-impact-so-far-2026-03-06/",
+      "related_symbols": []
+    },
+    {
+      "headline": "【国際】アントロピックCEO、米政府による「サプライチェーン・リスク」指定を不服として提訴へ",
+      "summary": "AIスタートアップのアントロピック（Anthropic）は、米国防総省が同社を国家安全保障上の「サプライチェーン・リスク」に指定したことを受け、法廷で争う姿勢を示した。同社のAIモデル「Claude」の軍事利用を巡る対立が背景にあり、政府による規制強化がAIイノベーションにブレーキをかけることへの強い反発がある。この提訴は、AI技術の国家安全保障と民間企業の自律性を巡る新たな法的な前例となる可能性がある。投資家は、政府とAI企業の対立が、AIセクター全体の規制リスクとしてどう影響するかに強い関心を寄せている。",
       "category": "【国際・地政学】",
       "importance": 8,
-      "source": "reuters.com",
-      "url": "https://www.reuters.com/business/autos-transportation/foxconn-says-iran-conflict-having-limited-impact-so-far-2026-03-06/",
-      "related_symbols": [
-        "NVDA",
-        "AAPL"
-      ]
-    },
-    {
-      "headline": "【国際・地政学】米国・ベネズエラ関係の進展、エネルギー安定化の布石か",
-      "summary": "内務長官のダグ・バーガム氏がベネズエラの指導者や石油大手（シェブロン、シェルなど）の幹部と会談し、エネルギーパートナーシップの拡大を協議した。これは、中東情勢への依存度を減らし、中国への資源依存を抑制するという戦略的意図がある。米国は、中東のエネルギー供給が危機に瀕している現在、資源を持つラテンアメリカとの関係改善を急いでいる。この外交的な動きは、将来的な原油価格の抑制に向けた戦略の一部であり、投資家にとって、特定の資源国とのパートナーシップ拡大はエネルギー市場の長期的な安定化要因として注目されている。ただし、政権交代や地域の政情不安というリスクも依然として存在する。",
-      "category": "【国際・地政学】",
-      "importance": 7,
-      "source": "foxbusiness.com",
-      "url": "https://www.foxbusiness.com/politics/burgum-says-us-venezuela-ties-moving-trump-speed-help-keep-energy-costs-down-americans",
+      "source": "feeds.benzinga.com",
+      "url": "https://www.benzinga.com/markets/tech/26/03/51088389/anthropic-ceo-dario-amodei-says-no-choice-but-to-challenge-us-government-in-court-after-claude-provi",
       "related_symbols": []
     },
     {
-      "headline": "【国際・地政学】米国、中国に対してロシアおよびイラン産原油の購入抑制を検討か",
-      "summary": "米財務省は、中国に対し、イランおよびロシアからのエネルギー輸入を削減するよう働きかけることを検討していると報じられた。中国が制裁下の国々から原油を購入することは、米国の対外戦略および制裁の効果を著しく損なわせるためである。これに応じるかどうかは中国側の判断次第だが、米中間の貿易・外交摩擦がエネルギー市場という別の舞台で高まっていることを示している。中国がこれに従わなければ、米国による追加的な制裁や外交的圧力の対象となる可能性があり、市場の緊張をさらに高めることになる。エネルギー市場の支配力を巡る米中間の駆け引きは、今後世界の投資環境において無視できないリスク要因となっていく。",
-      "category": "【国際・地政学】",
-      "importance": 7,
-      "source": "foxbusiness.com",
-      "url": "https://www.foxbusiness.com/politics/us-weighs-asking-china-curb-russian-iranian-oil-purchases",
-      "related_symbols": []
-    },
-    {
-      "headline": "【国際・地政学】プーチン大統領、欧州市場へのガス供給停止と「より有望な市場」への転換を示唆",
-      "summary": "ロシアのプーチン大統領は、欧州市場向けに供給している天然ガスの停止を検討し、今後「より有望な市場」へ注力する可能性を示唆した。これは、制裁を続ける欧州に対する圧力であり、中東紛争でエネルギー市場が逼迫している隙を突いた揺さぶりである。ロシアはアジア市場でのプレゼンス拡大を急いでおり、欧州のエネルギー依存度が高い国々にとっては、またしても供給途絶という悪夢が現実味を帯びてきた。投資家は、ロシアの動きが世界的なガス価格にどのような影響を及ぼすかを注視しており、エネルギーコストの上昇が欧州経済のさらなる停滞を招く恐れがあるとして、欧州株への投資には慎重な姿勢を強めている。",
+      "headline": "【国際】ペトロブラス、第4四半期決算で約30億ドルの純利益を計上",
+      "summary": "ブラジルの国営石油企業ペトロブラスが、第4四半期に約30億ドルの純利益を計上した。前年の赤字から見事な黒字転換を果たした背景には、世界的な原油価格の堅調な推移がある。イラン紛争によるエネルギー市場の需給逼迫が、同社のような資源メジャーにとっては収益向上要因として作用している。地政学的な緊張が世界のエネルギー価格を押し上げる中、資源国や国営石油企業への投資魅力が再認識されており、ブラジル市場に対する外国人投資家の関心が高まる一因となっている。",
       "category": "【国際・地政学】",
       "importance": 7,
       "source": "reuters.com",
-      "url": "https://www.reuters.com/business/energy/putin-suggests-russia-could-stop-supplying-gas-european-markets-now-2026-03-04/",
+      "url": "https://www.reuters.com/business/energy/brazils-petrobras-swings-near-3-billion-net-profit-fourth-quarter-2026-03-06/",
       "related_symbols": []
     },
     {
-      "headline": "【国際・地政学】韓国市場の急落、エネルギー依存とグローバルな地政学リスクを象徴",
-      "summary": "韓国市場の急落は、世界で最も熱心な投資家層を持つ市場がいかに地政学的ショックに脆弱であるかを証明した。韓国はエネルギー輸入への依存度が極めて高く、中東の紛争がエネルギー価格を押し上げると、直ちに margin compression（利益率の圧縮）が発生し、 forced liquidation（強制清算）がアルゴリズム取引を誘発する。特に半導体銘柄はグローバル需要とエネルギー供給網の両面から圧力を受けており、韓国市場のボラティリティは、世界のハイテク企業に対する間接的なシグナルとなっている。この売却の連鎖は、アジア市場全域がグローバルなリスク要因に対してどれだけ敏感に反応するかを浮き彫りにした。",
+      "headline": "【国際】米欧の政策官、中東紛争下でも「市場は弾力性がある」と分析",
+      "summary": "米国や欧州の経済専門家らは、中東紛争や地政学的緊張下でも金融市場は驚くべき弾力性を示していると分析している。軍事介入があったにもかかわらず、主要株価指数が早期に安定を取り戻す事例が多々見られる。これは市場が過去の紛争から「ショックを吸収する」術を学んでいることや、企業の収益基盤が紛争の影響を受けにくい産業への集中を進めているためである。しかし、この楽観的な見方が慢心につながれば、深刻なリスクが潜在化する可能性もあり、投資家はボラティリティの再拡大に常に備えるべきであるという警告もなされている。",
       "category": "【国際・地政学】",
       "importance": 7,
-      "source": "barrons.com",
-      "url": "https://www.barrons.com/articles/south-korea-stocks-a4846ce9",
-      "related_symbols": [
-        "TSM"
-      ]
-    },
-    {
-      "headline": "【国際・地政学】中東情勢の混乱が予測市場に波及、規制強化の議論が浮上",
-      "summary": "イラン紛争に関連する賭けが予測市場で過去最高を記録する中、情報の信憑性やインサイダー取引への懸念が高まり、規制当局による監視強化が議論されている。ブロックチェーン分析企業が怪しい動きを指摘する一方、予測市場は実際の情勢よりも先行して過激な価格形成を行うことが多く、市場の歪みを増幅させているという批判もある。投資家は、予測市場が示す将来予測が、いかに本物の経済指標から乖離しているかを理解する必要がある。地政学的緊張が続く中、情報の非対称性を突いた予測市場の活動は、機関投資家にとって警戒すべきノイズの源泉となっており、規制の導入による市場のクリーン化が急務となっている。",
-      "category": "【国際・地政学】",
-      "importance": 6,
       "source": "wsj.com",
-      "url": "https://www.wsj.com/business/media/prediction-markets-campus-e57cd19f",
+      "url": "https://www.wsj.com/finance/stocks/u-s-economic-data-boosts-global-market-sentiment-middle-east-conflict-casts-shadow-fadb6759",
       "related_symbols": []
     }
   ],
@@ -960,7 +960,7 @@
     }
   },
   "overview": {
-    "jp_overview": "直近の日本市場は、日経平均株価が55,523円台まで上昇し、堅調な推移を見せている。マクロ経済環境を俯瞰すれば、日銀による金融政策の正常化に向けた思惑が依然として燻る中、企業業績の底堅さが投資家心理を下支えしている。特に昨日の動きでは、トヨタ自動車（7203.T）やソニーグループ（6758.T）といった主力銘柄が買われ、相場全体の牽引役となった。自動車セクターは円相場の動向を注視しつつも、強固な収益基盤に対する信頼が厚い。また、半導体関連では東京エレクトロン（8035.T）が底堅さを維持し、グローバルなAI需要の取り込みに対する期待感が依然として根強いことを証明している。一方で、金融セクターは金利上昇期待から三菱UFJフィナンシャル・グループ（8306.T）などが安定した推移を見せており、ポートフォリオのディフェンシブな役割を担っている。\n\n特筆すべきはソフトバンクグループ（9984.T）の動きである。同社はOpenAIへの投資に向け400億ドル規模の借り入れを模索していると報じられており、これが将来的な成長期待として市場にポジティブな驚きを与えた。しかし、市場全体には不透明感も残る。海外の地政学的リスク、とりわけ中東情勢の緊迫化が原油価格を押し上げ、これがコストプッシュ型のインフレ懸念として日本の製造業の重石となるリスクは看過できない。インフレ下での国内企業の価格転嫁能力が、今後の株価パフォーマンスを左右する最大の変数となるだろう。今後の展望としては、日銀の政策決定会合に向けた神経質な展開が予想されるものの、企業の株主還元強化姿勢や、資本効率改善への取り組みが評価されており、下値は強固であると判断できる。個人投資家の資金流入も続いており、調整場面があれば押し目買い意欲は旺盛である。総じて、日本市場はグローバルなリスク要因に晒されつつも、内需の安定と輸出企業の競争力回復がバランスを取り、緩やかな上昇基調を維持していく公算が大きい。",
-    "us_overview": "昨晩の米国市場は、地政学的リスクの高まりと経済の不確実性を背景に、主要指数が総じて軟調に推移した。NYダウが1.6%以上の大幅安となり、S&P500やナスダックも下落を余儀なくされた。この背景には、中東情勢の悪化に伴う原油価格の高騰があり、これが市場参加者の間でスタグフレーション懸念を再燃させている。投資家心理は極めて慎重であり、安全資産とされるゴールドへの資金逃避が見られる一方、株式市場全体からはリスクオフの動きが鮮明となった。経済指標としては、間近に控える雇用統計に対する注目度が高まっており、労働市場の強弱が今後のFRBの利下げ判断を左右するという緊張感が市場を支配している。\n\nメガキャップ銘柄の動向に目を向けると、明暗が分かれている。Microsoft（MSFT）は1.3%超の上昇を見せ、AIインフラへの投資姿勢やクラウド分野の強さが評価されたが、対照的にApple（AAPL）やAlphabet（GOOG）は下落し、テックセクター内での選別色が強まった。また、Broadcom（AVGO）の大幅上昇は特筆すべき点であり、AI関連需要の根強さが個別の材料として機能したことを示している。Berkshire Hathaway（BRK-B/A）が2.6%超上昇したことは、市場の乱高下の中で保守的な銘柄への避難が始まっていることを示唆している。市場参加者の最大の関心事は、インフレの持続性と、それが企業利益をどれだけ圧迫するかという点に尽きる。特に、金利が高い状態が長引くことへの懸念は、特に新興テック企業や小規模な成長株にとって深刻な重圧となっている。今後の米国市場は、ボラティリティが高い状態が続くと見込まれる。雇用統計の結果次第では、FRBのタカ派姿勢が改めて意識され、市場の調整圧力が強まる可能性がある。一方で、企業による自社株買いやAIを通じた生産性向上のストーリーが崩れない限り、特定の優良銘柄への資金集中は続くであろう。投資家には、景気後退の兆候を慎重に読み解きつつ、バリュエーションに合理性のあるディフェンシブかつ成長性を兼ね備えた銘柄へのシフトが求められる局面と言える。"
+    "jp_overview": "直近の日本市場は、日経平均株価が55,512円台へと底堅い推移を見せる中、内外の不透明感と国内企業の構造変化が交錯する展開となりました。昨日の市場参加者のセンチメントは、総じて「警戒を伴う選別物色」に終始しており、地政学的リスクによるエネルギー価格の変動が重石となる一方で、企業側の成長戦略が好感される銘柄には資金が還流しています。\n\n主要セクター別では、自動車・金融セクターが健闘しました。トヨタ自動車（7203）が1.38%高、三菱UFJフィナンシャル・グループ（8306）も堅調な推移を示しており、特に国内金融機関は日銀の政策正常化への期待と、長期間の低金利環境からの脱却による利ざや改善期待が根強く残っています。一方、半導体関連では東京エレクトロン（8035）が0.26%高と小幅な上昇に留まっており、NVIDIAをはじめとする米国テック株のボラティリティが高い中、先行きの利益成長率に対する慎重な見方が根強いことを示唆しています。\n\n特筆すべきはソフトバンクグループ（9984）の動きです。同社はOpenAIへの大規模投資に向け、400億ドル規模の融資を模索しているとの報道がなされており、これが材料視され1.63%の上昇となりました。これは単なる金融取引の枠を超え、AIインフラへの支配的地位を確立するための戦略的布石と受け止められており、中長期的な株価形成に寄与するものと市場は見ているようです。他方、ニトリホールディングスやファーストリテイリング（9983）など、円安を背景とした恩恵やコスト管理に成功した銘柄が物色される一方、商社株の一部や一部製造業では、海外の景気後退懸念から利益確定売りも散見されます。\n\n日銀の動向に関しては、依然として市場は慎重な姿勢を崩していません。賃金と物価の好循環の持続性が確認されれば、金融政策の正常化プロセスが加速するとの観測が消えておらず、これが長期金利の押し上げ圧力となっています。今後の展望としては、米国で予定されている雇用統計などの主要経済指標の結果が、為替レートを通じて輸出関連銘柄の業績に与える影響を注視する必要があります。市場全体としては、外部環境の不確実性が高い中で、バランスシートの強固な企業や、明確な成長シナリオを保有する「個別の勝ち組」への投資選別が一段と強まるでしょう。総じて、日本株はグローバルなマクロ環境の荒波に晒されつつも、企業の自助努力と国内経済の緩やかな回復期待が相まって、底堅い水準を維持するものと判断されます。",
+    "us_overview": "昨晩の米国市場は、地政学的緊張の継続と、それに伴うエネルギー供給懸念が市場心理を冷え込ませ、主要指数は総じて軟調に推移しました。ダウ平均（^DJI）は1.61%の下落、S&P500（^GSPC）も0.56%のマイナスで引け、投資家のリスク回避姿勢が鮮明となっています。特に中東情勢の悪化を受け、原油価格の動向がインフレ再燃の火種となり、金融引き締め長期化への懸念がハイテク銘柄の重石となりました。\n\n個別銘柄の動向では、メガキャップ間の明暗が分かれました。Microsoft（MSFT）は1.35%の上昇を見せ、AIへの確固たる投資と堅調なファンダメンタルズが評価された形です。一方で、Apple（AAPL）やAlphabet（GOOG/GOOGL）は、市場全体の上値を抑える形で微減となりました。また、Broadcom（AVGO）が4.80%高と急騰しており、AI関連の半導体需要が依然として底堅いことが確認されましたが、一方でNVIDIA（NVDA）は0.16%の小幅な上昇に留まり、前週からのボラティリティに対する市場の「待ち」の姿勢が見て取れます。メモリ関連では、SamsungのHBM4生産開始がMicron Technology等の先行者優位を脅かすとの観測が強まり、市場全体としてAIハードウェアの競争激化という構造的リスクが意識され始めています。\n\n市場全体のセンチメントとしては、依然としてインフレ粘着性に対する懸念が拭えません。FRB要人によるタカ派的な発言や、今後のマクロ経済指標、特に労働市場の逼迫を示す非農業部門雇用者数（NFP）に対する注目度が高まっています。昨今の債券市場の利回り上昇も株式のバリュエーション調整を促しており、高PER銘柄への逆風は強まる傾向にあります。一方で、ゴールド価格が5,000ドルを超えて高値圏を維持している事実は、市場参加者がいかに地政学的リスクを深刻に捉え、ポートフォリオのヘッジを強化しているかを如実に物語っています。また、小売大手のWalmart（WMT）の3.52%下落など、個人消費の減速を示唆する動きも出ており、消費者の購買力や景気循環に対する懸念が投資家心理を圧迫しました。\n\n今後の見通しとして、米国市場は「インフレ低下」と「景気減速」の綱引き状態が続く見込みです。FRBが目指すソフトランディングが達成できるのか、あるいは労働市場の急冷により景気後退が不可避となるのか、この二分されたシナリオの中で市場は一進一退の攻防を続けるでしょう。特に、テック大手によるAI分野での資本支出（Capex）の収益化が遅れるようであれば、市場の期待値と現実のギャップが広がり、更なる調整局面を迎えるリスクも否定できません。プロの投資家としては、ボラティリティが常態化する環境下において、キャッシュポジションの確保とともに、強固なフリーキャッシュフローを創出できる銘柄への絞り込みが最優先課題となります。"
   }
 }
