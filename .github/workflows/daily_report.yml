@@ -8,12 +8,16 @@ on:
       - 'data/latest_report.json'
       - 'charts/**'
   schedule:
-    # Hourly baseline
+    # Hourly baseline (fallback)
     - cron: '0 * * * *'
-    - cron: '30 22 * * *' # 07:30 JST (Email delivery time)
-    # Every 15 minutes during US/JP active market ranges (approx 22:00-11:00 UTC)
-    - cron: '*/15 22-23 * * *'
-    - cron: '*/15 0-10 * * *'
+    # Email Delivery (07:30 JST)
+    - cron: '30 22 * * *'
+    # 15-min updates during Active Market Hours (JST):
+    # JP Market (TSE): 09:00-15:00 JST -> 00:00-06:00 UTC (Mon-Fri)
+    # Note: 0-5 covers 09:00-14:45, and the hourly run at 06:00 UTC captures the 15:00 JST close.
+    - cron: '*/15 0-5 * * 1-5'
+    # US Market (NYSE/NASDAQ): 22:00-06:00 JST -> 13:00-21:00 UTC (Mon-Fri)
+    - cron: '*/15 13-20 * * 1-5'
   workflow_dispatch:
 
 jobs:
