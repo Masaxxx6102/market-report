@@ -1,71 +1,71 @@
 {
-  "last_updated": "2026-03-07 04:48:33",
+  "last_updated": "2026-03-07 05:27:55",
   "quotes": {
     "NVDA": {
       "symbol": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 180.00571,
-      "change": -3.33429,
-      "changesPercentage": -1.81864,
+      "price": 177.2,
+      "change": -6.14,
+      "changesPercentage": -3.34897,
       "previousClose": 183.34,
       "yearStart": 188.85,
-      "ytdChange": -8.84429,
-      "ytdChangePercentage": -4.683235371988351
+      "ytdChange": -11.650000000000006,
+      "ytdChangePercentage": -6.1689171299973555
     },
     "AAPL": {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": 256.935,
-      "change": -3.355,
-      "changesPercentage": -1.28895,
+      "price": 256.91,
+      "change": -3.38,
+      "changesPercentage": -1.29855,
       "previousClose": 260.29,
       "yearStart": 271.01,
-      "ytdChange": -14.074999999999989,
-      "ytdChangePercentage": -5.19353529390059
+      "ytdChange": -14.099999999999966,
+      "ytdChangePercentage": -5.202760045754757
     },
     "GOOGL": {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "price": 298.5,
-      "change": -2.38,
-      "changesPercentage": -0.79101,
+      "price": 298.25,
+      "change": -2.63,
+      "changesPercentage": -0.8741,
       "previousClose": 300.88,
       "yearStart": 315.15,
-      "ytdChange": -16.649999999999977,
-      "ytdChangePercentage": -5.283198476915747
+      "ytdChange": -16.899999999999977,
+      "ytdChangePercentage": -5.362525781373942
     },
     "GOOG": {
       "symbol": "GOOG",
       "name": "Alphabet Inc.",
-      "price": 298.22,
-      "change": -2.69,
-      "changesPercentage": -0.89396,
+      "price": 298.05,
+      "change": -2.86,
+      "changesPercentage": -0.95045,
       "previousClose": 300.91,
       "yearStart": 315.32,
-      "ytdChange": -17.099999999999966,
-      "ytdChangePercentage": -5.423062285931741
+      "ytdChange": -17.269999999999982,
+      "ytdChangePercentage": -5.476975770645687
     },
     "MSFT": {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": 409.46,
-      "change": -1.22,
-      "changesPercentage": -0.29707,
+      "price": 409.65,
+      "change": -1.03,
+      "changesPercentage": -0.2508,
       "previousClose": 410.68,
       "yearStart": 472.94,
-      "ytdChange": -63.48000000000002,
-      "ytdChangePercentage": -13.42242144880958
+      "ytdChange": -63.29000000000002,
+      "ytdChangePercentage": -13.382247219520451
     },
     "AMZN": {
       "symbol": "AMZN",
       "name": "Amazon.com, Inc.",
-      "price": 213.395,
-      "change": -5.54499,
-      "changesPercentage": -2.53265,
+      "price": 213.423,
+      "change": -5.517,
+      "changesPercentage": -2.51987,
       "previousClose": 218.94,
       "yearStart": 226.5,
-      "ytdChange": -13.10499999999999,
-      "ytdChangePercentage": -5.785871964679907
+      "ytdChange": -13.076999999999998,
+      "ytdChangePercentage": -5.773509933774833
     },
     "VSMPX": {
       "symbol": "VSMPX",
@@ -103,35 +103,35 @@
     "TSM": {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
-      "price": 342.9985,
-      "change": -10.8615,
-      "changesPercentage": -3.06943,
+      "price": 338.765,
+      "change": -15.095,
+      "changesPercentage": -4.26581,
       "previousClose": 353.86,
       "yearStart": 319.61,
-      "ytdChange": 23.388499999999965,
-      "ytdChangePercentage": 7.31782484903475
+      "ytdChange": 19.154999999999973,
+      "ytdChangePercentage": 5.993241763399134
     },
     "META": {
       "symbol": "META",
       "name": "Meta Platforms, Inc.",
-      "price": 644.63,
-      "change": -15.94,
-      "changesPercentage": -2.41307,
+      "price": 642.95,
+      "change": -17.62,
+      "changesPercentage": -2.66739,
       "previousClose": 660.57,
       "yearStart": 650.41,
-      "ytdChange": -5.779999999999973,
-      "ytdChangePercentage": -0.8886702233975452
+      "ytdChange": -7.459999999999923,
+      "ytdChangePercentage": -1.1469688350424998
     },
     "AVGO": {
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "price": 336.9388,
-      "change": 4.1688,
-      "changesPercentage": 1.25276,
+      "price": 329.8483,
+      "change": -2.9217,
+      "changesPercentage": -0.87799,
       "previousClose": 332.77,
       "yearStart": 347.62,
-      "ytdChange": -10.68119999999999,
-      "ytdChangePercentage": -3.072665554340944
+      "ytdChange": -17.77170000000001,
+      "ytdChangePercentage": -5.112392842759338
     },
     "VFINX": {
       "symbol": "VFINX",
@@ -169,57 +169,57 @@
     "TSLA": {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": 398.775,
-      "change": -6.775,
-      "changesPercentage": -1.67057,
+      "price": 396.77,
+      "change": -8.78,
+      "changesPercentage": -2.16496,
       "previousClose": 405.55,
       "yearStart": 438.07,
-      "ytdChange": -39.295000000000016,
-      "ytdChangePercentage": -8.97002762115644
+      "ytdChange": -41.30000000000001,
+      "ytdChangePercentage": -9.427717031524645
     },
     "BCTK": {
       "symbol": "BCTK",
       "name": "Baron Technology ETF",
-      "price": 24.82,
-      "change": -0.1377,
-      "changesPercentage": -0.55173,
+      "price": 24.5782,
+      "change": -0.3795,
+      "changesPercentage": -1.52057,
       "previousClose": 24.9577,
       "yearStart": 25.29,
-      "ytdChange": -0.46999999999999886,
-      "ytdChangePercentage": -1.858442071965199
+      "ytdChange": -0.7118000000000002,
+      "ytdChangePercentage": -2.8145512060102815
     },
     "BRK-A": {
       "symbol": "BRK-A",
       "name": "Berkshire Hathaway Inc.",
-      "price": 747298.2,
-      "change": -3451.7,
-      "changesPercentage": -0.45977,
+      "price": 747638.5,
+      "change": -3111.4,
+      "changesPercentage": -0.41444,
       "previousClose": 750749.9,
       "yearStart": 744120,
-      "ytdChange": 3178.1999999999534,
-      "ytdChangePercentage": 0.42710853088210954
+      "ytdChange": 3518.5,
+      "ytdChangePercentage": 0.4728404020856851
     },
     "BRK-B": {
       "symbol": "BRK-B",
       "name": "Berkshire Hathaway Inc.",
-      "price": 497.8,
-      "change": -2.6,
-      "changesPercentage": -0.51958,
+      "price": 498.84,
+      "change": -1.56,
+      "changesPercentage": -0.31175,
       "previousClose": 500.4,
       "yearStart": 496.85,
-      "ytdChange": 0.9499999999999886,
-      "ytdChangePercentage": 0.19120458891013153
+      "ytdChange": 1.9899999999999523,
+      "ytdChangePercentage": 0.40052329676963916
     },
     "WMT": {
       "symbol": "WMT",
       "name": "Walmart Inc.",
-      "price": 123.27,
-      "change": -0.04,
-      "changesPercentage": -0.03243857,
+      "price": 123.22,
+      "change": -0.09,
+      "changesPercentage": -0.07298678,
       "previousClose": 123.31,
       "yearStart": 112.76,
-      "ytdChange": 10.509999999999991,
-      "ytdChangePercentage": 9.320681092586016
+      "ytdChange": 10.459999999999994,
+      "ytdChangePercentage": 9.276339127350118
     },
     "^FTSE": {
       "symbol": "^FTSE",
@@ -466,35 +466,35 @@
     "^DJI": {
       "symbol": "^DJI",
       "name": "ダウ平均",
-      "price": 47480.25,
-      "change": -474.48828125,
-      "changesPercentage": -0.9894502571720257,
+      "price": 47439.69921875,
+      "change": -515.0390625,
+      "changesPercentage": -1.074010788004607,
       "previousClose": 47954.73828125,
       "yearStart": 48382.390625,
-      "ytdChange": -902.140625,
-      "ytdChangePercentage": -1.8646053106227634
+      "ytdChange": -942.69140625,
+      "ytdChangePercentage": -1.9484184102364206
     },
     "^IXIC": {
       "symbol": "^IXIC",
       "name": "ナスダック",
-      "price": 22479.5546875,
-      "change": -269.435546875,
-      "changesPercentage": -1.184384643446142,
+      "price": 22367.40234375,
+      "change": -381.587890625,
+      "changesPercentage": -1.6773838605302107,
       "previousClose": 22748.990234375,
       "yearStart": 23235.630859375,
-      "ytdChange": -756.076171875,
-      "ytdChangePercentage": -3.2539515559137144
+      "ytdChange": -868.228515625,
+      "ytdChangePercentage": -3.7366255337745278
     },
     "^GSPC": {
       "symbol": "^GSPC",
       "name": "S&P 500",
-      "price": 6756.2099609375,
-      "change": -74.5,
-      "changesPercentage": -1.090662616712466,
+      "price": 6734.43994140625,
+      "change": -96.27001953125,
+      "changesPercentage": -1.4093706229921252,
       "previousClose": 6830.7099609375,
       "yearStart": 6858.47021484375,
-      "ytdChange": -102.26025390625,
-      "ytdChangePercentage": -1.4910067508192817
+      "ytdChange": -124.0302734375,
+      "ytdChangePercentage": -1.808424758761246
     },
     "^GDAXI": {
       "symbol": "^GDAXI",
@@ -521,138 +521,138 @@
   },
   "news": [
     {
-      "headline": "Amazon says customers can keep using Anthropic's Claude on its cloud for non-defense workloads",
-      "summary": "Amazon joined Microsoft and Google in continue to offer Anthropic's Claude AI technology to customers after the Pentagon deemed it a \"supply chain risk.\"",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/03/06/amazon-aws-anthropic-claude-pentagon-blacklist.html",
-      "related_symbols": []
-    },
-    {
-      "headline": "Blue Owl Capital Corporation II Confirms Receipt of Unsolicited Minority Tender Offer from Cox and Saba at Discount to NAV",
-      "summary": "OBDC II Shareholders are Not Required to Take Any Action NEW YORK, March 6, 2026 /PRNewswire/ -- Blue Owl Capital Corporation II (\"OBDC II\") today confirmed receipt of an unsolicited, minority tender offer from Cox Capital Partners (\"Cox\") and Saba Capital Management, L.P. (\"Saba\") for up to 8,000,000 shares of OBDC II (less than 7% of the outstanding shares).",
+      "headline": "Apollo Global Management (APO) Faces Securities Class Action Amid Questions Related to Business with Epstein - Hagens Berman",
+      "summary": "SAN FRANCISCO, March 6, 2026 /PRNewswire/ -- A securities class action lawsuit has been filed against Apollo Global Management (NYSE: APO) and certain current and former executives after blockbuster reporting by The Financial Times and CNN on previously undisclosed information about Apollo's business relationship with disgraced financier and sex offender Jeffrey Epstein. The lawsuit seeks to represent investors who purchased or otherwise acquired Apollo securities between May 10, 2021 and February 21, 2026.",
       "category": "【マーケット一般】",
       "importance": 5,
       "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/news-releases/blue-owl-capital-corporation-ii-confirms-receipt-of-unsolicited-minority-tender-offer-from-cox-and-saba-at-discount-to-nav-302707103.html",
+      "url": "https://www.prnewswire.com/news-releases/apollo-global-management-apo-faces-securities-class-action-amid-questions-related-to-business-with-epstein--hagens-berman-302707029.html",
       "related_symbols": []
     },
     {
-      "headline": "INTU Stock Rises 18.3% Post Q2 Earnings: Should You Buy or Sell?",
-      "summary": "Intuit jumps 18% after reporting Q2 beat, as revenues climb 17% y/y and EPS rises 25%, with AI-driven products and small-business demand powering its growth outlook for 2026.",
+      "headline": "Oracle and OpenAI end plans to expand Texas data center site, Bloomberg News reportS",
+      "summary": "Oracle and ​OpenAI have ‌scrapped plans ​to ​expand a flagship ⁠artificial ​intelligence data ​center in Texas after ​negotiations ​dragged over financing ‌and ⁠OpenAI's changing needs, ​Bloomberg ​News ⁠reported on ​Friday.",
       "category": "【マーケット一般】",
       "importance": 5,
-      "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880447/intu-stock-rises-18-3-post-q2-earnings-should-you-buy-or-sell?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2880447",
+      "source": "reuters.com",
+      "url": "https://www.reuters.com/business/oracle-openai-end-plans-expand-texas-data-center-site-bloomberg-news-reports-2026-03-06/",
       "related_symbols": []
     },
     {
-      "headline": "What Drove WDC Stock's Historic 490% Jump",
-      "summary": "From March 5, 2025, to March 5, 2026, Western Digital (WDC) experienced a remarkable growth in stock value due to a significant revenue increase and margin improvements driven by AI-related demand and a more efficient business structure following its split—until a 16% decline occurred as debt reductions and a major stake divestiture triggered anxiety over a wider technology sell-off.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "forbes.com",
-      "url": "https://www.forbes.com/sites/greatspeculations/2026/03/06/what-drove-wdc-stocks-historic-490-jump/",
-      "related_symbols": []
-    },
-    {
-      "headline": "S&P 500 changes are due out soon. These AI stocks could join the index.",
-      "summary": "Lumentum and Coherent have market caps of more than $40 billion, well above the threshold for S&P 500 inclusion.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "marketwatch.com",
-      "url": "https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-these-ai-stocks-could-join-the-index-ded9e245",
-      "related_symbols": []
-    },
-    {
-      "headline": "SATO Technologies Corp. Announces Private Placement for Gross Proceeds of Up To C$1.3 Million",
-      "summary": "Toronto, Ontario--(Newsfile Corp. - March 6, 2026) - SATO Technologies Corp. (TSXV: SATO) (OTCQB: CCPUF) (\"SATO\" or the \"Company\") is pleased to announce a non-brokered private placement (the \"Offering\") for aggregate gross proceeds of up to C$1,300,000, consisting of: (i) up to 14,901,960 units (the \"Units\") of the Company at a price of $0.06375 per Unit for proceeds of up to C$950,000; and (ii) up to 350 convertible debenture units (the \"Debenture Units\" and together with the Units, the \"Offered Securities\") for proceeds of up to C$350,000. Each Unit will consist of one common share (a \"Common Share\") and one common share purchase warrant (a \"Warrant\").",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "newsfilecorp.com",
-      "url": "https://www.newsfilecorp.com/release/286520/SATO-Technologies-Corp.-Announces-Private-Placement-for-Gross-Proceeds-of-Up-To-C1.3-Million",
-      "related_symbols": []
-    },
-    {
-      "headline": "Diana Shipping Increases Offer to Acquire Genco",
-      "summary": "Shipping transportation services company said Star Bulk Carriers had agreed to acquire 16 of Genco's vessels if the acquisition closes.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "wsj.com",
-      "url": "https://www.wsj.com/business/deals/diana-shipping-increases-offer-to-acquire-genco-44e660e2",
-      "related_symbols": []
-    },
-    {
-      "headline": "Data Centers Turn to Off-Grid Power, Electrification ETF Gains",
-      "summary": "Data center developers plan to reduce their reliance on utility grids by investing in onsite power for rapidly scaling facilities. The shift creates opportunities for electrification infrastructure providers as energy independence takes on new urgency.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "etftrends.com",
-      "url": "https://www.etftrends.com/etf-building-blocks-content-hub/data-centers-turn-grid-power-electrification-etf-gains/",
-      "related_symbols": []
-    },
-    {
-      "headline": "Fueling February: What Holdings Powered The NDIV ETF?",
-      "summary": "The energy sector continues to be one of the bright spots in 2026, helping the Amplify Energy & Natural Resources Covered Call ETF (NDIV) emerge as a premier vehicle for investors who are seeking to capture the upside. NDIV tracks the VettaFi Energy and Natural Resources Dividend Income Index (NDIVIPR).",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "etftrends.com",
-      "url": "https://www.etftrends.com/thematic-investing-content-hub/fueling-february-holdings-powered-ndiv-etf/",
-      "related_symbols": []
-    },
-    {
-      "headline": "Here's Why Ensign Group Shares Are Attracting Investors Now",
-      "summary": "ENSG is expanding its healthcare footprint through acquisitions and facility upgrades, supporting revenue growth and strengthening long-term demand prospects.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880445/here-s-why-ensign-group-shares-are-attracting-investors-now?cid=CS-STOCKNEWSAPI-FT-analyst_blog|rank_focused-2880445",
-      "related_symbols": []
-    },
-    {
-      "headline": "Trump admin announces $20 billion reinsurance program for oil tankers during Iran war",
-      "summary": "The U.S. International Development Finance Corporation will insure losses up to $20 billion on a rolling basis. U.S. crude oil prices have surged more than 12% Friday, toppping $90 per barrel as tanker traffic in the Persian Gulf remains at a standstill due to the Iran war.",
-      "category": "【マーケット一般】",
-      "importance": 5,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/03/06/trump-reinsurance-oil-iran-war.html",
-      "related_symbols": []
-    },
-    {
-      "headline": "Western Alliance Bancorporation (WAL) Discusses Loan Default by Counterparty and Legal Actions to Recover Losses Transcript",
-      "summary": "Western Alliance Bancorporation (WAL) Discusses Loan Default by Counterparty and Legal Actions to Recover Losses Transcript",
+      "headline": "Butterfly Network, Inc. (BFLY) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
+      "summary": "Butterfly Network, Inc. (BFLY) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
       "category": "【マーケット一般】",
       "importance": 5,
       "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4879616-western-alliance-bancorporation-wal-discusses-loan-default-by-counterparty-and-legal-actions",
+      "url": "https://seekingalpha.com/article/4879641-butterfly-network-inc-bfly-presents-at-td-cowen-46th-annual-health-care-conference-transcript",
       "related_symbols": []
     },
     {
-      "headline": "Philips Unveils Rembra CT Scanner to Speed Up Medical Imaging",
-      "summary": "PHG unveils Rembra CT scanner, delivering 106 images per second and up to 270 scans daily, helping hospitals manage heavy imaging demand and speed diagnostics.",
+      "headline": "PROCEPT BioRobotics Corporation (PRCT) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
+      "summary": "PROCEPT BioRobotics Corporation (PRCT) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
       "category": "【マーケット一般】",
       "importance": 5,
-      "source": "zacks.com",
-      "url": "https://www.zacks.com/stock/news/2880446/philips-unveils-rembra-ct-scanner-to-speed-up-medical-imaging?cid=CS-STOCKNEWSAPI-FT-analyst_blog|company_news_medical_sector-2880446",
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4879640-procept-biorobotics-corporation-prct-presents-at-td-cowen-46th-annual-health-care-conference",
       "related_symbols": []
     },
     {
-      "headline": "Atlanticus to Host Fourth Quarter 2025 Earnings Call and Webcast on March 12, 2026 at 5:00 p.m. ET",
-      "summary": "ATLANTA, March 06, 2026 (GLOBE NEWSWIRE) -- Atlanticus Holdings Corporation (NASDAQ: ATLC)  (“Atlanticus,” the “Company,” “we,” “our” or “us”), a financial technology company that enables its bank, retail and healthcare partners to offer more inclusive financial services to millions of everyday Americans, today announced that it will host a conference call and live webcast to discuss its fourth quarter and full year 2025 financial results and operating performance on Thursday, March 12, 2026 at 5:00 p.m. Eastern Time.",
+      "headline": "AbCellera Biologics Inc. (ABCL) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
+      "summary": "AbCellera Biologics Inc. (ABCL) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4879639-abcellera-biologics-inc-abcl-presents-at-td-cowen-46th-annual-health-care-conference",
+      "related_symbols": []
+    },
+    {
+      "headline": "Institutional capital scrambles for silver miners as industrial demand and eastern markets reshape global pricing",
+      "summary": "Jeremy Szafron joins Kitco News as an anchor and producer from Kitco's Vancouver bureau.  Jeremy is a seasoned journalist with a diverse background covering entertainment, current affairs and finance.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "kitco.com",
+      "url": "https://www.kitco.com/news/article/2026-03-06/institutional-capital-scrambles-silver-miners-industrial-demand-and-eastern",
+      "related_symbols": []
+    },
+    {
+      "headline": "Magnera Announces Participation at the Gabelli Funds 17th Annual Specialty Chemical Symposium",
+      "summary": "CHARLOTTE, N.C., March 06, 2026 (GLOBE NEWSWIRE) -- Magnera Corporation (NYSE: MAGN) today announced they will attend the Gabelli Funds 17th Annual Specialty Chemical Symposium in New York, NY on Thursday, March 19, 2026. Magnera EVP, Corporate Development, Investor Relations & Strategy, Robert Weilminster, will present during the conference on Thursday, March 19 at 2:00 p.m. ET. He will also host 1x1 and small group meetings with institutional investors throughout the day on Thursday, March 19, 2026.",
       "category": "【マーケット一般】",
       "importance": 5,
       "source": "globenewswire.com",
-      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251249/0/en/Atlanticus-to-Host-Fourth-Quarter-2025-Earnings-Call-and-Webcast-on-March-12-2026-at-5-00-p-m-ET.html",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251260/0/en/Magnera-Announces-Participation-at-the-Gabelli-Funds-17th-Annual-Specialty-Chemical-Symposium.html",
       "related_symbols": []
     },
     {
-      "headline": "Pershing Square Holdings, Ltd.: Notification and Public Disclosure of Transactions",
-      "summary": "LONDON--(BUSINESS WIRE)--Pershing Square Holdings, Ltd. (LN:PSH) (LN:PSHD) notes that the information set out below is provided in accordance with the requirements of Article 19(3) of the Market Abuse Regulation (EU) No 596/2014 as it forms part of UK law by virtue of the European Union (Withdrawal) Act 2018. The information below relates to the automatic purchase of PSH Public Shares by Bilge Ogut through participation in the PSH Dividend Reinvestment Programme and is provided following identi.",
+      "headline": "Driven Brands (DRVN) $800 Million Market Cap Wipeout Amid Improper Accounting, Delayed Financial Report & Pending Restatements - Hagens Berman",
+      "summary": "SAN FRANCISCO, March 6, 2026 /PRNewswire/ -- On February 25, 2026, investors in Driven Brands Holdings Inc. (NASDAQ: DRVN) saw the price of their shares crater 30%, wiping out more than $800 million of the company's market capitalization. The tumble lower was triggered by concerning news revealed in Driven's recent SEC filings, which admitted to improper accounting going back to fiscal year 2023.",
       "category": "【マーケット一般】",
       "importance": 5,
-      "source": "businesswire.com",
-      "url": "https://www.businesswire.com/news/home/20260306006958/en/Pershing-Square-Holdings-Ltd.-Notification-and-Public-Disclosure-of-Transactions/",
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/driven-brands-drvn-800-million-market-cap-wipeout-amid-improper-accounting-delayed-financial-report--pending-restatements--hagens-berman-302707018.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "Magnera Announces Participation at the 2026 Sidoti Small Cap Virtual Conference",
+      "summary": "CHARLOTTE, N.C., March 06, 2026 (GLOBE NEWSWIRE) -- Magnera Corporation (NYSE: MAGN) today announced they will attend the 2026 Sidoti Small Cap Virtual Conference.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "globenewswire.com",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3251259/0/en/Magnera-Announces-Participation-at-the-2026-Sidoti-Small-Cap-Virtual-Conference.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "Jim Cramer's Call on Marvell: ‘$1 Billion More in Sales Than Anyone Thought'",
+      "summary": "“Marvell tech had $1 billion more in sales than anyone thought. It's involved directly with the data center.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "247wallst.com",
+      "url": "https://247wallst.com/investing/2026/03/06/jim-cramers-call-on-marvell-1-billion-more-in-sales-than-anyone-thought/",
+      "related_symbols": []
+    },
+    {
+      "headline": "TGI Update: Signs LOI to Acquire XGC Corp to Build National Carbon Registries Under Paris Agreement Article 6.4",
+      "summary": "Launching Sovereign Carbon Infrastructure-as-a-Service (SCIaaS) for the Emerging Global Carbon Market MIAMI, FL AND TORONTO, ON / ACCESS Newswire / March 6, 2026 / TGI Solar Power Group, Inc. (OTC:TSPG), a diversified sustainable infrastructure and clean-energy technology holding company, today announced an update to signed a Letter of Intent (LOI) to acquire XGC Corp. XGC Corp is an Ontario-based developer of sovereign-grade carbon registry infrastructure powered by artificial intelligence, blockchain technology, and enterprise financial systems. The proposed transaction values XGC's carbon registry software platform and associated intellectual property at $1.8 million USD.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "accessnewswire.com",
+      "url": "https://www.accessnewswire.com/newsroom/en/blockchain-and-cryptocurrency/tgi-update-signs-loi-to-acquire-xgc-corp-to-build-national-carbon-reg-1144874",
+      "related_symbols": []
+    },
+    {
+      "headline": "Robinhood's venture fund, which gives investors access to private companies, tanks 11% on first day",
+      "summary": "The fund, which is trades under the ticker RVI, offers exposure to notable private companies such as financial services firm Revolut and software company Databricks. However, the launch comes during a tough time for public markets.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/03/06/robinhoods-venture-fund-which-gives-investors-access-to-private-companies-tanks-11percent-on-first-day.html",
+      "related_symbols": []
+    },
+    {
+      "headline": "Stagflation? $150 oil? Not all 401(k)s are losing money.",
+      "summary": "The problem with crises like this is that stocks and bonds can both fail.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "marketwatch.com",
+      "url": "https://www.marketwatch.com/story/stagflation-150-oil-not-all-401-k-s-are-losing-money-09c302cb",
+      "related_symbols": []
+    },
+    {
+      "headline": "Vera Therapeutics, Inc. (VERA) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
+      "summary": "Vera Therapeutics, Inc. (VERA) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4879629-vera-therapeutics-inc-vera-presents-at-td-cowen-46th-annual-health-care-conference-transcript",
+      "related_symbols": []
+    },
+    {
+      "headline": "PEGA Stock Surges on Launch of Vibe Coding Assistant in Pega Blueprint",
+      "summary": "Pegasystems shares gain momentum after the launch of the Vibe Coding assistant in Pega Blueprint, expanding AI-driven app design amid strong Pega Cloud ACV growth.",
+      "category": "【マーケット一般】",
+      "importance": 5,
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/stock/news/2880450/pega-stock-surges-on-launch-of-vibe-coding-assistant-in-pega-blueprint?cid=CS-STOCKNEWSAPI-FT-analyst_blog|company_news_tech_sector-2880450",
       "related_symbols": []
     }
   ],
