@@ -44,6 +44,7 @@ import argparse
 def main():
     parser = argparse.ArgumentParser(description="Daily Market Report")
     parser.add_argument("--schedule", action="store_true", help="Run in scheduler mode")
+    parser.add_argument("--no-email", action="store_true", help="Skip sending email")
     args = parser.parse_args()
 
     if args.schedule:
@@ -58,15 +59,15 @@ def main():
 
             if current_time == target_time and current_date != last_run_date:
                 logger.info(f"Target time {target_time} reached. Starting report generation...")
-                run_report()
+                run_report(send_email=not args.no_email)
                 last_run_date = current_date
                 logger.info("Report task finished. Waiting for next day...")
             
             time.sleep(30) # Check every 30 seconds
     else:
-        run_report()
+        run_report(send_email=not args.no_email)
 
-def run_report():
+def run_report(send_email=True):
     logger.info("Starting Daily Market Report process...")
     try:
         # Step 0: Initialize Providers
@@ -160,7 +161,7 @@ def run_report():
         if not report_path:
             logger.error("Report path is empty. Report generation might have failed internally.")
         
-        if report_path and recipients:
+        if send_email and report_path and recipients:
             logger.info(f"Attempting to send email with attachment: {report_path}")
             email_sender = GmailSender()
             success = email_sender.send_report(
@@ -173,6 +174,8 @@ def run_report():
                 logger.info("Email delivery triggered successfully.")
             else:
                 logger.error("Email delivery failed at the sender level.")
+        elif not send_email:
+            logger.info("Skipping email send as --no-email flag is set.")
         else:
             logger.warning(f"Skipping email send. Path exists: {bool(report_path)}, Recipients count: {len(recipients)}")
         

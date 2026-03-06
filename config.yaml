@@ -11,6 +11,7 @@ email:
   sender: "mitamura@forcus.inc"
   recipients:
     - "mitamura@forcus.inc"
+    - "kubota@forcus.inc"
   subject_template: "日次マーケットレポート {date}"
 
 market_cap_filters:
@@ -36,9 +37,6 @@ indices:
   - symbol: "^STOXX"
     name: "欧州STOXX"
     source: "yfinance"
-  - symbol: "^TPX"
-    name: "TOPIX"
-    source: "yfinance"
   - symbol: "^FTSE"
     name: "FTSE100"
     source: "fmp"
@@ -47,5 +45,4 @@ indices:
 organization: "Forcus株式会社"
 report_title: "Daily Market Report"
 timezone: "Asia/Tokyo"
-delivery_time: "16:42"
-
+delivery_time: "07:30"
