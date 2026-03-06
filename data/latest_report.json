@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06 22:40:45",
+  "last_updated": "2026-03-06 22:53:43",
   "quotes": {
     "NVDA": {
       "symbol": "NVDA",
@@ -224,13 +224,13 @@
     "^FTSE": {
       "symbol": "^FTSE",
       "name": "FTSE100",
-      "price": 10359.6,
-      "change": -54.34,
-      "changesPercentage": -0.5218,
+      "price": 10342.12,
+      "change": -71.82,
+      "changesPercentage": -0.68965,
       "previousClose": 10413.94,
       "yearStart": 9951.14,
-      "ytdChange": 408.46000000000095,
-      "ytdChangePercentage": 4.1046553460206665
+      "ytdChange": 390.9800000000014,
+      "ytdChangePercentage": 3.9289970797315825
     },
     "7203.T": {
       "symbol": "7203.T",
@@ -499,145 +499,145 @@
     "^GDAXI": {
       "symbol": "^GDAXI",
       "name": "DAX",
-      "price": 23653.5,
-      "change": -162.25,
-      "changesPercentage": -0.6812718474119018,
+      "price": 23637.66015625,
+      "change": -178.08984375,
+      "changesPercentage": -0.7477817988096113,
       "previousClose": 23815.75,
       "yearStart": 24539.33984375,
-      "ytdChange": -885.83984375,
-      "ytdChangePercentage": -3.609876424510325
+      "ytdChange": -901.6796875,
+      "ytdChangePercentage": -3.674425201498041
     },
     "^STOXX": {
       "symbol": "^STOXX",
       "name": "欧州STOXX",
-      "price": 600.5999755859375,
-      "change": -4.23004150390625,
-      "changesPercentage": -0.699376913245677,
+      "price": 599.8599853515625,
+      "change": -4.97003173828125,
+      "changesPercentage": -0.8217237236661459,
       "previousClose": 604.8300170898438,
       "yearStart": 601.760009765625,
-      "ytdChange": -1.1600341796875,
-      "ytdChangePercentage": -0.19277355770771692
+      "ytdChange": -1.9000244140625,
+      "ytdChangePercentage": -0.3157445465348431
     }
   },
   "news": [
     {
-      "headline": "PAR Technology: From Premium SaaS To Penalty Box, With A Clear Path Back",
-      "summary": "PAR Technology Corporation has suffered a 70% stock decline despite strong ARR and subscription grow...",
+      "headline": "Gold rallies near session highs after U.S. retail sales drop -0.2% in January",
+      "summary": "Ernest Hoffman is a Crypto and Market Reporter for Kitco News. He has over 15 years of experience as...",
+      "category": "General",
+      "importance": 5,
+      "source": "kitco.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Should Investors Buy Credo Technology Stock Post Q3 Earnings?",
+      "summary": "CRDO posts 201% jump in Q3 revenues as AI connectivity demand climbs, but stock volatility after ear...",
+      "category": "General",
+      "importance": 5,
+      "source": "zacks.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Clarivate: A Tough Operating Backdrop Ahead",
+      "summary": "Clarivate (CLVT) remains a hold as core organic growth continues to deteriorate, with no evidence of...",
       "category": "General",
       "importance": 5,
       "source": "seekingalpha.com",
       "related_symbols": []
     },
     {
-      "headline": "Solid Biosciences Announces Oversubscribed $240 Million Private Placement",
-      "summary": "CHARLESTOWN, Mass., March 06, 2026 (GLOBE NEWSWIRE) -- Solid Biosciences Inc. (Nasdaq: SLDB), a life...",
+      "headline": "New England Journal of Medicine publishes phase III ALLEGORY data showing Roche's Gazyva/Gazyvaro significantly reduces disease activity in the most common form of lupus",
+      "summary": "Basel, 06 March 2026 - Roche (SIX: RO, ROG; OTCQX: RHHBY) announced today that a detailed analysis o...",
       "category": "General",
       "importance": 5,
       "source": "globenewswire.com",
       "related_symbols": []
     },
     {
-      "headline": "Reborn Coffee Appoints Jung Jae Lim as Co-Chief Executive Officer to Strengthen Supply Chain Execution and Drive New Growth",
-      "summary": "Board-Approved Leadership Appointment Adds Deep Logistics and Operational Expertise to Accelerate En...",
+      "headline": "FIBRA Prologis Announces an Ordinary Certificate Holders Meeting",
+      "summary": "MEXICO CITY, March 6, 2026 /PRNewswire/ -- FIBRA Prologis (BMV: FIBRAPL 14), a leading owner and ope...",
       "category": "General",
       "importance": 5,
-      "source": "globenewswire.com",
+      "source": "prnewswire.com",
       "related_symbols": []
     },
     {
-      "headline": "These 3 Stocks Just Bounced From Lows — What Wall Street Thinks Comes Next",
-      "summary": "Wall Street's read on three of 2026's most volatile names—Moderna (NASDAQ: MRNA), Strategy (NASDAQ: ...",
+      "headline": "Gates Industrial: Industrial Markets May Be Stabilizing But Uncertainty Remains",
+      "summary": "Gates Industrial Corporation plc (GTES) remains rated 'Hold' due to valuation concerns and insuffici...",
+      "category": "General",
+      "importance": 5,
+      "source": "seekingalpha.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "Kuwait Cuts Oil Production as Storage Fills Up",
+      "summary": "The cuts signal a broader storage crisis that poses new risks to the global market....",
+      "category": "General",
+      "importance": 5,
+      "source": "wsj.com",
+      "related_symbols": []
+    },
+    {
+      "headline": "The 5 Safest Dividend Kings Have Raised Their Dividends for Over 50 Years",
+      "summary": "Investors love dividend stocks because they provide dependable passive income streams and an excelle...",
       "category": "General",
       "importance": 5,
       "source": "247wallst.com",
       "related_symbols": []
     },
     {
-      "headline": "SunCar Forecasting Preliminary Unaudited 2025 Revenue of $498 million, Strong Q4 Growth of 24%, Second Half 2025 Profitability, and 20% Revenue Growth in 2026",
-      "summary": "NEW YORK, March 06, 2026 (GLOBE NEWSWIRE) -- SunCar Technology Group Inc. (the \"Company\" or \"SunCar\"...",
+      "headline": "Gold prices jump as the U.S. economy loses 92k jobs",
+      "summary": "Neils Christensen has a diploma in journalism from Lethbridge College and has more than a decade of ...",
       "category": "General",
       "importance": 5,
-      "source": "globenewswire.com",
+      "source": "kitco.com",
       "related_symbols": []
     },
     {
-      "headline": "Angkor Resources Announces Closing of Evesham Oil and Gas Sale",
-      "summary": "GRANDE PRAIRIE, ALBERTA – TheNewswire - March 6, 2026 - ANGKOR RESOURCES CORP. (TSXV: ANK) (“ANGKOR”...",
+      "headline": "AtaiBeckley reports 2025 results as it eyes Q2 start for Phase 3 depression trial",
+      "summary": "AtaiBeckley Inc. (NASDAQ:ATAI, XETRA:9VC) has reported its fourth quarter and full-year 2025 financi...",
       "category": "General",
       "importance": 5,
-      "source": "thenewswire.com",
+      "source": "proactiveinvestors.com",
       "related_symbols": []
     },
     {
-      "headline": "Eightco ($ORBS) Highlights Treasury Position in Latest Update",
-      "summary": "ORBS holds nearly 10% of the current WLD supply in circulation The Company is supported by a group o...",
+      "headline": "Shell Secures Major Oil and Gas Agreements With Venezuela",
+      "summary": "SHEL expands Venezuela footprint with Dragon gas project and new partnerships, targeting first gas t...",
       "category": "General",
       "importance": 5,
-      "source": "prnewswire.com",
+      "source": "zacks.com",
       "related_symbols": []
     },
     {
-      "headline": "Servier and Day One Biopharmaceuticals announce acquisition to expand Servier's rare oncology portfolio",
-      "summary": "SURESNES, France and BRISBANE, Calif., March 06, 2026 (GLOBE NEWSWIRE) -- Servier, an independent in...",
+      "headline": "Will AbbVie's Neuroscience Segment Continue to Aid Top Line in 2026?",
+      "summary": "ABBV's neuroscience unit delivered $10.8B in 2025 and can hit $12.5B in 2026 as Vyalev gains tractio...",
       "category": "General",
       "importance": 5,
-      "source": "globenewswire.com",
+      "source": "zacks.com",
       "related_symbols": []
     },
     {
-      "headline": "DirectBooking Technology Co., Ltd. Announces Regained Compliance with Nasdaq Minimum Bid Price Requirement",
-      "summary": "DirectBooking Technology regained Nasdaq compliance as its stock closed at or above $1 for 10 straig...",
+      "headline": "BURL Stock Up 7% After Q4 Earnings Beat Estimates & Comps Up Y/Y",
+      "summary": "Burlington Stores jumps 7% after Q4 earnings and revenues top estimates, due to 4% comps growth and ...",
       "category": "General",
       "importance": 5,
-      "source": "globenewswire.com",
+      "source": "zacks.com",
       "related_symbols": []
     },
     {
-      "headline": "Liberty Live Holdings, Inc. Announces 2026 Virtual Annual Meeting of Stockholders",
-      "summary": "ENGLEWOOD, Colo.--(BUSINESS WIRE)--Liberty Live Holdings, Inc. Announces 2026 Virtual Annual Meeting...",
+      "headline": "Algonquin Power & Utilities (AQN) Tops Q4 Earnings and Revenue Estimates",
+      "summary": "Algonquin Power & Utilities (AQN) came out with quarterly earnings of $0.06 per share, beating the Z...",
       "category": "General",
       "importance": 5,
-      "source": "businesswire.com",
+      "source": "zacks.com",
       "related_symbols": []
     },
     {
-      "headline": "XTI Aerospace to Participate in 2026 Wharton Aerospace Conference on Innovation and National Security",
-      "summary": "Company Executive to Join Industry Leaders Discussing Innovation, Manufacturing Capacity and the Fut...",
-      "category": "General",
-      "importance": 5,
-      "source": "prnewswire.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Twin Vee PowerCats Set to Redefine the Offshore Adventure Day Boat Category",
-      "summary": "FORT PIERCE, FLORIDA / ACCESS Newswire / March 6, 2026 / Twin Vee PowerCats Co. (NASDAQ:VEEE),(\"Twin...",
-      "category": "General",
-      "importance": 5,
-      "source": "accessnewswire.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Carlyle Secured Lending: I Believe The Dividend Has A +50% Chance Of Being Cut In 2026",
-      "summary": "Carlyle Secured Lending (CGBD) remains a 'hold' as I anticipate further underperformance due to macr...",
+      "headline": "Oil Prices Will Dictate When This War Ends",
+      "summary": "Equity, bond, and commodity markets are under pressure as oil prices surge amid escalating geopoliti...",
       "category": "General",
       "importance": 5,
       "source": "seekingalpha.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "GoldHaven Files NI 43-101 Technical Report for the District-Scale Magno Polymetallic Project, Cassiar District, British Columbia",
-      "summary": "VANCOUVER, British Columbia, March 06, 2026 (GLOBE NEWSWIRE) -- GoldHaven Resources Corp. (\"GoldHave...",
-      "category": "General",
-      "importance": 5,
-      "source": "globenewswire.com",
-      "related_symbols": []
-    },
-    {
-      "headline": "Reliance Global Group Schedules Fourth Quarter 2025 Financial Results and Business Update Conference Call",
-      "summary": "LAKEWOOD, N.J., March 06, 2026 (GLOBE NEWSWIRE) -- Reliance Global Group, Inc. (NASDAQ: EZRA) (“Reli...",
-      "category": "General",
-      "importance": 5,
-      "source": "globenewswire.com",
       "related_symbols": []
     }
   ],
